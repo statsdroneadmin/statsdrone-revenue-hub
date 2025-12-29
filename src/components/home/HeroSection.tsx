@@ -1,7 +1,36 @@
-import { Button } from "@/components/ui/button";
+import { useEffect, useState } from "react";
 import podcastCover from "@/assets/podcast-cover.png";
 
 const HeroSection = () => {
+  const [episodeCount, setEpisodeCount] = useState<number | null>(null);
+
+  useEffect(() => {
+    const fetchEpisodeCount = async () => {
+      const RSS_FEED_URL = 'https://feeds.castplus.fm/affiliatebi';
+      const CORS_PROXIES = [
+        (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+        (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`
+      ];
+
+      for (const proxy of CORS_PROXIES) {
+        try {
+          const response = await fetch(proxy(RSS_FEED_URL));
+          if (!response.ok) continue;
+          const text = await response.text();
+          const parser = new DOMParser();
+          const xml = parser.parseFromString(text, 'text/xml');
+          const items = xml.querySelectorAll('item');
+          setEpisodeCount(items.length);
+          return;
+        } catch {
+          continue;
+        }
+      }
+    };
+
+    fetchEpisodeCount();
+  }, []);
+
   return (
     <section className="relative min-h-screen flex items-center justify-center pt-20 wave-pattern overflow-hidden">
       {/* Decorative gradient orbs */}
@@ -30,9 +59,24 @@ const HeroSection = () => {
               <span className="text-foreground">with StatsDrone Podcast</span>
             </h1>
             
-            <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0">
+            <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8">
               An Affiliate Marketing Podcast
             </p>
+            
+            <div className="flex gap-8 justify-center lg:justify-start">
+              <div className="text-center">
+                <div className="text-3xl md:text-4xl font-bold text-foreground">
+                  {episodeCount !== null ? episodeCount : '—'}
+                </div>
+                <div className="text-sm text-muted-foreground uppercase tracking-wide">Episodes</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl md:text-4xl font-bold text-foreground">
+                  101,381
+                </div>
+                <div className="text-sm text-muted-foreground uppercase tracking-wide">Downloads</div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
