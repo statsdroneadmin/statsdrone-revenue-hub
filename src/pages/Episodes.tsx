@@ -1,0 +1,321 @@
+import { useEffect, useState, useMemo } from "react";
+import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Play, Calendar, Clock, ExternalLink, Search } from "lucide-react";
+import { Skeleton } from "@/components/ui/skeleton";
+
+interface Episode {
+  title: string;
+  description: string;
+  pubDate: string;
+  duration: string;
+  link: string;
+  enclosure?: {
+    url: string;
+    type: string;
+  };
+  image?: string;
+}
+
+const Episodes = () => {
+  const [episodes, setEpisodes] = useState<Episode[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
+
+  const filteredEpisodes = useMemo(() => {
+    if (!searchQuery.trim()) return episodes;
+    const query = searchQuery.toLowerCase();
+    return episodes.filter(
+      (episode) =>
+        episode.title.toLowerCase().includes(query) ||
+        episode.description.toLowerCase().includes(query)
+    );
+  }, [episodes, searchQuery]);
+
+  useEffect(() => {
+    const fetchEpisodes = async () => {
+      try {
+        // Try multiple CORS proxies for reliability
+        const corsProxies = [
+          (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+          (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+        ];
+        
+        const feedUrl = "https://feeds.castplus.fm/affiliatebi";
+        let text = "";
+        
+        for (const proxyFn of corsProxies) {
+          try {
+            const response = await fetch(proxyFn(feedUrl));
+            if (response.ok) {
+              text = await response.text();
+              break;
+            }
+          } catch {
+            continue;
+          }
+        }
+        
+        if (!text) {
+          throw new Error("Failed to fetch episodes from all proxies");
+        }
+
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, "text/xml");
+        
+        const items = xml.querySelectorAll("item");
+        const parsedEpisodes: Episode[] = [];
+
+        items.forEach((item) => {
+          const title = item.querySelector("title")?.textContent || "";
+          const description =
+            item.querySelector("description")?.textContent || "";
+          const pubDate = item.querySelector("pubDate")?.textContent || "";
+          const link = item.querySelector("link")?.textContent || "";
+          const enclosure = item.querySelector("enclosure");
+          const duration =
+            item.querySelector("duration")?.textContent ||
+            item.getElementsByTagName("itunes:duration")[0]?.textContent ||
+            "";
+          const image =
+            item.querySelector("image")?.getAttribute("href") ||
+            item.getElementsByTagName("itunes:image")[0]?.getAttribute("href") ||
+            "";
+
+          parsedEpisodes.push({
+            title,
+            description: description.replace(/<[^>]*>/g, "").slice(0, 300),
+            pubDate,
+            duration,
+            link,
+            enclosure: enclosure
+              ? {
+                  url: enclosure.getAttribute("url") || "",
+                  type: enclosure.getAttribute("type") || "",
+                }
+              : undefined,
+            image,
+          });
+        });
+
+        setEpisodes(parsedEpisodes);
+      } catch (err) {
+        setError("Unable to load episodes. Please try again later.");
+        console.error("Error fetching RSS feed:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchEpisodes();
+  }, []);
+
+  const formatDate = (dateString: string) => {
+    try {
+      const date = new Date(dateString);
+      return date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      });
+    } catch {
+      return dateString;
+    }
+  };
+
+  const formatDuration = (duration: string) => {
+    if (!duration) return "";
+    
+    // If it's already in HH:MM:SS or MM:SS format
+    if (duration.includes(":")) {
+      return duration;
+    }
+    
+    // If it's in seconds
+    const seconds = parseInt(duration, 10);
+    if (isNaN(seconds)) return duration;
+    
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor((seconds % 3600) / 60);
+    const secs = seconds % 60;
+    
+    if (hours > 0) {
+      return `${hours}:${minutes.toString().padStart(2, "0")}:${secs
+        .toString()
+        .padStart(2, "0")}`;
+    }
+    return `${minutes}:${secs.toString().padStart(2, "0")}`;
+  };
+
+  return (
+    <div className="min-h-screen bg-background">
+      <Header />
+      <main className="pt-24 pb-20">
+        <div className="container mx-auto px-4">
+          {/* Page Header */}
+          <div className="text-center mb-12">
+            <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
+              All <span className="gradient-text">Episodes</span>
+            </h1>
+            <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
+              Explore our complete archive of episodes featuring insights on
+              revenue optimization and affiliate marketing.
+            </p>
+          </div>
+
+          {/* Search Filter */}
+          <div className="max-w-4xl mx-auto mb-8">
+            <div className="relative">
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" />
+              <Input
+                type="text"
+                placeholder="Search episodes by keyword..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="pl-12 h-12 bg-secondary/50 border-border focus:border-accent/50"
+              />
+            </div>
+            {searchQuery && (
+              <p className="text-sm text-muted-foreground mt-2">
+                Found {filteredEpisodes.length} episode{filteredEpisodes.length !== 1 ? "s" : ""}
+              </p>
+            )}
+          </div>
+
+          {/* Episodes List */}
+          <div className="max-w-4xl mx-auto">
+            {loading ? (
+              <div className="space-y-6">
+                {[...Array(5)].map((_, i) => (
+                  <div
+                    key={i}
+                    className="bg-gradient-card rounded-2xl p-6 border border-border"
+                  >
+                    <div className="flex gap-6">
+                      <Skeleton className="w-32 h-32 rounded-xl flex-shrink-0" />
+                      <div className="flex-1 space-y-3">
+                        <Skeleton className="h-6 w-3/4" />
+                        <Skeleton className="h-4 w-1/4" />
+                        <Skeleton className="h-20 w-full" />
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : error ? (
+              <div className="text-center py-20">
+                <p className="text-destructive text-lg mb-4">{error}</p>
+                <Button
+                  variant="accent"
+                  onClick={() => window.location.reload()}
+                >
+                  Try Again
+                </Button>
+              </div>
+            ) : filteredEpisodes.length === 0 ? (
+              <div className="text-center py-20">
+                <p className="text-muted-foreground text-lg">
+                  {searchQuery ? "No episodes match your search." : "No episodes found."}
+                </p>
+                {searchQuery && (
+                  <Button
+                    variant="outline"
+                    className="mt-4"
+                    onClick={() => setSearchQuery("")}
+                  >
+                    Clear Search
+                  </Button>
+                )}
+              </div>
+            ) : (
+              <div className="space-y-6">
+                {filteredEpisodes.map((episode, index) => (
+                  <article
+                    key={index}
+                    className="group bg-gradient-card rounded-2xl p-6 border border-border hover:border-accent/50 transition-all duration-300 hover:shadow-card"
+                  >
+                    <div className="flex flex-col md:flex-row gap-6">
+                      {/* Episode Image */}
+                      <div className="w-full md:w-32 h-32 bg-secondary rounded-xl flex-shrink-0 overflow-hidden">
+                        {episode.image ? (
+                          <img
+                            src={episode.image}
+                            alt={episode.title}
+                            className="w-full h-full object-cover"
+                          />
+                        ) : (
+                          <div className="w-full h-full flex items-center justify-center">
+                            <Play className="w-8 h-8 text-muted-foreground" />
+                          </div>
+                        )}
+                      </div>
+
+                      {/* Episode Content */}
+                      <div className="flex-1 min-w-0">
+                        <h2 className="font-display text-xl font-bold mb-2 group-hover:text-accent transition-colors line-clamp-2">
+                          {episode.title}
+                        </h2>
+
+                        <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground mb-3">
+                          {episode.pubDate && (
+                            <span className="flex items-center gap-1">
+                              <Calendar className="w-4 h-4" />
+                              {formatDate(episode.pubDate)}
+                            </span>
+                          )}
+                          {episode.duration && (
+                            <span className="flex items-center gap-1">
+                              <Clock className="w-4 h-4" />
+                              {formatDuration(episode.duration)}
+                            </span>
+                          )}
+                        </div>
+
+                        <p className="text-muted-foreground text-sm line-clamp-3 mb-4">
+                          {episode.description}...
+                        </p>
+
+                        <div className="flex items-center gap-3">
+                          {episode.enclosure?.url && (
+                            <Button variant="accent" size="sm" asChild>
+                              <a
+                                href={episode.enclosure.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                <Play className="w-4 h-4" />
+                                Play Episode
+                              </a>
+                            </Button>
+                          )}
+                          {episode.link && (
+                            <Button variant="outline" size="sm" asChild>
+                              <a
+                                href={episode.link}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                <ExternalLink className="w-4 h-4" />
+                                View Details
+                              </a>
+                            </Button>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            )}
+          </div>
+        </div>
+      </main>
+      <Footer />
+    </div>
+  );
+};
+
+export default Episodes;

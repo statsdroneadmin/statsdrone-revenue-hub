@@ -1,0 +1,114 @@
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+@import "@fontsource/space-grotesk/500.css";
+@import "@fontsource/space-grotesk/700.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Deep purple theme inspired by podcast cover */
+    --background: 252 47% 12%;
+    --foreground: 0 0% 98%;
+
+    --card: 252 45% 16%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 252 45% 16%;
+    --popover-foreground: 0 0% 98%;
+
+    /* Deep purple primary */
+    --primary: 252 50% 35%;
+    --primary-foreground: 0 0% 98%;
+
+    /* Lighter purple for secondary */
+    --secondary: 252 40% 25%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 252 30% 20%;
+    --muted-foreground: 252 20% 70%;
+
+    /* Orange accent from cover */
+    --accent: 20 90% 55%;
+    --accent-foreground: 0 0% 5%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 252 30% 25%;
+    --input: 252 30% 25%;
+    --ring: 20 90% 55%;
+
+    --radius: 0.75rem;
+
+    /* Custom colors */
+    --gold: 45 95% 55%;
+    --gold-foreground: 0 0% 5%;
+    --sky: 195 60% 70%;
+    --purple-glow: 252 60% 45%;
+    
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(252 50% 20%) 0%, hsl(252 55% 12%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(20 90% 55%) 0%, hsl(45 95% 55%) 100%);
+    --gradient-card: linear-gradient(180deg, hsl(252 45% 18%) 0%, hsl(252 45% 14%) 100%);
+    
+    /* Shadows */
+    --shadow-glow: 0 0 60px hsl(252 60% 45% / 0.3);
+    --shadow-accent: 0 4px 30px hsl(20 90% 55% / 0.3);
+    --shadow-card: 0 10px 40px hsl(252 50% 5% / 0.5);
+
+    --sidebar-background: 252 47% 12%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 20 90% 55%;
+    --sidebar-primary-foreground: 0 0% 5%;
+    --sidebar-accent: 252 40% 25%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 252 30% 25%;
+    --sidebar-ring: 20 90% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+}
+
+@layer components {
+  .wave-pattern {
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' viewBox='0 0 100 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M21.184 20c.357-.13.72-.264 1.088-.402l1.768-.661C33.64 15.347 39.647 14 50 14c10.271 0 15.362 1.222 24.629 4.928.955.383 1.869.74 2.75 1.072h6.225c-2.51-.73-5.139-1.691-8.233-2.928C65.888 13.278 60.562 12 50 12c-10.626 0-16.855 1.397-26.66 5.063l-1.767.662c-2.475.923-4.66 1.674-6.724 2.275h6.335zm0-20C13.258 2.892 8.077 4 0 4V2c5.744 0 9.951-.574 14.85-2h6.334zM77.38 0C85.239 2.966 90.502 4 100 4V2c-6.842 0-11.386-.542-16.396-2h-6.225zM0 14c8.44 0 13.718-1.21 22.272-4.402l1.768-.661C33.64 5.347 39.647 4 50 4c10.271 0 15.362 1.222 24.629 4.928C84.112 12.722 89.438 14 100 14v-2c-10.271 0-15.362-1.222-24.629-4.928C65.888 3.278 60.562 2 50 2 39.374 2 33.145 3.397 23.34 7.063l-1.767.662C13.223 10.84 8.163 12 0 12v2z' fill='%23ffffff' fill-opacity='0.03' fill-rule='evenodd'/%3E%3C/svg%3E");
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-accent);
+  }
+}
+
+@layer utilities {
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+
+  .animate-pulse-slow {
+    animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+}
