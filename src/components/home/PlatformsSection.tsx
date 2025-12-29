@@ -47,6 +47,14 @@ const PlatformsSection = () => {
                   Contact <a href="https://www.linkedin.com/in/alwayslookright/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">John Wright</a> via LinkedIn. Just keep in mind that we usually seek out guests and rarely accept requests.
                 </AccordionContent>
               </AccordionItem>
+              <AccordionItem value="item-4" className="border-border/50">
+                <AccordionTrigger className="text-left hover:no-underline">
+                  How can I become a sponsor or advertise?
+                </AccordionTrigger>
+                <AccordionContent className="text-muted-foreground">
+                  Contact <a href="https://www.linkedin.com/in/alwayslookright/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">John Wright</a> for rates and how you can also become a marketing partner with our podcast.
+                </AccordionContent>
+              </AccordionItem>
             </Accordion>
           </div>
         </div>
