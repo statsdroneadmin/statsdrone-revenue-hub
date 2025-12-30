@@ -10,21 +10,29 @@ const platforms = [
     name: "MyAffiliates",
     url: "https://myaffiliates.com",
     logo: myaffiliatesLogo,
+    programsUrl: "https://statsdrone.com/affiliate-software/myaffiliates/",
+    programsText: "MyAffiliates affiliate programs",
   },
   {
     name: "RavenTrack",
     url: "https://www.raventrack.com/",
     logo: raventrackLogo,
+    programsUrl: "https://statsdrone.com/affiliate-software/raventrack/",
+    programsText: "RavenTrack affiliate programs",
   },
   {
     name: "Affilka",
     url: "https://affilka.com/",
     logo: affilkaLogo,
+    programsUrl: "https://statsdrone.com/affiliate-software/affilka/",
+    programsText: "Affilka affiliate programs",
   },
   {
     name: "ReferOn",
     url: "https://referon.com/",
     logo: referonLogo,
+    programsUrl: "https://statsdrone.com/affiliate-software/referon/",
+    programsText: "ReferOn affiliate programs",
   },
 ];
 
@@ -46,7 +54,7 @@ const AffiliatePlatformsSection = () => {
             >
               <Card className="h-full bg-secondary/30 border-border hover:border-accent/50 hover:bg-secondary/50 transition-all duration-300 hover:shadow-lg hover:shadow-accent/10">
                 <CardContent className="p-6 flex flex-col gap-4">
-                  <div className="w-12 h-12 rounded-[8px] overflow-hidden">
+                  <div className="w-24 h-24 rounded-[8px] overflow-hidden">
                     <img
                       src={platform.logo}
                       alt={platform.name}
@@ -59,6 +67,15 @@ const AffiliatePlatformsSection = () => {
                     </h3>
                     <ExternalLink className="w-4 h-4 text-muted-foreground group-hover:text-accent transition-colors" />
                   </div>
+                  <a
+                    href={platform.programsUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm text-accent hover:text-accent/80 hover:underline transition-colors"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    {platform.programsText}
+                  </a>
                 </CardContent>
               </Card>
             </a>
