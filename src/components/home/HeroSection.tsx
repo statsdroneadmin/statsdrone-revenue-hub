@@ -1,11 +1,27 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import podcastCover from "@/assets/podcast-cover.png";
+import { generateSlug } from "@/lib/episodeUtils";
+
+interface LatestEpisode {
+  title: string;
+  pubDate: string;
+  slug: string;
+}
 
 const HeroSection = () => {
   const [episodeCount, setEpisodeCount] = useState<number | null>(null);
+  const [latestEpisode, setLatestEpisode] = useState<LatestEpisode | null>(null);
+
+  const getDaysAgo = (dateString: string): number => {
+    const pubDate = new Date(dateString);
+    const now = new Date();
+    const diffTime = Math.abs(now.getTime() - pubDate.getTime());
+    return Math.floor(diffTime / (1000 * 60 * 60 * 24));
+  };
 
   useEffect(() => {
-    const fetchEpisodeCount = async () => {
+    const fetchEpisodeData = async () => {
       const RSS_FEED_URL = 'https://feeds.castplus.fm/affiliatebi';
       const CORS_PROXIES = [
         (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
@@ -21,6 +37,18 @@ const HeroSection = () => {
           const xml = parser.parseFromString(text, 'text/xml');
           const items = xml.querySelectorAll('item');
           setEpisodeCount(items.length);
+          
+          // Get latest episode
+          if (items.length > 0) {
+            const firstItem = items[0];
+            const title = firstItem.querySelector('title')?.textContent || '';
+            const pubDate = firstItem.querySelector('pubDate')?.textContent || '';
+            setLatestEpisode({
+              title,
+              pubDate,
+              slug: generateSlug(title),
+            });
+          }
           return;
         } catch {
           continue;
@@ -28,7 +56,7 @@ const HeroSection = () => {
       }
     };
 
-    fetchEpisodeCount();
+    fetchEpisodeData();
   }, []);
 
   return (
@@ -77,6 +105,25 @@ const HeroSection = () => {
                 <div className="text-sm text-muted-foreground uppercase tracking-wide">Downloads</div>
               </div>
             </div>
+            
+            {latestEpisode && (
+              <Link
+                to={`/${latestEpisode.slug}`}
+                className="inline-flex flex-col gap-1 mt-6 p-4 rounded-xl bg-secondary/30 border border-border hover:border-accent/50 hover:bg-secondary/50 transition-all duration-300 max-w-xl mx-auto lg:mx-0"
+              >
+                <span className="text-xs text-muted-foreground uppercase tracking-wide">Latest Episode</span>
+                <span className="text-foreground font-medium hover:text-accent transition-colors line-clamp-2">
+                  {latestEpisode.title}
+                </span>
+                <span className="text-sm text-accent">
+                  {getDaysAgo(latestEpisode.pubDate) === 0 
+                    ? 'Published today' 
+                    : getDaysAgo(latestEpisode.pubDate) === 1 
+                      ? 'Published 1 day ago'
+                      : `Published ${getDaysAgo(latestEpisode.pubDate)} days ago`}
+                </span>
+              </Link>
+            )}
           </div>
         </div>
       </div>
