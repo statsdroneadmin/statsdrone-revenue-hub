@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import Episodes from "./pages/Episodes";
 import EpisodeDetail from "./pages/EpisodeDetail";
+import AffiliateTools from "./pages/AffiliateTools";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -19,6 +20,7 @@ const App = () => (
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/episodes" element={<Episodes />} />
+          <Route path="/affiliate-tools" element={<AffiliateTools />} />
           <Route path="/:slug" element={<EpisodeDetail />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
