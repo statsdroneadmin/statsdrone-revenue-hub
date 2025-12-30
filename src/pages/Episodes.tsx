@@ -1,23 +1,18 @@
 import { useEffect, useState, useMemo } from "react";
+import { Link } from "react-router-dom";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Play, Calendar, Clock, ExternalLink, Search } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
-
-interface Episode {
-  title: string;
-  description: string;
-  pubDate: string;
-  duration: string;
-  link: string;
-  enclosure?: {
-    url: string;
-    type: string;
-  };
-  image?: string;
-}
+import { 
+  Episode, 
+  fetchEpisodes, 
+  generateSlug, 
+  formatDate, 
+  formatDuration 
+} from "@/lib/episodeUtils";
 
 const Episodes = () => {
   const [episodes, setEpisodes] = useState<Episode[]>([]);
@@ -36,72 +31,15 @@ const Episodes = () => {
   }, [episodes, searchQuery]);
 
   useEffect(() => {
-    const fetchEpisodes = async () => {
+    const loadEpisodes = async () => {
       try {
-        // Try multiple CORS proxies for reliability
-        const corsProxies = [
-          (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
-          (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-        ];
-        
-        const feedUrl = "https://feeds.castplus.fm/affiliatebi";
-        let text = "";
-        
-        for (const proxyFn of corsProxies) {
-          try {
-            const response = await fetch(proxyFn(feedUrl));
-            if (response.ok) {
-              text = await response.text();
-              break;
-            }
-          } catch {
-            continue;
-          }
-        }
-        
-        if (!text) {
-          throw new Error("Failed to fetch episodes from all proxies");
-        }
-
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, "text/xml");
-        
-        const items = xml.querySelectorAll("item");
-        const parsedEpisodes: Episode[] = [];
-
-        items.forEach((item) => {
-          const title = item.querySelector("title")?.textContent || "";
-          const description =
-            item.querySelector("description")?.textContent || "";
-          const pubDate = item.querySelector("pubDate")?.textContent || "";
-          const link = item.querySelector("link")?.textContent || "";
-          const enclosure = item.querySelector("enclosure");
-          const duration =
-            item.querySelector("duration")?.textContent ||
-            item.getElementsByTagName("itunes:duration")[0]?.textContent ||
-            "";
-          const image =
-            item.querySelector("image")?.getAttribute("href") ||
-            item.getElementsByTagName("itunes:image")[0]?.getAttribute("href") ||
-            "";
-
-          parsedEpisodes.push({
-            title,
-            description: description.replace(/<[^>]*>/g, "").slice(0, 300),
-            pubDate,
-            duration,
-            link,
-            enclosure: enclosure
-              ? {
-                  url: enclosure.getAttribute("url") || "",
-                  type: enclosure.getAttribute("type") || "",
-                }
-              : undefined,
-            image,
-          });
-        });
-
-        setEpisodes(parsedEpisodes);
+        const data = await fetchEpisodes();
+        // Truncate description for listings
+        const truncatedEpisodes = data.map(ep => ({
+          ...ep,
+          description: ep.description.slice(0, 300)
+        }));
+        setEpisodes(truncatedEpisodes);
       } catch (err) {
         setError("Unable to load episodes. Please try again later.");
         console.error("Error fetching RSS feed:", err);
@@ -110,45 +48,8 @@ const Episodes = () => {
       }
     };
 
-    fetchEpisodes();
+    loadEpisodes();
   }, []);
-
-  const formatDate = (dateString: string) => {
-    try {
-      const date = new Date(dateString);
-      return date.toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-      });
-    } catch {
-      return dateString;
-    }
-  };
-
-  const formatDuration = (duration: string) => {
-    if (!duration) return "";
-    
-    // If it's already in HH:MM:SS or MM:SS format
-    if (duration.includes(":")) {
-      return duration;
-    }
-    
-    // If it's in seconds
-    const seconds = parseInt(duration, 10);
-    if (isNaN(seconds)) return duration;
-    
-    const hours = Math.floor(seconds / 3600);
-    const minutes = Math.floor((seconds % 3600) / 60);
-    const secs = seconds % 60;
-    
-    if (hours > 0) {
-      return `${hours}:${minutes.toString().padStart(2, "0")}:${secs
-        .toString()
-        .padStart(2, "0")}`;
-    }
-    return `${minutes}:${secs.toString().padStart(2, "0")}`;
-  };
 
   return (
     <div className="min-h-screen bg-background">
@@ -239,7 +140,10 @@ const Episodes = () => {
                   >
                     <div className="flex flex-col md:flex-row gap-6">
                       {/* Episode Image */}
-                      <div className="w-full md:w-32 h-32 bg-secondary rounded-xl flex-shrink-0 overflow-hidden">
+                      <Link 
+                        to={`/${generateSlug(episode.title)}`}
+                        className="w-full md:w-32 aspect-square md:aspect-auto md:h-32 bg-secondary rounded-xl flex-shrink-0 overflow-hidden"
+                      >
                         {episode.image ? (
                           <img
                             src={episode.image}
@@ -251,7 +155,7 @@ const Episodes = () => {
                             <Play className="w-8 h-8 text-muted-foreground" />
                           </div>
                         )}
-                      </div>
+                      </Link>
 
                       {/* Episode Content */}
                       <div className="flex-1 min-w-0">
@@ -291,18 +195,12 @@ const Episodes = () => {
                               </a>
                             </Button>
                           )}
-                          {episode.link && (
-                            <Button variant="outline" size="sm" asChild>
-                              <a
-                                href={episode.link}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                              >
-                                <ExternalLink className="w-4 h-4" />
-                                View Details
-                              </a>
-                            </Button>
-                          )}
+                          <Button variant="outline" size="sm" asChild>
+                            <Link to={`/${generateSlug(episode.title)}`}>
+                              <ExternalLink className="w-4 h-4" />
+                              View Details
+                            </Link>
+                          </Button>
                         </div>
                       </div>
                     </div>
