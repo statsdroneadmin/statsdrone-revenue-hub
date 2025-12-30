@@ -46,11 +46,11 @@ const AffiliatePlatformsSection = () => {
             >
               <Card className="h-full bg-secondary/30 border-border hover:border-accent/50 hover:bg-secondary/50 transition-all duration-300 hover:shadow-lg hover:shadow-accent/10">
                 <CardContent className="p-6 flex flex-col gap-4">
-                  <div className="w-12 h-12 rounded-lg bg-background/80 flex items-center justify-center overflow-hidden">
+                  <div className="w-12 h-12 rounded-[8px] overflow-hidden">
                     <img
                       src={platform.logo}
                       alt={platform.name}
-                      className="w-10 h-10 object-contain"
+                      className="w-full h-full object-cover"
                     />
                   </div>
                   <div className="flex items-center justify-between">
