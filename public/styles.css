@@ -466,7 +466,8 @@ a {
 @media (max-width: 768px) {
   .episode-image {
     width: 100%;
-    height: 200px;
+    aspect-ratio: 1 / 1;
+    height: auto;
     margin-bottom: 1rem;
   }
 }
