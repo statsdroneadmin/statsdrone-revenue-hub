@@ -10,19 +10,19 @@ const affiliateTools = [
     url: "https://lovable.dev/?via=statsdrone",
   },
   {
-    name: "Coming Soon",
-    description: "More tools coming",
-    url: "#",
+    name: "StatsDrone",
+    description: "Advanced tracking for affiliates with postbacks & dynamic variables.",
+    url: "https://statsdrone.com",
   },
   {
-    name: "Coming Soon",
-    description: "More tools coming",
-    url: "#",
+    name: "Affiliate Track",
+    description: "Your affiliate link research tool.",
+    url: "https://affiliatetrack.io",
   },
   {
-    name: "Coming Soon",
-    description: "More tools coming",
-    url: "#",
+    name: "Voluum",
+    description: "Advanced link tracking for big affiliates & PPC",
+    url: "https://voluum.com/partner/statsdrone/?utm_source=statsdrone&utm_medium=content&utm_content=podcast",
   },
 ];
 
@@ -43,7 +43,6 @@ const AffiliateTools = () => {
                 href={tool.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className={tool.url === "#" ? "pointer-events-none" : ""}
               >
                 <Card className="h-full bg-secondary/30 border-border hover:border-accent/50 hover:bg-secondary/50 transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-accent/10">
                   <CardContent className="p-6 flex flex-col items-center text-center gap-3">
@@ -53,9 +52,7 @@ const AffiliateTools = () => {
                     <p className="text-muted-foreground text-sm">
                       {tool.description}
                     </p>
-                    {tool.url !== "#" && (
-                      <ExternalLink className="w-4 h-4 text-accent mt-2" />
-                    )}
+                    <ExternalLink className="w-4 h-4 text-accent mt-2" />
                   </CardContent>
                 </Card>
               </a>
