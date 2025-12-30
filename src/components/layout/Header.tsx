@@ -31,6 +31,7 @@ const Header = () => {
   const navLinks = [
     { to: "/", label: "Home" },
     { to: "/episodes", label: "Episodes" },
+    { to: "/affiliate-tools", label: "Affiliate Tools" },
   ];
 
   return (
