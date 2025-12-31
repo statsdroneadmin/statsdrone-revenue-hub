@@ -35,7 +35,7 @@ const MadeWithLovable = () => {
             />
 
             <p className="text-lg text-muted-foreground mb-8">
-              I started with <LovableLink>Lovable</LovableLink> in one browser and Claude.ai in another and asked for them to design my podcast website. <LovableLink>Lovable</LovableLink> I find usually creates better designs so I went with <LovableLink>Lovable</LovableLink> although I was intending to build and update using <LovableLink>Lovable</LovableLink>.
+              I started with <LovableLink>Lovable</LovableLink> in one browser and Claude.ai in another and asked for them to design my podcast website. Lovable I find usually creates better designs so I went with Lovable although I was intending to build and update using Lovable.
             </p>
 
             <h2 className="text-2xl font-bold text-foreground mt-12 mb-6">
@@ -43,7 +43,7 @@ const MadeWithLovable = () => {
             </h2>
 
             <ol className="list-decimal list-inside space-y-3 text-lg text-muted-foreground mb-8">
-              <li><LovableLink>Lovable</LovableLink> for the design</li>
+              <li>Lovable for the design</li>
               <li>Cloned the site for CSS &amp; HTML</li>
               <li>Connected with Github</li>
               <li>Configured with Cloudflare</li>
