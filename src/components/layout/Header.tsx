@@ -32,6 +32,7 @@ const Header = () => {
     { to: "/", label: "Home" },
     { to: "/episodes", label: "Episodes" },
     { to: "/affiliate-tools", label: "Affiliate Tools" },
+    { to: "/made-with-lovable", label: "Made with Lovable" },
   ];
 
   return (
