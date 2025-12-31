@@ -81,15 +81,9 @@ const HeroSection = () => {
 
           {/* Content */}
           <div className="flex-1 text-center lg:text-left">
-            <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              <span className="gradient-text">Revenue Optimization</span>
-              <br />
-              <span className="text-foreground">with StatsDrone Podcast</span>
+            <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-8">
+              <span className="gradient-text">Where affiliate marketing uses data, SEO, and AI to win</span>
             </h1>
-            
-            <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0 mb-8">
-              An Affiliate Marketing Podcast
-            </p>
             
             <div className="flex gap-8 justify-center lg:justify-start">
               <div className="text-center">
