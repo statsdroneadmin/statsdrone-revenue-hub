@@ -3,29 +3,34 @@
   <!-- Static Pages -->
   <url>
     <loc>https://revenueoptimization.io/</loc>
+    <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/episodes</loc>
+    <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  
-  <!-- Episode Pages - These are dynamically generated from the RSS feed -->
-  <!-- To keep this sitemap updated with all episodes, you can either: -->
-  <!-- 1. Enable Lovable Cloud to create an edge function that generates this dynamically -->
-  <!-- 2. Manually add new episode URLs when publishing new episodes -->
-  
-  <!-- Recent Episodes (add more as needed) -->
   <url>
-    <loc>https://revenueoptimization.io/replacing-tableau-with-ai-tools</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://revenueoptimization.io/stats</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://revenueoptimization.io/claude-ai-for-advanced-data-viz</loc>
+    <loc>https://revenueoptimization.io/affiliate-tools</loc>
+    <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://revenueoptimization.io/made-with-lovable</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Episode Pages - Run 'node scripts/generate-episodes.mjs' to populate with all episodes from RSS -->
 </urlset>
