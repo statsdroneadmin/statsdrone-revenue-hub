@@ -1,5 +1,6 @@
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import TopCountriesSection from "@/components/stats/TopCountriesSection";
 import { useEffect, useState } from "react";
 import {
   BarChart,
@@ -51,6 +52,9 @@ interface PodcastData {
   "Spotify Countries": Array<{
     Country: string;
     Streams: number;
+  }>;
+  "Apple Podcast Countries": Array<{
+    [key: string]: string | number;
   }>;
 }
 
@@ -141,9 +145,6 @@ const Stats = () => {
     { name: "Female", value: stats["Spotify Female %"] * 100 },
     { name: "Not Defined", value: stats["Spotify Gender Not Defined %"] * 100 },
   ];
-
-  // Top countries (top 10)
-  const topCountries = data["Spotify Countries"].slice(0, 10);
 
   // Top YouTube videos (top 10)
   const topVideos = data["YouTube "].slice(0, 10);
@@ -316,30 +317,13 @@ const Stats = () => {
               </CardContent>
             </Card>
 
-            {/* Top Countries */}
-            <Card className="bg-card border-border">
-              <CardHeader>
-                <CardTitle className="text-foreground">Top Spotify Countries</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <ResponsiveContainer width="100%" height={300}>
-                  <BarChart data={topCountries} layout="vertical">
-                    <CartesianGrid strokeDasharray="3 3" stroke="hsl(252, 30%, 25%)" />
-                    <XAxis type="number" stroke="hsl(252, 20%, 70%)" />
-                    <YAxis dataKey="Country" type="category" width={80} stroke="hsl(252, 20%, 70%)" />
-                    <Tooltip
-                      contentStyle={{
-                        backgroundColor: "hsl(252, 45%, 16%)",
-                        border: "1px solid hsl(252, 30%, 25%)",
-                        borderRadius: "8px",
-                      }}
-                    />
-                    <Bar dataKey="Streams" fill="hsl(20, 90%, 55%)" />
-                  </BarChart>
-                </ResponsiveContainer>
-              </CardContent>
-            </Card>
           </div>
+
+          {/* Top Countries Section */}
+          <TopCountriesSection
+            spotifyCountries={data["Spotify Countries"]}
+            appleCountriesRaw={data["Apple Podcast Countries"] || []}
+          />
 
           {/* Top YouTube Videos */}
           <Card className="bg-card border-border">
