@@ -311,13 +311,12 @@ ${staticPages.map(page => `  <url>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>
   </url>`).join('\n')}
-  
   <!-- Episode Pages (auto-generated from RSS feed) -->
 ${episodes.map(ep => {
   const slug = generateSlug(ep.title);
   const pubDate = ep.pubDate ? new Date(ep.pubDate).toISOString().split('T')[0] : today;
   return `  <url>
-    <loc>${baseUrl}/ep/${slug}</loc>
+    <loc>${baseUrl}/ep/${slug}/</loc>
     <lastmod>${pubDate}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -355,20 +354,24 @@ async function main() {
     for (let i = 0; i < episodes.length; i++) {
       const episode = episodes[i];
       const slug = generateSlug(episode.title);
-      
+
       // Get previous and next episodes
       const prevEpisodes = episodes.slice(Math.max(0, i - 3), i).reverse();
       const nextEpisodes = episodes.slice(i + 1, i + 4);
-      
+
       // Generate HTML
       const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes);
-      
-      // Write file
-      const filePath = path.join(OUTPUT_DIR, `${slug}.html`);
-      fs.writeFileSync(filePath, html, 'utf8');
-      
+
+      // Write file as /public/ep/:slug/index.html so /ep/:slug works without ".html"
+      const episodeDir = path.join(OUTPUT_DIR, slug);
+      if (!fs.existsSync(episodeDir)) {
+        fs.mkdirSync(episodeDir, { recursive: true });
+      }
+      const filePath = path.join(episodeDir, "index.html");
+      fs.writeFileSync(filePath, html, "utf8");
+
       generated++;
-      console.log(`✅ Generated: /ep/${slug}.html`);
+      console.log(`✅ Generated: /ep/${slug}/index.html`);
     }
     
     console.log(`\n🎉 Successfully generated ${generated} episode pages in /public/ep/`);
@@ -379,15 +382,15 @@ async function main() {
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="refresh" content="0; url=/episodes">
-  <title>Episodes | Affiliate BI Podcast</title>
+  <title>Episodes | Revenue Optimization</title>
 </head>
 <body>
   <p>Redirecting to <a href="/episodes">episodes</a>...</p>
 </body>
 </html>`;
-    
-    fs.writeFileSync(path.join(OUTPUT_DIR, 'index.html'), indexHtml, 'utf8');
-    console.log('✅ Generated: /ep/index.html (redirect)');
+
+    fs.writeFileSync(path.join(OUTPUT_DIR, "index.html"), indexHtml, "utf8");
+    console.log("✅ Generated: /ep/index.html (redirect)");
     
     // Generate sitemap
     console.log('\n📍 Generating sitemap...');

@@ -1,5 +1,6 @@
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import Seo from "@/components/seo/Seo";
 import { Card, CardContent } from "@/components/ui/card";
 import { ExternalLink } from "lucide-react";
 
@@ -29,6 +30,11 @@ const affiliateTools = [
 const AffiliateTools = () => {
   return (
     <div className="min-h-screen bg-background">
+      <Seo
+        title="Affiliate Tools | Revenue Optimization"
+        description="Recommended affiliate marketing tools for tracking, link research, and building high-performing affiliate sites."
+        canonicalPath="/affiliate-tools"
+      />
       <Header />
       <main className="pt-24 md:pt-28 pb-16">
         <div className="container mx-auto px-4">
