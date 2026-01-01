@@ -287,9 +287,49 @@ function parseRssFeed(xml) {
   return episodes;
 }
 
+// Generate sitemap.xml
+function generateSitemap(episodes) {
+  const baseUrl = 'https://revenueoptimization.io';
+  const today = new Date().toISOString().split('T')[0];
+  
+  // Static pages
+  const staticPages = [
+    { loc: '/', changefreq: 'weekly', priority: '1.0' },
+    { loc: '/episodes', changefreq: 'weekly', priority: '0.9' },
+    { loc: '/stats', changefreq: 'weekly', priority: '0.8' },
+    { loc: '/affiliate-tools', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/made-with-lovable', changefreq: 'monthly', priority: '0.6' },
+  ];
+  
+  let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Static Pages -->
+${staticPages.map(page => `  <url>
+    <loc>${baseUrl}${page.loc}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>${page.changefreq}</changefreq>
+    <priority>${page.priority}</priority>
+  </url>`).join('\n')}
+  
+  <!-- Episode Pages (auto-generated from RSS feed) -->
+${episodes.map(ep => {
+  const slug = generateSlug(ep.title);
+  const pubDate = ep.pubDate ? new Date(ep.pubDate).toISOString().split('T')[0] : today;
+  return `  <url>
+    <loc>${baseUrl}/ep/${slug}</loc>
+    <lastmod>${pubDate}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>`;
+}).join('\n')}
+</urlset>`;
+  
+  return sitemap;
+}
+
 // Main function
 async function main() {
-  console.log('🎙️ Generating static episode pages...\n');
+  console.log('🎙️ Generating static episode pages and sitemap...\n');
   
   try {
     // Fetch RSS feed
@@ -347,6 +387,15 @@ async function main() {
     
     fs.writeFileSync(path.join(OUTPUT_DIR, 'index.html'), indexHtml, 'utf8');
     console.log('✅ Generated: /ep/index.html (redirect)');
+    
+    // Generate sitemap
+    console.log('\n📍 Generating sitemap...');
+    const sitemapPath = path.join(__dirname, '..', 'public', 'sitemap.xml');
+    const sitemap = generateSitemap(episodes);
+    fs.writeFileSync(sitemapPath, sitemap, 'utf8');
+    console.log(`✅ Generated: /public/sitemap.xml with ${episodes.length} episodes`);
+    
+    console.log('\n🎉 All done! Run this script whenever you publish new episodes.');
     
   } catch (error) {
     console.error('❌ Error:', error.message);
