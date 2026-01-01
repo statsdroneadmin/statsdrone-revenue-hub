@@ -141,7 +141,7 @@ const Episodes = () => {
                     <div className="flex flex-col md:flex-row gap-6">
                       {/* Episode Image */}
                       <Link 
-                        to={`/${generateSlug(episode.title)}`}
+                        to={`/ep/${generateSlug(episode.title)}`}
                         className="w-full md:w-32 aspect-square md:aspect-auto md:h-32 bg-secondary rounded-xl flex-shrink-0 overflow-hidden"
                       >
                         {episode.image ? (
@@ -196,7 +196,7 @@ const Episodes = () => {
                             </Button>
                           )}
                           <Button variant="outline" size="sm" asChild>
-                            <Link to={`/${generateSlug(episode.title)}`}>
+                            <Link to={`/ep/${generateSlug(episode.title)}`}>
                               <ExternalLink className="w-4 h-4" />
                               View Details
                             </Link>

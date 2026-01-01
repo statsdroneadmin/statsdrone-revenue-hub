@@ -25,7 +25,7 @@ const App = () => (
           <Route path="/affiliate-tools" element={<AffiliateTools />} />
           <Route path="/made-with-lovable" element={<MadeWithLovable />} />
           <Route path="/stats" element={<Stats />} />
-          <Route path="/:slug" element={<EpisodeDetail />} />
+          <Route path="/ep/:slug" element={<EpisodeDetail />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
