@@ -200,7 +200,7 @@ const EpisodeDetail = () => {
                         {previousEpisodes.map((ep, index) => (
                           <Link
                             key={index}
-                            to={`/${generateSlug(ep.title)}`}
+                            to={`/ep/${generateSlug(ep.title)}`}
                             className="group block bg-secondary/50 rounded-xl p-4 border border-border hover:border-accent/50 transition-all duration-300"
                           >
                             <div className="flex gap-4">
@@ -243,7 +243,7 @@ const EpisodeDetail = () => {
                         {nextEpisodes.map((ep, index) => (
                           <Link
                             key={index}
-                            to={`/${generateSlug(ep.title)}`}
+                            to={`/ep/${generateSlug(ep.title)}`}
                             className="group block bg-secondary/50 rounded-xl p-4 border border-border hover:border-accent/50 transition-all duration-300"
                           >
                             <div className="flex gap-4">
