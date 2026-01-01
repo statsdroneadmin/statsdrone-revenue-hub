@@ -1,5 +1,6 @@
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import Seo from "@/components/seo/Seo";
 import heroImage from "@/assets/podcast-website-built-with-lovable.jpg";
 
 const LovableLink = ({ children }: { children: React.ReactNode }) => (
@@ -16,6 +17,13 @@ const LovableLink = ({ children }: { children: React.ReactNode }) => (
 const MadeWithLovable = () => {
   return (
     <div className="min-h-screen bg-background">
+      <Seo
+        title="Built with Lovable | Revenue Optimization"
+        description="How this Revenue Optimization podcast website was built using Lovable, plus the workflow for updates and SEO."
+        canonicalPath="/made-with-lovable"
+        image={heroImage}
+        ogType="article"
+      />
       <Header />
       <main className="container mx-auto px-4 pt-24 md:pt-32 pb-16">
         <article className="max-w-3xl mx-auto">

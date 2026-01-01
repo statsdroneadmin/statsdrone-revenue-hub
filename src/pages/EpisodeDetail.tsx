@@ -2,16 +2,25 @@ import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import Seo from "@/components/seo/Seo";
 import { Button } from "@/components/ui/button";
-import { Play, Calendar, Clock, ExternalLink, ArrowLeft, ChevronLeft, ChevronRight } from "lucide-react";
+import {
+  Play,
+  Calendar,
+  Clock,
+  ExternalLink,
+  ArrowLeft,
+  ChevronLeft,
+  ChevronRight,
+} from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
-import { 
-  Episode, 
-  fetchEpisodes, 
-  findEpisodeBySlug, 
-  generateSlug, 
-  formatDate, 
-  formatDuration 
+import {
+  Episode,
+  fetchEpisodes,
+  findEpisodeBySlug,
+  generateSlug,
+  formatDate,
+  formatDuration,
 } from "@/lib/episodeUtils";
 
 const EpisodeDetail = () => {
@@ -92,6 +101,13 @@ const EpisodeDetail = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <Seo
+        title={`${episode.title} | Revenue Optimization`}
+        description={episode.description?.slice(0, 155)}
+        canonicalPath={`/ep/${slug ?? ""}`}
+        image={episode.image}
+        ogType="article"
+      />
       <Header />
       <main className="pt-24 pb-20">
         <div className="container mx-auto px-4">
@@ -201,6 +217,7 @@ const EpisodeDetail = () => {
                           <Link
                             key={index}
                             to={`/ep/${generateSlug(ep.title)}`}
+                            reloadDocument
                             className="group block bg-secondary/50 rounded-xl p-4 border border-border hover:border-accent/50 transition-all duration-300"
                           >
                             <div className="flex gap-4">
@@ -244,6 +261,7 @@ const EpisodeDetail = () => {
                           <Link
                             key={index}
                             to={`/ep/${generateSlug(ep.title)}`}
+                            reloadDocument
                             className="group block bg-secondary/50 rounded-xl p-4 border border-border hover:border-accent/50 transition-all duration-300"
                           >
                             <div className="flex gap-4">
