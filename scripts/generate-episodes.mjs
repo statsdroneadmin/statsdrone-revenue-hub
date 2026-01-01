@@ -13,6 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const RSS_FEED_URL = 'https://feeds.castplus.fm/affiliatebi';
+const SITE_BASE_URL = 'https://revenueoptimization.io';
 const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'ep');
 
 // Generate slug from title
@@ -82,7 +83,7 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
   const fullDescription = escapeHtml(episode.description);
   const title = escapeHtml(episode.title);
   const image = episode.image || '/images/podcast-cover.png';
-  const canonicalUrl = `https://affiliatebi.com/ep/${slug}`;
+  const canonicalUrl = `${SITE_BASE_URL}/ep/${slug}`;
   
   return `<!DOCTYPE html>
 <html lang="en">
@@ -129,7 +130,7 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
     "partOfSeries": {
       "@type": "PodcastSeries",
       "name": "Affiliate BI Podcast",
-      "url": "https://affiliatebi.com"
+      "url": "${SITE_BASE_URL}"
     }${episode.enclosure?.url ? `,
     "associatedMedia": {
       "@type": "AudioObject",
@@ -289,7 +290,7 @@ function parseRssFeed(xml) {
 
 // Generate sitemap.xml
 function generateSitemap(episodes) {
-  const baseUrl = 'https://revenueoptimization.io';
+  const baseUrl = SITE_BASE_URL;
   const today = new Date().toISOString().split('T')[0];
   
   // Static pages
