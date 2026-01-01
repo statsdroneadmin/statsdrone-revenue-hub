@@ -1,6 +1,7 @@
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import TopCountriesSection from "@/components/stats/TopCountriesSection";
+import Seo from "@/components/seo/Seo";
 import { useEffect, useState } from "react";
 import {
   BarChart,
@@ -151,6 +152,12 @@ const Stats = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <Seo
+        title="Podcast Stats | Revenue Optimization"
+        description="Podcast statistics for Revenue Optimization with StatsDrone: downloads, followers, plays, demographics, and top videos."
+        canonicalPath="/stats"
+        ogType="website"
+      />
       <Header />
       
       <main className="pt-24 pb-16">

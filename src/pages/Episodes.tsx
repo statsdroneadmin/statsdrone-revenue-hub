@@ -2,16 +2,17 @@ import { useEffect, useState, useMemo } from "react";
 import { Link } from "react-router-dom";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import Seo from "@/components/seo/Seo";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Play, Calendar, Clock, ExternalLink, Search } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
-import { 
-  Episode, 
-  fetchEpisodes, 
-  generateSlug, 
-  formatDate, 
-  formatDuration 
+import {
+  Episode,
+  fetchEpisodes,
+  generateSlug,
+  formatDate,
+  formatDuration,
 } from "@/lib/episodeUtils";
 
 const Episodes = () => {
@@ -53,6 +54,11 @@ const Episodes = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <Seo
+        title="All Episodes | Revenue Optimization"
+        description="Browse all Revenue Optimization episodes with insights on affiliate marketing, tracking, and conversion optimization."
+        canonicalPath="/episodes"
+      />
       <Header />
       <main className="pt-24 pb-20">
         <div className="container mx-auto px-4">
@@ -140,8 +146,9 @@ const Episodes = () => {
                   >
                     <div className="flex flex-col md:flex-row gap-6">
                       {/* Episode Image */}
-                      <Link 
+                      <Link
                         to={`/ep/${generateSlug(episode.title)}`}
+                        reloadDocument
                         className="w-full md:w-32 aspect-square md:aspect-auto md:h-32 bg-secondary rounded-xl flex-shrink-0 overflow-hidden"
                       >
                         {episode.image ? (
@@ -196,7 +203,7 @@ const Episodes = () => {
                             </Button>
                           )}
                           <Button variant="outline" size="sm" asChild>
-                            <Link to={`/ep/${generateSlug(episode.title)}`}>
+                            <Link to={`/ep/${generateSlug(episode.title)}`} reloadDocument>
                               <ExternalLink className="w-4 h-4" />
                               View Details
                             </Link>
