@@ -1,0 +1,800 @@
+{
+  "Sheet1": {
+    "Date": "2025-12-31T00:00:00",
+    "Downloads": 101898.0,
+    "Apple Podcast Followers": 78.0,
+    "Apple Podcast Listeners": 232.0,
+    "Apple Podcast Engaged Listeners": 122.0,
+    "Apple Podcast Plays": 2300.0,
+    "Apple Podcast Hours": 210.0,
+    "Spotify Followers": 206.0,
+    "Spotify Plays": 3251.0,
+    "Spotify Hours": 593.0,
+    "YouTube Subscribers": 137.0,
+    "YouTube Views": 7897.0,
+    "YouTube Watchtime Hours": 791.8,
+    "Spotify Female %": 0.137,
+    "Spotify Male %": 0.852,
+    "Spotify Gender Not Defined %": 0.01,
+    "Spotify age 18-22": 0.01,
+    "Spotify age 23-27": 0.096,
+    "Spotify age 28-34": 0.232,
+    "Spotify age 35-44": 0.395,
+    "Spotify age 45-59": 0.254,
+    "Spotify age 60+": 0.011
+  },
+  "YouTube ": [
+    {
+      "Video title": "Why you should quit your job for SEO and affiliate marketing with Matt Diggity",
+      "Video publish time": "2023-09-27T00:00:00",
+      "Views": 1476.0,
+      "Watch time (hours)": 156.7452
+    },
+    {
+      "Video title": "Technical SEO & Semantic SEO with Koray Tugberk Gubur",
+      "Video publish time": "2024-06-15T00:00:00",
+      "Views": 1298.0,
+      "Watch time (hours)": 170.2909
+    },
+    {
+      "Video title": "A data driven iGaming affiliate platform: ReferOn",
+      "Video publish time": "2023-09-02T00:00:00",
+      "Views": 564.0,
+      "Watch time (hours)": 27.6056
+    },
+    {
+      "Video title": "SEO data and dashboards with Kyle Roof",
+      "Video publish time": "2023-08-23T00:00:00",
+      "Views": 543.0,
+      "Watch time (hours)": 80.0112
+    },
+    {
+      "Video title": "SEO case studies & data analysis with Victor Karpenko of SeoProfy",
+      "Video publish time": "2023-09-21T00:00:00",
+      "Views": 462.0,
+      "Watch time (hours)": 27.7551
+    },
+    {
+      "Video title": "Parasite SEO explained by James Oliver from ParasiteSEO.com",
+      "Video publish time": "2024-09-12T00:00:00",
+      "Views": 211.0,
+      "Watch time (hours)": 20.8184
+    },
+    {
+      "Video title": "Lily Ray: How to build affiliate sites despite Google core updates",
+      "Video publish time": "2024-08-31T00:00:00",
+      "Views": 156.0,
+      "Watch time (hours)": 22.2743
+    },
+    {
+      "Video title": "iGaming SEO with Sean Bianco from GainChanger",
+      "Video publish time": "2024-08-02T00:00:00",
+      "Views": 112.0,
+      "Watch time (hours)": 15.1104
+    },
+    {
+      "Video title": "Evergreen Content Strategies with Steven Khanna of WhitePress",
+      "Video publish time": "2024-03-14T00:00:00",
+      "Views": 112.0,
+      "Watch time (hours)": 7.6595
+    },
+    {
+      "Video title": "Building your brand with digital PR with Gabriela Covay",
+      "Video publish time": "2024-02-09T00:00:00",
+      "Views": 108.0,
+      "Watch time (hours)": 11.0244
+    },
+    {
+      "Video title": "5 Ways to Find Your Target Audience for SEO with Umar Faizan",
+      "Video publish time": "2024-06-21T00:00:00",
+      "Views": 106.0,
+      "Watch time (hours)": 10.4753
+    },
+    {
+      "Video title": "10 Steps to Mastering AI Powered SEO with Julian Goldie",
+      "Video publish time": "2024-05-09T00:00:00",
+      "Views": 104.0,
+      "Watch time (hours)": 11.6759
+    },
+    {
+      "Video title": "Data viz in affiliate marketing with Kevin Hartman author of Digital Marketing Analytics",
+      "Video publish time": "2023-08-03T00:00:00",
+      "Views": 98.0,
+      "Watch time (hours)": 3.9333
+    },
+    {
+      "Video title": "Affiliate Marketing Guide 2024 best of Affiliate BI Podcast",
+      "Video publish time": "2024-01-02T00:00:00",
+      "Views": 92.0,
+      "Watch time (hours)": 7.5056
+    },
+    {
+      "Video title": "Demand generation & demand capture in affiliate marketing with Chris Walker",
+      "Video publish time": "2023-10-08T00:00:00",
+      "Views": 90.0,
+      "Watch time (hours)": 4.2921
+    },
+    {
+      "Video title": "Digital PR Link Building Strategies for Google SGE with Fery Kaszoni",
+      "Video publish time": "2024-06-27T00:00:00",
+      "Views": 85.0,
+      "Watch time (hours)": 9.8139
+    },
+    {
+      "Video title": "Live Dealer Casino Niche Affiliate Sites with Neil Walker",
+      "Video publish time": "2024-10-03T00:00:00",
+      "Views": 84.0,
+      "Watch time (hours)": 10.6868
+    },
+    {
+      "Video title": "VIP Strategies in iGaming with Gali Hartuv",
+      "Video publish time": "2024-09-19T00:00:00",
+      "Views": 81.0,
+      "Watch time (hours)": 12.3307
+    },
+    {
+      "Video title": "Alternative SEO Strategies & AI Tips for Affiliates",
+      "Video publish time": "2024-03-22T00:00:00",
+      "Views": 78.0,
+      "Watch time (hours)": 7.7839
+    },
+    {
+      "Video title": "Data skills and courses with Sam McKay from Enterprise DNA",
+      "Video publish time": "2023-08-04T00:00:00",
+      "Views": 77.0,
+      "Watch time (hours)": 2.1746
+    },
+    {
+      "Video title": "Using Google Tag Manager in affiliate marketing with Julian Juenemann of MeasureSchool",
+      "Video publish time": "2023-08-16T00:00:00",
+      "Views": 72.0,
+      "Watch time (hours)": 3.9352
+    },
+    {
+      "Video title": "What Most Affiliates Get Wrong About SEO \u2014 Insights from Gentoo Media's Emilio Takas",
+      "Video publish time": "2025-06-04T00:00:00",
+      "Views": 71.0,
+      "Watch time (hours)": 8.5665
+    },
+    {
+      "Video title": "Use Conversion Rate Optimization to Improve Traffic & Help SEO with Oliver Kenyon",
+      "Video publish time": "2023-10-27T00:00:00",
+      "Views": 69.0,
+      "Watch time (hours)": 3.3333
+    },
+    {
+      "Video title": "Strategic Communications for Affiliate Success with Vlad Ghilien",
+      "Video publish time": "2025-08-12T00:00:00",
+      "Views": 65.0,
+      "Watch time (hours)": 3.8616
+    },
+    {
+      "Video title": "Affiliate manager training from Affpal with Stefan Muehlbauer",
+      "Video publish time": "2024-11-26T00:00:00",
+      "Views": 62.0,
+      "Watch time (hours)": 3.0594
+    },
+    {
+      "Video title": "B2B Affiliate Marketing with David Shapiro",
+      "Video publish time": "2025-02-18T00:00:00",
+      "Views": 61.0,
+      "Watch time (hours)": 4.7312
+    },
+    {
+      "Video title": "Eric Siu on Programmatic SEO for affiliates on the Affiliate BI podcast",
+      "Video publish time": "2024-06-06T00:00:00",
+      "Views": 61.0,
+      "Watch time (hours)": 6.2759
+    },
+    {
+      "Video title": "Affiliate Coaching with MyTopSlot with Marco Braun",
+      "Video publish time": "2024-11-26T00:00:00",
+      "Views": 58.0,
+      "Watch time (hours)": 5.9472
+    },
+    {
+      "Video title": "How to detect when affiliate programs shave affiliates",
+      "Video publish time": "2025-05-20T00:00:00",
+      "Views": 57.0,
+      "Watch time (hours)": 2.246
+    },
+    {
+      "Video title": "Why every affiliate program needs a data analyst with Adam Rowley from RavenTrack",
+      "Video publish time": "2024-09-10T00:00:00",
+      "Views": 56.0,
+      "Watch time (hours)": 4.9003
+    },
+    {
+      "Video title": "The Future of Bingo, SEO, and Affiliate Marketing with Sue Dawson",
+      "Video publish time": "2025-06-30T00:00:00",
+      "Views": 55.0,
+      "Watch time (hours)": 3.3553
+    },
+    {
+      "Video title": "The Best Book in Affiliate Marketing - The Payout Mafia",
+      "Video publish time": "2025-08-19T00:00:00",
+      "Views": 54.0,
+      "Watch time (hours)": 1.3303
+    },
+    {
+      "Video title": "AI Content Tools with Andrew Ansley",
+      "Video publish time": "2024-04-18T00:00:00",
+      "Views": 53.0,
+      "Watch time (hours)": 3.3567
+    },
+    {
+      "Video title": "Kasra Dash on the Future of SEO & Affiliate Marketing | Masterminds, NavBoost & CRO Insights",
+      "Video publish time": "2025-09-12T00:00:00",
+      "Views": 48.0,
+      "Watch time (hours)": 5.0029
+    },
+    {
+      "Video title": "International SEO and hreflang with Kira Khoroshilova",
+      "Video publish time": "2024-06-13T00:00:00",
+      "Views": 48.0,
+      "Watch time (hours)": 5.3859
+    },
+    {
+      "Video title": "Beyond DR: Smarter SEO Signals You\u2019re Not Using Yet with Shaurya Jain",
+      "Video publish time": "2025-04-08T00:00:00",
+      "Views": 46.0,
+      "Watch time (hours)": 5.6024
+    },
+    {
+      "Video title": "B2B SEO with Jamie I.F.",
+      "Video publish time": "2025-01-31T00:00:00",
+      "Views": 46.0,
+      "Watch time (hours)": 5.7776
+    },
+    {
+      "Video title": "Building an affiliate CRM with Niels Zee",
+      "Video publish time": "2025-04-22T00:00:00",
+      "Views": 45.0,
+      "Watch time (hours)": 2.6408
+    },
+    {
+      "Video title": "Advanced tracking and analytics with Allan Stone of Intelitics",
+      "Video publish time": "2023-08-04T00:00:00",
+      "Views": 44.0,
+      "Watch time (hours)": 3.3639
+    },
+    {
+      "Video title": "Affiliate data with CPV Lab with Julia Draghici",
+      "Video publish time": "2024-11-02T00:00:00",
+      "Views": 44.0,
+      "Watch time (hours)": 3.9478
+    },
+    {
+      "Video title": "Steve Toth on SEO & Affiliate Marketing",
+      "Video publish time": "2024-08-02T00:00:00",
+      "Views": 42.0,
+      "Watch time (hours)": 3.4282
+    },
+    {
+      "Video title": "Louis Grenier on Positioning and Marketing",
+      "Video publish time": "2025-04-01T00:00:00",
+      "Views": 42.0,
+      "Watch time (hours)": 5.1836
+    },
+    {
+      "Video title": "M&A strategy for affiliates with Shlomo Freund",
+      "Video publish time": "2025-02-26T00:00:00",
+      "Views": 42.0,
+      "Watch time (hours)": 4.5672
+    },
+    {
+      "Video title": "How AI Is Transforming Affiliate Marketing \u2013 With Valentina Diaco of Profit Matches",
+      "Video publish time": "2025-04-16T00:00:00",
+      "Views": 40.0,
+      "Watch time (hours)": 2.5937
+    },
+    {
+      "Video title": "Postbacks and Voluum's advanced ad tracking tech with Marcin Kumiega",
+      "Video publish time": "2024-08-02T00:00:00",
+      "Views": 40.0,
+      "Watch time (hours)": 2.5327
+    },
+    {
+      "Video title": "Richard Dennys on Leadership in affiliate marketing",
+      "Video publish time": "2024-11-27T00:00:00",
+      "Views": 38.0,
+      "Watch time (hours)": 3.1863
+    },
+    {
+      "Video title": "Advisory for affiliates & startups with Lou Viveros",
+      "Video publish time": "2024-10-29T00:00:00",
+      "Views": 37.0,
+      "Watch time (hours)": 4.3736
+    },
+    {
+      "Video title": "Why Crawl Stats and Server Logs Are the Hidden Gems of SEO with Maja Jovan\u010devi\u0107",
+      "Video publish time": "2025-05-14T00:00:00",
+      "Views": 35.0,
+      "Watch time (hours)": 5.6762
+    },
+    {
+      "Video title": "Fractional CFO for affiliates with Rowan Ellis",
+      "Video publish time": "2024-10-10T00:00:00",
+      "Views": 35.0,
+      "Watch time (hours)": 4.2326
+    },
+    {
+      "Video title": "Affiliate Manager Challenges with Zach Measures from Everflow",
+      "Video publish time": "2024-08-02T00:00:00",
+      "Views": 35.0,
+      "Watch time (hours)": 4.6625
+    },
+    {
+      "Video title": "Why affiliate sites must give value with Bob Burg",
+      "Video publish time": "2024-11-01T00:00:00",
+      "Views": 34.0,
+      "Watch time (hours)": 4.1817
+    },
+    {
+      "Video title": "Guide to compliance in affiliate marketing with Ian Sims",
+      "Video publish time": "2024-02-25T00:00:00",
+      "Views": 33.0,
+      "Watch time (hours)": 1.832
+    },
+    {
+      "Video title": "Google Search Console Pro Tips with Karl Hudson",
+      "Video publish time": "2024-05-31T00:00:00",
+      "Views": 31.0,
+      "Watch time (hours)": 3.4502
+    },
+    {
+      "Video title": "SEO Training with Dirk Schembri",
+      "Video publish time": "2025-03-04T00:00:00",
+      "Views": 29.0,
+      "Watch time (hours)": 3.9884
+    },
+    {
+      "Video title": "Treat your affiliate sites like a business with Mark Preston",
+      "Video publish time": "2025-03-27T00:00:00",
+      "Views": 29.0,
+      "Watch time (hours)": 3.3497
+    },
+    {
+      "Video title": "Affiliate Link Research with Affiliate Track",
+      "Video publish time": "2025-09-03T00:00:00",
+      "Views": 29.0,
+      "Watch time (hours)": 1.1186
+    },
+    {
+      "Video title": "AI Sports Tips & Predictions Chat with TheCrowdsLine",
+      "Video publish time": "2025-03-15T00:00:00",
+      "Views": 27.0,
+      "Watch time (hours)": 2.2052
+    },
+    {
+      "Video title": "Changing Affiliate BI to Revenue Leak",
+      "Video publish time": "2025-09-02T00:00:00",
+      "Views": 26.0,
+      "Watch time (hours)": 0.5297
+    },
+    {
+      "Video title": "10 SEO insights from 10 SEO experts",
+      "Video publish time": "2024-08-02T00:00:00",
+      "Views": 25.0,
+      "Watch time (hours)": 3.0694
+    },
+    {
+      "Video title": "Why CRO matters in SEO with Jesse Ringer",
+      "Video publish time": "2025-02-11T00:00:00",
+      "Views": 25.0,
+      "Watch time (hours)": 6.1437
+    },
+    {
+      "Video title": "Google Knowledge Panels FAQ with Jason Barnard",
+      "Video publish time": "2024-05-02T00:00:00",
+      "Views": 25.0,
+      "Watch time (hours)": 3.2831
+    },
+    {
+      "Video title": "Revenue optimization for iGaming operations",
+      "Video publish time": "2025-05-28T00:00:00",
+      "Views": 22.0,
+      "Watch time (hours)": 0.332
+    },
+    {
+      "Video title": "RevOps in affiliate marketing with Ben Austen of Find.co",
+      "Video publish time": "2024-09-15T00:00:00",
+      "Views": 22.0,
+      "Watch time (hours)": 2.0716
+    },
+    {
+      "Video title": "The future of iGaming with Alex Pratt from Clarion Events",
+      "Video publish time": "2025-01-31T00:00:00",
+      "Views": 21.0,
+      "Watch time (hours)": 2.3053
+    },
+    {
+      "Video title": "Poker, People, and Pageviews: Navigating SEO Turbulence with Robbie Strazynski",
+      "Video publish time": "2025-05-14T00:00:00",
+      "Views": 20.0,
+      "Watch time (hours)": 2.5132
+    },
+    {
+      "Video title": "The AI Shift: Why Affiliates Must Evolve Now",
+      "Video publish time": "2025-10-31T00:00:00",
+      "Views": 18.0,
+      "Watch time (hours)": 0.8413
+    },
+    {
+      "Video title": "Optimizing pages for AI Search with GEO, tips from Steve Toth",
+      "Video publish time": "2025-11-16T00:00:00",
+      "Views": 15.0,
+      "Watch time (hours)": 0.1958
+    },
+    {
+      "Video title": "Replacing Tableau with AI Tools",
+      "Video publish time": "2025-12-12T00:00:00",
+      "Views": 14.0,
+      "Watch time (hours)": 0.2056
+    },
+    {
+      "Video title": "Deconstructing The Bezos Letters with Steve Anderson",
+      "Video publish time": "2025-02-04T00:00:00",
+      "Views": 14.0,
+      "Watch time (hours)": 3.1593
+    }
+  ],
+  "Spotify Countries": [
+    {
+      "Country": "Malta",
+      "Streams": 319.0
+    },
+    {
+      "Country": "United Kingdom",
+      "Streams": 300.0
+    },
+    {
+      "Country": "United States",
+      "Streams": 254.0
+    },
+    {
+      "Country": "Sweden",
+      "Streams": 242.0
+    },
+    {
+      "Country": "Australia",
+      "Streams": 207.0
+    },
+    {
+      "Country": "Norway",
+      "Streams": 95.0
+    },
+    {
+      "Country": "India",
+      "Streams": 94.0
+    },
+    {
+      "Country": "Spain",
+      "Streams": 64.0
+    },
+    {
+      "Country": "Canada",
+      "Streams": 63.0
+    },
+    {
+      "Country": "Poland",
+      "Streams": 56.0
+    },
+    {
+      "Country": "Denmark",
+      "Streams": 50.0
+    },
+    {
+      "Country": "Ireland",
+      "Streams": 46.0
+    },
+    {
+      "Country": "Germany",
+      "Streams": 44.0
+    },
+    {
+      "Country": "Netherlands",
+      "Streams": 36.0
+    },
+    {
+      "Country": "Brazil",
+      "Streams": 32.0
+    },
+    {
+      "Country": "Costa Rica",
+      "Streams": 26.0
+    },
+    {
+      "Country": "Cyprus",
+      "Streams": 25.0
+    },
+    {
+      "Country": "Romania",
+      "Streams": 23.0
+    },
+    {
+      "Country": "Lithuania",
+      "Streams": 22.0
+    },
+    {
+      "Country": "T\u00fcrkiye",
+      "Streams": 22.0
+    },
+    {
+      "Country": "Singapore",
+      "Streams": 21.0
+    },
+    {
+      "Country": "Czechia",
+      "Streams": 20.0
+    },
+    {
+      "Country": "Estonia",
+      "Streams": 19.0
+    },
+    {
+      "Country": "Belgium",
+      "Streams": 18.0
+    },
+    {
+      "Country": "Nigeria",
+      "Streams": 17.0
+    },
+    {
+      "Country": "Serbia",
+      "Streams": 14.0
+    },
+    {
+      "Country": "New Zealand",
+      "Streams": 14.0
+    },
+    {
+      "Country": "South Africa",
+      "Streams": 13.0
+    },
+    {
+      "Country": "Bulgaria",
+      "Streams": 11.0
+    },
+    {
+      "Country": "Hungary",
+      "Streams": 11.0
+    },
+    {
+      "Country": "Morocco",
+      "Streams": 11.0
+    },
+    {
+      "Country": "Ukraine",
+      "Streams": 10.0
+    },
+    {
+      "Country": "Latvia",
+      "Streams": 10.0
+    },
+    {
+      "Country": "Israel",
+      "Streams": 9.0
+    },
+    {
+      "Country": "Finland",
+      "Streams": 9.0
+    },
+    {
+      "Country": "Slovakia",
+      "Streams": 8.0
+    },
+    {
+      "Country": "Italy",
+      "Streams": 8.0
+    },
+    {
+      "Country": "Greece",
+      "Streams": 7.0
+    },
+    {
+      "Country": "Indonesia",
+      "Streams": 6.0
+    },
+    {
+      "Country": "Portugal",
+      "Streams": 5.0
+    },
+    {
+      "Country": "Thailand",
+      "Streams": 4.0
+    },
+    {
+      "Country": "Malaysia",
+      "Streams": 4.0
+    },
+    {
+      "Country": "Mexico",
+      "Streams": 3.0
+    },
+    {
+      "Country": "Philippines",
+      "Streams": 3.0
+    },
+    {
+      "Country": "Argentina",
+      "Streams": 3.0
+    },
+    {
+      "Country": "Luxembourg",
+      "Streams": 3.0
+    },
+    {
+      "Country": "Montenegro",
+      "Streams": 2.0
+    },
+    {
+      "Country": "Switzerland",
+      "Streams": 2.0
+    },
+    {
+      "Country": "France",
+      "Streams": 2.0
+    },
+    {
+      "Country": "Vietnam",
+      "Streams": 2.0
+    },
+    {
+      "Country": "Saudi Arabia",
+      "Streams": 2.0
+    },
+    {
+      "Country": "Taiwan",
+      "Streams": 2.0
+    },
+    {
+      "Country": "Chile",
+      "Streams": 2.0
+    },
+    {
+      "Country": "UNKNOWN",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Kenya",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Croatia",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Andorra",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Bolivia",
+      "Streams": 1.0
+    },
+    {
+      "Country": "North Macedonia",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Maldives",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Colombia",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Nepal",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Algeria",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Hong Kong SAR China",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Austria",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Iceland",
+      "Streams": 1.0
+    },
+    {
+      "Country": "Paraguay",
+      "Streams": 1.0
+    }
+  ],
+  "Apple Podcast Cities": [
+    {
+      "London": "Stockholm",
+      "25.0": 20.0
+    },
+    {
+      "London": "Los Angeles",
+      "25.0": 8.0
+    },
+    {
+      "London": "Toronto",
+      "25.0": 8.0
+    },
+    {
+      "London": "Chicago",
+      "25.0": 6.0
+    },
+    {
+      "London": "Kyiv",
+      "25.0": 5.0
+    },
+    {
+      "London": "Johannesburg",
+      "25.0": 5.0
+    },
+    {
+      "London": "Birkirkara",
+      "25.0": 5.0
+    },
+    {
+      "London": "Copenhagen",
+      "25.0": 5.0
+    },
+    {
+      "London": "Amsterdam",
+      "25.0": 5.0
+    }
+  ],
+  "Apple Podcast Countries": [
+    {
+      "United States": "United Kingdom",
+      "71.0": 27.0
+    },
+    {
+      "United States": "Sweden",
+      "71.0": 26.0
+    },
+    {
+      "United States": "Canada",
+      "71.0": 13.0
+    },
+    {
+      "United States": "Australia",
+      "71.0": 6.0
+    },
+    {
+      "United States": "Denmark",
+      "71.0": 6.0
+    },
+    {
+      "United States": "India",
+      "71.0": 6.0
+    },
+    {
+      "United States": "Netherlands",
+      "71.0": 6.0
+    },
+    {
+      "United States": "South Africa",
+      "71.0": 6.0
+    },
+    {
+      "United States": "Malta",
+      "71.0": 5.0
+    },
+    {
+      "United States": "Spain",
+      "71.0": 5.0
+    },
+    {
+      "United States": "T\u00fcrkiye",
+      "71.0": 5.0
+    },
+    {
+      "United States": "Ukraine",
+      "71.0": 5.0
+    }
+  ]
+}
