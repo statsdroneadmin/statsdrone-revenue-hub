@@ -1,0 +1,2 @@
+# This directory contains generated static HTML files for podcast episodes.
+# Run: node scripts/generate-episodes.mjs
