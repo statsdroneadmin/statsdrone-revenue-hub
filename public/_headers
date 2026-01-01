@@ -1,0 +1,4 @@
+# Headers for static episode pages to help with caching and SEO
+/ep/*
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
