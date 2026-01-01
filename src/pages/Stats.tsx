@@ -263,21 +263,10 @@ const Stats = () => {
               </CardHeader>
               <CardContent>
                 <ResponsiveContainer width="100%" height={300}>
-                  <PieChart>
-                    <Pie
-                      data={ageData}
-                      cx="50%"
-                      cy="50%"
-                      labelLine={false}
-                      label={({ name, value }) => `${name}: ${value.toFixed(1)}%`}
-                      outerRadius={100}
-                      fill="#8884d8"
-                      dataKey="value"
-                    >
-                      {ageData.map((_, index) => (
-                        <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                      ))}
-                    </Pie>
+                  <BarChart data={ageData}>
+                    <CartesianGrid strokeDasharray="3 3" stroke="hsl(252, 30%, 25%)" />
+                    <XAxis dataKey="name" stroke="hsl(252, 20%, 70%)" />
+                    <YAxis stroke="hsl(252, 20%, 70%)" tickFormatter={(value) => `${value}%`} />
                     <Tooltip
                       contentStyle={{
                         backgroundColor: "hsl(252, 45%, 16%)",
@@ -286,7 +275,8 @@ const Stats = () => {
                       }}
                       formatter={(value: number) => `${value.toFixed(1)}%`}
                     />
-                  </PieChart>
+                    <Bar dataKey="value" fill="hsl(20, 90%, 55%)" name="Percentage" />
+                  </BarChart>
                 </ResponsiveContainer>
               </CardContent>
             </Card>
