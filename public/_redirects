@@ -1,0 +1,5 @@
+# Serve static episode pages first (Cloudflare Pages will check for static files before these rules)
+# The key is that Cloudflare Pages serves static assets from /public automatically
+
+# Fallback: SPA routing for everything else
+/*    /index.html   200
