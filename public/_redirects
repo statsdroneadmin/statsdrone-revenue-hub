@@ -1,8 +1,8 @@
-# Force static episode files to be served (splat rules processed before catch-all)
-/ep/       /ep/index.html          200
-/ep        /ep/index.html          200
-/ep/*/     /ep/:splat/index.html   200
-/ep/*      /ep/:splat/index.html   200
+# Static episode rewrites (must be before catch-all)
+/ep/ /ep/index.html 200
+/ep /ep/index.html 200
+/ep/:slug/ /ep/:slug/index.html 200
+/ep/:slug /ep/:slug/index.html 200
 
 # Fallback: SPA routing for everything else
 /*         /index.html             200
