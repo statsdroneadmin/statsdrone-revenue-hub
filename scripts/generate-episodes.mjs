@@ -14,7 +14,17 @@ const __dirname = path.dirname(__filename);
 
 const RSS_FEED_URL = 'https://feeds.castplus.fm/affiliatebi';
 const SITE_BASE_URL = 'https://revenueoptimization.io';
-const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'ep');
+
+// Where to write generated files.
+// - Default: /public (useful for local preview)
+// - Build: pass --outDir dist so Cloudflare Pages serves static HTML at /ep/:slug/
+const outDirArgIndex = process.argv.findIndex((a) => a === '--outDir');
+const OUT_DIR = outDirArgIndex !== -1 ? process.argv[outDirArgIndex + 1] : null;
+const OUTPUT_ROOT = OUT_DIR
+  ? path.join(__dirname, '..', OUT_DIR)
+  : path.join(__dirname, '..', 'public');
+
+const OUTPUT_DIR = path.join(OUTPUT_ROOT, 'ep');
 
 // Generate slug from title
 function generateSlug(title) {
@@ -394,10 +404,10 @@ async function main() {
     
     // Generate sitemap
     console.log('\n📍 Generating sitemap...');
-    const sitemapPath = path.join(__dirname, '..', 'public', 'sitemap.xml');
+    const sitemapPath = path.join(OUTPUT_ROOT, 'sitemap.xml');
     const sitemap = generateSitemap(episodes);
     fs.writeFileSync(sitemapPath, sitemap, 'utf8');
-    console.log(`✅ Generated: /public/sitemap.xml with ${episodes.length} episodes`);
+    console.log(`✅ Generated: ${sitemapPath} with ${episodes.length} episodes`);
     
     console.log('\n🎉 All done! Run this script whenever you publish new episodes.');
     
