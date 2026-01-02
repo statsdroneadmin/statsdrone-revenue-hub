@@ -23,7 +23,7 @@ const Footer = () => {
               Home
             </Link>
             <Link
-              to="/episodes"
+              to="/episodes/"
               className="text-sm text-muted-foreground hover:text-accent transition-colors"
             >
               Episodes
