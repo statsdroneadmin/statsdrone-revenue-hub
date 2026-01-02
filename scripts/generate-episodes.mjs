@@ -100,12 +100,14 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-statsdrone-static-episode" content="true">
   
   <!-- SEO Meta Tags -->
-  <title>${title} | Affiliate BI Podcast</title>
+  <title>${title} | Revenue Optimization with StatsDrone</title>
   <meta name="description" content="${description}">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${canonicalUrl}">
+
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article">
