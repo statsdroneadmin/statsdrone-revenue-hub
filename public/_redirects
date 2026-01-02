@@ -1,8 +1,9 @@
-# Serve static episode pages explicitly (directory indexes are not always resolved by rewrite)
-/ep    /ep/index.html    200
-/ep/*  /ep/:splat/index.html  200
+# Serve static episode pages explicitly
+/ep        /ep/index.html          200
+/ep/*/     /ep/:splat/index.html   200
+/ep/*      /ep/:splat/index.html   200
 
 # Fallback: SPA routing for everything else
-/*    /index.html   200
+/*         /index.html             200
 
 
