@@ -8,8 +8,9 @@ function generateStaticEpisodes() {
   return {
     name: "generate-static-episodes",
     apply: "build" as const,
-    buildStart() {
-      execSync("node scripts/generate-episodes.mjs", { stdio: "inherit" });
+    closeBundle() {
+      // Generate into the final build output so Cloudflare Pages can serve /ep/:slug/index.html
+      execSync("node scripts/generate-episodes.mjs --outDir dist", { stdio: "inherit" });
     },
   };
 }
