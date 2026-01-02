@@ -60,7 +60,7 @@ const PlatformsSection = () => {
                   Is SEO dead in 2026?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground">
-                  No it isn't but I know a lot of people that want you to think it is dead so they'll have an easier time ranking.
+                  No it isn't but I know a lot of people that want you to think it is dead so they'll have an easier time ranking. GEO is the new SEO.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
