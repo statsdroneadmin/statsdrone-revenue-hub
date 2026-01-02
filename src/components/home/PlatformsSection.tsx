@@ -55,6 +55,14 @@ const PlatformsSection = () => {
                   Contact <a href="https://www.linkedin.com/in/alwayslookright/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">John Wright</a> for rates and how you can also become a marketing partner with our podcast.
                 </AccordionContent>
               </AccordionItem>
+              <AccordionItem value="item-5" className="border-border/50">
+                <AccordionTrigger className="text-left hover:no-underline">
+                  Is SEO dead in 2026?
+                </AccordionTrigger>
+                <AccordionContent className="text-muted-foreground">
+                  No it isn't but I know a lot of people that want you to think it is dead so they'll have an easier time ranking.
+                </AccordionContent>
+              </AccordionItem>
             </Accordion>
           </div>
         </div>
