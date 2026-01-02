@@ -20,7 +20,11 @@ export default function Seo({
 }: SeoProps) {
   const origin = typeof window !== "undefined" ? window.location.origin : "";
   const path = typeof window !== "undefined" ? window.location.pathname : "/";
-  const canonical = origin ? `${origin}${canonicalPath ?? path}` : undefined;
+  
+  // Ensure path always ends with trailing slash for canonical URLs
+  const ensureTrailingSlash = (p: string) => (p.endsWith("/") ? p : `${p}/`);
+  const normalizedPath = ensureTrailingSlash(canonicalPath ?? path);
+  const canonical = origin ? `${origin}${normalizedPath}` : undefined;
 
   return (
     <Helmet>
