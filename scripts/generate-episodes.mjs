@@ -93,7 +93,7 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
   const fullDescription = escapeHtml(episode.description);
   const title = escapeHtml(episode.title);
   const image = episode.image || '/images/podcast-cover.png';
-  const canonicalUrl = `${SITE_BASE_URL}/ep/${slug}`;
+  const canonicalUrl = `${SITE_BASE_URL}/ep/${slug}/`;
   
   return `<!DOCTYPE html>
 <html lang="en">
