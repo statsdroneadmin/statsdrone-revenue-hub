@@ -4,6 +4,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { HelmetProvider } from "react-helmet-async";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import GoogleAnalytics from "./components/analytics/GoogleAnalytics";
 import Index from "./pages/Index";
 import Episodes from "./pages/Episodes";
 import EpisodeDetail from "./pages/EpisodeDetail";
@@ -21,6 +22,7 @@ const App = () => (
         <Toaster />
         <Sonner />
         <BrowserRouter>
+          <GoogleAnalytics />
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/episodes" element={<Episodes />} />
