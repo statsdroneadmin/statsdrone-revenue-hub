@@ -22,6 +22,7 @@ import {
   formatDate,
   formatDuration,
 } from "@/lib/episodeUtils";
+import TranscriptSection from "@/components/episode/TranscriptSection";
 
 const EpisodeDetail = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -196,6 +197,9 @@ const EpisodeDetail = () => {
                 {episode.description}
               </p>
             </div>
+
+            {/* Transcript Section - only shows if transcript.md exists */}
+            {slug && <TranscriptSection slug={slug} />}
 
             {/* Related Episodes */}
             {(previousEpisodes.length > 0 || nextEpisodes.length > 0) && (
