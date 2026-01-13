@@ -165,7 +165,7 @@ const Stats = () => {
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
-              <span className="gradient-text">Podcast Statistics</span>
+              <span className="gradient-text">Podcast Stats</span>
             </h1>
             <p className="text-muted-foreground text-lg">
               Data as of {reportDate}
