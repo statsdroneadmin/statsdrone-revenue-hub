@@ -23,6 +23,7 @@ import {
   formatDuration,
 } from "@/lib/episodeUtils";
 import TranscriptSection from "@/components/episode/TranscriptSection";
+import EpisodeSocialLinks from "@/components/episode/EpisodeSocialLinks";
 
 const EpisodeDetail = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -142,9 +143,12 @@ const EpisodeDetail = () => {
             </div>
 
             {/* Episode Title */}
-            <h1 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-6">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-4">
               {episode.title}
             </h1>
+
+            {/* Social Links - only shows if socials.md exists */}
+            {slug && <EpisodeSocialLinks slug={slug} />}
 
             {/* Episode Meta */}
             <div className="flex flex-wrap items-center justify-center gap-6 text-muted-foreground mb-8">
