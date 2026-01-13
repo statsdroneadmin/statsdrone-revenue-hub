@@ -1,9 +1,9 @@
-# Normalize to trailing slashes (301 redirects)
-/episodes       /episodes/       301
-/affiliate-tools /affiliate-tools/ 301
-/made-with-lovable /made-with-lovable/ 301
-/stats          /stats/          301
-/ep/:slug       /ep/:slug/       301
+# Normalize to trailing slashes (301 redirects) - must come FIRST
+/ep/:slug       /ep/:slug/       301!
+/episodes       /episodes/       301!
+/affiliate-tools /affiliate-tools/ 301!
+/made-with-lovable /made-with-lovable/ 301!
+/stats          /stats/          301!
 
 # Static episode rewrites
 /ep/            /ep/index.html          200
