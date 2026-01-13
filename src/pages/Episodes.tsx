@@ -65,7 +65,7 @@ const Episodes = () => {
           {/* Page Header */}
           <div className="text-center mb-12">
             <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
-              All <span className="gradient-text">Episodes</span>
+              <span className="gradient-text">All Episodes</span>
             </h1>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               Explore our complete archive of episodes featuring insights on
