@@ -224,7 +224,7 @@ const EpisodeDetail = () => {
                         {previousEpisodes.map((ep, index) => (
                           <Link
                             key={index}
-                            to={`/ep/${generateSlug(ep.title)}`}
+                            to={`/ep/${generateSlug(ep.title)}/`}
                             reloadDocument
                             className="group block bg-secondary/50 rounded-xl p-4 border border-border hover:border-accent/50 transition-all duration-300"
                           >
@@ -268,7 +268,7 @@ const EpisodeDetail = () => {
                         {nextEpisodes.map((ep, index) => (
                           <Link
                             key={index}
-                            to={`/ep/${generateSlug(ep.title)}`}
+                            to={`/ep/${generateSlug(ep.title)}/`}
                             reloadDocument
                             className="group block bg-secondary/50 rounded-xl p-4 border border-border hover:border-accent/50 transition-all duration-300"
                           >
