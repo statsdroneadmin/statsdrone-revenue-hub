@@ -102,7 +102,7 @@ const HeroSection = () => {
             
             {latestEpisode && (
               <Link
-                to={`/ep/${latestEpisode.slug}`}
+                to={`/ep/${latestEpisode.slug}/`}
                 className="inline-flex flex-col gap-1 mt-6 p-4 rounded-xl bg-secondary/30 border border-border hover:border-accent/50 hover:bg-secondary/50 transition-all duration-300 max-w-xl mx-auto lg:mx-0"
               >
                 <span className="text-xs text-muted-foreground uppercase tracking-wide">Latest Episode</span>
