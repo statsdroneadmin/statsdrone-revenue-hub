@@ -28,10 +28,13 @@ const MadeWithLovable = () => {
       <main className="container mx-auto px-4 pt-24 md:pt-32 pb-16">
         <article className="max-w-3xl mx-auto">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-8">
-            How I built my podcast website using <LovableLink>Lovable</LovableLink>
+            Built with <LovableLink>Lovable</LovableLink>
           </h1>
 
           <section className="prose prose-invert max-w-none">
+            <p className="text-xl text-muted-foreground mb-6 font-medium">
+              How I built my podcast website using Lovable
+            </p>
             <p className="text-lg text-muted-foreground mb-6">
               So I made this website using <LovableLink>Lovable</LovableLink> and not only that, all updates I'm making to this podcast website are updated with a simple prompt.
             </p>
