@@ -82,9 +82,11 @@ export const formatDuration = (duration: string): string => {
  * Fetch episodes from RSS feed
  */
 export const fetchEpisodes = async (): Promise<Episode[]> => {
+  // Add cache-busting timestamp to ensure returning visitors see new episodes
+  const cacheBuster = Date.now();
   const corsProxies = [
-    (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
-    (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+    (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}&_cb=${cacheBuster}`,
+    (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}&_cb=${cacheBuster}`,
   ];
   
   const feedUrl = "https://feeds.castplus.fm/affiliatebi";
