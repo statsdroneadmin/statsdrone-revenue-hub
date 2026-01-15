@@ -13,11 +13,22 @@ const HeroSection = () => {
   const [episodeCount, setEpisodeCount] = useState<number | null>(null);
   const [latestEpisode, setLatestEpisode] = useState<LatestEpisode | null>(null);
 
-  const getDaysAgo = (dateString: string): number => {
+  const getTimeAgo = (dateString: string): string => {
     const pubDate = new Date(dateString);
     const now = new Date();
-    const diffTime = Math.abs(now.getTime() - pubDate.getTime());
-    return Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    const diffMs = Math.abs(now.getTime() - pubDate.getTime());
+    const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+    if (diffHours < 1) {
+      return 'Published just now';
+    } else if (diffHours < 24) {
+      return diffHours === 1 ? 'Published 1 hour ago' : `Published ${diffHours} hours ago`;
+    } else if (diffDays === 1) {
+      return 'Published 1 day ago';
+    } else {
+      return `Published ${diffDays} days ago`;
+    }
   };
 
   useEffect(() => {
@@ -113,11 +124,7 @@ const HeroSection = () => {
                   {latestEpisode.title}
                 </span>
                 <span className="text-sm text-accent">
-                  {getDaysAgo(latestEpisode.pubDate) === 0 
-                    ? 'Published today' 
-                    : getDaysAgo(latestEpisode.pubDate) === 1 
-                      ? 'Published 1 day ago'
-                      : `Published ${getDaysAgo(latestEpisode.pubDate)} days ago`}
+                  {getTimeAgo(latestEpisode.pubDate)}
                 </span>
               </Link>
             )}
