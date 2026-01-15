@@ -166,9 +166,15 @@ const Episodes = () => {
 
                       {/* Episode Content */}
                       <div className="flex-1 min-w-0">
-                        <h2 className="font-display text-xl font-bold mb-2 group-hover:text-accent transition-colors line-clamp-2">
-                          {episode.title}
-                        </h2>
+                        <Link
+                          to={`/ep/${generateSlug(episode.title)}/`}
+                          reloadDocument
+                          className="block"
+                        >
+                          <h2 className="font-display text-xl font-bold mb-2 group-hover:text-accent transition-colors line-clamp-2">
+                            {episode.title}
+                          </h2>
+                        </Link>
 
                         <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground mb-3">
                           {episode.pubDate && (
