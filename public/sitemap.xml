@@ -32,5 +32,13 @@
     <priority>0.6</priority>
   </url>
   
-  <!-- Episode Pages - Run 'node scripts/generate-episodes.mjs' to populate with all episodes from RSS -->
+  <!-- Episode Pages -->
+  <url>
+    <loc>https://revenueoptimization.io/ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- More episodes - Run 'node scripts/generate-episodes.mjs' to populate with all episodes from RSS -->
 </urlset>
