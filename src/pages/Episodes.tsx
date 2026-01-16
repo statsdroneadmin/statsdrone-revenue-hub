@@ -57,7 +57,7 @@ const Episodes = () => {
   return (
     <div className="min-h-screen bg-background">
       <Seo
-        title="All Episodes | Revenue Optimization"
+        title="All Episodes"
         description="Browse all Revenue Optimization episodes with insights on affiliate marketing, tracking, and conversion optimization."
         canonicalPath="/episodes"
       />
