@@ -87,32 +87,47 @@ export const fetchEpisodes = async (): Promise<Episode[]> => {
   // Add cache-busting timestamp to ensure returning visitors see new episodes
   const cacheBuster = Date.now();
   const corsProxies = [
-    (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}&_cb=${cacheBuster}`,
-    (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}&_cb=${cacheBuster}`,
+    (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+    (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+    (url: string) => `https://cors-anywhere.herokuapp.com/${url}`,
   ];
   
   const feedUrl = "https://feeds.castplus.fm/affiliatebi";
   let text = "";
+  let lastError: Error | null = null;
   
   for (const proxyFn of corsProxies) {
     try {
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 15000); // 15 second timeout
+      const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
       
-      const response = await fetch(proxyFn(feedUrl), { signal: controller.signal });
+      const proxyUrl = proxyFn(feedUrl);
+      console.log(`Trying proxy: ${proxyUrl.substring(0, 50)}...`);
+      
+      const response = await fetch(proxyUrl, { 
+        signal: controller.signal,
+        headers: {
+          'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        }
+      });
       clearTimeout(timeoutId);
       
       if (response.ok) {
         text = await response.text();
+        console.log(`Successfully fetched ${text.length} bytes`);
         break;
+      } else {
+        console.log(`Proxy returned status ${response.status}`);
       }
     } catch (e) {
-      console.log(`Proxy failed, trying next...`, e);
+      lastError = e as Error;
+      console.log(`Proxy failed:`, e);
       continue;
     }
   }
   
   if (!text) {
+    console.error("All proxies failed. Last error:", lastError);
     throw new Error("Failed to fetch episodes from all proxies");
   }
 
