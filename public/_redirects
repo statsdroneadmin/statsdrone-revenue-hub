@@ -9,11 +9,13 @@
 /made-with-lovable /made-with-lovable/ 301!
 /stats          /stats/          301!
 
-# Static episode rewrites
+# Static HTML rewrites (serve pre-rendered content)
+/               /static-index.html      200
+/episodes/      /episodes/index.html    200
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
 
-# Fallback: SPA routing for everything else
+# SPA fallback for other dynamic routes (stats, affiliate-tools, etc.)
 /*              /index.html             200
 
 
