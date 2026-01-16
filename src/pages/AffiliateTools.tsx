@@ -31,7 +31,7 @@ const AffiliateTools = () => {
   return (
     <div className="min-h-screen bg-background">
       <Seo
-        title="Affiliate Tools | Revenue Optimization"
+        title="Affiliate Tools"
         description="Recommended affiliate marketing tools for tracking, link research, and building high-performing affiliate sites."
         canonicalPath="/affiliate-tools"
       />

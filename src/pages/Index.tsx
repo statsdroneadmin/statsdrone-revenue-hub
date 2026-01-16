@@ -10,7 +10,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       <Seo
-        title="Revenue Optimization Podcast | StatsDrone"
+        title="Revenue Optimization Podcast"
         description="Revenue Optimization with StatsDrone: an affiliate marketing podcast hosted by John Wright."
         canonicalPath="/"
       />

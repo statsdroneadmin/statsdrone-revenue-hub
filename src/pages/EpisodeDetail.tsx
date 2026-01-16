@@ -104,7 +104,7 @@ const EpisodeDetail = () => {
   return (
     <div className="min-h-screen bg-background">
       <Seo
-        title={`${episode.title} | Revenue Optimization`}
+        title={episode.title}
         description={episode.description?.slice(0, 155)}
         canonicalPath={`/ep/${slug ?? ""}`}
         image={episode.image}

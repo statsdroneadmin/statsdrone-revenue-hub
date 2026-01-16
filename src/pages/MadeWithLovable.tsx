@@ -18,7 +18,7 @@ const MadeWithLovable = () => {
   return (
     <div className="min-h-screen bg-background">
       <Seo
-        title="Built with Lovable | Revenue Optimization"
+        title="Built with Lovable"
         description="How this Revenue Optimization podcast website was built using Lovable, plus the workflow for updates and SEO."
         canonicalPath="/made-with-lovable"
         image={heroImage}

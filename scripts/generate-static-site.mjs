@@ -157,7 +157,7 @@ function generateHomepageHtml(episodes) {
   <meta name="x-statsdrone-static-page" content="homepage">
   
   <!-- SEO Meta Tags -->
-  <title>Revenue Optimization Podcast | StatsDrone</title>
+  <title>Revenue Optimization Podcast</title>
   <meta name="description" content="Revenue Optimization with StatsDrone: an affiliate marketing podcast hosted by John Wright. Where affiliate marketing uses data, SEO, and AI to gain the unfair advantage.">
   <meta name="keywords" content="affiliate marketing, revenue optimization, SEO, data analytics, podcast, StatsDrone">
   <meta name="author" content="John Wright">
@@ -167,7 +167,7 @@ function generateHomepageHtml(episodes) {
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="${SITE_BASE_URL}/">
-  <meta property="og:title" content="Revenue Optimization Podcast | StatsDrone">
+  <meta property="og:title" content="Revenue Optimization Podcast">
   <meta property="og:description" content="Where affiliate marketing uses data, SEO, and AI to gain the unfair advantage.">
   <meta property="og:image" content="${SITE_BASE_URL}/images/podcast-cover.png">
   <meta property="og:site_name" content="Affiliate BI Podcast">
@@ -175,7 +175,7 @@ function generateHomepageHtml(episodes) {
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="${SITE_BASE_URL}/">
-  <meta name="twitter:title" content="Revenue Optimization Podcast | StatsDrone">
+  <meta name="twitter:title" content="Revenue Optimization Podcast">
   <meta name="twitter:description" content="Where affiliate marketing uses data, SEO, and AI to gain the unfair advantage.">
   <meta name="twitter:image" content="${SITE_BASE_URL}/images/podcast-cover.png">
   
@@ -359,7 +359,7 @@ function generateEpisodesListingHtml(episodes) {
   <meta name="x-statsdrone-static-page" content="episodes">
   
   <!-- SEO Meta Tags -->
-  <title>All Episodes | Revenue Optimization</title>
+  <title>All Episodes</title>
   <meta name="description" content="Browse all ${episodes.length} Revenue Optimization episodes with insights on affiliate marketing, tracking, and conversion optimization.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${SITE_BASE_URL}/episodes/">
@@ -367,14 +367,14 @@ function generateEpisodesListingHtml(episodes) {
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="${SITE_BASE_URL}/episodes/">
-  <meta property="og:title" content="All Episodes | Revenue Optimization">
+  <meta property="og:title" content="All Episodes">
   <meta property="og:description" content="Browse all ${episodes.length} Revenue Optimization episodes with insights on affiliate marketing, tracking, and conversion optimization.">
   <meta property="og:image" content="${SITE_BASE_URL}/images/podcast-cover.png">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="${SITE_BASE_URL}/episodes/">
-  <meta name="twitter:title" content="All Episodes | Revenue Optimization">
+  <meta name="twitter:title" content="All Episodes">
   <meta name="twitter:description" content="Browse all ${episodes.length} episodes">
   <meta name="twitter:image" content="${SITE_BASE_URL}/images/podcast-cover.png">
   
@@ -521,7 +521,7 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
   <meta name="x-statsdrone-static-episode" content="true">
   
   <!-- SEO Meta Tags -->
-  <title>${title} | Revenue Optimization with StatsDrone</title>
+  <title>${title}</title>
   <meta name="description" content="${description}">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${canonicalUrl}">

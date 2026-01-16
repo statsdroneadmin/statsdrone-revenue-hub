@@ -153,7 +153,7 @@ const Stats = () => {
   return (
     <div className="min-h-screen bg-background">
       <Seo
-        title="Podcast Stats | Revenue Optimization"
+        title="Podcast Stats"
         description="Podcast statistics for Revenue Optimization with StatsDrone: downloads, followers, plays, demographics, and top videos."
         canonicalPath="/stats"
         ogType="website"
