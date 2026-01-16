@@ -30,6 +30,8 @@ const OUTPUT_DIR = path.join(OUTPUT_ROOT, 'ep');
 function generateSlug(title) {
   return title
     .toLowerCase()
+    .normalize('NFD')              // Decompose Unicode characters (ü → u + combining mark)
+    .replace(/[\u0300-\u036f]/g, '') // Remove combining diacritical marks
     .replace(/\./g, '-')
     .replace(/[^a-z0-9\s-]/g, '')
     .replace(/\s+/g, '-')

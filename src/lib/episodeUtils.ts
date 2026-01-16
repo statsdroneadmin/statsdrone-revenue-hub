@@ -21,6 +21,8 @@ export interface Episode {
 export const generateSlug = (title: string): string => {
   return title
     .toLowerCase()
+    .normalize('NFD')             // Decompose Unicode characters (ü → u + combining mark)
+    .replace(/[\u0300-\u036f]/g, '') // Remove combining diacritical marks
     .replace(/\./g, '-')          // Replace dots with hyphens
     .replace(/[^a-z0-9\s-]/g, '') // Remove special characters except spaces and hyphens
     .replace(/\s+/g, '-')         // Replace spaces with hyphens
