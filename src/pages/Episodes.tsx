@@ -34,7 +34,9 @@ const Episodes = () => {
   useEffect(() => {
     const loadEpisodes = async () => {
       try {
+        console.log('Starting to fetch episodes...');
         const data = await fetchEpisodes();
+        console.log('Fetched episodes:', data.length);
         // Truncate description for listings
         const truncatedEpisodes = data.map(ep => ({
           ...ep,
@@ -42,8 +44,8 @@ const Episodes = () => {
         }));
         setEpisodes(truncatedEpisodes);
       } catch (err) {
-        setError("Unable to load episodes. Please try again later.");
         console.error("Error fetching RSS feed:", err);
+        setError("Unable to load episodes. Please try again later.");
       } finally {
         setLoading(false);
       }

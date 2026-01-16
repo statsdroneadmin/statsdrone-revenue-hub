@@ -123,14 +123,20 @@ export const fetchEpisodes = async (): Promise<Episode[]> => {
     const pubDate = item.querySelector("pubDate")?.textContent || "";
     const link = item.querySelector("link")?.textContent || "";
     const enclosure = item.querySelector("enclosure");
-    const duration =
-      item.querySelector("duration")?.textContent ||
-      item.getElementsByTagName("itunes:duration")[0]?.textContent ||
-      "";
-    const image =
-      item.querySelector("image")?.getAttribute("href") ||
-      item.getElementsByTagName("itunes:image")[0]?.getAttribute("href") ||
-      "";
+    
+    // Handle itunes:duration - try multiple approaches for cross-browser compatibility
+    let duration = "";
+    const durationElements = item.getElementsByTagName("itunes:duration");
+    if (durationElements.length > 0) {
+      duration = durationElements[0]?.textContent || "";
+    }
+    
+    // Handle itunes:image - try multiple approaches for cross-browser compatibility
+    let image = "";
+    const imageElements = item.getElementsByTagName("itunes:image");
+    if (imageElements.length > 0) {
+      image = imageElements[0]?.getAttribute("href") || "";
+    }
 
     parsedEpisodes.push({
       title,
