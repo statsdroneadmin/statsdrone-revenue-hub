@@ -96,12 +96,18 @@ export const fetchEpisodes = async (): Promise<Episode[]> => {
   
   for (const proxyFn of corsProxies) {
     try {
-      const response = await fetch(proxyFn(feedUrl));
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 15000); // 15 second timeout
+      
+      const response = await fetch(proxyFn(feedUrl), { signal: controller.signal });
+      clearTimeout(timeoutId);
+      
       if (response.ok) {
         text = await response.text();
         break;
       }
-    } catch {
+    } catch (e) {
+      console.log(`Proxy failed, trying next...`, e);
       continue;
     }
   }
@@ -112,6 +118,13 @@ export const fetchEpisodes = async (): Promise<Episode[]> => {
 
   const parser = new DOMParser();
   const xml = parser.parseFromString(text, "text/xml");
+  
+  // Check for XML parsing errors
+  const parseError = xml.querySelector("parsererror");
+  if (parseError) {
+    console.error("XML parsing error:", parseError.textContent);
+    throw new Error("Failed to parse RSS feed");
+  }
   
   const items = xml.querySelectorAll("item");
   const parsedEpisodes: Episode[] = [];
@@ -126,14 +139,24 @@ export const fetchEpisodes = async (): Promise<Episode[]> => {
     
     // Handle itunes:duration - try multiple approaches for cross-browser compatibility
     let duration = "";
-    const durationElements = item.getElementsByTagName("itunes:duration");
+    // Try getElementsByTagNameNS first (proper namespace handling)
+    let durationElements = item.getElementsByTagNameNS("http://www.itunes.com/dtds/podcast-1.0.dtd", "duration");
+    if (durationElements.length === 0) {
+      // Fallback to getElementsByTagName with prefix
+      durationElements = item.getElementsByTagName("itunes:duration");
+    }
     if (durationElements.length > 0) {
       duration = durationElements[0]?.textContent || "";
     }
     
     // Handle itunes:image - try multiple approaches for cross-browser compatibility
     let image = "";
-    const imageElements = item.getElementsByTagName("itunes:image");
+    // Try getElementsByTagNameNS first (proper namespace handling)
+    let imageElements = item.getElementsByTagNameNS("http://www.itunes.com/dtds/podcast-1.0.dtd", "image");
+    if (imageElements.length === 0) {
+      // Fallback to getElementsByTagName with prefix
+      imageElements = item.getElementsByTagName("itunes:image");
+    }
     if (imageElements.length > 0) {
       image = imageElements[0]?.getAttribute("href") || "";
     }
