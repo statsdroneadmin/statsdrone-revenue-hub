@@ -1,4 +1,8 @@
-# Normalize to trailing slashes (301 redirects) - must come FIRST
+# Specific episode redirects (must come FIRST)
+/ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur-vector-search-rankings-and-googles-future /ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur/ 301!
+/ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur-vector-search-rankings-and-googles-future/ /ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur/ 301!
+
+# Normalize to trailing slashes (301 redirects)
 /ep/:slug       /ep/:slug/       301!
 /episodes       /episodes/       301!
 /affiliate-tools /affiliate-tools/ 301!
