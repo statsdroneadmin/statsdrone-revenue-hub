@@ -26,6 +26,43 @@ const OUTPUT_ROOT = OUT_DIR
 
 const OUTPUT_DIR = path.join(OUTPUT_ROOT, 'ep');
 
+// Source directory for transcripts (always in public/)
+const PUBLIC_EP_DIR = path.join(__dirname, '..', 'public', 'ep');
+
+// Convert markdown to simple HTML
+function markdownToHtml(markdown) {
+  if (!markdown) return '';
+  return markdown
+    // Escape HTML first
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    // Convert ## headings to h3
+    .replace(/^## (.+)$/gm, '<h3>$1</h3>')
+    // Convert # headings to h2
+    .replace(/^# (.+)$/gm, '<h2>$1</h2>')
+    // Convert **bold** to strong
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Convert timestamps [00:00:00] to spans
+    .replace(/\[(\d{2}:\d{2}:\d{2})\]/g, '<span class="timestamp">[$1]</span>')
+    // Convert paragraphs (double newlines)
+    .split(/\n\n+/)
+    .map(p => p.trim())
+    .filter(p => p && !p.startsWith('<h'))
+    .map(p => p.startsWith('<h') ? p : `<p>${p.replace(/\n/g, '<br>')}</p>`)
+    .join('\n');
+}
+
+// Read transcript if it exists
+function readTranscript(slug) {
+  const transcriptPath = path.join(PUBLIC_EP_DIR, slug, 'transcript.md');
+  if (fs.existsSync(transcriptPath)) {
+    const content = fs.readFileSync(transcriptPath, 'utf8');
+    return markdownToHtml(content);
+  }
+  return null;
+}
+
 // Generate slug from title
 function generateSlug(title) {
   return title
@@ -89,7 +126,7 @@ function truncate(text, maxLength) {
 }
 
 // Generate HTML for an episode
-function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
+function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null) {
   const slug = generateSlug(episode.title);
   const description = escapeHtml(truncate(episode.description, 160));
   const fullDescription = escapeHtml(episode.description);
@@ -201,7 +238,17 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes) {
           <h2>About This Episode</h2>
           <p>${fullDescription}</p>
         </div>
-        
+
+        ${transcriptHtml ? `
+        <!-- Transcript -->
+        <div class="episode-transcript">
+          <h2>Full Transcript</h2>
+          <div class="transcript-content">
+            ${transcriptHtml}
+          </div>
+        </div>
+        ` : ''}
+
         <!-- Related Episodes -->
         ${(prevEpisodes.length > 0 || nextEpisodes.length > 0) ? `
         <div class="related-episodes">
@@ -373,8 +420,14 @@ async function main() {
       const prevEpisodes = episodes.slice(Math.max(0, i - 3), i).reverse();
       const nextEpisodes = episodes.slice(i + 1, i + 4);
 
+      // Check for transcript
+      const transcriptHtml = readTranscript(slug);
+      if (transcriptHtml) {
+        console.log(`  📝 Found transcript for ${slug}`);
+      }
+
       // Generate HTML
-      const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes);
+      const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml);
 
       // Write file as /public/ep/:slug/index.html so /ep/:slug works without ".html"
       const episodeDir = path.join(OUTPUT_DIR, slug);
