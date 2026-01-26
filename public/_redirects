@@ -16,6 +16,6 @@
 /ep/:slug/      /ep/:slug/index.html    200
 
 # SPA fallback for other dynamic routes (stats, affiliate-tools, etc.)
-/*              /spa.html               200
+/*              /_app/index.html        200
 
 
