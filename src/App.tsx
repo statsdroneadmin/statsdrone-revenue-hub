@@ -26,10 +26,15 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/episodes" element={<Episodes />} />
+            <Route path="/episodes/" element={<Episodes />} />
             <Route path="/affiliate-tools" element={<AffiliateTools />} />
+            <Route path="/affiliate-tools/" element={<AffiliateTools />} />
             <Route path="/made-with-lovable" element={<MadeWithLovable />} />
+            <Route path="/made-with-lovable/" element={<MadeWithLovable />} />
             <Route path="/stats" element={<Stats />} />
+            <Route path="/stats/" element={<Stats />} />
             <Route path="/ep/:slug" element={<EpisodeDetail />} />
+            <Route path="/ep/:slug/" element={<EpisodeDetail />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>
