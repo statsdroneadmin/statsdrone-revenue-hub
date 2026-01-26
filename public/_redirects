@@ -10,7 +10,7 @@
 /stats          /stats/          301!
 
 # Static HTML rewrites (serve pre-rendered content)
-/               /home/index.html        200
+# Homepage is served directly from dist/index.html (copied during build)
 /episodes/      /episodes/index.html    200
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
