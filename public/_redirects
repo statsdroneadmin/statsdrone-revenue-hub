@@ -15,6 +15,12 @@
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
 
+# Static files (must serve directly, not through SPA)
+/sitemap.xml    /sitemap.xml            200
+/llms.txt       /llms.txt               200
+/robots.txt     /robots.txt             200
+/favicon.ico    /favicon.ico            200
+
 # SPA fallback for other dynamic routes (stats, affiliate-tools, etc.)
 /*              /_app/index.html        200
 
