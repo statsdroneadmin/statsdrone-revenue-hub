@@ -10,13 +10,19 @@ function generateStaticEpisodes() {
     name: "generate-static-episodes",
     apply: "build" as const,
     closeBundle() {
-      // Rename Vite's index.html to spa.html so it doesn't override static-index.html routing
+      // Move Vite's index.html to _app/index.html so it doesn't override static-index.html routing
+      // Using a directory avoids Cloudflare's Pretty URLs redirect behavior
       const distDir = path.resolve(__dirname, "dist");
       const spaSource = path.join(distDir, "index.html");
-      const spaDest = path.join(distDir, "spa.html");
+      const appDir = path.join(distDir, "_app");
+      const spaDest = path.join(appDir, "index.html");
+
       if (fs.existsSync(spaSource)) {
+        if (!fs.existsSync(appDir)) {
+          fs.mkdirSync(appDir, { recursive: true });
+        }
         fs.renameSync(spaSource, spaDest);
-        console.log("✅ Renamed dist/index.html to dist/spa.html");
+        console.log("✅ Moved dist/index.html to dist/_app/index.html");
       }
 
       // Generate static episode pages
