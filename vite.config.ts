@@ -25,6 +25,14 @@ function generateStaticEpisodes() {
         console.log("✅ Moved dist/index.html to dist/_app/index.html");
       }
 
+      // Copy static homepage to dist/index.html (so / works without redirects)
+      const staticHomepage = path.join(distDir, "home", "index.html");
+      const rootIndex = path.join(distDir, "index.html");
+      if (fs.existsSync(staticHomepage)) {
+        fs.copyFileSync(staticHomepage, rootIndex);
+        console.log("✅ Copied static homepage to dist/index.html");
+      }
+
       // Generate static episode pages
       execSync("node scripts/generate-episodes.mjs --outDir dist", { stdio: "inherit" });
     },
