@@ -187,6 +187,8 @@ a {
 .podcast-cover {
   position: relative;
   animation: float 6s ease-in-out infinite;
+  max-width: 450px;
+  width: 100%;
 }
 
 .podcast-cover::before {
@@ -201,12 +203,11 @@ a {
 
 .podcast-cover img {
   position: relative;
+  display: block;
   border-radius: 1.5rem;
   box-shadow: var(--shadow-glow);
   width: 100%;
-  max-width: 450px;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
+  height: auto;
 }
 
 @keyframes float {
