@@ -125,6 +125,157 @@ function truncate(text, maxLength) {
   return text.slice(0, maxLength).trim() + '...';
 }
 
+// Generate HTML for the episodes list page
+function generateEpisodesListHtml(episodes) {
+  const title = 'All Episodes';
+  const description = 'Browse all episodes of the Revenue Optimization podcast with StatsDrone.';
+  const canonicalUrl = `${SITE_BASE_URL}/episodes/`;
+
+  const episodeItems = episodes.map(ep => {
+    const slug = generateSlug(ep.title);
+    const image = ep.image || '/images/podcast-cover.png';
+    const desc = escapeHtml(truncate(ep.description, 300));
+    return `
+            <article class="episode-list-item" data-title="${escapeHtml(ep.title).toLowerCase()}" data-description="${desc.toLowerCase()}">
+              <div class="episode-list-row">
+                <a href="/ep/${slug}/" class="episode-list-image">
+                  ${image ? `<img src="${image}" alt="${escapeHtml(ep.title)}" loading="lazy">` : '<div class="episode-image-placeholder">&#9654;</div>'}
+                </a>
+                <div class="episode-list-content">
+                  <a href="/ep/${slug}/" class="episode-list-title-link">
+                    <h2 class="episode-list-title">${escapeHtml(ep.title)}</h2>
+                  </a>
+                  <div class="episode-list-meta">
+                    ${ep.pubDate ? `<span>&#128197; ${formatDate(ep.pubDate)}</span>` : ''}
+                    ${ep.duration ? `<span>&#9201; ${formatDuration(ep.duration)}</span>` : ''}
+                  </div>
+                  <p class="episode-list-description">${desc}</p>
+                  <div class="episode-list-actions">
+                    ${ep.enclosure?.url ? `<a href="${ep.enclosure.url}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm">&#9654; Play Episode</a>` : ''}
+                    <a href="/ep/${slug}/" class="btn btn-secondary btn-sm">View Details</a>
+                  </div>
+                </div>
+              </div>
+            </article>`;
+  }).join('\n');
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-statsdrone-static-episodes" content="true">
+
+  <!-- SEO Meta Tags -->
+  <title>${title} | Revenue Optimization with StatsDrone</title>
+  <meta name="description" content="${description}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="${canonicalUrl}">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="${canonicalUrl}">
+  <meta property="og:title" content="${title} | Revenue Optimization">
+  <meta property="og:description" content="${description}">
+  <meta property="og:site_name" content="Affiliate BI Podcast">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="${canonicalUrl}">
+  <meta name="twitter:title" content="${title} | Revenue Optimization">
+  <meta name="twitter:description" content="${description}">
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="episodes-page">
+    <!-- Header -->
+    <header class="header">
+      <nav class="nav-container">
+        <a href="/" class="logo">Affiliate BI</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="/episodes/" class="active">Episodes</a>
+          <a href="/stats/">Stats</a>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="episodes-content">
+      <div class="container">
+        <div class="episodes-header">
+          <h1 class="page-title"><span class="gradient-text">All Episodes</span></h1>
+          <p class="page-subtitle">
+            Explore our complete archive of episodes featuring insights on
+            revenue optimization and affiliate marketing.
+          </p>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+          <div class="search-input-wrapper">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+            <input type="text" id="episode-search" class="search-input" placeholder="Search episodes by keyword...">
+          </div>
+          <p id="search-results-count" class="search-results-count" style="display:none;"></p>
+        </div>
+
+        <!-- Episodes List -->
+        <div class="episodes-list" id="episodes-list">
+          ${episodeItems}
+        </div>
+
+        <div id="no-results" class="no-results" style="display:none;">
+          <p>No episodes match your search.</p>
+          <button onclick="document.getElementById('episode-search').value='';filterEpisodes();" class="btn btn-secondary">Clear Search</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <p>&copy; ${new Date().getFullYear()} Affiliate BI Podcast. All rights reserved.</p>
+        <div class="footer-links">
+          <a href="/">Home</a>
+          <a href="/episodes/">Episodes</a>
+          <a href="/stats/">Stats</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    function filterEpisodes() {
+      var query = document.getElementById('episode-search').value.toLowerCase().trim();
+      var items = document.querySelectorAll('.episode-list-item');
+      var count = 0;
+      items.forEach(function(item) {
+        var title = item.getAttribute('data-title') || '';
+        var desc = item.getAttribute('data-description') || '';
+        var match = !query || title.indexOf(query) !== -1 || desc.indexOf(query) !== -1;
+        item.style.display = match ? '' : 'none';
+        if (match) count++;
+      });
+      var countEl = document.getElementById('search-results-count');
+      var noResults = document.getElementById('no-results');
+      if (query) {
+        countEl.textContent = 'Found ' + count + ' episode' + (count !== 1 ? 's' : '');
+        countEl.style.display = '';
+        noResults.style.display = count === 0 ? '' : 'none';
+      } else {
+        countEl.style.display = 'none';
+        noResults.style.display = 'none';
+      }
+    }
+    document.getElementById('episode-search').addEventListener('input', filterEpisodes);
+  </script>
+</body>
+</html>`;
+}
+
 // Generate HTML for an episode
 function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null) {
   const slug = generateSlug(episode.title);
@@ -458,7 +609,17 @@ async function main() {
 
     fs.writeFileSync(path.join(OUTPUT_DIR, "index.html"), indexHtml, "utf8");
     console.log("✅ Generated: /ep/index.html (redirect)");
-    
+
+    // Generate episodes list page
+    console.log('\n📋 Generating episodes list page...');
+    const episodesDir = path.join(OUTPUT_ROOT, 'episodes');
+    if (!fs.existsSync(episodesDir)) {
+      fs.mkdirSync(episodesDir, { recursive: true });
+    }
+    const episodesListHtml = generateEpisodesListHtml(episodes);
+    fs.writeFileSync(path.join(episodesDir, 'index.html'), episodesListHtml, 'utf8');
+    console.log('✅ Generated: /episodes/index.html');
+
     // Generate sitemap
     console.log('\n📍 Generating sitemap...');
     const sitemapPath = path.join(OUTPUT_ROOT, 'sitemap.xml');
