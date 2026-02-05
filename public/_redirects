@@ -11,7 +11,7 @@
 
 # Static HTML rewrites (serve pre-rendered content)
 # Homepage is served directly from dist/index.html (copied during build)
-# /episodes/ is handled by SPA (falls through to /* rule)
+/episodes/      /episodes/index.html    200
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
 
