@@ -337,6 +337,15 @@ a {
   margin-bottom: 0.75rem;
 }
 
+.sponsor-logo {
+  width: 100%;
+  height: auto;
+  max-height: 80px;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+  border-radius: 0.5rem;
+}
+
 .sponsor-name {
   font-size: 0.875rem;
   color: var(--muted);
