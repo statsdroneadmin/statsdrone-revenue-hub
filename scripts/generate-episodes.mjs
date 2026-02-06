@@ -385,26 +385,10 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml
         </div>
         
         <!-- Description -->
-        <div class="episode-description" id="episode-description">
+        <div class="episode-description">
           <h2>About This Episode</h2>
-          <div class="description-text" id="description-text">
-            <p>${fullDescription}</p>
-          </div>
-          <button class="read-more-btn" id="read-more-btn" onclick="toggleDescription()">Read More</button>
+          <p>${fullDescription}</p>
         </div>
-        <script>
-          function toggleDescription() {
-            var desc = document.getElementById('description-text');
-            var btn = document.getElementById('read-more-btn');
-            if (desc.classList.contains('expanded')) {
-              desc.classList.remove('expanded');
-              btn.textContent = 'Read More';
-            } else {
-              desc.classList.add('expanded');
-              btn.textContent = 'Show Less';
-            }
-          }
-        </script>
 
         ${transcriptHtml ? `
         <!-- Transcript -->
