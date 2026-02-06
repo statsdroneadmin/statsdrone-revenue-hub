@@ -566,10 +566,6 @@ a {
 /* ============ EPISODE TRANSCRIPT ============ */
 .episode-transcript {
   margin-top: 3rem;
-  padding: 2rem;
-  background: var(--gradient-card);
-  border: 1px solid var(--border);
-  border-radius: 1rem;
 }
 
 .episode-transcript h2 {
@@ -756,10 +752,6 @@ a {
 }
 
 .episode-content .episode-description {
-  background: var(--gradient-card);
-  border: 1px solid var(--border);
-  border-radius: 1rem;
-  padding: 2rem;
   margin-bottom: 2rem;
 }
 
