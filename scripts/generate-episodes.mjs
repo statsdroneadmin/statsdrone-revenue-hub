@@ -523,7 +523,7 @@ ${staticPages.map(page => `  <url>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>
   </url>`).join('\n')}
-  <!-- Episode Pages (auto-generated from RSS feed) -->
+  <!-- Episode Pages (${episodes.length} episodes auto-generated from RSS feed) -->
 ${episodes.map(ep => {
   const slug = generateSlug(ep.title);
   const pubDate = ep.pubDate ? new Date(ep.pubDate).toISOString().split('T')[0] : today;
