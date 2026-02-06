@@ -774,56 +774,10 @@ a {
   color: var(--foreground);
 }
 
-.episode-content .episode-description .description-text {
-  max-height: 200px;
-  overflow: hidden;
-  position: relative;
-  transition: max-height 0.3s ease;
-}
-
-.episode-content .episode-description .description-text::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60px;
-  background: linear-gradient(transparent, rgba(42, 36, 56, 0.95));
-  pointer-events: none;
-}
-
-.episode-content .episode-description .description-text.expanded {
-  max-height: none;
-}
-
-.episode-content .episode-description .description-text.expanded::after {
-  display: none;
-}
-
 .episode-content .episode-description p {
   color: var(--muted);
   line-height: 1.8;
   white-space: pre-line;
-  margin: 0;
-}
-
-.read-more-btn {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.5rem 1.25rem;
-  background: transparent;
-  border: 1px solid var(--border);
-  border-radius: 0.5rem;
-  color: var(--accent-orange);
-  font-size: 0.875rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.read-more-btn:hover {
-  background: var(--background-secondary);
-  border-color: var(--accent-orange);
 }
 
 /* Related Episodes */
