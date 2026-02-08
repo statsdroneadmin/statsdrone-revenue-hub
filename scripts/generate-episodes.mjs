@@ -1001,6 +1001,7 @@ async function main() {
                             <span class="episode-count-number">${totalEpisodes}</span> episodes${totalDownloads ? ` <span class="episode-count-sep">&middot;</span> <span class="episode-count-number">${totalDownloads}</span> downloads` : ''}
                         </div>
                         <a href="/ep/${latestSlug}/" class="latest-episode-link">
+                            <span class="latest-episode-pulse"></span>
                             <span class="latest-episode-label">Latest Episode</span>
                             <span class="latest-episode-title">${latestTitle}</span>
                             <span class="latest-episode-time" data-pubdate="${latestDate}"></span>

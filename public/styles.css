@@ -263,7 +263,14 @@ a {
 }
 
 .latest-episode-link:hover {
-  opacity: 0.8;
+  opacity: 1;
+}
+
+.latest-episode-link:hover .latest-episode-title {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
 }
 
 .latest-episode-label {
@@ -278,10 +285,48 @@ a {
   white-space: nowrap;
 }
 
+.latest-episode-pulse {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+}
+
+.latest-episode-pulse::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 6px 2px var(--accent);
+}
+
+.latest-episode-pulse::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  border: 2px solid var(--accent);
+  opacity: 0;
+  animation: pulse-ring 2s ease-out infinite;
+}
+
+@keyframes pulse-ring {
+  0% {
+    opacity: 0.6;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.8);
+  }
+}
+
 .latest-episode-title {
   font-size: 0.95rem;
   font-weight: 500;
   color: var(--text);
+  transition: text-decoration-color 0.2s;
 }
 
 .latest-episode-time {
