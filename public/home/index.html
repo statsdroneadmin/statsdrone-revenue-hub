@@ -229,6 +229,104 @@
         </div>
     </section>
 
+    <!-- FAQ Section -->
+    <section class="faq-section">
+        <div class="container">
+            <h2 class="section-title text-center mb-4"><span class="gradient-text">Frequently Asked Questions</span></h2>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h2>Who are some of the best known guests on the Revenue Optimization with StatsDrone podcast?</h2>
+                        <span class="faq-icon"></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Lily Ray, Eric Siu, Matt Diggity, Kyle Roof, Fery Kaszoni, Chris Walker, Mark Wright, Clemence Dujardin, Koray Tu&#287;berk G&Uuml;B&Uuml;R, James Dooley, Craig Campbell, Kasra Dash, Karl Hudson and many more. There are over 100 episodes recorded since August 2023.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h2>Is SEO dead in 2026?</h2>
+                        <span class="faq-icon"></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>I definitely don't believe so. I talk to affiliates that have given up on SEO because Google hasn't been kind to them and I also talk to numerous SEO professionals that tell me, this is the best time to be in SEO and affiliate marketing today.</p>
+                        <p>Listen to the episodes and use this as your unfair advantage. There is a lot of SEO wisdom being shared and a lot of it is evergreen too.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h2>Why did you create this affiliate marketing podcast?</h2>
+                        <span class="faq-icon"></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>I wanted to share conversations that were happening at conferences but nobody was publishing. I've had some fascinating convos over the years and I wanted to document these discussions of what people are both talking about and the things they are working on. For me to get the pulse of the affiliate marketing industry, I get to interview a wide array of people and that includes people that work in AI, data, Business Intelligence and analytics.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h2>If I wanted to get started in affiliate marketing in 2026, what should I do?</h2>
+                        <span class="faq-icon"></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>I would love to say that listening to this podcast would answer everything you need, but it won't. My best answer is to network, try new things, fail and if you're lucky, gain some mentors along the way. Find a topic you're passionate about and create a useful product or service that can stand on its own without needing to be fully reliant on search engines like Google.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+    (function() {
+      document.querySelectorAll('.faq-question').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var item = this.parentElement;
+          var isOpen = item.classList.contains('open');
+          document.querySelectorAll('.faq-item.open').forEach(function(el) { el.classList.remove('open'); el.querySelector('.faq-question').setAttribute('aria-expanded', 'false'); });
+          if (!isOpen) { item.classList.add('open'); this.setAttribute('aria-expanded', 'true'); }
+        });
+      });
+    })();
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who are some of the best known guests on the Revenue Optimization with StatsDrone podcast?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lily Ray, Eric Siu, Matt Diggity, Kyle Roof, Fery Kaszoni, Chris Walker, Mark Wright, Clemence Dujardin, Koray Tuğberk GÜBÜR, James Dooley, Craig Campbell, Kasra Dash, Karl Hudson and many more. There are over 100 episodes recorded since August 2023."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is SEO dead in 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I definitely don't believe so. I talk to affiliates that have given up on SEO because Google hasn't been kind to them and I also talk to numerous SEO professionals that tell me, this is the best time to be in SEO and affiliate marketing today. Listen to the episodes and use this as your unfair advantage. There is a lot of SEO wisdom being shared and a lot of it is evergreen too."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did you create this affiliate marketing podcast?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I wanted to share conversations that were happening at conferences but nobody was publishing. I've had some fascinating convos over the years and I wanted to document these discussions of what people are both talking about and the things they are working on. For me to get the pulse of the affiliate marketing industry, I get to interview a wide array of people and that includes people that work in AI, data, Business Intelligence and analytics."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "If I wanted to get started in affiliate marketing in 2026, what should I do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "My best answer is to network, try new things, fail and if you're lucky, gain some mentors along the way. Find a topic you're passionate about and create a useful product or service that can stand on its own without needing to be fully reliant on search engines like Google."
+          }
+        }
+      ]
+    }
+    </script>
+
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
