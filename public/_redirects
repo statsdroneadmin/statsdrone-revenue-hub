@@ -18,6 +18,7 @@
 /episodes/      /episodes/index.html    200
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
+/stats/         /stats/index.html       200
 
 # Static files (must serve directly, not through SPA)
 /sitemap.xml    /sitemap.xml            200
