@@ -244,6 +244,79 @@ a {
   }
 }
 
+/* ============ LATEST EPISODE BANNER ============ */
+.latest-episode-banner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.latest-episode-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  text-decoration: none;
+  color: var(--text);
+  transition: opacity 0.2s;
+}
+
+.latest-episode-link:hover {
+  opacity: 0.8;
+}
+
+.latest-episode-label {
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 1rem;
+  white-space: nowrap;
+}
+
+.latest-episode-title {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.latest-episode-time {
+  font-size: 0.85rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.episode-count-badge {
+  font-size: 0.85rem;
+  color: var(--muted);
+  border-left: 1px solid var(--border);
+  padding-left: 1rem;
+  white-space: nowrap;
+}
+
+.episode-count-number {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+@media (max-width: 768px) {
+  .latest-episode-banner {
+    justify-content: center;
+    text-align: center;
+  }
+  .latest-episode-link {
+    justify-content: center;
+  }
+  .episode-count-badge {
+    border-left: none;
+    padding-left: 0;
+  }
+}
+
 /* ============ PLATFORMS SECTION ============ */
 .platforms-section {
   background-color: rgba(35, 31, 48, 0.5);
@@ -883,6 +956,423 @@ a {
   .footer .container {
     flex-direction: column;
     text-align: center;
+  }
+}
+
+/* ============ STATS DASHBOARD ============ */
+.stats-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.stats-content {
+  flex: 1;
+  padding: 2rem 0 4rem;
+}
+
+.stats-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.stats-header h1 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.stats-subtitle {
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.stats-comparison {
+  color: var(--muted);
+  opacity: 0.5;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+/* Key Metrics */
+.stats-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  overflow: hidden;
+  margin-bottom: 2.5rem;
+}
+
+.stats-metric {
+  background: var(--background-secondary);
+  padding: 1.5rem;
+}
+
+.stats-metric-label {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.stats-metric-value {
+  display: block;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--foreground);
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.stats-change {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.stats-change.positive {
+  color: #34d399;
+}
+
+.stats-change.negative {
+  color: #f87171;
+}
+
+.stats-delta {
+  font-size: 0.75rem;
+  color: var(--muted);
+  opacity: 0.6;
+  margin-left: 0.5rem;
+}
+
+/* Platform Cards */
+.stats-platforms {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.stats-platform {
+  background: var(--background-secondary);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.stats-platform-accent {
+  height: 3px;
+}
+
+.stats-platform-body {
+  padding: 1.25rem;
+}
+
+.stats-platform-name {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  color: var(--foreground);
+}
+
+.stats-platform-name svg {
+  width: 18px;
+  height: 18px;
+}
+
+.stats-platform-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.stats-platform-row:last-child {
+  border-bottom: none;
+}
+
+.stats-row-label {
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.stats-row-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stats-row-number {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--foreground);
+}
+
+/* Section titles */
+.stats-section-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--foreground);
+  margin-bottom: 1.25rem;
+}
+
+/* Demographics */
+.stats-demographics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.stats-card {
+  background: var(--background-secondary);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+
+/* Age bars */
+.stats-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.stats-bar-row:last-child {
+  margin-bottom: 0;
+}
+
+.stats-bar-label {
+  width: 3rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.stats-bar-track {
+  flex: 1;
+  height: 8px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.stats-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  background: var(--accent-orange);
+}
+
+.stats-bar-value {
+  width: 3.5rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--foreground);
+  flex-shrink: 0;
+}
+
+/* Donut chart */
+.stats-donut-wrap {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.stats-donut {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.stats-donut-hole {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background: var(--background-secondary);
+}
+
+.stats-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.stats-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.stats-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.stats-legend-pct {
+  font-weight: 600;
+  color: var(--foreground);
+  margin-right: 0.25rem;
+}
+
+/* Country tables */
+.stats-tables {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.stats-table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 1rem;
+}
+
+.stats-table-header h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.stats-table-label {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.stats-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.stats-table td {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.875rem;
+}
+
+.stats-table tr:last-child td {
+  border-bottom: none;
+}
+
+.stats-table .stats-td-name {
+  color: var(--foreground);
+}
+
+.stats-table .stats-td-value {
+  text-align: right;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.stats-table .stats-td-rank {
+  color: var(--muted);
+  width: 1.5rem;
+  font-size: 0.8rem;
+}
+
+/* YouTube videos */
+.stats-yt-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.stats-yt-table th {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  padding: 0 0 0.75rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+
+.stats-yt-table th.text-right {
+  text-align: right;
+}
+
+.stats-yt-table td {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  font-size: 0.875rem;
+}
+
+.stats-yt-table .yt-rank {
+  color: var(--muted);
+  width: 2rem;
+}
+
+.stats-yt-table .yt-title {
+  color: var(--foreground);
+  padding-right: 1rem;
+}
+
+.stats-yt-table .yt-views {
+  text-align: right;
+  font-weight: 500;
+  color: var(--foreground);
+}
+
+.stats-yt-table .yt-hours,
+.stats-yt-table .yt-date {
+  text-align: right;
+  color: var(--muted);
+}
+
+/* Stats responsive */
+@media (max-width: 768px) {
+  .stats-metrics {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .stats-metric-value {
+    font-size: 1.75rem;
+  }
+  .stats-platforms {
+    grid-template-columns: 1fr;
+  }
+  .stats-demographics {
+    grid-template-columns: 1fr;
+  }
+  .stats-donut-wrap {
+    flex-direction: column;
+  }
+  .stats-tables {
+    grid-template-columns: 1fr;
+  }
+  .stats-header h1 {
+    font-size: 2rem;
+  }
+  .stats-yt-table .yt-hours,
+  .stats-yt-table .yt-date {
+    display: none;
   }
 }
 

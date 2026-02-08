@@ -539,6 +539,354 @@ ${episodes.map(ep => {
   return sitemap;
 }
 
+// Parse Apple's oddly-formatted country/city data
+function parseAppleData(raw) {
+  if (!raw || raw.length === 0) return [];
+  const result = [];
+  const first = raw[0];
+  const keys = Object.keys(first);
+  const nameKey = keys.find(k => isNaN(parseFloat(k)));
+  const valueKey = keys.find(k => !isNaN(parseFloat(k)));
+  if (!nameKey || !valueKey) return [];
+  result.push({ name: nameKey, value: parseFloat(valueKey) });
+  for (const item of raw) {
+    const name = String(item[nameKey]);
+    const value = Number(item[valueKey]);
+    if (!result.find(r => r.name === name)) {
+      result.push({ name, value });
+    }
+  }
+  return result.sort((a, b) => b.value - a.value);
+}
+
+// Generate static stats dashboard page
+function generateStatsPage(outputRoot) {
+  const jsonPath = path.join(__dirname, '..', 'public', 'data', 'revenue_data_all_sheets_dec_31_2025.json');
+  if (!fs.existsSync(jsonPath)) {
+    console.log('  ⚠️ Stats JSON not found, skipping stats page');
+    return;
+  }
+  const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+  const s = data.Sheet1;
+  const p = data.PreviousSnapshot;
+
+  const fmt = (n) => Number(n).toLocaleString('en-US');
+  const pct = (cur, prev) => {
+    if (!prev) return '';
+    const c = ((cur - prev) / prev) * 100;
+    if (c === 0) return '';
+    const cls = c > 0 ? 'positive' : 'negative';
+    const arrow = c > 0 ? '&#8593;' : '&#8595;';
+    return `<span class="stats-change ${cls}">${arrow}&thinsp;${Math.abs(c).toFixed(1)}%</span>`;
+  };
+  const dlt = (cur, prev) => {
+    const d = cur - prev;
+    if (d <= 0) return '';
+    return `<span class="stats-delta">+${fmt(d)}</span>`;
+  };
+
+  const reportDate = new Date(s.Date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  const prevDate = p ? new Date(p.Date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+
+  const totalFollowers = s["Spotify Followers"] + s["Apple Podcast Followers"] + s["YouTube Subscribers"];
+  const pFollowers = p ? p["Spotify Followers"] + p["Apple Podcast Followers"] + p["YouTube Subscribers"] : 0;
+  const totalPlays = s["Spotify Plays"] + s["Apple Podcast Plays"] + s["YouTube Views"];
+  const pPlays = p ? p["Spotify Plays"] + p["Apple Podcast Plays"] + p["YouTube Views"] : 0;
+  const totalHours = Math.round(s["Spotify Hours"] + s["Apple Podcast Hours"] + s["YouTube Watchtime Hours"]);
+  const pHours = p ? Math.round(p["Spotify Hours"] + p["Apple Podcast Hours"] + p["YouTube Watchtime Hours"]) : 0;
+
+  const spotifyTop = (data["Spotify Countries"] || []).slice(0, 10);
+  const appleCountries = parseAppleData(data["Apple Podcast Countries"] || []);
+  const appleCities = parseAppleData(data["Apple Podcast Cities"] || []);
+
+  const ages = [
+    { label: '18-22', val: s["Spotify age 18-22"] * 100 },
+    { label: '23-27', val: s["Spotify age 23-27"] * 100 },
+    { label: '28-34', val: s["Spotify age 28-34"] * 100 },
+    { label: '35-44', val: s["Spotify age 35-44"] * 100 },
+    { label: '45-59', val: s["Spotify age 45-59"] * 100 },
+    { label: '60+', val: s["Spotify age 60+"] * 100 },
+  ];
+  const maxAge = Math.max(...ages.map(a => a.val));
+
+  const male = s["Spotify Male %"] * 100;
+  const female = s["Spotify Female %"] * 100;
+  const gOther = s["Spotify Gender Not Defined %"] * 100;
+  const maleDeg = (male / 100) * 360;
+  const femaleDeg = maleDeg + (female / 100) * 360;
+
+  const ytTop = (data["YouTube "] || []).slice(0, 10);
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Podcast Stats | Revenue Optimization with StatsDrone</title>
+  <meta name="description" content="Podcast analytics dashboard for Revenue Optimization with StatsDrone. ${fmt(s.Downloads)} downloads across ${(data["Spotify Countries"] || []).length} countries.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="${SITE_BASE_URL}/stats/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="${SITE_BASE_URL}/stats/">
+  <meta property="og:title" content="Podcast Stats | Revenue Optimization">
+  <meta property="og:description" content="Podcast analytics: ${fmt(s.Downloads)} downloads, ${totalFollowers} followers across Spotify, Apple Podcasts, and YouTube.">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="stats-page">
+    <header class="header">
+      <nav class="nav-container">
+        <a href="/" class="logo">Revenue Optimization</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="/episodes/">Episodes</a>
+          <a href="/stats/" class="active">Stats</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="stats-content">
+      <div class="container">
+        <div class="stats-header">
+          <h1><span class="gradient-text">Podcast Stats</span></h1>
+          <p class="stats-subtitle">Data as of ${reportDate}</p>
+          ${prevDate ? `<p class="stats-comparison">Growth since ${prevDate}</p>` : ''}
+        </div>
+
+        <!-- Key Metrics -->
+        <div class="stats-metrics">
+          <div class="stats-metric">
+            <span class="stats-metric-label">Total Downloads</span>
+            <span class="stats-metric-value">${fmt(s.Downloads)}</span>
+            ${p ? pct(s.Downloads, p.Downloads) + dlt(s.Downloads, p.Downloads) : ''}
+          </div>
+          <div class="stats-metric">
+            <span class="stats-metric-label">Followers</span>
+            <span class="stats-metric-value">${fmt(totalFollowers)}</span>
+            ${p ? pct(totalFollowers, pFollowers) + dlt(totalFollowers, pFollowers) : ''}
+          </div>
+          <div class="stats-metric">
+            <span class="stats-metric-label">Total Plays</span>
+            <span class="stats-metric-value">${fmt(totalPlays)}</span>
+            ${p ? pct(totalPlays, pPlays) + dlt(totalPlays, pPlays) : ''}
+          </div>
+          <div class="stats-metric">
+            <span class="stats-metric-label">Watch Hours</span>
+            <span class="stats-metric-value">${fmt(totalHours)}</span>
+            ${p ? pct(totalHours, pHours) + dlt(totalHours, pHours) : ''}
+          </div>
+        </div>
+
+        <!-- Platform Breakdown -->
+        <div class="stats-platforms">
+          <div class="stats-platform">
+            <div class="stats-platform-accent" style="background:#1DB954"></div>
+            <div class="stats-platform-body">
+              <div class="stats-platform-name">
+                <svg viewBox="0 0 24 24" fill="#1DB954"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+                Spotify
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Followers</span>
+                <span class="stats-row-right"><span class="stats-row-number">${s["Spotify Followers"]}</span>${p ? pct(s["Spotify Followers"], p["Spotify Followers"]) : ''}</span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Plays</span>
+                <span class="stats-row-right"><span class="stats-row-number">${fmt(s["Spotify Plays"])}</span>${p ? pct(s["Spotify Plays"], p["Spotify Plays"]) : ''}</span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Hours</span>
+                <span class="stats-row-right"><span class="stats-row-number">${s["Spotify Hours"]}</span>${p ? pct(s["Spotify Hours"], p["Spotify Hours"]) : ''}</span>
+              </div>
+            </div>
+          </div>
+          <div class="stats-platform">
+            <div class="stats-platform-accent" style="background:#D56DFB"></div>
+            <div class="stats-platform-body">
+              <div class="stats-platform-name">
+                <svg viewBox="0 0 24 24" fill="#D56DFB"><path d="M5.34 0A5.328 5.328 0 0 0 0 5.34v13.32A5.328 5.328 0 0 0 5.34 24h13.32A5.328 5.328 0 0 0 24 18.66V5.34A5.328 5.328 0 0 0 18.66 0H5.34zm6.525 2.568c4.992 0 9.066 4.074 9.066 9.066 0 5.013-4.074 9.09-9.066 9.09-5.01 0-9.09-4.077-9.09-9.09 0-4.992 4.08-9.066 9.09-9.066z"/></svg>
+                Apple Podcasts
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Followers</span>
+                <span class="stats-row-right"><span class="stats-row-number">${s["Apple Podcast Followers"]}</span></span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Plays</span>
+                <span class="stats-row-right"><span class="stats-row-number">${fmt(s["Apple Podcast Plays"])}</span>${p ? pct(s["Apple Podcast Plays"], p["Apple Podcast Plays"]) : ''}</span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Hours</span>
+                <span class="stats-row-right"><span class="stats-row-number">${s["Apple Podcast Hours"]}</span>${p ? pct(s["Apple Podcast Hours"], p["Apple Podcast Hours"]) : ''}</span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Listeners</span>
+                <span class="stats-row-right"><span class="stats-row-number">${s["Apple Podcast Listeners"]}</span>${p ? pct(s["Apple Podcast Listeners"], p["Apple Podcast Listeners"]) : ''}</span>
+              </div>
+            </div>
+          </div>
+          <div class="stats-platform">
+            <div class="stats-platform-accent" style="background:#FF0000"></div>
+            <div class="stats-platform-body">
+              <div class="stats-platform-name">
+                <svg viewBox="0 0 24 24" fill="#FF0000"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                YouTube
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Subscribers</span>
+                <span class="stats-row-right"><span class="stats-row-number">${s["YouTube Subscribers"]}</span>${p ? pct(s["YouTube Subscribers"], p["YouTube Subscribers"]) : ''}</span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Views</span>
+                <span class="stats-row-right"><span class="stats-row-number">${fmt(s["YouTube Views"])}</span>${p ? pct(s["YouTube Views"], p["YouTube Views"]) : ''}</span>
+              </div>
+              <div class="stats-platform-row">
+                <span class="stats-row-label">Watch Hours</span>
+                <span class="stats-row-right"><span class="stats-row-number">${Math.round(s["YouTube Watchtime Hours"])}</span>${p ? pct(s["YouTube Watchtime Hours"], p["YouTube Watchtime Hours"]) : ''}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Demographics -->
+        <div class="stats-demographics">
+          <div class="stats-card">
+            <h2 class="stats-section-title">Spotify Age Demographics</h2>
+            ${ages.map(a => `<div class="stats-bar-row">
+              <span class="stats-bar-label">${a.label}</span>
+              <div class="stats-bar-track"><div class="stats-bar-fill" style="width:${(a.val / maxAge * 100).toFixed(0)}%"></div></div>
+              <span class="stats-bar-value">${a.val.toFixed(1)}%</span>
+            </div>`).join('\n            ')}
+          </div>
+          <div class="stats-card">
+            <h2 class="stats-section-title">Spotify Gender Split</h2>
+            <div class="stats-donut-wrap">
+              <div class="stats-donut" style="background:conic-gradient(var(--accent-orange) 0deg ${maleDeg.toFixed(1)}deg, #D56DFB ${maleDeg.toFixed(1)}deg ${femaleDeg.toFixed(1)}deg, #64748b ${femaleDeg.toFixed(1)}deg 360deg);-webkit-mask:radial-gradient(circle,transparent 48%,black 49%);mask:radial-gradient(circle,transparent 48%,black 49%)">
+              </div>
+              <div class="stats-legend">
+                <div class="stats-legend-item">
+                  <span class="stats-legend-dot" style="background:var(--accent-orange)"></span>
+                  <span class="stats-legend-pct">${male.toFixed(1)}%</span> Male
+                </div>
+                <div class="stats-legend-item">
+                  <span class="stats-legend-dot" style="background:#D56DFB"></span>
+                  <span class="stats-legend-pct">${female.toFixed(1)}%</span> Female
+                </div>
+                <div class="stats-legend-item">
+                  <span class="stats-legend-dot" style="background:#64748b"></span>
+                  <span class="stats-legend-pct">${gOther.toFixed(1)}%</span> Other
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Country Tables -->
+        <div class="stats-tables">
+          <div class="stats-card">
+            <div class="stats-table-header">
+              <h2>Top Countries</h2>
+              <span class="stats-table-label">Spotify Streams</span>
+            </div>
+            <table class="stats-table">
+              <tbody>
+                ${spotifyTop.map((c, i) => `<tr>
+                  <td class="stats-td-rank">${i + 1}</td>
+                  <td class="stats-td-name">${escapeHtml(c.Country)}</td>
+                  <td class="stats-td-value">${fmt(c.Streams)}</td>
+                </tr>`).join('\n                ')}
+              </tbody>
+            </table>
+          </div>
+          <div class="stats-card">
+            <div class="stats-table-header">
+              <h2>Top Countries</h2>
+              <span class="stats-table-label">Apple Listeners</span>
+            </div>
+            <table class="stats-table">
+              <tbody>
+                ${appleCountries.slice(0, 10).map((c, i) => `<tr>
+                  <td class="stats-td-rank">${i + 1}</td>
+                  <td class="stats-td-name">${escapeHtml(c.name)}</td>
+                  <td class="stats-td-value">${fmt(c.value)}</td>
+                </tr>`).join('\n                ')}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        ${appleCities.length > 0 ? `
+        <!-- Cities -->
+        <div class="stats-tables" style="margin-bottom:2.5rem">
+          <div class="stats-card">
+            <div class="stats-table-header">
+              <h2>Top Cities</h2>
+              <span class="stats-table-label">Apple Listeners</span>
+            </div>
+            <table class="stats-table">
+              <tbody>
+                ${appleCities.slice(0, 10).map((c, i) => `<tr>
+                  <td class="stats-td-rank">${i + 1}</td>
+                  <td class="stats-td-name">${escapeHtml(c.name)}</td>
+                  <td class="stats-td-value">${fmt(c.value)}</td>
+                </tr>`).join('\n                ')}
+              </tbody>
+            </table>
+          </div>
+          <div></div>
+        </div>
+        ` : ''}
+
+        <!-- Top YouTube Videos -->
+        <div class="stats-card">
+          <h2 class="stats-section-title">Top YouTube Videos</h2>
+          <div style="overflow-x:auto">
+            <table class="stats-yt-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Video</th>
+                  <th class="text-right">Views</th>
+                  <th class="text-right">Hours</th>
+                  <th class="text-right">Published</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${ytTop.map((v, i) => `<tr>
+                  <td class="yt-rank">${i + 1}</td>
+                  <td class="yt-title">${escapeHtml(v["Video title"])}</td>
+                  <td class="yt-views">${fmt(v.Views)}</td>
+                  <td class="yt-hours">${v["Watch time (hours)"].toFixed(1)}</td>
+                  <td class="yt-date">${new Date(v["Video publish time"]).toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}</td>
+                </tr>`).join('\n                ')}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>&copy; ${new Date().getFullYear()} StatsDrone. All rights reserved.</p>
+        <div class="footer-links">
+          <a href="/">Home</a>
+          <a href="/episodes/">Episodes</a>
+          <a href="/stats/">Stats</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>`;
+
+  const statsDir = path.join(outputRoot, 'stats');
+  if (!fs.existsSync(statsDir)) fs.mkdirSync(statsDir, { recursive: true });
+  fs.writeFileSync(path.join(statsDir, 'index.html'), html, 'utf8');
+  console.log('✅ Generated: /stats/index.html');
+}
+
 // Main function
 async function main() {
   console.log('🎙️ Generating static episode pages and sitemap...\n');
@@ -626,7 +974,56 @@ async function main() {
     const sitemap = generateSitemap(episodes);
     fs.writeFileSync(sitemapPath, sitemap, 'utf8');
     console.log(`✅ Generated: ${sitemapPath} with ${episodes.length} episodes`);
-    
+
+    // Inject latest episode info into homepage
+    const homepagePath = path.join(OUTPUT_ROOT, 'index.html');
+    if (fs.existsSync(homepagePath) && episodes.length > 0) {
+      console.log('\n🏠 Injecting latest episode into homepage...');
+      let homepageHtml = fs.readFileSync(homepagePath, 'utf8');
+      const latestEp = episodes[0];
+      const latestSlug = generateSlug(latestEp.title);
+      const latestTitle = escapeHtml(latestEp.title);
+      const latestDate = latestEp.pubDate ? new Date(latestEp.pubDate).toISOString() : '';
+      const totalEpisodes = episodes.length;
+
+      const latestEpisodeHtml = `<div class="latest-episode-banner mt-4">
+                        <a href="/ep/${latestSlug}/" class="latest-episode-link">
+                            <span class="latest-episode-label">Latest Episode</span>
+                            <span class="latest-episode-title">${latestTitle}</span>
+                            <span class="latest-episode-time" data-pubdate="${latestDate}"></span>
+                        </a>
+                        <div class="episode-count-badge">
+                            <span class="episode-count-number">${totalEpisodes}</span> episodes
+                        </div>
+                    </div>
+                    <script>
+                    (function() {
+                      var el = document.querySelector('.latest-episode-time');
+                      if (!el) return;
+                      var pubDate = new Date(el.getAttribute('data-pubdate'));
+                      var now = new Date();
+                      var diffMs = now - pubDate;
+                      var diffMins = Math.floor(diffMs / 60000);
+                      var diffHours = Math.floor(diffMs / 3600000);
+                      var diffDays = Math.floor(diffMs / 86400000);
+                      var text = '';
+                      if (diffDays > 0) text = diffDays + ' day' + (diffDays !== 1 ? 's' : '') + ' ago';
+                      else if (diffHours > 0) text = diffHours + ' hour' + (diffHours !== 1 ? 's' : '') + ' ago';
+                      else text = diffMins + ' min' + (diffMins !== 1 ? 's' : '') + ' ago';
+                      el.textContent = '\\u00B7 ' + text;
+                    })();
+                    </script>`;
+
+      homepageHtml = homepageHtml.replace('<!-- LATEST_EPISODE_PLACEHOLDER -->', latestEpisodeHtml);
+      fs.writeFileSync(homepagePath, homepageHtml, 'utf8');
+      console.log(`✅ Injected latest episode: ${latestEp.title}`);
+      console.log(`✅ Total episodes: ${totalEpisodes}`);
+    }
+
+    // Generate stats dashboard page
+    console.log('\n📊 Generating stats page...');
+    generateStatsPage(OUTPUT_ROOT);
+
     console.log('\n🎉 All done! Run this script whenever you publish new episodes.');
     
   } catch (error) {
