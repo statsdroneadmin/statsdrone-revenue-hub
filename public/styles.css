@@ -303,6 +303,11 @@ a {
   color: var(--accent);
 }
 
+.episode-count-sep {
+  margin: 0 0.15rem;
+  opacity: 0.5;
+}
+
 @media (max-width: 768px) {
   .latest-episode-banner {
     justify-content: center;

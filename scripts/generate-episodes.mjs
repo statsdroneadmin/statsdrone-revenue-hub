@@ -986,6 +986,16 @@ async function main() {
       const latestDate = latestEp.pubDate ? new Date(latestEp.pubDate).toISOString() : '';
       const totalEpisodes = episodes.length;
 
+      // Read downloads total from stats JSON
+      const statsJsonPath = path.join(__dirname, '..', 'public', 'data', 'revenue_data_all_sheets_dec_31_2025.json');
+      let totalDownloads = '';
+      if (fs.existsSync(statsJsonPath)) {
+        const statsData = JSON.parse(fs.readFileSync(statsJsonPath, 'utf8'));
+        if (statsData.Sheet1 && statsData.Sheet1.Downloads) {
+          totalDownloads = Number(statsData.Sheet1.Downloads).toLocaleString('en-US');
+        }
+      }
+
       const latestEpisodeHtml = `<div class="latest-episode-banner mt-4">
                         <a href="/ep/${latestSlug}/" class="latest-episode-link">
                             <span class="latest-episode-label">Latest Episode</span>
@@ -993,7 +1003,7 @@ async function main() {
                             <span class="latest-episode-time" data-pubdate="${latestDate}"></span>
                         </a>
                         <div class="episode-count-badge">
-                            <span class="episode-count-number">${totalEpisodes}</span> episodes
+                            <span class="episode-count-number">${totalEpisodes}</span> episodes${totalDownloads ? ` <span class="episode-count-sep">&middot;</span> <span class="episode-count-number">${totalDownloads}</span> downloads` : ''}
                         </div>
                     </div>
                     <script>
