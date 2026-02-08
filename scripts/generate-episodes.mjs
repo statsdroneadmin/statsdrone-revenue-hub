@@ -997,14 +997,14 @@ async function main() {
       }
 
       const latestEpisodeHtml = `<div class="latest-episode-banner mt-4">
+                        <div class="episode-count-badge">
+                            <span class="episode-count-number">${totalEpisodes}</span> episodes${totalDownloads ? ` <span class="episode-count-sep">&middot;</span> <span class="episode-count-number">${totalDownloads}</span> downloads` : ''}
+                        </div>
                         <a href="/ep/${latestSlug}/" class="latest-episode-link">
                             <span class="latest-episode-label">Latest Episode</span>
                             <span class="latest-episode-title">${latestTitle}</span>
                             <span class="latest-episode-time" data-pubdate="${latestDate}"></span>
                         </a>
-                        <div class="episode-count-badge">
-                            <span class="episode-count-number">${totalEpisodes}</span> episodes${totalDownloads ? ` <span class="episode-count-sep">&middot;</span> <span class="episode-count-number">${totalDownloads}</span> downloads` : ''}
-                        </div>
                     </div>
                     <script>
                     (function() {
