@@ -15,6 +15,15 @@ const __dirname = path.dirname(__filename);
 const RSS_FEED_URL = 'https://feeds.castplus.fm/affiliatebi';
 const SITE_BASE_URL = 'https://revenueoptimization.io';
 
+const GA_SNIPPET = `<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L30V57C011"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-L30V57C011');
+</script>`;
+
 // Where to write generated files.
 // - Default: /public (useful for local preview)
 // - Build: pass --outDir dist so Cloudflare Pages serves static HTML at /ep/:slug/
@@ -162,6 +171,7 @@ function generateEpisodesListHtml(episodes) {
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
+${GA_SNIPPET}
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="x-statsdrone-static-episodes" content="true">
@@ -288,6 +298,7 @@ function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
+${GA_SNIPPET}
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="x-statsdrone-static-episode" content="true">
@@ -620,6 +631,7 @@ function generateStatsPage(outputRoot) {
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
+${GA_SNIPPET}
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Podcast Stats | Revenue Optimization with StatsDrone</title>
@@ -946,6 +958,7 @@ async function main() {
     const indexHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
+${GA_SNIPPET}
   <meta charset="UTF-8">
   <meta http-equiv="refresh" content="0; url=/episodes">
   <title>Episodes | Revenue Optimization</title>
