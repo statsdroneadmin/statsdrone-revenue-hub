@@ -467,43 +467,105 @@ a {
   display: block;
 }
 
-.sub-sponsor {
-  display: inline-flex;
+/* Top 10 iGaming Affiliate Programs Grid */
+.top10-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.top10-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  background-color: rgba(35, 31, 48, 0.5);
+  background: var(--gradient-card);
   border: 1px solid var(--border);
-  border-radius: 0.5rem;
+  border-radius: 1rem;
+  padding: 1.25rem 0.75rem;
   transition: all 0.3s ease;
-  margin: 0.25rem;
+  text-decoration: none;
 }
 
-.sub-sponsor:hover {
-  background-color: var(--background-secondary);
+.top10-card:hover {
   border-color: rgba(249, 115, 22, 0.5);
+  box-shadow: var(--shadow-accent);
+  transform: translateY(-2px);
 }
 
-.sub-sponsor-icon {
-  width: 20px;
-  height: 20px;
-  background-color: var(--background);
-  border-radius: 4px;
+.top10-rank {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.65rem;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--accent);
+  background: rgba(249, 115, 22, 0.12);
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.75rem;
-  font-weight: 700;
-  color: var(--muted);
+  line-height: 1;
 }
 
-.sub-sponsor-name {
-  font-size: 0.875rem;
-  color: var(--muted);
+.top10-logo {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  border-radius: 0.5rem;
 }
 
-.sub-sponsor:hover .sub-sponsor-name {
+.top10-name {
+  font-size: 0.8rem;
+  font-weight: 500;
   color: var(--foreground);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.top10-placeholder {
+  border-style: dashed;
+  opacity: 0.5;
+}
+
+.top10-placeholder:hover {
+  opacity: 1;
+}
+
+.top10-placeholder-icon {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.75rem;
+  font-weight: 300;
+  color: var(--muted);
+  border: 1px dashed var(--border);
+  border-radius: 0.5rem;
+}
+
+.top10-placeholder .top10-name {
+  color: var(--muted);
+}
+
+@media (max-width: 768px) {
+  .top10-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .top10-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 /* ============ EPISODES PAGE ============ */
