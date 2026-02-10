@@ -169,6 +169,30 @@ function siteNavbar(activePage) {
   </nav>`;
 }
 
+function siteFooter() {
+  const year = new Date().getFullYear();
+  return `<footer class="footer">
+    <div class="container">
+      <div class="row align-items-center text-center text-md-start">
+        <div class="col-md-4 mb-3 mb-md-0">
+          <div class="footer-brand">
+            <span class="gradient-text">Revenue Optimization</span> with StatsDrone
+          </div>
+          <p class="footer-tagline">Optimizing revenue, one episode at a time.</p>
+        </div>
+        <div class="col-md-4 mb-3 mb-md-0 text-center">
+          <a href="/" class="footer-link">Home</a>
+          <a href="/episodes/" class="footer-link">Episodes</a>
+          <a href="/stats/" class="footer-link">Stats</a>
+        </div>
+        <div class="col-md-4 text-md-end">
+          <p class="footer-copyright mb-0">&copy; ${year} StatsDrone. All rights reserved.</p>
+        </div>
+      </div>
+    </div>
+  </footer>`;
+}
+
 function escapeHtml(text) {
   if (!text) return '';
   return text
@@ -286,17 +310,7 @@ ${GA_SNIPPET}
       </div>
     </main>
 
-    <!-- Footer -->
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; ${new Date().getFullYear()} Affiliate BI Podcast. All rights reserved.</p>
-        <div class="footer-links">
-          <a href="/">Home</a>
-          <a href="/episodes/">Episodes</a>
-          <a href="/stats/">Stats</a>
-        </div>
-      </div>
-    </footer>
+    ${siteFooter()}
   </div>
 
   <script>
@@ -486,17 +500,7 @@ ${GA_SNIPPET}
       </div>
     </main>
 
-    <!-- Footer -->
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; ${new Date().getFullYear()} Affiliate BI Podcast. All rights reserved.</p>
-        <div class="footer-links">
-          <a href="/">Home</a>
-          <a href="/episodes">Episodes</a>
-          <a href="/stats">Stats</a>
-        </div>
-      </div>
-    </footer>
+    ${siteFooter()}
   </div>
   ${BOOTSTRAP_JS}
 </body>
@@ -906,16 +910,7 @@ ${GA_SNIPPET}
       </div>
     </main>
 
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; ${new Date().getFullYear()} StatsDrone. All rights reserved.</p>
-        <div class="footer-links">
-          <a href="/">Home</a>
-          <a href="/episodes/">Episodes</a>
-          <a href="/stats/">Stats</a>
-        </div>
-      </div>
-    </footer>
+    ${siteFooter()}
   </div>
   ${BOOTSTRAP_JS}
 </body>
