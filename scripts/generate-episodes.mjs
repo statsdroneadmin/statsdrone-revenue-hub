@@ -52,6 +52,8 @@ function markdownToHtml(markdown) {
     .replace(/^# (.+)$/gm, '<h2>$1</h2>')
     // Convert **bold** to strong
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Convert markdown links [text](url) to anchor tags (before timestamp regex)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
     // Convert timestamps [00:00:00] to spans
     .replace(/\[(\d{2}:\d{2}:\d{2})\]/g, '<span class="timestamp">[$1]</span>')
     // Convert paragraphs (double newlines)
