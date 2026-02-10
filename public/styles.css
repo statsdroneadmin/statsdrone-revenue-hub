@@ -946,9 +946,35 @@ img.top10-logo {
 }
 
 .episode-content .episode-description h2 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
   color: var(--foreground);
+}
+
+.episode-socials {
+  margin-top: 3rem;
+}
+
+.episode-socials h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--foreground);
+}
+
+.socials-content a {
+  display: inline-block;
+  color: var(--accent);
+  text-decoration: none;
+  margin-right: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  transition: opacity 0.2s;
+}
+
+.socials-content a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  opacity: 0.85;
 }
 
 .episode-content .episode-description p {
