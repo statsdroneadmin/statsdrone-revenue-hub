@@ -118,6 +118,17 @@ function formatDuration(duration) {
 }
 
 // Escape HTML
+function decodeXmlEntities(text) {
+  if (!text) return '';
+  return text
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'")
+    .replace(/&apos;/g, "'");
+}
+
 function escapeHtml(text) {
   if (!text) return '';
   return text
@@ -489,8 +500,8 @@ function parseRssFeed(xml) {
       return m ? m[1] : '';
     };
     
-    const title = getTag('title');
-    const description = getTag('description').replace(/<[^>]*>/g, '');
+    const title = decodeXmlEntities(getTag('title'));
+    const description = decodeXmlEntities(getTag('description').replace(/<[^>]*>/g, ''));
     const pubDate = getTag('pubDate');
     const link = getTag('link');
     const duration = getTag('itunes:duration') || getTag('duration');
