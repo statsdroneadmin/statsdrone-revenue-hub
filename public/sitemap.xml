@@ -3,35 +3,41 @@
   <!-- Static Pages -->
   <url>
     <loc>https://revenueoptimization.io/</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/episodes</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/stats</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-tools</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/made-with-lovable</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <!-- Episode Pages (auto-generated from RSS feed) -->
+  <!-- Episode Pages (127 episodes auto-generated from RSS feed) -->
+  <url>
+    <loc>https://revenueoptimization.io/ep/affiliate-networks-2-0-why-services-data-amp-relationships-matter-with-alessandro-gherardi/</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://revenueoptimization.io/ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur/</loc>
     <lastmod>2026-01-14</lastmod>
