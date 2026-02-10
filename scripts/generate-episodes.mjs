@@ -129,6 +129,46 @@ function decodeXmlEntities(text) {
     .replace(/&apos;/g, "'");
 }
 
+const BOOTSTRAP_CSS = '<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">';
+const BOOTSTRAP_JS = '<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>';
+
+function siteNavbar(activePage) {
+  return `<nav class="navbar navbar-expand-lg navbar-custom fixed-top">
+    <div class="container">
+      <div class="navbar-brand-icons d-flex align-items-center gap-3">
+        <a href="https://open.spotify.com/show/0nTNXugQTY4Ww8JiSULeiu" target="_blank" rel="noopener noreferrer" title="Listen on Spotify" class="nav-platform-icon">
+          <img src="/images/spotify-icon.svg" alt="Spotify" width="28" height="28">
+        </a>
+        <a href="https://podcasts.apple.com/ca/podcast/revenue-optimization-with-statsdrone/id1700893670" target="_blank" rel="noopener noreferrer" title="Listen on Apple Podcasts" class="nav-platform-icon">
+          <img src="/images/apple-podcasts-icon.svg" alt="Apple Podcasts" width="28" height="28">
+        </a>
+        <a href="https://www.youtube.com/watch?v=NKHxEFxKXXA&list=PLxACGKJVEhOk31EcEPhnao6O1SSpu8Qaa" target="_blank" rel="noopener noreferrer" title="Watch on YouTube" class="nav-platform-icon">
+          <img src="/images/youtube-icon.svg" alt="YouTube" width="32" height="22">
+        </a>
+      </div>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav align-items-center">
+          <li class="nav-item">
+            <a class="nav-link${activePage === 'home' ? ' active' : ''}" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link${activePage === 'episodes' ? ' active' : ''}" href="/episodes/">Episodes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link${activePage === 'stats' ? ' active' : ''}" href="/stats/">Stats</a>
+          </li>
+          <li class="nav-item ms-lg-3">
+            <a class="btn btn-accent" href="/#platforms">Listen Now</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>`;
+}
+
 function escapeHtml(text) {
   if (!text) return '';
   return text
@@ -207,21 +247,12 @@ ${GA_SNIPPET}
   <meta name="twitter:description" content="${description}">
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  ${BOOTSTRAP_CSS}
   <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <div class="episodes-page">
-    <!-- Header -->
-    <header class="header">
-      <nav class="nav-container">
-        <a href="/" class="logo">Affiliate BI</a>
-        <div class="nav-links">
-          <a href="/">Home</a>
-          <a href="/episodes/" class="active">Episodes</a>
-          <a href="/stats/">Stats</a>
-        </div>
-      </nav>
-    </header>
+    ${siteNavbar('episodes')}
 
     <!-- Main Content -->
     <main class="episodes-content">
@@ -293,6 +324,7 @@ ${GA_SNIPPET}
     }
     document.getElementById('episode-search').addEventListener('input', filterEpisodes);
   </script>
+  ${BOOTSTRAP_JS}
 </body>
 </html>`;
 }
@@ -364,21 +396,12 @@ ${GA_SNIPPET}
   </script>
   
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  ${BOOTSTRAP_CSS}
   <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <div class="episode-page">
-    <!-- Header -->
-    <header class="header">
-      <nav class="nav-container">
-        <a href="/" class="logo">Affiliate BI</a>
-        <div class="nav-links">
-          <a href="/">Home</a>
-          <a href="/episodes">Episodes</a>
-          <a href="/stats">Stats</a>
-        </div>
-      </nav>
-    </header>
+    ${siteNavbar('episodes')}
 
     <!-- Main Content -->
     <main class="episode-content">
@@ -475,6 +498,7 @@ ${GA_SNIPPET}
       </div>
     </footer>
   </div>
+  ${BOOTSTRAP_JS}
 </body>
 </html>`;
 }
@@ -654,20 +678,12 @@ ${GA_SNIPPET}
   <meta property="og:title" content="Podcast Stats | Revenue Optimization">
   <meta property="og:description" content="Podcast analytics: ${fmt(s.Downloads)} downloads, ${totalFollowers} followers across Spotify, Apple Podcasts, and YouTube.">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  ${BOOTSTRAP_CSS}
   <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <div class="stats-page">
-    <header class="header">
-      <nav class="nav-container">
-        <a href="/" class="logo">Revenue Optimization</a>
-        <div class="nav-links">
-          <a href="/">Home</a>
-          <a href="/episodes/">Episodes</a>
-          <a href="/stats/" class="active">Stats</a>
-        </div>
-      </nav>
-    </header>
+    ${siteNavbar('stats')}
 
     <main class="stats-content">
       <div class="container">
@@ -901,6 +917,7 @@ ${GA_SNIPPET}
       </div>
     </footer>
   </div>
+  ${BOOTSTRAP_JS}
 </body>
 </html>`;
 
