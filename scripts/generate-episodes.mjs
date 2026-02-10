@@ -72,6 +72,16 @@ function readTranscript(slug) {
   return null;
 }
 
+// Read socials if it exists
+function readSocials(slug) {
+  const socialsPath = path.join(PUBLIC_EP_DIR, slug, 'socials.md');
+  if (fs.existsSync(socialsPath)) {
+    const content = fs.readFileSync(socialsPath, 'utf8');
+    return markdownToHtml(content);
+  }
+  return null;
+}
+
 // Generate slug from title
 function generateSlug(title) {
   return title
@@ -344,7 +354,7 @@ ${GA_SNIPPET}
 }
 
 // Generate HTML for an episode
-function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null) {
+function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null, socialsHtml = null) {
   const slug = generateSlug(episode.title);
   const description = escapeHtml(truncate(episode.description, 160));
   const fullDescription = escapeHtml(episode.description);
@@ -448,6 +458,16 @@ ${GA_SNIPPET}
           <h2>About This Episode</h2>
           <p>${fullDescription}</p>
         </div>
+
+        ${socialsHtml ? `
+        <!-- Guest Socials -->
+        <div class="episode-socials">
+          <h2>Guest Links &amp; Socials</h2>
+          <div class="socials-content">
+            ${socialsHtml}
+          </div>
+        </div>
+        ` : ''}
 
         ${transcriptHtml ? `
         <!-- Transcript -->
@@ -954,14 +974,18 @@ async function main() {
       const prevEpisodes = episodes.slice(Math.max(0, i - 3), i).reverse();
       const nextEpisodes = episodes.slice(i + 1, i + 4);
 
-      // Check for transcript
+      // Check for transcript and socials
       const transcriptHtml = readTranscript(slug);
       if (transcriptHtml) {
         console.log(`  📝 Found transcript for ${slug}`);
       }
+      const socialsHtml = readSocials(slug);
+      if (socialsHtml) {
+        console.log(`  🔗 Found socials for ${slug}`);
+      }
 
       // Generate HTML
-      const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml);
+      const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml, socialsHtml);
 
       // Write file as /public/ep/:slug/index.html so /ep/:slug works without ".html"
       const episodeDir = path.join(OUTPUT_DIR, slug);
