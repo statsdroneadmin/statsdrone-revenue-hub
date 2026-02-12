@@ -172,9 +172,6 @@ function siteNavbar(activePage) {
           <li class="nav-item">
             <a class="nav-link${activePage === 'stats' ? ' active' : ''}" href="/stats/">Stats</a>
           </li>
-          <li class="nav-item ms-lg-3">
-            <a class="btn btn-accent" href="/#platforms">Listen Now</a>
-          </li>
         </ul>
       </div>
     </div>
