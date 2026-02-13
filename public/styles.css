@@ -1825,6 +1825,17 @@ img.top10-logo {
   margin-top: 3rem;
   padding-top: 2rem;
   border-top: 1px solid var(--border);
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+}
+
+.blog-author-photo {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
 .blog-author-label {
@@ -1843,6 +1854,18 @@ img.top10-logo {
   font-weight: 700;
   color: var(--foreground);
   margin: 0 0 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.blog-author-linkedin {
+  color: rgba(255,255,255,0.5);
+  transition: color 0.2s;
+  display: inline-flex;
+}
+.blog-author-linkedin:hover {
+  color: #0a66c2;
 }
 
 .blog-author-desc {
