@@ -488,6 +488,37 @@ a {
   display: block;
 }
 
+/* Sponsor Cards - square with full-bleed logos */
+.sponsor-card-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.sponsor-card {
+  display: block;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  border-radius: 1rem;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  transition: all 0.3s ease;
+}
+
+.sponsor-card:hover {
+  border-color: rgba(249, 115, 22, 0.5);
+  box-shadow: var(--shadow-accent);
+  transform: translateY(-2px);
+}
+
+.sponsor-card-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 /* Top 10 iGaming Affiliate Programs Grid */
 .top10-grid {
   display: grid;
