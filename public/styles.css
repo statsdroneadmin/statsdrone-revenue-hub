@@ -1618,6 +1618,25 @@ img.top10-logo {
   font-size: 0.9rem;
 }
 
+/* ============ INLINE TOP 10 & FAQ (for article pages) ============ */
+.top10-inline {
+  margin: 2rem 0 2.5rem;
+}
+.top10-inline-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.faq-inline {
+  margin: 2.5rem 0;
+  padding: 0;
+}
+
 /* ============ BLOG ============ */
 .blog-page {
   min-height: 100vh;
