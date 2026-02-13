@@ -1571,6 +1571,46 @@ img.top10-logo {
   }
 }
 
+/* ============ AFFILIATE TOOLS ============ */
+.affiliate-tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.affiliate-tool-card {
+  display: block;
+  background: linear-gradient(135deg, rgba(139,92,246,0.08), rgba(249,115,22,0.06));
+  border: 1px solid rgba(139,92,246,0.15);
+  border-radius: 1rem;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+.affiliate-tool-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(249,115,22,0.15);
+}
+.affiliate-tool-name {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+.affiliate-tool-desc {
+  color: rgba(255,255,255,0.7);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+.affiliate-tool-link {
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
 /* ============ BLOG ============ */
 .blog-page {
   min-height: 100vh;

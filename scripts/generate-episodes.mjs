@@ -173,6 +173,9 @@ function siteNavbar(activePage) {
             <a class="nav-link${activePage === 'stats' ? ' active' : ''}" href="/stats/">Stats</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link${activePage === 'tools' ? ' active' : ''}" href="/affiliate-tools/">Tools</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link${activePage === 'blog' ? ' active' : ''}" href="/blog/">Blog</a>
           </li>
         </ul>
@@ -196,6 +199,7 @@ function siteFooter() {
           <a href="/" class="footer-link">Home</a>
           <a href="/episodes/" class="footer-link">Episodes</a>
           <a href="/stats/" class="footer-link">Stats</a>
+          <a href="/affiliate-tools/" class="footer-link">Tools</a>
           <a href="/blog/" class="footer-link">Blog</a>
         </div>
         <div class="col-md-4 text-md-end">
