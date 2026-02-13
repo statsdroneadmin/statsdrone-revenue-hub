@@ -12,6 +12,8 @@
 /affiliate-tools /affiliate-tools/ 301!
 /made-with-lovable /made-with-lovable/ 301!
 /stats          /stats/          301!
+/blog           /blog/           301!
+/blog/:slug     /blog/:slug/     301!
 
 # Static HTML rewrites (serve pre-rendered content)
 # Homepage is served directly from dist/index.html (copied during build)
@@ -19,6 +21,8 @@
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
 /stats/         /stats/index.html       200
+/blog/          /blog/index.html        200
+/blog/:slug/    /blog/:slug/index.html  200
 
 # Static files (must serve directly, not through SPA)
 /sitemap.xml    /sitemap.xml            200

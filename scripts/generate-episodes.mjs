@@ -172,6 +172,9 @@ function siteNavbar(activePage) {
           <li class="nav-item">
             <a class="nav-link${activePage === 'stats' ? ' active' : ''}" href="/stats/">Stats</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link${activePage === 'blog' ? ' active' : ''}" href="/blog/">Blog</a>
+          </li>
         </ul>
       </div>
     </div>
@@ -193,6 +196,7 @@ function siteFooter() {
           <a href="/" class="footer-link">Home</a>
           <a href="/episodes/" class="footer-link">Episodes</a>
           <a href="/stats/" class="footer-link">Stats</a>
+          <a href="/blog/" class="footer-link">Blog</a>
         </div>
         <div class="col-md-4 text-md-end">
           <p class="footer-copyright mb-0">&copy; ${year} StatsDrone. All rights reserved.</p>
@@ -581,6 +585,8 @@ function generateSitemap(episodes) {
     { loc: '/stats', changefreq: 'weekly', priority: '0.8' },
     { loc: '/affiliate-tools', changefreq: 'monthly', priority: '0.7' },
     { loc: '/made-with-lovable', changefreq: 'monthly', priority: '0.6' },
+    { loc: '/blog/', changefreq: 'weekly', priority: '0.8' },
+    { loc: '/blog/how-i-built-my-podcast-website-in-lovable/', changefreq: 'monthly', priority: '0.7' },
   ];
   
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
