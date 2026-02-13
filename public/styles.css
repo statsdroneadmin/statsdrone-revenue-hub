@@ -731,10 +731,17 @@ img.top10-logo {
   margin-top: 0.25rem;
 }
 
+.footer-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
 .footer-link {
   font-size: 0.875rem;
   color: var(--muted);
-  margin: 0 1rem;
+  text-decoration: none;
+  display: block;
 }
 
 .footer-link:hover {

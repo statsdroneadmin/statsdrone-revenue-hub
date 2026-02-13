@@ -195,12 +195,14 @@ function siteFooter() {
           </div>
           <p class="footer-tagline">Optimizing revenue, one episode at a time.</p>
         </div>
-        <div class="col-md-4 mb-3 mb-md-0 text-center">
-          <a href="/" class="footer-link">Home</a>
-          <a href="/episodes/" class="footer-link">Episodes</a>
-          <a href="/stats/" class="footer-link">Stats</a>
-          <a href="/affiliate-tools/" class="footer-link">Tools</a>
-          <a href="/blog/" class="footer-link">Blog</a>
+        <div class="col-md-4 mb-3 mb-md-0 text-center text-md-start">
+          <nav class="footer-nav">
+            <a href="/" class="footer-link">Home</a>
+            <a href="/episodes/" class="footer-link">Episodes</a>
+            <a href="/stats/" class="footer-link">Stats</a>
+            <a href="/affiliate-tools/" class="footer-link">Tools</a>
+            <a href="/blog/" class="footer-link">Blog</a>
+          </nav>
         </div>
         <div class="col-md-4 text-md-end">
           <p class="footer-copyright mb-0">&copy; ${year} StatsDrone. All rights reserved.</p>
