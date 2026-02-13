@@ -596,6 +596,8 @@ function generateSitemap(episodes) {
     { loc: '/made-with-lovable', changefreq: 'monthly', priority: '0.6' },
     { loc: '/blog/', changefreq: 'weekly', priority: '0.8' },
     { loc: '/blog/how-i-built-my-podcast-website-in-lovable/', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/affiliate-programs/', changefreq: 'monthly', priority: '0.8' },
+    { loc: '/affiliate-programs/casino/', changefreq: 'monthly', priority: '0.7' },
   ];
   
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
