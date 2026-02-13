@@ -364,7 +364,10 @@ ${GA_SNIPPET}
 function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null, socialsHtml = null) {
   const slug = generateSlug(episode.title);
   const description = escapeHtml(truncate(episode.description, 160));
-  const fullDescription = escapeHtml(episode.description);
+  const fullDescription = episode.description
+    .split(/\n\s*\n/)
+    .map(p => `<p>${escapeHtml(p.trim()).replace(/\n/g, '<br>')}</p>`)
+    .join('\n          ');
   const title = escapeHtml(episode.title);
   const image = episode.image || '/images/podcast-cover.png';
   const canonicalUrl = `${SITE_BASE_URL}/ep/${slug}/`;
@@ -463,7 +466,7 @@ ${GA_SNIPPET}
         <!-- Description -->
         <div class="episode-description">
           <h2>About This Episode</h2>
-          <p>${fullDescription}</p>
+          ${fullDescription}
         </div>
 
         ${socialsHtml ? `
