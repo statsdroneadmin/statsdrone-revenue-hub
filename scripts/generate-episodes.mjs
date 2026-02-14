@@ -178,6 +178,12 @@ function siteNavbar(activePage) {
           <li class="nav-item">
             <a class="nav-link${activePage === 'blog' ? ' active' : ''}" href="/blog/">Blog</a>
           </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link${activePage === 'affiliate' ? ' active' : ''}" href="/affiliate-programs/">Affiliate</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/affiliate-programs/casino/">Casino Affiliate Programs</a></li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div>
