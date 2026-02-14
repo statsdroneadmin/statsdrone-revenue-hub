@@ -153,34 +153,56 @@
           <!-- Poll -->
           <div class="poll-widget" id="poll-casino-important" data-poll-id="casino-important">
             <h3 class="poll-question">When working with a casino affiliate program, what is most important to you?</h3>
-            <div class="poll-options">
-              <button class="poll-option" data-option="0">Programs that don't shave</button>
-              <button class="poll-option" data-option="1">Has dynamic variables or postbacks</button>
-              <button class="poll-option" data-option="2">Has helpful and knowledgeable affiliate managers</button>
+
+            <!-- Voting view -->
+            <div class="poll-voting">
+              <label class="poll-option">
+                <input type="radio" name="poll-casino" value="0">
+                <span class="poll-radio"></span>
+                <span class="poll-option-text">Programs that don't shave</span>
+              </label>
+              <label class="poll-option">
+                <input type="radio" name="poll-casino" value="1">
+                <span class="poll-radio"></span>
+                <span class="poll-option-text">Has dynamic variables or postbacks</span>
+              </label>
+              <label class="poll-option">
+                <input type="radio" name="poll-casino" value="2">
+                <span class="poll-radio"></span>
+                <span class="poll-option-text">Has helpful and knowledgeable affiliate managers</span>
+              </label>
+              <div class="poll-footer">
+                <span class="poll-total-votes"></span>
+                <button class="poll-vote-btn" disabled>Vote</button>
+              </div>
             </div>
+
+            <!-- Results view (hidden until voted) -->
             <div class="poll-results" style="display:none;">
               <div class="poll-result-item" data-option="0">
                 <div class="poll-result-label">
-                  <span class="poll-result-text">Programs that don't shave</span>
                   <span class="poll-result-pct">0%</span>
+                  <span class="poll-result-text">Programs that don't shave</span>
                 </div>
                 <div class="poll-result-bar"><div class="poll-result-fill"></div></div>
               </div>
               <div class="poll-result-item" data-option="1">
                 <div class="poll-result-label">
-                  <span class="poll-result-text">Has dynamic variables or postbacks</span>
                   <span class="poll-result-pct">0%</span>
+                  <span class="poll-result-text">Has dynamic variables or postbacks</span>
                 </div>
                 <div class="poll-result-bar"><div class="poll-result-fill"></div></div>
               </div>
               <div class="poll-result-item" data-option="2">
                 <div class="poll-result-label">
-                  <span class="poll-result-text">Has helpful and knowledgeable affiliate managers</span>
                   <span class="poll-result-pct">0%</span>
+                  <span class="poll-result-text">Has helpful and knowledgeable affiliate managers</span>
                 </div>
                 <div class="poll-result-bar"><div class="poll-result-fill"></div></div>
               </div>
-              <p class="poll-total"></p>
+              <div class="poll-footer">
+                <span class="poll-total-votes"></span>
+              </div>
             </div>
           </div>
           <script>
@@ -188,44 +210,78 @@
             var widget = document.getElementById('poll-casino-important');
             var pollId = widget.dataset.pollId;
             var voted = localStorage.getItem('poll-voted-' + pollId);
+            var voteBtn = widget.querySelector('.poll-vote-btn');
+            var selectedOption = null;
 
-            function showResults(votes) {
+            function showResults(votes, myVote) {
               var total = 0;
-              for (var k in votes) total += votes[k];
-              widget.querySelector('.poll-options').style.display = 'none';
+              var maxCount = 0;
+              for (var k in votes) {
+                total += votes[k];
+                if (votes[k] > maxCount) maxCount = votes[k];
+              }
+              widget.querySelector('.poll-voting').style.display = 'none';
               widget.querySelector('.poll-results').style.display = 'block';
               widget.querySelectorAll('.poll-result-item').forEach(function(item) {
                 var opt = item.dataset.option;
                 var count = votes[opt] || 0;
                 var pct = total > 0 ? Math.round((count / total) * 100) : 0;
                 item.querySelector('.poll-result-pct').textContent = pct + '%';
-                item.querySelector('.poll-result-fill').style.width = pct + '%';
+                // Highlight the winner bar
+                var fill = item.querySelector('.poll-result-fill');
+                fill.style.width = pct + '%';
+                if (count === maxCount && count > 0) {
+                  fill.classList.add('poll-fill-winner');
+                }
+                // Mark user's selection
+                if (opt === myVote) {
+                  item.querySelector('.poll-result-text').insertAdjacentHTML('afterend', '<span class="poll-check">&#10003;</span>');
+                }
               });
-              widget.querySelector('.poll-total').textContent = total + ' vote' + (total !== 1 ? 's' : '');
+              widget.querySelectorAll('.poll-total-votes').forEach(function(el) {
+                el.textContent = 'Total Votes: ' + total;
+              });
             }
 
-            if (voted) {
-              fetch('/api/poll?id=' + pollId)
-                .then(function(r) { return r.json(); })
-                .then(function(d) { showResults(d.votes); })
-                .catch(function() {});
-            }
+            // Fetch current total for display before voting
+            fetch('/api/poll?id=' + pollId)
+              .then(function(r) { return r.json(); })
+              .then(function(d) {
+                var total = 0;
+                for (var k in d.votes) total += d.votes[k];
+                widget.querySelectorAll('.poll-total-votes').forEach(function(el) {
+                  el.textContent = 'Total Votes: ' + total;
+                });
+                if (voted) {
+                  showResults(d.votes, voted);
+                }
+              })
+              .catch(function() {});
 
-            widget.querySelectorAll('.poll-option').forEach(function(btn) {
-              btn.addEventListener('click', function() {
-                var option = this.dataset.option;
-                fetch('/api/poll', {
-                  method: 'POST',
-                  headers: { 'Content-Type': 'application/json' },
-                  body: JSON.stringify({ id: pollId, option: option })
-                })
-                .then(function(r) { return r.json(); })
-                .then(function(d) {
-                  localStorage.setItem('poll-voted-' + pollId, option);
-                  showResults(d.votes);
-                })
-                .catch(function() {});
+            // Radio selection
+            widget.querySelectorAll('.poll-option input').forEach(function(radio) {
+              radio.addEventListener('change', function() {
+                selectedOption = this.value;
+                voteBtn.disabled = false;
               });
+            });
+
+            // Vote button
+            voteBtn.addEventListener('click', function() {
+              if (!selectedOption) return;
+              voteBtn.disabled = true;
+              voteBtn.textContent = 'Voting...';
+              fetch('/api/poll', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ id: pollId, option: selectedOption })
+              })
+              .then(function(r) { return r.json(); })
+              .then(function(d) {
+                localStorage.setItem('poll-voted-' + pollId, selectedOption);
+                showResults(d.votes, selectedOption);
+              })
+              .catch(function() { voteBtn.disabled = false; voteBtn.textContent = 'Vote'; });
             });
           })();
           </script>
