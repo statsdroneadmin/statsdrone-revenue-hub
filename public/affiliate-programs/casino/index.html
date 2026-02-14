@@ -244,7 +244,7 @@
             }
 
             // Fetch current total for display before voting
-            fetch('/api/poll?id=' + pollId)
+            fetch('/api/poll/?id=' + pollId)
               .then(function(r) { return r.json(); })
               .then(function(d) {
                 var total = 0;
@@ -271,7 +271,7 @@
               if (!selectedOption) return;
               voteBtn.disabled = true;
               voteBtn.textContent = 'Voting...';
-              fetch('/api/poll', {
+              fetch('/api/poll/', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ id: pollId, option: selectedOption })
