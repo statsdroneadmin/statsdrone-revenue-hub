@@ -150,6 +150,86 @@
             <p>Coming soon &mdash; what to look for in payment history, negative carryover policies, cookie duration and affiliate manager support.</p>
           </div>
 
+          <!-- Poll -->
+          <div class="poll-widget" id="poll-casino-important" data-poll-id="casino-important">
+            <h3 class="poll-question">When working with a casino affiliate program, what is most important to you?</h3>
+            <div class="poll-options">
+              <button class="poll-option" data-option="0">Programs that don't shave</button>
+              <button class="poll-option" data-option="1">Has dynamic variables or postbacks</button>
+              <button class="poll-option" data-option="2">Has helpful and knowledgeable affiliate managers</button>
+            </div>
+            <div class="poll-results" style="display:none;">
+              <div class="poll-result-item" data-option="0">
+                <div class="poll-result-label">
+                  <span class="poll-result-text">Programs that don't shave</span>
+                  <span class="poll-result-pct">0%</span>
+                </div>
+                <div class="poll-result-bar"><div class="poll-result-fill"></div></div>
+              </div>
+              <div class="poll-result-item" data-option="1">
+                <div class="poll-result-label">
+                  <span class="poll-result-text">Has dynamic variables or postbacks</span>
+                  <span class="poll-result-pct">0%</span>
+                </div>
+                <div class="poll-result-bar"><div class="poll-result-fill"></div></div>
+              </div>
+              <div class="poll-result-item" data-option="2">
+                <div class="poll-result-label">
+                  <span class="poll-result-text">Has helpful and knowledgeable affiliate managers</span>
+                  <span class="poll-result-pct">0%</span>
+                </div>
+                <div class="poll-result-bar"><div class="poll-result-fill"></div></div>
+              </div>
+              <p class="poll-total"></p>
+            </div>
+          </div>
+          <script>
+          (function() {
+            var widget = document.getElementById('poll-casino-important');
+            var pollId = widget.dataset.pollId;
+            var voted = localStorage.getItem('poll-voted-' + pollId);
+
+            function showResults(votes) {
+              var total = 0;
+              for (var k in votes) total += votes[k];
+              widget.querySelector('.poll-options').style.display = 'none';
+              widget.querySelector('.poll-results').style.display = 'block';
+              widget.querySelectorAll('.poll-result-item').forEach(function(item) {
+                var opt = item.dataset.option;
+                var count = votes[opt] || 0;
+                var pct = total > 0 ? Math.round((count / total) * 100) : 0;
+                item.querySelector('.poll-result-pct').textContent = pct + '%';
+                item.querySelector('.poll-result-fill').style.width = pct + '%';
+              });
+              widget.querySelector('.poll-total').textContent = total + ' vote' + (total !== 1 ? 's' : '');
+            }
+
+            if (voted) {
+              fetch('/api/poll?id=' + pollId)
+                .then(function(r) { return r.json(); })
+                .then(function(d) { showResults(d.votes); })
+                .catch(function() {});
+            }
+
+            widget.querySelectorAll('.poll-option').forEach(function(btn) {
+              btn.addEventListener('click', function() {
+                var option = this.dataset.option;
+                fetch('/api/poll', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/json' },
+                  body: JSON.stringify({ id: pollId, option: option })
+                })
+                .then(function(r) { return r.json(); })
+                .then(function(d) {
+                  localStorage.setItem('poll-voted-' + pollId, option);
+                  showResults(d.votes);
+                })
+                .catch(function() {});
+              });
+            });
+          })();
+          </script>
+
           <!-- FAQ Section -->
           <div class="faq-section faq-inline">
             <h2 class="section-title text-center mb-4"><span class="gradient-text">Frequently Asked Questions</span></h2>
