@@ -2111,6 +2111,11 @@ img.top10-logo {
   }
 }
 
+/* ============ CONTENT SECTION ============ */
+.content-section {
+  padding: 5rem 0;
+}
+
 /* ============ FAQ SECTION ============ */
 .faq-section {
   padding: 5rem 0;
