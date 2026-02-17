@@ -491,9 +491,10 @@ ${GA_SNIPPET}
         <!-- Transcript -->
         <div class="episode-transcript">
           <h2>Full Transcript</h2>
-          <div class="transcript-content">
+          <div class="transcript-content" id="transcript">
             ${transcriptHtml}
           </div>
+          <button class="transcript-toggle" onclick="var tc=document.getElementById('transcript');var ex=tc.classList.toggle('expanded');this.textContent=ex?'▲ Hide Transcript':'▼ Show Full Transcript'">▼ Show Full Transcript</button>
         </div>
         ` : ''}
 
