@@ -74,6 +74,15 @@ function readTranscript(slug) {
   return null;
 }
 
+// Read youtube embed if it exists
+function readYoutube(slug) {
+  const youtubePath = path.join(PUBLIC_EP_DIR, slug, 'youtube.md');
+  if (fs.existsSync(youtubePath)) {
+    return fs.readFileSync(youtubePath, 'utf8').trim();
+  }
+  return null;
+}
+
 // Read socials if it exists
 function readSocials(slug) {
   const socialsPath = path.join(PUBLIC_EP_DIR, slug, 'socials.md');
@@ -369,7 +378,7 @@ ${GA_SNIPPET}
 }
 
 // Generate HTML for an episode
-function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null, socialsHtml = null) {
+function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null, socialsHtml = null, youtubeEmbed = null) {
   const slug = generateSlug(episode.title);
   const description = escapeHtml(truncate(episode.description, 160));
   const fullDescription = episode.description
@@ -471,6 +480,13 @@ ${GA_SNIPPET}
           ${episode.link ? `<a href="${episode.link}" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">View Details</a>` : ''}
         </div>
         
+        ${youtubeEmbed ? `
+        <!-- YouTube Video -->
+        <div class="episode-video">
+          ${youtubeEmbed}
+        </div>
+        ` : ''}
+
         <!-- Description -->
         <div class="episode-description">
           <h2>About This Episode</h2>
@@ -1006,9 +1022,13 @@ async function main() {
       if (socialsHtml) {
         console.log(`  🔗 Found socials for ${slug}`);
       }
+      const youtubeEmbed = readYoutube(slug);
+      if (youtubeEmbed) {
+        console.log(`  🎬 Found YouTube embed for ${slug}`);
+      }
 
       // Generate HTML
-      const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml, socialsHtml);
+      const html = generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml, socialsHtml, youtubeEmbed);
 
       // Write file as /public/ep/:slug/index.html so /ep/:slug works without ".html"
       const episodeDir = path.join(OUTPUT_DIR, slug);
