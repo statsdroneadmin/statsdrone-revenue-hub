@@ -402,10 +402,19 @@ ${GA_SNIPPET}
 function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null, socialsHtml = null, youtubeEmbed = null) {
   const slug = generateSlug(episode.title);
   const description = escapeHtml(truncate(episode.description, 160));
-  const fullDescription = episode.description
-    .split(/\n\s*\n/)
-    .map(p => `<p>${escapeHtml(p.trim()).replace(/\n/g, '<br>')}</p>`)
-    .join('\n          ');
+  // Use content:encoded (rich HTML) if available, fallback to plain description
+  const fullDescription = episode.contentEncoded
+    ? episode.contentEncoded
+        .replace(/<div><br><\/div>/g, '')
+        .replace(/<div>([\s\S]*?)<\/div>/g, '<p>$1</p>')
+        .replace(/<br\s*\/?><br\s*\/?>/g, '</p><p>')
+        .replace(/<br\s*\/?>/g, ' ')
+        .replace(/<p>\s*<\/p>/g, '')
+        .replace(/<ul>/g, '<ul class="episode-links">')
+    : episode.description
+        .split(/\n\s*\n/)
+        .map(p => `<p>${escapeHtml(p.trim()).replace(/\n/g, '<br>')}</p>`)
+        .join('\n          ');
   const title = escapeHtml(episode.title);
   const image = episode.image || '/images/podcast-cover.png';
   const canonicalUrl = `${SITE_BASE_URL}/ep/${slug}/`;
@@ -638,15 +647,17 @@ function parseRssFeed(xml) {
     
     const title = decodeXmlEntities(getTag('title'));
     const description = decodeXmlEntities(getTag('description').replace(/<[^>]*>/g, ''));
+    const contentEncoded = getTag('content:encoded');
     const pubDate = getTag('pubDate');
     const link = getTag('link');
     const duration = getTag('itunes:duration') || getTag('duration');
     const image = getAttr('itunes:image', 'href') || getAttr('image', 'href');
     const enclosureUrl = getAttr('enclosure', 'url');
-    
+
     episodes.push({
       title,
       description,
+      contentEncoded,
       pubDate,
       link,
       duration,
