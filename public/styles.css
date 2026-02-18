@@ -1007,9 +1007,9 @@ img.top10-logo {
 
 .episode-header {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 1.25rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 .episode-header .episode-image-container {
@@ -1024,15 +1024,20 @@ img.top10-logo {
   box-shadow: var(--shadow-glow);
 }
 
+.episode-header-info {
+  flex: 1;
+  min-width: 0;
+}
+
 .episode-content .episode-title {
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 0;
+  margin-bottom: 0.5rem;
   line-height: 1.2;
 }
 
-.episode-content .episode-meta {
-  margin-bottom: 1.5rem;
+.episode-header-info .episode-meta {
+  margin-bottom: 0.75rem;
 }
 
 .meta-item {
@@ -1041,10 +1046,10 @@ img.top10-logo {
   margin-right: 1.5rem;
 }
 
-.episode-actions {
+.episode-header-info .episode-actions {
   display: flex;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0;
   flex-wrap: wrap;
 }
 

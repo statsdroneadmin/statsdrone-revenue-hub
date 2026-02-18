@@ -521,19 +521,17 @@ ${GA_SNIPPET}
           <div class="episode-image-container">
             <img src="${image}" alt="${title}" class="episode-image" loading="lazy">
           </div>
-          <h1 class="episode-title">${title}</h1>
-        </div>
-        
-        <!-- Episode Meta -->
-        <div class="episode-meta">
-          ${episode.pubDate ? `<span class="meta-item">📅 ${formatDate(episode.pubDate)}</span>` : ''}
-          ${episode.duration ? `<span class="meta-item">⏱️ ${formatDuration(episode.duration)}</span>` : ''}
-        </div>
-        
-        <!-- Action Buttons -->
-        <div class="episode-actions">
-          ${episode.enclosure?.url ? `<a href="${episode.enclosure.url}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">▶ Play Episode</a>` : ''}
-          ${episode.link ? `<a href="${episode.link}" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">View Details</a>` : ''}
+          <div class="episode-header-info">
+            <h1 class="episode-title">${title}</h1>
+            <div class="episode-meta">
+              ${episode.pubDate ? `<span class="meta-item">📅 ${formatDate(episode.pubDate)}</span>` : ''}
+              ${episode.duration ? `<span class="meta-item">⏱️ ${formatDuration(episode.duration)}</span>` : ''}
+            </div>
+            <div class="episode-actions">
+              ${episode.enclosure?.url ? `<a href="${episode.enclosure.url}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">▶ Play Episode</a>` : ''}
+              ${episode.link ? `<a href="${episode.link}" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">View Details</a>` : ''}
+            </div>
+          </div>
         </div>
         
         ${youtubeEmbed ? `
