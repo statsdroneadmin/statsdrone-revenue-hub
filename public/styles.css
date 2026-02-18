@@ -903,43 +903,6 @@ img.top10-logo {
 .transcript-content {
   color: var(--muted);
   line-height: 1.8;
-  max-height: 300px;
-  overflow: hidden;
-  position: relative;
-  transition: max-height 0.4s ease;
-}
-.transcript-content.expanded {
-  max-height: none;
-}
-.transcript-content:not(.expanded)::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 120px;
-  background: linear-gradient(transparent, var(--background));
-  pointer-events: none;
-}
-.transcript-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin-top: 1rem;
-  padding: 0.5rem 1.5rem;
-  background: rgba(255,255,255,0.06);
-  border: 1px solid var(--border);
-  border-radius: 2rem;
-  color: var(--foreground);
-  font-size: 0.9rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.transcript-toggle:hover {
-  background: rgba(255,255,255,0.10);
-  border-color: var(--accent-orange);
-  color: var(--accent-orange);
 }
 
 .transcript-content h2 {
