@@ -516,13 +516,13 @@ ${GA_SNIPPET}
         <!-- Back Button -->
         <a href="/episodes" class="back-link">← Back to Episodes</a>
         
-        <!-- Episode Image -->
-        <div class="episode-image-container">
-          <img src="${image}" alt="${title}" class="episode-image" loading="lazy">
+        <!-- Episode Header -->
+        <div class="episode-header">
+          <div class="episode-image-container">
+            <img src="${image}" alt="${title}" class="episode-image" loading="lazy">
+          </div>
+          <h1 class="episode-title">${title}</h1>
         </div>
-        
-        <!-- Episode Title -->
-        <h1 class="episode-title">${title}</h1>
         
         <!-- Episode Meta -->
         <div class="episode-meta">
