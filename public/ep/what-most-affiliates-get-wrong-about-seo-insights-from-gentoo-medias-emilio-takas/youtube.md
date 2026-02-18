@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/U0P0tgjXQtg' title='What Most Affiliates Get Wrong About SEO — Insights from Gentoo Media&#39;s Emilio Takas' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

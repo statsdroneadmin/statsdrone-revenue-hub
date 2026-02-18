@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/YFM6el0M2mw' title='Affiliate Coaching with MyTopSlot with Marco Braun' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

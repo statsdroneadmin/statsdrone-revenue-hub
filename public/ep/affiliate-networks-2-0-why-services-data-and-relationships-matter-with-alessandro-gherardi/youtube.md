@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/inkZye6isy8' title='A Modern Affiliate Network with Alessandro Gherardi: Tracking, Fraud and iGaming Partnerships' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

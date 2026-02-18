@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/elUBccNfMNc' title='How to detect when affiliate programs shave affiliates' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

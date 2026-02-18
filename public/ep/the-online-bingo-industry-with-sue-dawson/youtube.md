@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/0hIWyknBH7U' title='The Future of Bingo, SEO, and Affiliate Marketing with Sue Dawson' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
