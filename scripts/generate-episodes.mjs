@@ -307,6 +307,27 @@ ${GA_SNIPPET}
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   ${BOOTSTRAP_CSS}
   <link rel="stylesheet" href="/styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "All Episodes - Revenue Optimization with StatsDrone",
+    "numberOfItems": ${episodes.length},
+    "itemListElement": [${episodes.slice(0, 50).map((ep, i) => `
+      {"@type": "ListItem", "position": ${i + 1}, "url": "${SITE_BASE_URL}/ep/${generateSlug(ep.title)}/", "name": "${escapeHtml(ep.title)}"}`).join(',')}
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "${SITE_BASE_URL}/"},
+      {"@type": "ListItem", "position": 2, "name": "Episodes"}
+    ]
+  }
+  </script>
 </head>
 <body>
   <div class="episodes-page">
@@ -436,13 +457,48 @@ ${GA_SNIPPET}
     "image": "${image}",
     "partOfSeries": {
       "@type": "PodcastSeries",
-      "name": "Affiliate BI Podcast",
+      "name": "Revenue Optimization with StatsDrone",
       "url": "${SITE_BASE_URL}"
     }${episode.enclosure?.url ? `,
     "associatedMedia": {
       "@type": "AudioObject",
       "contentUrl": "${episode.enclosure.url}"
     }` : ''}
+  }
+  </script>
+  ${(() => {
+    if (!youtubeEmbed) return '';
+    const vidMatch = youtubeEmbed.match(/embed\/([a-zA-Z0-9_-]+)/);
+    if (!vidMatch) return '';
+    const videoId = vidMatch[1];
+    const pubIso = episode.pubDate ? new Date(episode.pubDate).toISOString() : '';
+    return `<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "${title}",
+    "description": "${description}",
+    "thumbnailUrl": "https://img.youtube.com/vi/${videoId}/maxresdefault.jpg",
+    "uploadDate": "${pubIso}",
+    "contentUrl": "https://www.youtube.com/watch?v=${videoId}",
+    "embedUrl": "https://www.youtube.com/embed/${videoId}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "StatsDrone",
+      "url": "https://statsdrone.com"
+    }
+  }
+  </script>`;
+  })()}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "${SITE_BASE_URL}/"},
+      {"@type": "ListItem", "position": 2, "name": "Episodes", "item": "${SITE_BASE_URL}/episodes/"},
+      {"@type": "ListItem", "position": 3, "name": "${title}"}
+    ]
   }
   </script>
   
@@ -742,6 +798,27 @@ ${GA_SNIPPET}
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   ${BOOTSTRAP_CSS}
   <link rel="stylesheet" href="/styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Revenue Optimization Podcast Analytics",
+    "description": "Podcast analytics dashboard for Revenue Optimization with StatsDrone. Downloads, followers, plays, and demographics across Spotify, Apple Podcasts, and YouTube.",
+    "url": "${SITE_BASE_URL}/stats/",
+    "creator": {"@type": "Organization", "name": "StatsDrone", "url": "https://statsdrone.com"},
+    "temporalCoverage": "${reportDate}"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "${SITE_BASE_URL}/"},
+      {"@type": "ListItem", "position": 2, "name": "Stats"}
+    ]
+  }
+  </script>
 </head>
 <body>
   <div class="stats-page">
