@@ -1005,24 +1005,29 @@ img.top10-logo {
   color: var(--accent-orange);
 }
 
-.episode-image-container {
-  margin-bottom: 2rem;
-  max-width: 400px;
+.episode-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
-.episode-image-container .episode-image {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1 / 1;
+.episode-header .episode-image-container {
+  flex-shrink: 0;
+}
+
+.episode-header .episode-image-container .episode-image {
+  width: 100px;
+  height: 100px;
   object-fit: cover;
-  border-radius: 1rem;
+  border-radius: 0.75rem;
   box-shadow: var(--shadow-glow);
 }
 
 .episode-content .episode-title {
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
   line-height: 1.2;
 }
 
