@@ -402,8 +402,10 @@ ${GA_SNIPPET}
 function generateEpisodeHtml(episode, prevEpisodes, nextEpisodes, transcriptHtml = null, socialsHtml = null, youtubeEmbed = null) {
   const slug = generateSlug(episode.title);
   const description = escapeHtml(truncate(episode.description, 160));
-  // Use content:encoded (rich HTML) if available, fallback to plain description
-  const fullDescription = episode.contentEncoded
+  // Use content:encoded (rich HTML) when it has more content than plain description
+  const plainTextOfEncoded = (episode.contentEncoded || '').replace(/<[^>]*>/g, '').trim();
+  const useRichContent = episode.contentEncoded && plainTextOfEncoded.length > episode.description.length;
+  const fullDescription = useRichContent
     ? episode.contentEncoded
         .replace(/<div><br><\/div>/g, '')
         .replace(/<div>([\s\S]*?)<\/div>/g, '<p>$1</p>')
