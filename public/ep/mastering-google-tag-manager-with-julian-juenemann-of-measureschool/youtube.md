@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/a_u28R_QWhw' title='Using Google Tag Manager in affiliate marketing with Julian Juenemann of MeasureSchool' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>

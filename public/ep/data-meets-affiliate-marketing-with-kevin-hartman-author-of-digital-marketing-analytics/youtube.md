@@ -1,0 +1,1 @@
+<iframe width='560' height='315' src='https://www.youtube.com/embed/6iCrBSlA0Ew' title='Data viz in affiliate marketing with Kevin Hartman author of Digital Marketing Analytics' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
