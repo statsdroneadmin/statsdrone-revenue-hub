@@ -692,6 +692,7 @@ function generateSitemap(episodes) {
     { loc: '/affiliate-programs/', changefreq: 'monthly', priority: '0.8' },
     { loc: '/affiliate-programs/casino/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/events/', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/events/next-new-york/', changefreq: 'monthly', priority: '0.6' },
     { loc: '/events/next-focus-affiliate/', changefreq: 'monthly', priority: '0.6' },
   ];
   
