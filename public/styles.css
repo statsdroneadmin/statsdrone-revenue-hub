@@ -1089,6 +1089,9 @@ img.top10-logo {
 
 .episode-content .episode-description {
   margin-bottom: 2rem;
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
 }
 
 .episode-content .episode-description h2 {
