@@ -2506,3 +2506,105 @@ img.top10-logo {
     text-align: center;
   }
 }
+
+/* ============ EVENTS ============ */
+.event-card {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.2s, border-color 0.2s;
+  margin-bottom: 1.5rem;
+}
+.event-card:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.15);
+  color: inherit;
+  text-decoration: none;
+}
+.event-card-logo {
+  flex-shrink: 0;
+}
+.event-logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  border-radius: 0.75rem;
+}
+.event-card-details {
+  flex: 1;
+  min-width: 0;
+}
+.event-card-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.event-card-meta {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 0.75rem;
+}
+.event-card-sep {
+  margin: 0 0.5rem;
+  opacity: 0.4;
+}
+.event-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+.event-tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.75rem;
+  border-radius: 1rem;
+  background: rgba(255, 165, 0, 0.12);
+  color: #ffa500;
+  border: 1px solid rgba(255, 165, 0, 0.2);
+}
+.event-card-footer {
+  font-size: 0.9rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.event-card-price {
+  font-weight: 600;
+  color: #ffa500;
+}
+.event-card-code {
+  color: rgba(255, 255, 255, 0.6);
+}
+.event-details-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem 0;
+}
+.event-details-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+.event-details-list li:last-child {
+  border-bottom: none;
+}
+
+@media (max-width: 576px) {
+  .event-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .event-card-tags {
+    justify-content: center;
+  }
+  .event-card-footer {
+    justify-content: center;
+  }
+}
