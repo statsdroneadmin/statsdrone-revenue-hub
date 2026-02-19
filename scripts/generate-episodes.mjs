@@ -187,6 +187,9 @@ function siteNavbar(activePage) {
           <li class="nav-item">
             <a class="nav-link${activePage === 'blog' ? ' active' : ''}" href="/blog/">Blog</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link${activePage === 'events' ? ' active' : ''}" href="/events/">Events</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link${activePage === 'affiliate' ? ' active' : ''}" href="/affiliate-programs/">Affiliate</a>
             <ul class="dropdown-menu">
@@ -217,6 +220,7 @@ function siteFooter() {
             <a href="/stats/" class="footer-link">Stats</a>
             <a href="/affiliate-tools/" class="footer-link">Tools</a>
             <a href="/blog/" class="footer-link">Blog</a>
+            <a href="/events/" class="footer-link">Events</a>
           </nav>
         </div>
         <div class="col-md-4 text-md-end">
@@ -687,6 +691,8 @@ function generateSitemap(episodes) {
     { loc: '/blog/how-i-built-my-podcast-website-in-lovable/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/affiliate-programs/', changefreq: 'monthly', priority: '0.8' },
     { loc: '/affiliate-programs/casino/', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/events/', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/events/next-focus-affiliate/', changefreq: 'monthly', priority: '0.6' },
   ];
   
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
