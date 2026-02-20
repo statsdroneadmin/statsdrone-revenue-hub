@@ -1534,6 +1534,87 @@ img.top10-logo {
 }
 
 /* Country tables */
+/* ============ STATS MAP ============ */
+.stats-map-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+.stats-map-header h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--foreground);
+  margin: 0;
+}
+.stats-map-toggle {
+  display: flex;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.stats-toggle-btn {
+  padding: 0.35rem 0.9rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border: none;
+  background: rgba(255, 255, 255, 0.04);
+  color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.stats-toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.7);
+}
+.stats-toggle-btn.active {
+  background: rgba(255, 165, 0, 0.15);
+  color: #ffa500;
+}
+#country-map {
+  margin-bottom: 0.5rem;
+}
+#country-map svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+.map-country {
+  transition: fill 0.15s;
+  cursor: default;
+}
+.map-country:hover {
+  stroke: rgba(255, 165, 0, 0.6) !important;
+  stroke-width: 1 !important;
+}
+.map-tooltip {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  background: rgba(20, 17, 30, 0.95);
+  color: var(--foreground);
+  border: 1px solid rgba(255, 165, 0, 0.3);
+  border-radius: 0.4rem;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.stats-map-label-row {
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+.stats-map-label {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
 .stats-tables {
   display: grid;
   grid-template-columns: 1fr 1fr;
