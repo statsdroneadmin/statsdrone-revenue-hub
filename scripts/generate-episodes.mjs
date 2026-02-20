@@ -777,9 +777,14 @@ function generateStatsPage(outputRoot) {
   const totalHours = Math.round(s["Spotify Hours"] + s["Apple Podcast Hours"] + s["YouTube Watchtime Hours"]);
   const pHours = p ? Math.round(p["Spotify Hours"] + p["Apple Podcast Hours"] + p["YouTube Watchtime Hours"]) : 0;
 
-  const spotifyTop = (data["Spotify Countries"] || []).slice(0, 10);
+  const spotifyAll = data["Spotify Countries"] || [];
+  const spotifyTop = spotifyAll.slice(0, 10);
   const appleCountries = parseAppleData(data["Apple Podcast Countries"] || []);
   const appleCities = parseAppleData(data["Apple Podcast Cities"] || []);
+
+  // Prepare country data for the map (all countries, not just top 10)
+  const spotifyMapData = spotifyAll.map(c => ({ country: c.Country, value: c.Streams }));
+  const appleMapData = appleCountries.map(c => ({ country: c.name, value: c.value }));
 
   const ages = [
     { label: '18-22', val: s["Spotify age 18-22"] * 100 },
@@ -978,39 +983,51 @@ ${GA_SNIPPET}
           </div>
         </div>
 
-        <!-- Country Tables -->
-        <div class="stats-tables">
-          <div class="stats-card">
-            <div class="stats-table-header">
-              <h2>Top Countries</h2>
-              <span class="stats-table-label">Spotify Streams</span>
+        <!-- Country Map -->
+        <div class="stats-card">
+          <div class="stats-map-header">
+            <h2>Top Countries</h2>
+            <div class="stats-map-toggle">
+              <button class="stats-toggle-btn active" data-source="spotify">Spotify</button>
+              <button class="stats-toggle-btn" data-source="apple">Apple Podcasts</button>
             </div>
-            <table class="stats-table">
-              <tbody>
-                ${spotifyTop.map((c, i) => `<tr>
-                  <td class="stats-td-rank">${i + 1}</td>
-                  <td class="stats-td-name">${escapeHtml(c.Country)}</td>
-                  <td class="stats-td-value">${fmt(c.Streams)}</td>
-                </tr>`).join('\n                ')}
-              </tbody>
-            </table>
           </div>
-          <div class="stats-card">
-            <div class="stats-table-header">
-              <h2>Top Countries</h2>
-              <span class="stats-table-label">Apple Listeners</span>
-            </div>
-            <table class="stats-table">
-              <tbody>
-                ${appleCountries.slice(0, 10).map((c, i) => `<tr>
-                  <td class="stats-td-rank">${i + 1}</td>
-                  <td class="stats-td-name">${escapeHtml(c.name)}</td>
-                  <td class="stats-td-value">${fmt(c.value)}</td>
-                </tr>`).join('\n                ')}
-              </tbody>
-            </table>
+          <div id="country-map"></div>
+          <div class="stats-map-label-row">
+            <span class="stats-map-label" id="map-label">Spotify Streams</span>
           </div>
+          <div id="country-table"></div>
         </div>
+        <script>
+          var __mapData = {
+            spotify: ${JSON.stringify(spotifyMapData)},
+            apple: ${JSON.stringify(appleMapData)}
+          };
+        </script>
+        <script src="/js/world-map.js"></script>
+        <script>
+        (function() {
+          var labels = { spotify: 'streams', apple: 'listeners' };
+          var fullLabels = { spotify: 'Spotify Streams', apple: 'Apple Listeners' };
+          var current = 'spotify';
+
+          function update(source) {
+            current = source;
+            WorldMap.render('country-map', __mapData[source], labels[source]);
+            WorldMap.renderTable('country-table', __mapData[source], labels[source]);
+            document.getElementById('map-label').textContent = fullLabels[source];
+            document.querySelectorAll('.stats-toggle-btn').forEach(function(btn) {
+              btn.classList.toggle('active', btn.dataset.source === source);
+            });
+          }
+
+          document.querySelectorAll('.stats-toggle-btn').forEach(function(btn) {
+            btn.addEventListener('click', function() { update(this.dataset.source); });
+          });
+
+          update('spotify');
+        })();
+        </script>
 
         ${appleCities.length > 0 ? `
         <!-- Cities -->
