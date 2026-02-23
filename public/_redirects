@@ -16,6 +16,8 @@
 /blog/:slug     /blog/:slug/     301!
 /events          /events/           301!
 /events/:slug    /events/:slug/     301!
+/affiliate-software /affiliate-software/ 301!
+/affiliate-software/:slug /affiliate-software/:slug/ 301!
 /affiliate-programs /affiliate-programs/ 301!
 /affiliate-programs/:slug /affiliate-programs/:slug/ 301!
 
@@ -30,6 +32,8 @@
 /blog/:slug/    /blog/:slug/index.html  200
 /events/          /events/index.html          200
 /events/:slug/    /events/:slug/index.html    200
+/affiliate-software/ /affiliate-software/index.html 200
+/affiliate-software/:slug/ /affiliate-software/:slug/index.html 200
 /affiliate-programs/ /affiliate-programs/index.html 200
 /affiliate-programs/:slug/ /affiliate-programs/:slug/index.html 200
 
