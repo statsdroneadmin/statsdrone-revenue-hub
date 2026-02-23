@@ -181,8 +181,11 @@ function siteNavbar(activePage) {
           <li class="nav-item">
             <a class="nav-link${activePage === 'stats' ? ' active' : ''}" href="/stats/">Stats</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item dropdown">
             <a class="nav-link${activePage === 'tools' ? ' active' : ''}" href="/affiliate-tools/">Tools</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/affiliate-software/">Affiliate Software Reviews</a></li>
+            </ul>
           </li>
           <li class="nav-item">
             <a class="nav-link${activePage === 'blog' ? ' active' : ''}" href="/blog/">Blog</a>
@@ -691,6 +694,8 @@ function generateSitemap(episodes) {
     { loc: '/blog/how-i-built-my-podcast-website-in-lovable/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/affiliate-programs/', changefreq: 'monthly', priority: '0.8' },
     { loc: '/affiliate-programs/casino/', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/affiliate-software/', changefreq: 'monthly', priority: '0.7' },
+    { loc: '/affiliate-software/igsuite/', changefreq: 'monthly', priority: '0.6' },
     { loc: '/events/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/events/next-new-york/', changefreq: 'monthly', priority: '0.6' },
     { loc: '/events/next-focus-affiliate/', changefreq: 'monthly', priority: '0.6' },
