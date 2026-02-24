@@ -1,1 +1,2361 @@
-welcome to the affiliate bi podcast today we're chatting with Andrew Ansley who is the founder of content Sprout and it's pretty obvious that today we're going to talk about AI content I don't have any scripts or questions written down other than I've been looking at your the content broke tool from the outside not yet tested it but let's just jump into it tell us about the app itself sure good to to be here John the AI content writer for Content sprout does a couple different things the tool is designed to if you're familiar with entity SEO and semantic SEO that's the idea so it started after reading bill slowski for I think I've now read two years solid of his stuff and then a little sprinkling here and there Cory he's big into that and he's probably done the most to to Really spread that and he's helped a lot with kind of solidifying understanding because Bill it's one thing what Bill said but was another when after watching something like 150 hours of of cor and then diving into more and more patents I then had all the material I needed to create a perfect content engine not perfect I should say it's the best or one of the best on the market so my goal was to just 90% of the work remove it and none of the remove as much hallucination remove all of the fluff try to get rid of all those words like delve and critical and everything else that AI writers do that we all hate it it sounds like a lot of people don't really do any of that Dirty Work of going let's look into the actual patents of how Google structures its search engine I don't know if there's anything you could Enlighten us Enlighten us that's going to be entertaining or insightful of these patents sure it's been a while so I can't quote the exact patents anymore but I can say that I think it's candidate answer passages or passage ranking something like that where I I'll take a step back before I actually quote one but I'll just say that the theory is this that Google has after 2018 Google really started its big shift the major shift if you remember rank brain happened and that was to solve 15% of the queries that existed on the internet it was for more of the unknown stuff and it was holding a database so it originally Google tried to create the free base back in 2014 gave up on it because it said all right Wikipedia wik data you guys are doing better we like how you've done it so instead they've there's no specific contract I can find but there's some sort of partnership some sort of integration that's the most pristine version so there's a bunch of databases there's dbpedia as well and there is still free Base IDs you can inspect any search on on Google and then if you inspect the code and then find I think it's for slm for slash or it's for SLG SL one of those that's how you actually find the entity code anyway so when Google made that change it was its first change where Google was really saying content is now truly going to be king we really want to start relying on that and less on backlinks we've been relying on this for 20 years page rank was built entirely off so now let's do something else and really I started to see the impact around 2021 and I didn't fully implement it until probably 2022 but the idea is make it cheaper to for Google to crawl and cover a broad length of topics or be wide and deep there's three things you can really do to affect this new way of doing SEO you can go deeper than other people you can go faster than other people or you can go wider than other people obviously you can combine all three or a mixture of the two so when you can do things that make it cheaper everything gets better so one of the things that makes it cheaper is we're talking like really small M micro optimizations turn your headings into questions just like as much as possible so that's there are little tiny things that Google is doing where it has a query and it wants to take your content we'll call them zones I believe and it's trying to answer those so it has a whole entire like in the patent documentation it draws out hey here's how we take your content and convert it into questions so my thought is let's just make the content in a structure where there's the least amount of conversion processes where it's let's lessen the complexity and that's what we're doing so that's one of them the I don't know but the only other one I'll say because I don't want to ramble on I'll let you keep talking but is I think it's the most important is heading Vector optimization if you want to use a I think a lot of this stuff for instance if you follow core he talks a lot using these fancy terms I do think they're great and now that I've done the hard work of trying to master it it it's easier for me to to speak that way but for others you really don't need to speak that way I believe Indiana University has a what is it it's a grammar a guideline and I can't remember the name of it my my buddy Simon Cornelius found it but it's topic sentences so heading vectors are basically topic sentences there's a little bit of a Nuance for instance a heading Vector is looking at it more from like a the space between your header and then the text and what that text is saying so if you were to put an image right below the heading for instance that if you're thinking of heading vectors that's bad because you've just shoved code that increases the space in between that text which is supposed to relate to that that heading so a topic sentence is the next part where it just says State exactly what the header is supposed to be laying out so what is a bicycle a bicycle is a two blah blah blah blah blah like that's how you should be approaching it cool yeah there's a lot I can go into different tangents so you mentioned about content without links and I think there's a lot of people in the SEO space that they're like that's impossible but personally I know that's very true because I've met some very successful Affiliates that have been making uh six figures seven figures a month and they just hate the the concept of Link building so I just wonder if you can dive into that of what is the power of creating good content that maybe you don't even need links I would say first off just so people crucify me over here links make it so much easier and links are part of that if we think of it this is like baking a cake it's just so much easier if you have links that it's a huge signal and I honestly think links will get more important in the future as Google tries to recover from whatever the heck it's doing right now as it's hemorrhaging market share but that said you don't absolutely need links what Corey coined that term called topal Authority and it's not real Authority in the sense of website Authority and Page rank but it is a type of authority it's like a faux Authority and I think that's what a lot of people can probably really win using that strategy and that's when I mention the three things that you can do wider deeper faster and I guess there's even another one it's consistency typically so are you consistent and are you doing those things and is that content well structured it has to be high quality content the moment you do lowquality content especially if it's in like within like that uh cluster for bicycles you're trying to talk about bicycles and then you release 10 blogs you've done all this work 30 blogs that are so they're manually written they're great and then you just start publishing 30 that are AI written that you've done nothing with images you've done nothing at all they just willy-nilly publishing it you can really mess things up so I'd say think like a website publisher imagine you're a multi-million doll conglomerate and how would you systematically approach your content strategy now use the scalability of AI and the other thing you have to think about too if you're going to make it work is Think Like a how a Google research scientist would think we know that Google can't just even though it has the technology to detect anything that we try to do that's expensive so what are some easy things to avoid that they could probably put in to snare us to to detect us so one of the algorithms for instance when I was trying to read how sites get penalized it's there's triggers that happen they didn't talk about the specific triggers but you get put into a bucket of other sites that also hit the trigger and then it's much easier to analyze those sites later if you can avoid all those things just write really good cont content and that works and usually if you have a little bit of authority internal linking does a good bit of of work for you your social presence if you have a a brand search that's actually super important and you don't need backlinks to have brand search I just talked to a guy named Chase Riner for prob two and a half hours in Phoenix probably five days ago or something and he's generating on 20 different channels hundreds of thousands of views on each Channel and if you get that kind of traffic you don't need backlinks honestly the most I'm sure you already know this but the most valuable thing I look for in a backlink is traffic and if I have an internal link where I have a page getting tons of traffic and then I point that page that's basically that's just like cooking with that's straight jet fuel so really if you can be a master of traffic I think you could probably get away with almost no back Links at all otherwise you have to go like the core method it and just be so precise you're like a surgeon and or you find a good hole in the market and you can just go Target low hanging fruit or things that no one's found yet that kind of stuff you mention how like just even with internal links you got a page that's got a lot of traffic and it doesn't take much to redirect it to another part of your site that's relevant and it seems like the the most basic concept in the world but that's probably maybe the lowest hanging fruit that any website could actually do is is this laziness or is this just a lack of Education I want to speak for it I don't know I in my experience when I talk about this it's a lack of Education because I talk to clients and I am the founder of content Sprout but I also am the director of marketing for helium SEO and we have clients that are fairly large and they just don't they don't know this thing so there's actually a metric that Stephen K created called the I think it's the power page index it's it's going to be boring to State the formula but the essential idea is you look at all the keywords you look at you create like a CTR or like math problem where you're looking at the likely traffic or based on the position and all these keywords and blah blah blah and then you get like this aggregate score and obviously the more traffic you get so if I was rank one for a keyword that has a thousand then let's say it gives me a thousand points but I have a thousand other keywords all in varying positions that all adds up even in 90 this is why I like his formulas because even 90 has an importance so I think all that kind of stuff adds up and then that's when you can like push we'll call it this this other I don't know what the metric would be but some sort of like traffic or power page juice and make it work I want to take a step back because we you touched upon topical Authority and I want to apply this to a I guess a case study and it's more about my situation as like a SAS company we have uh different affiliate program categories like igaming SEO SAS and what I've done is I've looked at what are the current uh sites ranking for those keywords like SAS affiliate programs SEO affiliate programs and what I typically see is a lot of straightup listings like here's 10 here's 12 and they don't really spend much time talk talking about in my opinion topical Authority and when I write these pages of content I try to go deep and go what are the SEO conferences these affiliates with 10 what are some Basics that if you're new to the space Here's getting started if you're an existing affiliate and you just want the list then go here to get that part of the list so when I go that deep do you think I'm doing the right thing or should I just say that belongs on another page and I should stick to what the keywords are focused on that's a really nuanced one I man I will have to speak broadly so I don't just you know go on and on but sometimes yes that is correct other times that is not in general that is a great strategy if you know your audience and you know that hey no one's talking about this then that's fine I was just digging through some really old SEO notebook notes and me and Steve used to share our notes before he got famous and then starts like he went really went hard and started sharing not like he he went systematic with this but he had this one note and it was he shared it from somebody else I think his name was Pablo and he's gone now like I can't find him on the internet but he has the idea where if it's on people it's if it's a paa people also search for then that validates the targeting if it has pages that show up for it so you can just look at the total amount of results this is you know a while ago I don't know if this will stay true forever but that's another one and then the other thing to think about is if period if you just know that this is good that that your audience wants it then targeting it I I think you can think of it as like a think of every query as an opportunity to be an authority for that query so if you're there first just like with a cluster there's like cluster authorities where hey we've been here historically there's this like metric now where we're just seen as like a seed site and I think you've probably seen where there's literally a different algorithm or different weights applied anyone who's in the top one to three or one to two spots where once you're there and especially for a lot of keywords I have no idea how to exactly measure this there's just like a different measurement system and the idea here is just that if you go for these low hanging or these like these keywords where no volume is being shown what's important for your audience and you're connecting it in the optimal way whether it's a new page or somewhere on your page then that's a good thing and you're connecting to existing queries that Google understands yeah that's what I tried to do and I actually did that on one of my pages it was specifically a casino affiliate programs page and after making those changes I think I did 4,000 words it actually went up quite a bit I had no images on it it was an ugly looking page but I I basically went that route and I said I have multiple sites that I can actually do this an experiment for and what I've also discovered in the past and I don't know if it's today is sometimes that listicle type of blog post was actually ranking and I'm wondering if listicles are maybe not at a style anymore but I just want wonder if I think listicles will always be interesting but I'm just wondering if they're gonna be pushed down man I I wonder the same thing honestly because oftentimes listicles can be better Satisfied by YouTube or visual stories or so all three of those are like taking up the Sur environment now and I don't know if listicles will be here for too much longer but I actually agree that they belong on a place like video for YouTube because that same content I'm actually doing it's basically it's going to be yeah that's the lisal Style version of it where it's gonna have the year in it of course but it's going to be one video per year and I every time I look at what Matt digity does he does like his content then he's always got the video version following it up and I find he does pretty well hitting it on both sides yeah I actually want to ask you a question because I have this theory that uh basically the way of the future is seos are going to get more are they will need to become more Dynamic content creators we were used to just being able to stick in the realm of written content and I really think that images and video specifically video will be much more important and because there's that for so many reasons but I'm just curious if you're thinking the same thing or where do you see video and and images yeah it's it's a tough question because in the corner here is the not just the AI content but the programmatic SEO and I think there's always going to be a time and place for it but I forget who I I forget which SEO I saw this on Twitter or X where they basically said people might become fed up with AI content where like even AI videos like I just saw one the other day I'm like I hate this I gave it a a down vote instantly and said I don't want to watch this I know exactly what this is and my belief is people buy from people so in my experience I've been affiliate marketer for 15 years with B Toc stuff now I'm on the B B2B side and what I found is as soon as I started going into video actually Matt Diggy said the same thing he's like the video content he produces just sells more and better because it's people are seeing you that Authority is coming through so imagine taking your content and um putting clips of video to highlight what you're trying to explain or maybe even like you said go a step further and go okay you know what you didn't ask for it but here's the here's an extra five minutes of content where I'm going to dive deeper and if you want it's there yeah okay so I'm in complete agreement and Matt D's doing a great job with that the other thing too is that there's no backlinks required for video distribution as as long as you're creating digestible content then you're good yeah and the reason why I think video has a big Power is that not everyone's willing to jump in front of a camera and just start recording look at what it takes just to get start it you're like oh my first video I can't stand it we can all look back at our first videos and probably even Matt Diggity Kyle rof and just go let's see how bad their first videos are and yeah you keep them up but I think uh that's the barrier to entry into anything in the space and I think as long as people will always be intimidated they might start a podcast but to do a video and then keep doing it yeah it's there's so much opportunity but I know so many people that they're just scared to get started yeah it's a beast I would say that for those that are scared to get started at least just to put you on the right track the easiest tool I've found because I did just like SEO I did all this research to figure out video and I have so much if I didn't have a sass I'd be more into to content creation and eventually hopefully I'll do that more but descript I think is just like what Elementor and divy and those things did for WordPress it's like these visual editors now and not only that they've got AI tools integrated hey I'm reading a script my eyes are going off somewhere and it looks awkward AI will adjust your eyes great okay I misspoke here and I don't want to have to re-edit great AI can dub your voice and no one can even tell and you edit your Clips by just looking at the the text instead of looking at the necessary frames there's all sorts of stuff now where SAS help descript and then there's free software like OBS too there's all sorts of things where your microphone and lighting and all that stuff I bet you for what counting a camera and all the gear you could probably get started for a thousand bucks or less yeah I think my setup is3 $400 yeah I'm I was the camera is the majority of it I want if you want 4K then that's what's putting you over you can do for 300 or something if you just do a 720p or 1080p like Logitech sort of thing that's on top all right so let's put our foot in our mouths and we talked about how people don't necessarily want AI content but that maybe they do so how do you see we obviously know what's happening in social media where everyone's talking about AI content people are getting hit but then other people are saying No this is still growing and people are saying Google's saying you know what it's h if it adds value to the user Do It um tell us how to do AI content the right way because I think most people when they get started they do everything wrong and then they're like this doesn't work and then they're gone so the question is how to do AI content the right way friend asking for a friend do I have the ability to share my screen I think so it's a give it a try and then I think I enable it on my side I'm digging into the projects uh this is my specific project for my transparent SEO site called flask and Barrel so I could do any of these but I'll just do about how to drink bourbon articles what about how not to drink bourbon how not to drink bourbon is that a thing so one of the things is this one's a little bit older but I think it gets into the point is like I said earlier you want to have your headings where you just go right into it this one that's what is Irish whiskey types flavors and recom recommendations one is my title so if you want to write AI content here's a good title and then the next thing that I really like is basically setting the tone at the top so the first thing that Google Sees is one they see the URL the next thing they're going to see is on this page is the title or the H1 so what you're seeing here is types flavor recommendations then the structure of this content better be types flavor and recommendations once again we're all about optimizing micro optimizing crawl so if we are setting the structure here and then if the H1 sets that same structure where it's mimicking hey here's what you're going to see be as succinct as possible great I've even been testing I have no data to prove it but like I said with the different data formats I put audio now and I TR I just transcribe it and then create an audio version because the audio is now so good that I see why not it's an extra $2 or $3 at cost if I were to do like a 4,000 word post so I I don't see a reason why not to do that I think another thing is ux so as you can see for people who can't see this I've done exactly what Wikipedia does where if you hover over this internal link then you see the image of what it is and then you can read a bit of the text without jumping necessarily jumping into it I think that uxui is a huge piece so if you invest in that then your content's going to go much further as well you want to make everything as readable as possible so that's why there's bold sprinkled throughout or italic sprinkle throughout or underlines all that kind of stuff think of it this way it's I just think that it's a miracle people want to read it all I'm I used to be angry and be like no I'm G to stick in my way of content must be this way I'm G to keep my personality and brand voice and blah blah blah if people have an attention span just look at the cuts the video cuts and video editing on any show you watch whether it's Netflix whether it's reality television or cable news whatever it is four seconds man and if it's Mr Beast two seconds sometimes and you're like okay this is what's getting the most so how can I emulate that philosophy inside of written content there is a lot of ux stuff you can do but it's answer the question as quickly as possible provide different ways of answering it as you can see here I could have just done hey types Irish whiskey and then I could have just wrote it all out but instead my tool automatically like all this is One Click by the way to get all this stuff I did one click took me three minutes I could have created a hundred of these and one click as well so we have all this here it's much easier to read and then I add images just because let's like stack that understanding because if someone wants an image instead then they can have an image and I'm trying to just provide them with exactly what they want if they didn't want to read all this then they could read then they can just look at this next small sections man just like very small you don't want to go on and on and if you look at you don't have to take my word for it look at any of those sites that you hate that are on every Ser Forbes and whatever look at how they structure stuff Forbes is now just like they've got it down they're just it's quick answers and what Google does is they'll rank just this it creates a specific link right like copy link to highlight when I right click this Google's doing that when it in the surf and it'll have it it own sort of I wonder what that URL is yeah it has this little URL uh that'll Rank and uh that's what it takes you exactly to this section I'm sure you've seen it before but you click it so by having small sections especially directly under the header that's how you're going to get that next we have uh I want to put entities in images so I want an apple I want honey I want all these flavor profiles this is a fun way of me describing I could just say hey the flavor profile is this or I could have this so all of this kind of thing this is what I'm trying to do and I believe that for those that are worried if I provide all this content where I give all the users the answers immediately or I am doing this specific thing where I'm just not able to write in the way that I used to I think that it's more about satisfying the query where if they don't go back to Google and you satisfied that then that's you winning if it's a my recipes I have a whole section on recipes sometimes it's just the recipe card there's not even anything else on there right now I'm ranking page two on with zero back links on a fresh domain for a ton of recipes and I've done nothing other than just it doesn't even have an image sometimes I'm just like it's just text it's GNA make me cry I've got a recipe website I work on and for years we never did that stupid long fluffy content all this rice reminded me about the time I went to Thailand I'm like I don't care about this yeah give me the recipe now it's that traffic's done like a four or 8X any effort finally heck yeah and I think there's a time for that but just put that content after you satisfy the users's query if they want to read about your grandma and her apple cider vinegar story then go for it but people generally don't want to so yeah that that's what all this is man I'm just getting unique stuff making it visual making it appealing and putting bold I have numbered list bullet lists bold italics tables and lots and lots of images good links everywhere good ux good UI this is what I believe people want with content that's what I'm that's what I'm trying to do and going back to a comment I had earlier about people not doing the right internal linking and it's because they don't know or they're lazy and maybe I think it's a bit of both what you've explained here might be super simple to you because you've been living and breeding this for so long but I think for a lot of people it's even the idea about even making things bold and having the right amount of content people scan before they read so if you have a giant wall of text unless it's Wikipedia throwing an image in there and even like tables and lists and things like that they sound all gimmicky but they work you get it you're Expos to it all day long on Wikipedia yeah I think so I think what helps me is I think like a copywriter I I manage a lot of AD campaigns and what works if you I my you can't even see the bookshelf but the amount of copywriting books that I have and it's application for SEO copyrighting is all about just getting people people's attention and if anything if anyone didn't know Google had was sued and then they had to release some documentation on their actual algorithm so I went back some of it got redacted but I went back to the web archives and tried to find whatever I could find before was redacted and then found hunted around on Twitter so what I was able to find though is just that it's a ridiculous amount of effort and all this like math is just put onto the backs of the users so instead of trying to quantify everything Google's just like hey let's just see what people do create buckets of people based off of who we know them to be and then we'll make our algorithm based off of that and it's a good chunk of things if that's what it is and it's just measuring how people interact with your stuff then just copywriting is the secret or whatever the copywriting stuff it is like all those Sops around it that kind of is what you should be doing with your content make it enjoyable and I'm going to ask you for your library list of of copy dude for sure I so I was given this list from a guy that he turn he made this company he was like 21 and he turned a company from three million to 30 million to 100 million in under four years we're talking like a huge company now it's it's wild and it was just off of the back of he obsessed over this and memorized almost entire books of how to do copy so this stuff works man like it just works so we only need four years and we'll both be hitting 100 million I can't do that man I I don't know how to do that all right I I want to ask another question it's very specific I don't know if your app can do this but I try to focus for my company to go how can I capture unique data sets that I cannot copy anywhere else so for example going very specifically for affiliate program reviews going what time zone is the data of that program is it are you given it by Real Time by the hour every 24 hours do they have S2s tracking do they have pixels and all the really KY stuff that quite often you actually won't be able to scrape the website and find out so we get this by talking to the program going inside the the back ends so if we have this data how could we use content Sprout to produce some AI content and try to save ourselves the the hassle of going we have a database of 2,000 affiliate programs as pure data points we want to convert this into content which we do yeah for sure so let's see here going back into contents someone at my conference asked for was Holly yeah she is funny so we have symptoms of hemorrhoids suck I never had never struggled with it until was an SEO and then I had one it was awful but point being the you get your content here right and you don't have to keep all of this this think of this is with condent SP you're not charged based off of the words you'll get ,000 words sometimes typically no more than 4,000 I think we average around 2,800 but you can remove a lot of these things and or just find Opportunities to add your data I would just find Opportunities to add your data in and then if possible put a code coding element into it if you've ever been to nerdwallet. com or any of those other sort of websites they have a lot of widget type things I think just make a widget a calculator something like that would be really good and then just put that in anywhere it makes sense that's my whole whole thought with this sometimes you could replace the content and just put a widget in there instead but yeah I just think put the data that you have in here and that's actually my I have my whole like was it AI SEO sop I released it in my Facebook group for Content Sprout and in that it's basically sharing hey once you get this content here's you're supposed to spend a little bit of time editing so the editor should spend 20 minutes and ideally if you to go the extra mile if you're working with bigger companies or you just want to be the best all you need is an hour get a subject matter in there a subject matter expert in there and their whole job is just you go to scholar or J store or whatever sort of place maybe a government uh website of some kind edu website grab the data maybe you already have the data and then just add specifics so you're supposed to seek opportunities for specifics luckily I built a custom GPT where you can just click this and then it'll will tell you opportunities for doing that so you can click out of this and then it'll pop up later but yeah that's the what I'd recommend doing and then you can also say this like all right let me paste the data I have in in here I'm just going to say use the entire article's context so now the AI is like reading your whole article and you'll just say hey I have this data what's the best section to put this in you you already have exactly what you need without leaving I find that by just leaving one environment switching to other environments you just lose a lot of time just because there's always some sort of distraction so the goal is to keep it just in here it's not going to be nearly as good as Chet gbt itself but yeah so here we go so we can see identifying symptoms while it does a good job of listing the common symptoms it could be enhanced by including information on how these differ from some similar conditions or how they might evolve over time adding specific examples or anecdotes like different things like that and then if you have the data or you want to get your writer to do it great if you don't then see this if I back out of here I could just hit rewrite article and then now it's going to implement all that form me so I'll just wait three minutes and then I can have the article Rewritten with all those improvements but that's how do your do the data is okay and then I guess what I could do if I want to make life easier is I could build my own script to say here's all my data points let's turn them into generic sentences copy that in and then run that oh yeah so here here's a an example of how this would something I'm going to be adding into some of my articles I have this little whiskey finder tool so I paid a VA thousands of dollars to to dig through the internet and we have almost 8,000 whiskies and you could search based on Flavor so you're like all right well like I know I like this one thing that has vanilla flavor or whatever you just put that in you keep hitting next and this is a nice little tool that can then surface all this kind of stuff and it doesn't even need just because it doesn't necessarily register the text which Google will read that doesn't mean that it's a bad thing once again if you're satisfying the user and they don't leave your site and they stay there or they just maybe they're only there 10 seconds they found what they want and they're gone that's fine so that just optimize for the user and you can do little tools like this it doesn't have to look as pretty as this but like that's all you need yeah and it's the little details like even when you were showing one of the other pages where it had the little clip of the sound bite where it was the audio version of it you know that when people click on it and listen to it that's more time spent on the page which at the end of the day the user is either going to appreciate or Google's going to have some understanding going we just know that you spent more time here than on the other page yeah and I think some people are afraid of the time commitment and CA but keep in mind that everything you make can have multiple uses so for instance all those images I made convert them into web story and that has its own organic distribution channel that audio I made con use canva put a background turn convert it into a podcast now you have that going on there's multiple things you can do here don't just don't think small think how can I squeeze every last drop out of this and that's how you use AI content in my opinion and it warrants the the extra time investment when you have all those other opportunities so how would you use a programmatic SEO is there an application for Content Sprout or is that kind of like combining what content Sprout can do with the the power programmatic SEO just depends like it I think we can do 10 maybe 25 or something I can't remember what the last number is asynchronous sort of creation so it's a simple as just adding a a little like bracket or whatever and then you can write a 100 articles at a time and push them all straight to Wordpress we don't only have the WordPress integration right now but that's super nice so that's that is technically programmatic but when I'm thinking programmatic pre this AI it's I'll use the example landing pages Local Pages or we can use U ice Espionage that's a good example since let's stick in more the realm of SASS and stuff ispionage did a clever thing and I believe hre's learned from them where they decided to and they're competitors BYU and they were the first S I saw that published what their tools already produced producing right their tool produces these reports their ad reports on a bunch of different competitors anyone that's analyzed and then they just created a public URL that has that analysis with little widgets boom that's your there's a programmatic SEO strip so there's all sorts of things like that that you can do that obviously content Sprout's not going to be a part of but if you just want the actual like content itself without any proprietary data and stuff then sure content Sprout then there's tools that are like Local Pages you can just do variations with codes that are like hey instead of saying Chicago say Denver and those still work we do them and hack anyone search insert City SEO agency and you'll see it's alive and well and that strategy works too I'd be curious to know what you do for your programmatic stuff though not a whole lot but we actually had a a meeting with we've got a new head of product joining our team and even though he doesn't have an SEO background it's an interesting question because he's product I actually believe product people benefit your SEO because he's what are you use want what are they clicking on and so as we start going down this Rabbit Hole of what's important for the user it's all beneficial for SEO so we're talking about all the data we're sitting on and going in what capacity can we start programmatic SEO and how far do we take it where we don't take it so far that we end up with a penalty where like just to to go into detail and this is an interesting discussion because I had a chat with Eli Schwarz and he basically said what you could do is so we're taking Casino affiliate programs and then he's how do you know if it's worth creating a page for targeting India is that a specific thing and he's you don't need fancy tools just go to Google just type in the keyword find if there's enough rankings of the page that's a signal and then go to the pages and if they're real money sites that have put big effort into the content and the structure of it then you've basically got your answer as to is this worth it great so we're looking to do examples of that where we take it far but don't take it so far and then we're in this analysis paralysis uh stage of going we have all these data points and what do we do do we use AI to publish them and then also produce the tables of data do we get paranoid that someone's going to scrape our sites and what can we do to try to block that and I have a trick because a client of mine got legally hit on the wrist you put a little fake listing that doesn't exist on the internet and then you scrape for that and the moment that triggers somewhere I don't know the technicalities but yeah it's like placing them allall I don't know what the word is but I actually thought about that as well yeah it works man they got them in very fast yeah it's a it's the annoying part knowing that it's probably going to be a thing but other seos I've talked to like James dues just go ahead and do it be the first one if if the data is going to find its way out there you can care about it just only care about it when they start outranking you and if if you do catch them scraping put your scrape traps in place yeah scrape traps there's I heard someone say one of the interesting ways to get unique data so you could steal this is like a more of a stealing thing but you could take data that exists and just say it differently and you get unique points if you will so you could say that half of Americans are obese or you could say that's what's on the internet then you say I know that there's 320 million Americans so what I'll say instead is 165 million Americans are obese now you have a unique statistic so you can do that all day long too the irony of it's a the same thing so yeah before I have the last question like I said I've been I'm in your Facebook group I've been been on the outside kind of looking at the the content spoke tool um just tell everyone uh what can we expect what's inside of it you know why should we give to spin oh for sure I have so many things that are on the way but even right now I'll just tell you right now I'm trying to bring basically like a a CMO level brain or first it's director level of SEO into here so how I analyze things all my reports how I do qord research slowly that'll get unpacked in here I just have to have the money to do it so based on how much like I take zero dollars and I don't plan on taking any money into I really just have this obsession with I want to get my brain out here so feel free to support the tool no it's all going to me just making a badass tool I want to build whatever you want but like right now the thing that I think people would really I think I'm most proud of this one we're going to get the clustering automat automatically here too in like in a couple days with search volume and CPC metrics and all sorts of stuff but for now with just one thing like hemorrhoids for instance or we could do painting contract or whatever we click this and then actually I don't want to talk about hemorrhoids over over do I I could make this the Insight clip yeah let's do let's do this instead we'll do aroma therapy right so aroma therapy Health treatments so we have essential oil with one click right I did this all I did is I hit create topic clicked whatever I wanted then in three and a half minutes all this gets created so I'll show you what it looks like we'll do essential oils so here I have all my categories automatically created for me I've got one view where I can see it just here so I have lavender oil peppermint oil tea tree oil I can do the keyword base so if I want to just export this into HRS what of keyword tool I can immediately get all that once again I have the clustering so we scrape the serp to find it'll be built-in keyword clustering with search volume and we'll do intent tagging and Page type and marketing funnel and we do all that automatically for you inside of here so once that'll be here so soon we have the visual so I can go in here and then just see the tree and we'll also create titles So based off of the top 10 of the Ser we'll have an AI prompt that's taking all that information and saying let's create a unique title based off of all this so you'll have that and then you'll if you click in it'll show you everything it'll show you all the associated keywords the cluster it belongs to whatever you'll be able to to just send it all right to the writer straight from here so I could typically you could start an affiliate site just from this in an hour you could have 300 blogs in a niche that you've never researched and it's just incredible I sell these for hund if you've seen Matt Di's thing he sells these for 400 bucks to a thousand bucks I and I've sold them for 2 200 bucks to people before so like it's here it's just in the tool go sell it open a Fiverr gig do whatever you want you can download the PNG you can see this visual too you get the flower thing it's uh it's incredible so I I think this is the thing that I'm most proud of it's just going to get better and better and then once again you can just with when adding a new project you can upload your internal links targets so anytime it finds the keyword it puts it in automatically associated with the project you can do you if you just want to create outlines you can create hundreds of outlines the outlines are incredible too so that is here's best Queen tribute Brands but yeah so it it shows like this you can drag and drop you can scrape the thing too if you want to paste your own in then you write based off of whatever you believe to be the best select your language select the region you can make it right even like crazy better you can customize the paragraph length there's all sorts of stuff man so I think this Tool's awesome I made it for me and my friends and then I spread it out I was like you know what I'm just going to turn this into a SASS and I love it I love being a SAS owner and this is just fun yeah I mostly agree although there's some stressful times but that's for another podcast so I'm going to jump right into the last question I think we got five minutes too what do you see the future of affiliate marketing as it intersects with business intelligence give me let's Define business intelligence for people are you talking keyword like keyword volume and difficulty or are you talking about other types of metrics it could be anything I think at the end of the day just the more data you have at your disposal we're going into Data driven decisions in affiliate marketing and yeah my personal opinion is it goes in any direction in content we could easily just pun intended Sprout into so many different angles it's never ending like you said at the very start how detailed you can get it content and analyzing it and putting map behind it whether you you want to geek out that hard or just say let's focus on basic metrics oh yeah so like for me for instance with my whiskey site so here's how let's do zoom in on this let me share this because I actually do this to get VC funding or Angel Investing For My affiliate projects so here's one Direction you could take this right you don't have to just I just gave a speech in front of a 100 agency owners and did this so as you can see here you can estimate the traffic the market share that exists you can uh estimate the total Pages the total amount of referring domains you can apply your link cost content cost referring domains per page you can apply all this stuff and get all this data and then now you have something to actually work from so whether you're trying to figure out should I go into this Niche let's look at the cluster of whiskey alone or let's look at the cluster of dog food let's see how many people rank for that you can do that kind of stuff with this data and then you can apply all these other Roi formulas of if you know the conversion rates and if you know what the affiliate commissions are the bo like payout and all that stuff you can really start to understand of okay now it's just a matter of if I know that the average is 200 pages and I know the average is a thousand referring domains and I know that generated them likely this amount of traffic and this market share how much am I willing to spend each month now I know exactly how long it is and when if you're better at uxui and better at being just being more efficient obviously then you can get better but this is one way I think is like super powerful otherwise I think people are underusing search console when you're already in a niche that data is incredibly powerful and I think what I plan on doing my tools matching search console more with a blended HF type environment where canb mization clustering and all this other lwh hanging fruit opportunities do that more there's so much data out there in search console and people are not using it I don't see Affiliates really talking about it that often but it is so strong just go into open AI do your chat you don't have to understand the Rex custom Rex but ask hey as an SEO what are the custom Rex things that would be applicable for someone interested in blah blah blah great it'll give you some so I wrote down a bunch last night just as an example I was like yeah this is perfect so now I know how to find just like exact kinds of queries and yeah just it's it's amazing so that's how I see data I use it all the time I heck our agent helium SEO if you want an agency that's designed for this that's our selling point we build custom tools and we provide data that no one else has and people like working with those sorts of people it gives them confidence so that's my answer perfect this was what I was hoping to hear and learn going deep on the data side so Andrew obviously we're going to put the links in the show notes for Content spro but how can people get a hold of you and anything else you want to share yeah full name Andrew Sterling ansy if you Google it all my socials pop up I have a YouTube I have a facebook facebook the best spot content Sprout has a private Facebook group you can just add that contents sprout.
+welcome to the affiliate bi podcast welcome to the affiliate bi podcast today we're chatting with Andrew Ansley
+
+today we're chatting with Andrew Ansley today we're chatting with Andrew Ansley who is the founder of content Sprout and
+
+who is the founder of content Sprout and who is the founder of content Sprout and it's pretty obvious that today we're it's pretty obvious that today we're it's pretty obvious that today we're going to talk about AI content I don't
+
+going to talk about AI content I don't going to talk about AI content I don't have any scripts or questions written
+
+have any scripts or questions written have any scripts or questions written down other than I've been looking at
+
+down other than I've been looking at down other than I've been looking at your the content broke tool from the
+
+your the content broke tool from the your the content broke tool from the outside not yet tested it but let's just
+
+outside not yet tested it but let's just outside not yet tested it but let's just jump into it tell us about the app
+
+jump into it tell us about the app jump into it tell us about the app itself sure good to to be here John the
+
+itself sure good to to be here John the itself sure good to to be here John the AI content writer for Content sprout
+
+AI content writer for Content sprout AI content writer for Content sprout does a couple different things the tool
+
+does a couple different things the tool does a couple different things the tool is designed to if you're familiar with
+
+is designed to if you're familiar with is designed to if you're familiar with entity SEO and semantic SEO that's the
+
+entity SEO and semantic SEO that's the entity SEO and semantic SEO that's the idea so it started after reading bill
+
+idea so it started after reading bill idea so it started after reading bill slowski for I think I've now read two
+
+slowski for I think I've now read two slowski for I think I've now read two years solid of his stuff and then a
+
+years solid of his stuff and then a years solid of his stuff and then a little sprinkling here and there Cory
+
+little sprinkling here and there Cory little sprinkling here and there Cory he's big into that and he's probably
+
+he's big into that and he's probably he's big into that and he's probably done the most to to Really spread that
+
+done the most to to Really spread that done the most to to Really spread that and he's helped a lot with kind of
+
+and he's helped a lot with kind of and he's helped a lot with kind of solidifying understanding because Bill
+
+solidifying understanding because Bill solidifying understanding because Bill it's one thing what Bill said but was it's one thing what Bill said but was it's one thing what Bill said but was another when after watching something
+
+another when after watching something another when after watching something like 150 hours of of cor and then diving
+
+like 150 hours of of cor and then diving like 150 hours of of cor and then diving into more and more
+
+into more and more into more and more patents I then had all the material I
+
+patents I then had all the material I patents I then had all the material I needed to create a perfect content
+
+needed to create a perfect content needed to create a perfect content engine not perfect I should say it's the
+
+engine not perfect I should say it's the engine not perfect I should say it's the best or one of the best on the market so
+
+best or one of the best on the market so best or one of the best on the market so my goal was to just 90% of the work
+
+my goal was to just 90% of the work my goal was to just 90% of the work remove it and none of the remove as much
+
+remove it and none of the remove as much remove it and none of the remove as much hallucination remove all of the fluff
+
+hallucination remove all of the fluff hallucination remove all of the fluff try to get rid of all those words like
+
+try to get rid of all those words like try to get rid of all those words like delve and critical and everything else
+
+delve and critical and everything else delve and critical and everything else that AI writers do that we all hate it
+
+that AI writers do that we all hate it that AI writers do that we all hate it it sounds like a lot of people don't
+
+it sounds like a lot of people don't it sounds like a lot of people don't really do any of that Dirty Work of
+
+really do any of that Dirty Work of really do any of that Dirty Work of going let's look into the actual patents
+
+going let's look into the actual patents going let's look into the actual patents of how Google structures its search
+
+of how Google structures its search of how Google structures its search engine I don't know if there's anything
+
+engine I don't know if there's anything engine I don't know if there's anything you could Enlighten us Enlighten us
+
+you could Enlighten us Enlighten us you could Enlighten us Enlighten us that's going to be entertaining or
+
+that's going to be entertaining or that's going to be entertaining or insightful of these
+
+insightful of these insightful of these patents sure it's been a while so I
+
+patents sure it's been a while so I patents sure it's been a while so I can't quote the exact patents anymore
+
+can't quote the exact patents anymore can't quote the exact patents anymore but I can say that I think it's
+
+but I can say that I think it's but I can say that I think it's candidate answer passages or passage
+
+candidate answer passages or passage candidate answer passages or passage ranking something like that
+
+ranking something like that ranking something like that where I I'll take a step back before I
+
+where I I'll take a step back before I where I I'll take a step back before I actually quote one but I'll just say
+
+actually quote one but I'll just say actually quote one but I'll just say that the theory is this that Google has
+
+that the theory is this that Google has that the theory is this that Google has after after after 2018 Google really started its big shift
+
+2018 Google really started its big shift 2018 Google really started its big shift the major shift if you remember rank the major shift if you remember rank the major shift if you remember rank brain happened and that was to solve 15%
+
+brain happened and that was to solve 15% brain happened and that was to solve 15% of the queries that existed on the of the queries that existed on the of the queries that existed on the internet it was for more of the unknown
+
+internet it was for more of the unknown internet it was for more of the unknown stuff and it was holding a database so
+
+stuff and it was holding a database so stuff and it was holding a database so it originally Google tried to create the
+
+it originally Google tried to create the it originally Google tried to create the free base back in 2014 gave up on it
+
+free base back in 2014 gave up on it free base back in 2014 gave up on it because it said all right Wikipedia wik
+
+because it said all right Wikipedia wik because it said all right Wikipedia wik data you guys are doing better we like
+
+data you guys are doing better we like data you guys are doing better we like how you've done it so instead they've
+
+how you've done it so instead they've how you've done it so instead they've there's no specific contract I can find
+
+there's no specific contract I can find there's no specific contract I can find but there's some sort of partnership
+
+but there's some sort of partnership but there's some sort of partnership some sort of integration that's the most
+
+some sort of integration that's the most some sort of integration that's the most pristine version so there's a bunch of
+
+pristine version so there's a bunch of pristine version so there's a bunch of databases there's dbpedia as well and
+
+databases there's dbpedia as well and databases there's dbpedia as well and there is still free Base IDs you can
+
+there is still free Base IDs you can there is still free Base IDs you can inspect any search on on Google and then
+
+inspect any search on on Google and then inspect any search on on Google and then if you inspect the code and then
+
+if you inspect the code and then if you inspect the code and then find I think it's for slm for slash or
+
+find I think it's for slm for slash or find I think it's for slm for slash or it's for SLG SL one of those that's how
+
+it's for SLG SL one of those that's how it's for SLG SL one of those that's how you actually find the entity code anyway
+
+you actually find the entity code anyway you actually find the entity code anyway so when Google made that change it was
+
+so when Google made that change it was so when Google made that change it was its first change where Google was really
+
+its first change where Google was really its first change where Google was really saying content is now truly going to be
+
+saying content is now truly going to be saying content is now truly going to be king we really want to start relying on
+
+king we really want to start relying on king we really want to start relying on that and less on backlinks we've been
+
+that and less on backlinks we've been that and less on backlinks we've been relying on this for 20 years page rank
+
+relying on this for 20 years page rank relying on this for 20 years page rank was built entirely off so now let's do
+
+was built entirely off so now let's do was built entirely off so now let's do something else and really I started to
+
+something else and really I started to something else and really I started to see the impact around
+
+see the impact around see the impact around 2021 and I didn't fully implement it
+
+2021 and I didn't fully implement it 2021 and I didn't fully implement it until probably
+
+until probably until probably 2022 but the idea is make it cheaper to
+
+2022 but the idea is make it cheaper to 2022 but the idea is make it cheaper to for Google to crawl and cover a broad
+
+for Google to crawl and cover a broad for Google to crawl and cover a broad length of topics or be wide and deep
+
+length of topics or be wide and deep length of topics or be wide and deep there's three things you can really do
+
+there's three things you can really do there's three things you can really do to to to affect this new way of doing SEO you can
+
+affect this new way of doing SEO you can affect this new way of doing SEO you can go deeper than other people you can go
+
+go deeper than other people you can go go deeper than other people you can go faster than other people or you can go
+
+faster than other people or you can go faster than other people or you can go wider than other people obviously you
+
+wider than other people obviously you wider than other people obviously you can combine all three or a mixture of
+
+can combine all three or a mixture of can combine all three or a mixture of the two so when you can do things that
+
+the two so when you can do things that the two so when you can do things that make it cheaper everything gets better
+
+make it cheaper everything gets better make it cheaper everything gets better so one of the things that makes it so one of the things that makes it so one of the things that makes it cheaper is we're talking like really
+
+cheaper is we're talking like really cheaper is we're talking like really small M micro optimizations turn your
+
+small M micro optimizations turn your small M micro optimizations turn your headings into questions just like as
+
+headings into questions just like as headings into questions just like as much as much as much as possible so
+
+possible so possible so that's there are little tiny things that
+
+that's there are little tiny things that that's there are little tiny things that Google is doing where it has a query and
+
+Google is doing where it has a query and Google is doing where it has a query and it wants to take your content we'll call
+
+it wants to take your content we'll call it wants to take your content we'll call them zones I believe and it's trying to
+
+them zones I believe and it's trying to them zones I believe and it's trying to answer those so it has a whole entire
+
+answer those so it has a whole entire answer those so it has a whole entire like in the patent documentation it
+
+like in the patent documentation it like in the patent documentation it draws out hey here's how we take your
+
+draws out hey here's how we take your draws out hey here's how we take your content and convert it into questions so
+
+content and convert it into questions so content and convert it into questions so my thought is let's just make the my thought is let's just make the my thought is let's just make the content in a structure where there's the
+
+content in a structure where there's the content in a structure where there's the least amount of conversion processes
+
+least amount of conversion processes least amount of conversion processes where it's let's lessen the complexity
+
+where it's let's lessen the complexity where it's let's lessen the complexity and that's what we're doing so that's
+
+and that's what we're doing so that's and that's what we're doing so that's one of them the I don't know but the
+
+one of them the I don't know but the one of them the I don't know but the only other one I'll say because I don't only other one I'll say because I don't only other one I'll say because I don't want to ramble on I'll let you keep want to ramble on I'll let you keep want to ramble on I'll let you keep talking but is I think it's the most
+
+talking but is I think it's the most talking but is I think it's the most important is heading Vector
+
+important is heading Vector important is heading Vector optimization if you want to use a I
+
+optimization if you want to use a I optimization if you want to use a I think a lot of this stuff for instance
+
+think a lot of this stuff for instance think a lot of this stuff for instance if you follow core he talks a lot using
+
+if you follow core he talks a lot using if you follow core he talks a lot using these fancy terms I do think they're
+
+these fancy terms I do think they're these fancy terms I do think they're great and now that I've done the hard
+
+great and now that I've done the hard great and now that I've done the hard work of trying to master it it it's
+
+work of trying to master it it it's work of trying to master it it it's easier for me to to speak that way but
+
+easier for me to to speak that way but easier for me to to speak that way but for others you really don't need to for others you really don't need to for others you really don't need to speak that way I believe Indiana
+
+speak that way I believe Indiana speak that way I believe Indiana University has a what is it it's a
+
+University has a what is it it's a University has a what is it it's a grammar a guideline and I can't remember
+
+grammar a guideline and I can't remember grammar a guideline and I can't remember the name of it my my buddy Simon
+
+the name of it my my buddy Simon the name of it my my buddy Simon Cornelius found it but it's topic
+
+Cornelius found it but it's topic Cornelius found it but it's topic sentences so heading vectors are
+
+sentences so heading vectors are sentences so heading vectors are basically topic sentences there's a
+
+basically topic sentences there's a basically topic sentences there's a little bit of a Nuance for instance a
+
+little bit of a Nuance for instance a little bit of a Nuance for instance a heading Vector is looking at it more
+
+heading Vector is looking at it more heading Vector is looking at it more from like a the space between your
+
+from like a the space between your from like a the space between your header and then the text and what that
+
+header and then the text and what that header and then the text and what that text is saying so if you were to put an
+
+text is saying so if you were to put an text is saying so if you were to put an image right below the heading for
+
+image right below the heading for image right below the heading for instance that if you're thinking of
+
+instance that if you're thinking of instance that if you're thinking of heading vectors that's bad because
+
+heading vectors that's bad because heading vectors that's bad because you've just shoved code that increases
+
+you've just shoved code that increases you've just shoved code that increases the space in between that text which is
+
+the space in between that text which is the space in between that text which is supposed to relate to that that heading
+
+supposed to relate to that that heading supposed to relate to that that heading so a topic sentence is the next part
+
+so a topic sentence is the next part so a topic sentence is the next part where it just says State exactly what
+
+where it just says State exactly what where it just says State exactly what the header is supposed to be laying out
+
+the header is supposed to be laying out the header is supposed to be laying out so what is a bicycle a bicycle is a two
+
+so what is a bicycle a bicycle is a two so what is a bicycle a bicycle is a two blah blah blah blah blah like that's how
+
+blah blah blah blah blah like that's how blah blah blah blah blah like that's how you should be approaching
+
+you should be approaching you should be approaching it cool yeah there's a lot I can go into
+
+it cool yeah there's a lot I can go into it cool yeah there's a lot I can go into different tangents so you mentioned
+
+different tangents so you mentioned different tangents so you mentioned about content without links and I think
+
+about content without links and I think about content without links and I think there's a lot of people in the SEO space
+
+there's a lot of people in the SEO space there's a lot of people in the SEO space that they're like that's impossible but
+
+that they're like that's impossible but that they're like that's impossible but personally I know that's very true
+
+personally I know that's very true personally I know that's very true because I've met some very successful
+
+because I've met some very successful because I've met some very successful Affiliates that have been making uh six
+
+Affiliates that have been making uh six Affiliates that have been making uh six figures seven figures a month and they
+
+figures seven figures a month and they figures seven figures a month and they just hate the the concept of Link
+
+just hate the the concept of Link just hate the the concept of Link building so I just wonder if you can building so I just wonder if you can building so I just wonder if you can dive into that of what is the power of
+
+dive into that of what is the power of dive into that of what is the power of creating good content that maybe you
+
+creating good content that maybe you creating good content that maybe you don't even need links I would say first
+
+don't even need links I would say first don't even need links I would say first off just so people crucify me over here
+
+off just so people crucify me over here off just so people crucify me over here links make it so much easier and links
+
+links make it so much easier and links links make it so much easier and links are part of that if we think of it this
+
+are part of that if we think of it this are part of that if we think of it this is like baking a cake it's just so much
+
+is like baking a cake it's just so much is like baking a cake it's just so much easier if you have links that it's a
+
+easier if you have links that it's a easier if you have links that it's a huge signal and I honestly think links
+
+huge signal and I honestly think links huge signal and I honestly think links will get more important in the future as
+
+will get more important in the future as will get more important in the future as Google tries to recover from whatever
+
+Google tries to recover from whatever Google tries to recover from whatever the heck it's doing right now as it's
+
+the heck it's doing right now as it's the heck it's doing right now as it's hemorrhaging market share but that said
+
+hemorrhaging market share but that said hemorrhaging market share but that said you don't absolutely need links what
+
+you don't absolutely need links what you don't absolutely need links what Corey coined that term called topal
+
+Corey coined that term called topal Corey coined that term called topal Authority and it's not real Authority in
+
+Authority and it's not real Authority in Authority and it's not real Authority in the sense of website Authority and Page
+
+the sense of website Authority and Page the sense of website Authority and Page rank but it is a type of authority it's
+
+rank but it is a type of authority it's rank but it is a type of authority it's like a faux Authority and I think that's
+
+like a faux Authority and I think that's like a faux Authority and I think that's what a lot of people can
+
+what a lot of people can what a lot of people can probably really win using that strategy
+
+probably really win using that strategy probably really win using that strategy and that's when I mention the three
+
+and that's when I mention the three and that's when I mention the three things that you can do wider deeper
+
+things that you can do wider deeper things that you can do wider deeper faster and I guess there's even another
+
+faster and I guess there's even another faster and I guess there's even another one it's consistency typically so are
+
+one it's consistency typically so are one it's consistency typically so are you consistent and are you doing those
+
+you consistent and are you doing those you consistent and are you doing those things and is that content well
+
+things and is that content well things and is that content well structured it has to be high quality
+
+structured it has to be high quality structured it has to be high quality content the moment you do lowquality
+
+content the moment you do lowquality content the moment you do lowquality content especially if it's in like
+
+content especially if it's in like content especially if it's in like within like that uh cluster for bicycles
+
+within like that uh cluster for bicycles within like that uh cluster for bicycles you're trying to talk about bicycles and
+
+you're trying to talk about bicycles and you're trying to talk about bicycles and then you release 10 blogs you've done
+
+then you release 10 blogs you've done then you release 10 blogs you've done all this work 30 blogs that are so
+
+all this work 30 blogs that are so all this work 30 blogs that are so they're manually written they're great
+
+they're manually written they're great they're manually written they're great and then you just start publishing 30
+
+and then you just start publishing 30 and then you just start publishing 30 that are AI written that you've done
+
+that are AI written that you've done that are AI written that you've done nothing with images you've done nothing
+
+nothing with images you've done nothing nothing with images you've done nothing at all they just willy-nilly publishing
+
+at all they just willy-nilly publishing at all they just willy-nilly publishing it you can really mess things up so I'd
+
+it you can really mess things up so I'd it you can really mess things up so I'd say think like a website publisher
+
+say think like a website publisher say think like a website publisher imagine you're a multi-million doll
+
+imagine you're a multi-million doll imagine you're a multi-million doll conglomerate and how would you conglomerate and how would you conglomerate and how would you systematically approach your content
+
+systematically approach your content systematically approach your content strategy now use the scalability of AI
+
+strategy now use the scalability of AI strategy now use the scalability of AI and the other thing you have to think
+
+and the other thing you have to think and the other thing you have to think about too if you're going to make it about too if you're going to make it about too if you're going to make it work is Think Like a how a Google
+
+work is Think Like a how a Google work is Think Like a how a Google research scientist would think we know
+
+research scientist would think we know research scientist would think we know that Google can't just even though it
+
+that Google can't just even though it that Google can't just even though it has the technology to detect anything
+
+has the technology to detect anything has the technology to detect anything that we try to do that's expensive so
+
+that we try to do that's expensive so that we try to do that's expensive so what are some easy things to avoid that
+
+what are some easy things to avoid that what are some easy things to avoid that they could probably put in to snare us
+
+they could probably put in to snare us they could probably put in to snare us to to detect us so one of the algorithms
+
+to to detect us so one of the algorithms to to detect us so one of the algorithms for instance when I was trying to read
+
+for instance when I was trying to read for instance when I was trying to read how sites get penalized it's there's
+
+how sites get penalized it's there's how sites get penalized it's there's triggers that happen they didn't talk triggers that happen they didn't talk triggers that happen they didn't talk about the specific triggers but you get about the specific triggers but you get about the specific triggers but you get put into a bucket of other sites that
+
+put into a bucket of other sites that put into a bucket of other sites that also hit the trigger and then it's much also hit the trigger and then it's much also hit the trigger and then it's much easier to analyze those sites later if
+
+easier to analyze those sites later if easier to analyze those sites later if you can avoid all those things just
+
+you can avoid all those things just you can avoid all those things just write really good cont content and that
+
+write really good cont content and that write really good cont content and that works and usually if you have a little
+
+works and usually if you have a little works and usually if you have a little bit of authority internal linking does a
+
+bit of authority internal linking does a bit of authority internal linking does a good bit of of work for you your social
+
+good bit of of work for you your social good bit of of work for you your social presence if you have a a brand search
+
+presence if you have a a brand search presence if you have a a brand search that's actually super important and you
+
+that's actually super important and you that's actually super important and you don't need backlinks to have brand
+
+don't need backlinks to have brand don't need backlinks to have brand search I just talked to a guy named
+
+search I just talked to a guy named search I just talked to a guy named Chase Riner for prob two and a half
+
+Chase Riner for prob two and a half Chase Riner for prob two and a half hours in Phoenix probably five days ago
+
+hours in Phoenix probably five days ago hours in Phoenix probably five days ago or something and he's generating on 20
+
+or something and he's generating on 20 or something and he's generating on 20 different channels hundreds of thousands
+
+different channels hundreds of thousands different channels hundreds of thousands of views on each Channel and if you get
+
+of views on each Channel and if you get of views on each Channel and if you get that kind of traffic you don't need
+
+that kind of traffic you don't need that kind of traffic you don't need backlinks honestly the most I'm sure you
+
+backlinks honestly the most I'm sure you backlinks honestly the most I'm sure you already know this but the most valuable
+
+already know this but the most valuable already know this but the most valuable thing I look for in a backlink is
+
+thing I look for in a backlink is thing I look for in a backlink is traffic and if I have an internal link
+
+traffic and if I have an internal link traffic and if I have an internal link where I have a page getting tons of where I have a page getting tons of where I have a page getting tons of traffic and then I point that page
+
+traffic and then I point that page traffic and then I point that page that's basically that's just like
+
+that's basically that's just like that's basically that's just like cooking with that's straight jet fuel so
+
+cooking with that's straight jet fuel so cooking with that's straight jet fuel so really if you can be a master of traffic
+
+really if you can be a master of traffic really if you can be a master of traffic I think you could probably get away with
+
+I think you could probably get away with I think you could probably get away with almost no back Links at all otherwise
+
+almost no back Links at all otherwise almost no back Links at all otherwise you have to go like the core method it
+
+you have to go like the core method it you have to go like the core method it and just be so precise you're like a
+
+and just be so precise you're like a and just be so precise you're like a surgeon and or you find a good hole in
+
+surgeon and or you find a good hole in surgeon and or you find a good hole in the market and you can just go Target
+
+the market and you can just go Target the market and you can just go Target low hanging fruit or things that no
+
+low hanging fruit or things that no low hanging fruit or things that no one's found yet that kind of stuff you
+
+one's found yet that kind of stuff you one's found yet that kind of stuff you mention how like just even with internal
+
+mention how like just even with internal mention how like just even with internal links you got a page that's got a lot of
+
+links you got a page that's got a lot of links you got a page that's got a lot of traffic and it doesn't take much to
+
+traffic and it doesn't take much to traffic and it doesn't take much to redirect it to another part of your site
+
+redirect it to another part of your site redirect it to another part of your site that's relevant and it seems like the
+
+that's relevant and it seems like the that's relevant and it seems like the the most basic concept in the world but
+
+the most basic concept in the world but the most basic concept in the world but that's probably maybe the lowest hanging
+
+that's probably maybe the lowest hanging that's probably maybe the lowest hanging fruit that any website could actually do
+
+fruit that any website could actually do fruit that any website could actually do is is this laziness or is this just a
+
+is is this laziness or is this just a is is this laziness or is this just a lack of
+
+lack of lack of Education I want to speak for it I don't
+
+Education I want to speak for it I don't Education I want to speak for it I don't know I in my experience when I talk
+
+know I in my experience when I talk know I in my experience when I talk about this it's a lack of Education
+
+about this it's a lack of Education about this it's a lack of Education because I talk to clients and I am the
+
+because I talk to clients and I am the because I talk to clients and I am the founder of content Sprout but I also am founder of content Sprout but I also am founder of content Sprout but I also am the director of marketing for helium SEO
+
+the director of marketing for helium SEO the director of marketing for helium SEO and we have clients that are fairly
+
+and we have clients that are fairly and we have clients that are fairly large and they just don't they don't
+
+large and they just don't they don't large and they just don't they don't know this thing so there's actually a
+
+know this thing so there's actually a know this thing so there's actually a metric that Stephen K created called the
+
+metric that Stephen K created called the metric that Stephen K created called the I think it's the power page index it's
+
+I think it's the power page index it's I think it's the power page index it's it's going to be boring to State the it's going to be boring to State the it's going to be boring to State the formula but the essential idea is you
+
+formula but the essential idea is you formula but the essential idea is you look at all the keywords you look at you
+
+look at all the keywords you look at you look at all the keywords you look at you create like a CTR or like math problem
+
+create like a CTR or like math problem create like a CTR or like math problem where you're looking at the likely
+
+where you're looking at the likely where you're looking at the likely traffic or based on the position and all
+
+traffic or based on the position and all traffic or based on the position and all these keywords and blah blah blah and
+
+these keywords and blah blah blah and these keywords and blah blah blah and then you get like this aggregate score
+
+then you get like this aggregate score then you get like this aggregate score and obviously the more traffic you get
+
+and obviously the more traffic you get and obviously the more traffic you get so if I was rank one for a keyword that
+
+so if I was rank one for a keyword that so if I was rank one for a keyword that has a has a has a thousand then let's say it gives me a
+
+thousand then let's say it gives me a thousand then let's say it gives me a thousand points but I have a thousand thousand points but I have a thousand thousand points but I have a thousand other keywords all in varying positions
+
+other keywords all in varying positions other keywords all in varying positions that all adds up even in 90 this is why
+
+that all adds up even in 90 this is why that all adds up even in 90 this is why I like his formulas because even 90 has
+
+I like his formulas because even 90 has I like his formulas because even 90 has an importance so I think all that kind
+
+an importance so I think all that kind an importance so I think all that kind of stuff adds up and then that's when
+
+of stuff adds up and then that's when of stuff adds up and then that's when you can like push we'll call it this
+
+you can like push we'll call it this you can like push we'll call it this this other I don't know what the metric
+
+this other I don't know what the metric this other I don't know what the metric would be but some sort of like traffic
+
+would be but some sort of like traffic would be but some sort of like traffic or power page juice and make it work I
+
+or power page juice and make it work I or power page juice and make it work I want to take a step back because we you
+
+want to take a step back because we you want to take a step back because we you touched upon topical Authority and I
+
+touched upon topical Authority and I touched upon topical Authority and I want to apply this to a I guess a case
+
+want to apply this to a I guess a case want to apply this to a I guess a case study and it's more about my situation
+
+study and it's more about my situation study and it's more about my situation as like a SAS company we have uh
+
+as like a SAS company we have uh as like a SAS company we have uh different affiliate program categories
+
+different affiliate program categories different affiliate program categories like igaming SEO SAS and what I've done
+
+like igaming SEO SAS and what I've done like igaming SEO SAS and what I've done is I've looked at what are the current
+
+is I've looked at what are the current is I've looked at what are the current uh sites ranking for those keywords like
+
+uh sites ranking for those keywords like uh sites ranking for those keywords like SAS affiliate programs SEO affiliate
+
+SAS affiliate programs SEO affiliate SAS affiliate programs SEO affiliate programs and what I typically see is a
+
+programs and what I typically see is a programs and what I typically see is a lot of straightup listings like here's
+
+lot of straightup listings like here's lot of straightup listings like here's 10 here's 12 and they don't really spend
+
+10 here's 12 and they don't really spend 10 here's 12 and they don't really spend much time talk talking about in my
+
+much time talk talking about in my much time talk talking about in my opinion topical Authority and when I
+
+opinion topical Authority and when I opinion topical Authority and when I write these pages of content I try to go
+
+write these pages of content I try to go write these pages of content I try to go deep and go what are the SEO conferences
+
+deep and go what are the SEO conferences deep and go what are the SEO conferences these affiliates with 10 what are some
+
+these affiliates with 10 what are some these affiliates with 10 what are some Basics that if you're new to the space
+
+Basics that if you're new to the space Basics that if you're new to the space Here's getting started if you're an
+
+Here's getting started if you're an Here's getting started if you're an existing affiliate and you just want the
+
+existing affiliate and you just want the existing affiliate and you just want the list then go here to get that part of
+
+list then go here to get that part of list then go here to get that part of the list so when I go that deep do you
+
+the list so when I go that deep do you the list so when I go that deep do you think I'm doing the right thing or think I'm doing the right thing or think I'm doing the right thing or should I just say that belongs on
+
+should I just say that belongs on should I just say that belongs on another page and I should stick to what
+
+another page and I should stick to what another page and I should stick to what the keywords are focused
+
+the keywords are focused the keywords are focused on that's a really nuanced one
+
+on that's a really nuanced one on that's a really nuanced one I man I will have to speak broadly so I
+
+I man I will have to speak broadly so I I man I will have to speak broadly so I don't just
+
+don't just don't just you know go on and on
+
+you know go on and on you know go on and on but sometimes yes that is correct other
+
+but sometimes yes that is correct other but sometimes yes that is correct other times that is not in general that is a
+
+times that is not in general that is a times that is not in general that is a great strategy if you know your audience
+
+great strategy if you know your audience great strategy if you know your audience and you know that hey no one's talking
+
+and you know that hey no one's talking and you know that hey no one's talking about this then that's fine I was just
+
+about this then that's fine I was just about this then that's fine I was just digging through some really
+
+digging through some really digging through some really old SEO notebook notes and me and Steve
+
+old SEO notebook notes and me and Steve old SEO notebook notes and me and Steve used to share our notes before he got
+
+used to share our notes before he got used to share our notes before he got famous and then starts like he went
+
+famous and then starts like he went famous and then starts like he went really went hard and started sharing not
+
+really went hard and started sharing not really went hard and started sharing not like he he went systematic with this but
+
+like he he went systematic with this but like he he went systematic with this but he had this one note and it was he
+
+he had this one note and it was he he had this one note and it was he shared it from somebody else I think his
+
+shared it from somebody else I think his shared it from somebody else I think his name was Pablo and he's gone now like I
+
+name was Pablo and he's gone now like I name was Pablo and he's gone now like I can't find him on the internet but he
+
+can't find him on the internet but he can't find him on the internet but he has the idea where if it's on people
+
+has the idea where if it's on people has the idea where if it's on people it's if it's a paa people also search
+
+it's if it's a paa people also search it's if it's a paa people also search for then that validates the targeting if
+
+for then that validates the targeting if for then that validates the targeting if it has pages that show up for it so you
+
+it has pages that show up for it so you it has pages that show up for it so you can just look at the total amount of can just look at the total amount of can just look at the total amount of results this is you know a while ago I
+
+results this is you know a while ago I results this is you know a while ago I don't know if this will stay true
+
+don't know if this will stay true don't know if this will stay true forever but forever but forever but that's another one and then the other
+
+that's another one and then the other that's another one and then the other thing to think about is if period if you
+
+thing to think about is if period if you thing to think about is if period if you just know that this is good that that
+
+just know that this is good that that just know that this is good that that your audience wants it then targeting it
+
+your audience wants it then targeting it your audience wants it then targeting it I I think you can think of it as like a
+
+I I think you can think of it as like a I I think you can think of it as like a think of every query as an opportunity
+
+think of every query as an opportunity think of every query as an opportunity to be an authority for that query so if
+
+to be an authority for that query so if to be an authority for that query so if you're there first just like with a
+
+you're there first just like with a you're there first just like with a cluster there's like cluster authorities
+
+cluster there's like cluster authorities cluster there's like cluster authorities where hey we've been here historically
+
+where hey we've been here historically where hey we've been here historically there's this like metric now where we're
+
+there's this like metric now where we're there's this like metric now where we're just seen as like a seed site and I
+
+just seen as like a seed site and I just seen as like a seed site and I think you've probably seen where there's
+
+think you've probably seen where there's think you've probably seen where there's literally a different algorithm or literally a different algorithm or literally a different algorithm or different weights applied anyone who's
+
+different weights applied anyone who's different weights applied anyone who's in the top one to three or one to two
+
+in the top one to three or one to two in the top one to three or one to two spots where once you're there and
+
+spots where once you're there and spots where once you're there and especially for a lot of keywords I have
+
+especially for a lot of keywords I have especially for a lot of keywords I have no idea how to exactly measure this
+
+no idea how to exactly measure this no idea how to exactly measure this there's just like a different there's just like a different there's just like a different measurement system and the idea here is
+
+measurement system and the idea here is measurement system and the idea here is just that if you go for these low
+
+just that if you go for these low just that if you go for these low hanging or these like these keywords
+
+hanging or these like these keywords hanging or these like these keywords where no volume is being shown what's
+
+where no volume is being shown what's where no volume is being shown what's important for your audience and you're
+
+important for your audience and you're important for your audience and you're connecting it in the optimal way whether
+
+connecting it in the optimal way whether connecting it in the optimal way whether it's a new page or somewhere on your
+
+it's a new page or somewhere on your it's a new page or somewhere on your page then that's a good thing and you're
+
+page then that's a good thing and you're page then that's a good thing and you're connecting to existing queries that
+
+connecting to existing queries that connecting to existing queries that Google understands yeah that's what I
+
+Google understands yeah that's what I Google understands yeah that's what I tried to do and I actually did that on tried to do and I actually did that on tried to do and I actually did that on one of my pages it was specifically a
+
+one of my pages it was specifically a one of my pages it was specifically a casino affiliate programs page and after
+
+casino affiliate programs page and after casino affiliate programs page and after making those changes I think I did 4,000
+
+making those changes I think I did 4,000 making those changes I think I did 4,000 words it actually went up quite a bit I
+
+words it actually went up quite a bit I words it actually went up quite a bit I had no images on it it was an ugly
+
+had no images on it it was an ugly had no images on it it was an ugly looking page but I I basically went that
+
+looking page but I I basically went that looking page but I I basically went that route and I said I have multiple sites
+
+route and I said I have multiple sites route and I said I have multiple sites that I can actually do this an that I can actually do this an that I can actually do this an experiment for and what I've also
+
+experiment for and what I've also experiment for and what I've also discovered in the past and I don't know discovered in the past and I don't know discovered in the past and I don't know if it's today is sometimes that listicle
+
+if it's today is sometimes that listicle if it's today is sometimes that listicle type of blog post was actually ranking
+
+type of blog post was actually ranking type of blog post was actually ranking and I'm wondering if listicles are maybe
+
+and I'm wondering if listicles are maybe and I'm wondering if listicles are maybe not at a style anymore but I just want
+
+not at a style anymore but I just want not at a style anymore but I just want wonder if I think listicles will always wonder if I think listicles will always wonder if I think listicles will always be interesting but I'm just wondering if be interesting but I'm just wondering if be interesting but I'm just wondering if they're gonna be pushed down man I I
+
+they're gonna be pushed down man I I they're gonna be pushed down man I I wonder the same thing honestly because
+
+wonder the same thing honestly because wonder the same thing honestly because oftentimes listicles can be better
+
+oftentimes listicles can be better oftentimes listicles can be better Satisfied by YouTube or visual
+
+Satisfied by YouTube or visual Satisfied by YouTube or visual stories or so all three of those are
+
+stories or so all three of those are stories or so all three of those are like taking up the Sur environment now
+
+like taking up the Sur environment now like taking up the Sur environment now and I don't know if listicles will be
+
+and I don't know if listicles will be and I don't know if listicles will be here for too much longer but I actually
+
+here for too much longer but I actually here for too much longer but I actually agree that they belong on a place like
+
+agree that they belong on a place like agree that they belong on a place like video for YouTube because that same
+
+video for YouTube because that same video for YouTube because that same content I'm actually doing it's content I'm actually doing it's content I'm actually doing it's basically it's going to be yeah that's
+
+basically it's going to be yeah that's basically it's going to be yeah that's the lisal Style version of it where it's
+
+the lisal Style version of it where it's the lisal Style version of it where it's gonna have the year in it of course but
+
+gonna have the year in it of course but gonna have the year in it of course but it's going to be one video per year and
+
+it's going to be one video per year and it's going to be one video per year and I every time I look at what Matt digity
+
+I every time I look at what Matt digity I every time I look at what Matt digity does he does like his content then he's
+
+does he does like his content then he's does he does like his content then he's always got the video version following
+
+always got the video version following always got the video version following it up and I find he does pretty well
+
+it up and I find he does pretty well it up and I find he does pretty well hitting it on both sides yeah I actually
+
+hitting it on both sides yeah I actually hitting it on both sides yeah I actually want to ask you a question because I
+
+want to ask you a question because I want to ask you a question because I have this theory that uh basically the
+
+have this theory that uh basically the have this theory that uh basically the way of the future is seos are going to
+
+way of the future is seos are going to way of the future is seos are going to get more are they will need to become
+
+get more are they will need to become get more are they will need to become more Dynamic content creators we were
+
+more Dynamic content creators we were more Dynamic content creators we were used to just being able to stick in the used to just being able to stick in the used to just being able to stick in the realm of written content and I really
+
+realm of written content and I really realm of written content and I really think that images and video specifically
+
+think that images and video specifically think that images and video specifically video will be much more important and
+
+video will be much more important and video will be much more important and because there's that for so many reasons
+
+because there's that for so many reasons because there's that for so many reasons but I'm just curious if you're thinking
+
+but I'm just curious if you're thinking but I'm just curious if you're thinking the same thing or where do you see video
+
+the same thing or where do you see video the same thing or where do you see video and and images
+
+and and images and and images yeah it's it's a tough question because
+
+yeah it's it's a tough question because yeah it's it's a tough question because in the corner here is the not just the
+
+in the corner here is the not just the in the corner here is the not just the AI content but the programmatic SEO and
+
+AI content but the programmatic SEO and AI content but the programmatic SEO and I think there's always going to be a I think there's always going to be a I think there's always going to be a time and place for it but I forget who I
+
+time and place for it but I forget who I time and place for it but I forget who I I forget which SEO I saw this on Twitter
+
+I forget which SEO I saw this on Twitter I forget which SEO I saw this on Twitter or X where they basically said people
+
+or X where they basically said people or X where they basically said people might become fed up with AI content
+
+might become fed up with AI content might become fed up with AI content where like even AI videos like I just
+
+where like even AI videos like I just where like even AI videos like I just saw one the other day I'm like I hate
+
+saw one the other day I'm like I hate saw one the other day I'm like I hate this I gave it a a down vote instantly
+
+this I gave it a a down vote instantly this I gave it a a down vote instantly and said I don't want to watch this I and said I don't want to watch this I and said I don't want to watch this I know exactly what this is and my belief
+
+know exactly what this is and my belief know exactly what this is and my belief is people buy from people so in my
+
+is people buy from people so in my is people buy from people so in my experience I've been affiliate marketer
+
+experience I've been affiliate marketer experience I've been affiliate marketer for 15 years with B Toc stuff now I'm on
+
+for 15 years with B Toc stuff now I'm on for 15 years with B Toc stuff now I'm on the B B2B side and what I found is as
+
+the B B2B side and what I found is as the B B2B side and what I found is as soon as I started going into video
+
+soon as I started going into video soon as I started going into video actually Matt Diggy said the same thing actually Matt Diggy said the same thing actually Matt Diggy said the same thing he's like the video content he produces
+
+he's like the video content he produces he's like the video content he produces just sells more and better because it's
+
+just sells more and better because it's just sells more and better because it's people are seeing you that Authority is
+
+people are seeing you that Authority is people are seeing you that Authority is coming through so imagine taking your
+
+coming through so imagine taking your coming through so imagine taking your content and um putting clips of video to
+
+content and um putting clips of video to content and um putting clips of video to highlight what you're trying to explain
+
+highlight what you're trying to explain highlight what you're trying to explain or maybe even like you said go a step
+
+or maybe even like you said go a step or maybe even like you said go a step further and go okay you know what you further and go okay you know what you further and go okay you know what you didn't ask for it but here's the here's
+
+didn't ask for it but here's the here's didn't ask for it but here's the here's an extra five minutes of content where
+
+an extra five minutes of content where an extra five minutes of content where I'm going to dive deeper and if you want I'm going to dive deeper and if you want I'm going to dive deeper and if you want it's there yeah okay so I'm in complete
+
+it's there yeah okay so I'm in complete it's there yeah okay so I'm in complete agreement and Matt D's doing a great job
+
+agreement and Matt D's doing a great job agreement and Matt D's doing a great job with with with that the other thing too is that there's
+
+that the other thing too is that there's that the other thing too is that there's no backlinks required for video
+
+no backlinks required for video no backlinks required for video distribution as as long as you're
+
+distribution as as long as you're distribution as as long as you're creating digestible content then you're
+
+creating digestible content then you're creating digestible content then you're good yeah and the reason why I think
+
+good yeah and the reason why I think good yeah and the reason why I think video has a big Power is that not
+
+video has a big Power is that not video has a big Power is that not everyone's willing to jump in front of a
+
+everyone's willing to jump in front of a everyone's willing to jump in front of a camera and just start recording look at
+
+camera and just start recording look at camera and just start recording look at what it takes just to get start it what it takes just to get start it what it takes just to get start it you're like oh my first video I can't
+
+you're like oh my first video I can't you're like oh my first video I can't stand it we can all look back at our
+
+stand it we can all look back at our stand it we can all look back at our first videos and probably even Matt first videos and probably even Matt first videos and probably even Matt Diggity Kyle rof and just go let's see
+
+Diggity Kyle rof and just go let's see Diggity Kyle rof and just go let's see how bad their first videos are and yeah
+
+how bad their first videos are and yeah how bad their first videos are and yeah you keep them up but I think uh that's
+
+you keep them up but I think uh that's you keep them up but I think uh that's the barrier to entry into anything in
+
+the barrier to entry into anything in the barrier to entry into anything in the space and I think as long as people
+
+the space and I think as long as people the space and I think as long as people will always be intimidated they might
+
+will always be intimidated they might will always be intimidated they might start a podcast but to do a video and
+
+start a podcast but to do a video and start a podcast but to do a video and then keep doing it yeah it's there's so
+
+then keep doing it yeah it's there's so then keep doing it yeah it's there's so much opportunity but I know so many
+
+much opportunity but I know so many much opportunity but I know so many people that they're just scared to get
+
+people that they're just scared to get people that they're just scared to get started yeah it's a beast I would say
+
+started yeah it's a beast I would say started yeah it's a beast I would say that for those that are scared to get that for those that are scared to get that for those that are scared to get started at least just to put you on the
+
+started at least just to put you on the started at least just to put you on the right track the easiest tool I've found
+
+right track the easiest tool I've found right track the easiest tool I've found because I did just like SEO I did all
+
+because I did just like SEO I did all because I did just like SEO I did all this research to figure out video and I
+
+this research to figure out video and I this research to figure out video and I have so much if I didn't have a sass I'd
+
+have so much if I didn't have a sass I'd have so much if I didn't have a sass I'd be more into to content creation and
+
+be more into to content creation and be more into to content creation and eventually hopefully I'll do that more
+
+eventually hopefully I'll do that more eventually hopefully I'll do that more but descript I think is just like what
+
+but descript I think is just like what but descript I think is just like what Elementor and divy and those things did
+
+Elementor and divy and those things did Elementor and divy and those things did for for for WordPress it's like these
+
+WordPress it's like these WordPress it's like these visual editors now and not only that
+
+visual editors now and not only that visual editors now and not only that they've got AI tools integrated hey I'm
+
+they've got AI tools integrated hey I'm they've got AI tools integrated hey I'm reading a script my eyes are going off
+
+reading a script my eyes are going off reading a script my eyes are going off somewhere and it looks awkward AI will
+
+somewhere and it looks awkward AI will somewhere and it looks awkward AI will adjust your eyes great okay I misspoke
+
+adjust your eyes great okay I misspoke adjust your eyes great okay I misspoke here and I don't want to have to re-edit
+
+here and I don't want to have to re-edit here and I don't want to have to re-edit great AI can dub your voice and no one
+
+great AI can dub your voice and no one great AI can dub your voice and no one can even tell and you edit your Clips by
+
+can even tell and you edit your Clips by can even tell and you edit your Clips by just looking at the the text instead of
+
+just looking at the the text instead of just looking at the the text instead of looking at the necessary frames there's
+
+looking at the necessary frames there's looking at the necessary frames there's all sorts of stuff now where SAS help
+
+all sorts of stuff now where SAS help all sorts of stuff now where SAS help descript and then there's free software
+
+descript and then there's free software descript and then there's free software like OBS too there's all sorts of things
+
+like OBS too there's all sorts of things like OBS too there's all sorts of things where your microphone and lighting and
+
+where your microphone and lighting and where your microphone and lighting and all that stuff I bet you
+
+all that stuff I bet you all that stuff I bet you for what counting a camera and all the
+
+for what counting a camera and all the for what counting a camera and all the gear you could probably get started for
+
+gear you could probably get started for gear you could probably get started for a thousand bucks or less yeah I think my
+
+a thousand bucks or less yeah I think my a thousand bucks or less yeah I think my setup is3
+
+setup is3 setup is3 $400 yeah I'm I was the camera is the
+
+$400 yeah I'm I was the camera is the $400 yeah I'm I was the camera is the majority of it I want if you want 4K
+
+majority of it I want if you want 4K majority of it I want if you want 4K then that's what's putting you over you then that's what's putting you over you then that's what's putting you over you can do for 300 or something if you just
+
+can do for 300 or something if you just can do for 300 or something if you just do a 720p or
+
+do a 720p or do a 720p or 1080p like Logitech sort of thing that's
+
+1080p like Logitech sort of thing that's 1080p like Logitech sort of thing that's on top
+
+on top on top all right so let's put our foot in our
+
+all right so let's put our foot in our all right so let's put our foot in our mouths and we talked about how people
+
+mouths and we talked about how people mouths and we talked about how people don't necessarily want AI content but
+
+don't necessarily want AI content but don't necessarily want AI content but that maybe they do so how do you see we
+
+that maybe they do so how do you see we that maybe they do so how do you see we obviously know what's happening in obviously know what's happening in obviously know what's happening in social media where everyone's talking
+
+social media where everyone's talking social media where everyone's talking about AI content people are getting hit
+
+about AI content people are getting hit about AI content people are getting hit but then other people are saying No this
+
+but then other people are saying No this but then other people are saying No this is still growing and people are saying
+
+is still growing and people are saying is still growing and people are saying Google's saying you know what it's h if
+
+Google's saying you know what it's h if Google's saying you know what it's h if it adds value to the user Do It um tell
+
+it adds value to the user Do It um tell it adds value to the user Do It um tell us how to do AI content the right way
+
+us how to do AI content the right way us how to do AI content the right way because I think most people when they because I think most people when they because I think most people when they get started they do everything wrong and
+
+get started they do everything wrong and get started they do everything wrong and then they're like this doesn't work and then they're like this doesn't work and then they're like this doesn't work and then they're gone so the question is how
+
+then they're gone so the question is how then they're gone so the question is how to do AI content the right way friend
+
+to do AI content the right way friend to do AI content the right way friend asking for a friend do I have the
+
+asking for a friend do I have the asking for a friend do I have the ability to share my screen I think so
+
+ability to share my screen I think so ability to share my screen I think so it's a give it a try and then I think I
+
+it's a give it a try and then I think I it's a give it a try and then I think I enable it on my side I'm digging into
+
+enable it on my side I'm digging into enable it on my side I'm digging into the projects uh this is my specific
+
+the projects uh this is my specific the projects uh this is my specific project for my transparent SEO site
+
+project for my transparent SEO site project for my transparent SEO site called flask and called flask and called flask and Barrel so I could do any of these but
+
+Barrel so I could do any of these but Barrel so I could do any of these but I'll just do
+
+I'll just do I'll just do about how to drink bourbon articles what
+
+about how to drink bourbon articles what about how to drink bourbon articles what about how not to drink bourbon how not
+
+about how not to drink bourbon how not about how not to drink bourbon how not to drink bourbon is that a thing so one
+
+to drink bourbon is that a thing so one to drink bourbon is that a thing so one of the things
+
+of the things of the things is this one's a little bit older but I
+
+is this one's a little bit older but I is this one's a little bit older but I think it gets into the point
+
+is like I said earlier you want to have is like I said earlier you want to have your headings where you just go right
+
+your headings where you just go right your headings where you just go right into it this one that's what is Irish
+
+into it this one that's what is Irish into it this one that's what is Irish whiskey types flavors and recom
+
+whiskey types flavors and recom whiskey types flavors and recom recommendations one is my title so if
+
+recommendations one is my title so if recommendations one is my title so if you want to write AI content here's a you want to write AI content here's a you want to write AI content here's a good title and then the next thing that
+
+good title and then the next thing that good title and then the next thing that I really like is basically setting the
+
+I really like is basically setting the I really like is basically setting the tone at the top so the first thing that
+
+tone at the top so the first thing that tone at the top so the first thing that Google Sees is one they see the URL the
+
+Google Sees is one they see the URL the Google Sees is one they see the URL the next thing they're going to see is on
+
+next thing they're going to see is on next thing they're going to see is on this page is the title or the H1
+
+this page is the title or the H1 this page is the title or the H1 so what you're seeing here is types
+
+so what you're seeing here is types so what you're seeing here is types flavor recommendations then the
+
+flavor recommendations then the flavor recommendations then the structure of this content better be
+
+structure of this content better be structure of this content better be types flavor and recommendations once
+
+types flavor and recommendations once types flavor and recommendations once again we're all about optimizing micro
+
+again we're all about optimizing micro again we're all about optimizing micro optimizing crawl so if we are setting
+
+optimizing crawl so if we are setting optimizing crawl so if we are setting the structure here and then if the H1
+
+the structure here and then if the H1 the structure here and then if the H1 sets that same structure where it's
+
+sets that same structure where it's sets that same structure where it's mimicking hey here's what you're going mimicking hey here's what you're going mimicking hey here's what you're going to see be as succinct as possible great
+
+to see be as succinct as possible great to see be as succinct as possible great I've even been testing I have no data to
+
+I've even been testing I have no data to I've even been testing I have no data to prove it but like I said with the
+
+prove it but like I said with the prove it but like I said with the different data formats I put audio now
+
+different data formats I put audio now different data formats I put audio now and I TR I just transcribe it and then
+
+and I TR I just transcribe it and then and I TR I just transcribe it and then create an audio version because the create an audio version because the create an audio version because the audio is now so good that I see why not
+
+audio is now so good that I see why not audio is now so good that I see why not it's an extra $2 or $3 at cost if I were
+
+it's an extra $2 or $3 at cost if I were it's an extra $2 or $3 at cost if I were to do like a 4,000 word post so I I
+
+to do like a 4,000 word post so I I to do like a 4,000 word post so I I don't see a reason why not to do that I
+
+don't see a reason why not to do that I don't see a reason why not to do that I think another thing is ux so as you can
+
+think another thing is ux so as you can think another thing is ux so as you can see for people who can't see this I've
+
+see for people who can't see this I've see for people who can't see this I've done exactly what Wikipedia does where
+
+done exactly what Wikipedia does where done exactly what Wikipedia does where if you hover over this internal link
+
+if you hover over this internal link if you hover over this internal link then you see the image of what it is and
+
+then you see the image of what it is and then you see the image of what it is and then you can read a bit of the text
+
+then you can read a bit of the text then you can read a bit of the text without jumping necessarily jumping into
+
+without jumping necessarily jumping into without jumping necessarily jumping into it I think that uxui is a huge piece so
+
+it I think that uxui is a huge piece so it I think that uxui is a huge piece so if you invest in that then your
+
+if you invest in that then your if you invest in that then your content's going to go much further as content's going to go much further as content's going to go much further as well you want to make everything as
+
+well you want to make everything as well you want to make everything as readable as possible so that's why
+
+readable as possible so that's why readable as possible so that's why there's bold sprinkled throughout or
+
+there's bold sprinkled throughout or there's bold sprinkled throughout or italic sprinkle throughout or underlines
+
+italic sprinkle throughout or underlines italic sprinkle throughout or underlines all that kind of stuff think of it this
+
+all that kind of stuff think of it this all that kind of stuff think of it this way it's I just think that it's a
+
+way it's I just think that it's a way it's I just think that it's a miracle people want to read it all I'm I
+
+miracle people want to read it all I'm I miracle people want to read it all I'm I used to be angry and be like no I'm G to
+
+used to be angry and be like no I'm G to used to be angry and be like no I'm G to stick in my way of content must be this
+
+stick in my way of content must be this stick in my way of content must be this way I'm G to keep my personality and
+
+way I'm G to keep my personality and way I'm G to keep my personality and brand voice and blah blah blah if people
+
+brand voice and blah blah blah if people brand voice and blah blah blah if people have an attention span just look at the
+
+have an attention span just look at the have an attention span just look at the cuts the video cuts and video editing on
+
+cuts the video cuts and video editing on cuts the video cuts and video editing on any show you watch whether it's Netflix
+
+any show you watch whether it's Netflix any show you watch whether it's Netflix whether it's reality television or cable
+
+whether it's reality television or cable whether it's reality television or cable news whatever it is four seconds man and
+
+news whatever it is four seconds man and news whatever it is four seconds man and if it's Mr Beast two seconds sometimes
+
+if it's Mr Beast two seconds sometimes if it's Mr Beast two seconds sometimes and you're like okay this is what's
+
+and you're like okay this is what's and you're like okay this is what's getting the most so how can I emulate
+
+getting the most so how can I emulate getting the most so how can I emulate that philosophy inside of written
+
+that philosophy inside of written that philosophy inside of written content there is a lot of ux stuff you
+
+content there is a lot of ux stuff you content there is a lot of ux stuff you can do but it's answer the question as
+
+can do but it's answer the question as can do but it's answer the question as quickly as possible provide different
+
+quickly as possible provide different quickly as possible provide different ways of answering it as you can see here
+
+ways of answering it as you can see here ways of answering it as you can see here I could have just done hey types Irish
+
+I could have just done hey types Irish I could have just done hey types Irish whiskey and then I could have just wrote
+
+whiskey and then I could have just wrote whiskey and then I could have just wrote it all out but instead my tool
+
+it all out but instead my tool it all out but instead my tool automatically like all this is One Click
+
+automatically like all this is One Click automatically like all this is One Click by the way to get all this stuff I did by the way to get all this stuff I did by the way to get all this stuff I did one click took me three minutes I could
+
+one click took me three minutes I could one click took me three minutes I could have created a hundred of these and one
+
+have created a hundred of these and one have created a hundred of these and one click as well so we have all this here
+
+click as well so we have all this here click as well so we have all this here it's much easier to read and then I add
+
+it's much easier to read and then I add it's much easier to read and then I add images just because let's like stack
+
+images just because let's like stack images just because let's like stack that understanding because if someone
+
+that understanding because if someone that understanding because if someone wants an image instead then they can
+
+wants an image instead then they can wants an image instead then they can have an image and I'm trying to just have an image and I'm trying to just have an image and I'm trying to just provide them with exactly what they want
+
+provide them with exactly what they want provide them with exactly what they want if they didn't want to read all this if they didn't want to read all this if they didn't want to read all this then they could read then they can just then they could read then they can just then they could read then they can just look at this next small sections man
+
+look at this next small sections man look at this next small sections man just like very small you don't want to
+
+just like very small you don't want to just like very small you don't want to go on and on and if you look at you
+
+go on and on and if you look at you go on and on and if you look at you don't have to take my word for it look don't have to take my word for it look don't have to take my word for it look at any of those sites that you hate that
+
+at any of those sites that you hate that at any of those sites that you hate that are on every Ser Forbes and whatever
+
+are on every Ser Forbes and whatever are on every Ser Forbes and whatever look at how they structure stuff Forbes
+
+look at how they structure stuff Forbes look at how they structure stuff Forbes is now just like they've got it down
+
+is now just like they've got it down is now just like they've got it down they're just it's quick answers and what
+
+they're just it's quick answers and what they're just it's quick answers and what Google does is they'll rank just this it
+
+Google does is they'll rank just this it Google does is they'll rank just this it creates a specific link right like copy
+
+creates a specific link right like copy creates a specific link right like copy link to highlight when I right click
+
+link to highlight when I right click link to highlight when I right click this Google's doing that when it in the
+
+this Google's doing that when it in the this Google's doing that when it in the surf and it'll have it it own sort of I
+
+surf and it'll have it it own sort of I surf and it'll have it it own sort of I wonder what that URL is yeah it has this
+
+wonder what that URL is yeah it has this wonder what that URL is yeah it has this little URL uh that'll Rank and uh that's
+
+little URL uh that'll Rank and uh that's little URL uh that'll Rank and uh that's what it takes you exactly to this
+
+what it takes you exactly to this what it takes you exactly to this section I'm sure you've seen it before section I'm sure you've seen it before section I'm sure you've seen it before but you click it so by having small
+
+but you click it so by having small but you click it so by having small sections especially directly under the
+
+sections especially directly under the sections especially directly under the header that's how you're going to get header that's how you're going to get header that's how you're going to get that next we have uh I want to put
+
+that next we have uh I want to put that next we have uh I want to put entities in images so I want an apple I
+
+entities in images so I want an apple I entities in images so I want an apple I want honey I want all these flavor
+
+want honey I want all these flavor want honey I want all these flavor profiles this is a fun way of me
+
+profiles this is a fun way of me profiles this is a fun way of me describing I could just say hey the
+
+describing I could just say hey the describing I could just say hey the flavor profile is this or I could have
+
+flavor profile is this or I could have flavor profile is this or I could have this so all of this kind of thing this
+
+this so all of this kind of thing this this so all of this kind of thing this is what I'm trying to do and I believe
+
+is what I'm trying to do and I believe is what I'm trying to do and I believe that for those that are worried if I
+
+that for those that are worried if I that for those that are worried if I provide all this content where I give
+
+provide all this content where I give provide all this content where I give all the users the answers immediately or
+
+all the users the answers immediately or all the users the answers immediately or I am doing this specific thing where I'm
+
+I am doing this specific thing where I'm I am doing this specific thing where I'm just not able to write in the way that I
+
+just not able to write in the way that I just not able to write in the way that I used to I think that it's more about
+
+used to I think that it's more about used to I think that it's more about satisfying the query where if they don't
+
+satisfying the query where if they don't satisfying the query where if they don't go back to Google and you satisfied that
+
+go back to Google and you satisfied that go back to Google and you satisfied that then that's you winning if it's a my
+
+then that's you winning if it's a my then that's you winning if it's a my recipes I have a whole section on
+
+recipes I have a whole section on recipes I have a whole section on recipes sometimes it's just the recipe
+
+recipes sometimes it's just the recipe recipes sometimes it's just the recipe card there's not even anything else on
+
+card there's not even anything else on card there's not even anything else on there right now I'm ranking page two on
+
+there right now I'm ranking page two on there right now I'm ranking page two on with zero back links on a fresh domain
+
+with zero back links on a fresh domain with zero back links on a fresh domain for a ton of recipes and I've done
+
+for a ton of recipes and I've done for a ton of recipes and I've done nothing other than just it doesn't even
+
+nothing other than just it doesn't even nothing other than just it doesn't even have an image sometimes I'm just like
+
+have an image sometimes I'm just like have an image sometimes I'm just like it's just text it's GNA make me cry I've
+
+it's just text it's GNA make me cry I've it's just text it's GNA make me cry I've got a recipe website I work on and for
+
+got a recipe website I work on and for got a recipe website I work on and for years we never did that stupid long
+
+years we never did that stupid long years we never did that stupid long fluffy content all this rice reminded me
+
+fluffy content all this rice reminded me fluffy content all this rice reminded me about the time I went to Thailand I'm about the time I went to Thailand I'm about the time I went to Thailand I'm like I don't care about this yeah give like I don't care about this yeah give like I don't care about this yeah give me the recipe now it's that traffic's
+
+me the recipe now it's that traffic's me the recipe now it's that traffic's done like a four or
+
+done like a four or done like a four or 8X any effort finally
+
+8X any effort finally 8X any effort finally heck yeah and I think there's a time for
+
+heck yeah and I think there's a time for heck yeah and I think there's a time for that but just put that content after you
+
+that but just put that content after you that but just put that content after you satisfy the users's query if they want
+
+satisfy the users's query if they want satisfy the users's query if they want to read about your grandma and her apple
+
+to read about your grandma and her apple to read about your grandma and her apple cider vinegar story then go for it but
+
+cider vinegar story then go for it but cider vinegar story then go for it but people generally don't want to so yeah
+
+people generally don't want to so yeah people generally don't want to so yeah that that's what all this is man I'm that that's what all this is man I'm that that's what all this is man I'm just getting unique stuff making it
+
+just getting unique stuff making it just getting unique stuff making it visual making it appealing and putting
+
+visual making it appealing and putting visual making it appealing and putting bold I have numbered list bullet lists
+
+bold I have numbered list bullet lists bold I have numbered list bullet lists bold italics bold italics bold italics tables and lots and lots of images good
+
+tables and lots and lots of images good tables and lots and lots of images good links everywhere good ux good UI this is
+
+links everywhere good ux good UI this is links everywhere good ux good UI this is what I believe people want with content
+
+what I believe people want with content what I believe people want with content that's what I'm that's what I'm trying
+
+that's what I'm that's what I'm trying that's what I'm that's what I'm trying to do and going back to a comment I had
+
+to do and going back to a comment I had to do and going back to a comment I had earlier about people not doing the right
+
+earlier about people not doing the right earlier about people not doing the right internal linking and it's because they
+
+internal linking and it's because they internal linking and it's because they don't know or they're lazy and maybe I
+
+don't know or they're lazy and maybe I don't know or they're lazy and maybe I think it's a bit of both what you've
+
+think it's a bit of both what you've think it's a bit of both what you've explained here might be super simple to
+
+explained here might be super simple to explained here might be super simple to you because you've been living and you because you've been living and you because you've been living and breeding this for so long but I think
+
+breeding this for so long but I think breeding this for so long but I think for a lot of people it's even the idea
+
+for a lot of people it's even the idea for a lot of people it's even the idea about even making things bold and having
+
+about even making things bold and having about even making things bold and having the right amount of content people scan
+
+the right amount of content people scan the right amount of content people scan before they read so if you have a giant
+
+before they read so if you have a giant before they read so if you have a giant wall of text unless it's Wikipedia
+
+wall of text unless it's Wikipedia wall of text unless it's Wikipedia throwing an image in there and even like
+
+throwing an image in there and even like throwing an image in there and even like tables and lists and things like that
+
+tables and lists and things like that tables and lists and things like that they sound all gimmicky but they work
+
+they sound all gimmicky but they work they sound all gimmicky but they work you get it you're Expos to it all day
+
+you get it you're Expos to it all day you get it you're Expos to it all day long on Wikipedia yeah I think so I
+
+long on Wikipedia yeah I think so I long on Wikipedia yeah I think so I think what helps me is I think like a
+
+think what helps me is I think like a think what helps me is I think like a copywriter I I manage a lot of AD
+
+copywriter I I manage a lot of AD copywriter I I manage a lot of AD campaigns and what works if you I my you
+
+campaigns and what works if you I my you campaigns and what works if you I my you can't even see the bookshelf but the can't even see the bookshelf but the can't even see the bookshelf but the amount of copywriting books that I have
+
+amount of copywriting books that I have amount of copywriting books that I have and it's application for
+
+and it's application for and it's application for SEO copyrighting is all about just
+
+SEO copyrighting is all about just SEO copyrighting is all about just getting people people's attention and if
+
+getting people people's attention and if getting people people's attention and if anything if anyone didn't know Google
+
+anything if anyone didn't know Google anything if anyone didn't know Google had was sued and then they had to had was sued and then they had to had was sued and then they had to release some documentation on their
+
+release some documentation on their release some documentation on their actual algorithm so I went back some of
+
+actual algorithm so I went back some of actual algorithm so I went back some of it got redacted but I went back to the it got redacted but I went back to the it got redacted but I went back to the web archives and tried to find whatever
+
+web archives and tried to find whatever web archives and tried to find whatever I could find before was redacted and
+
+I could find before was redacted and I could find before was redacted and then found hunted around on Twitter so
+
+then found hunted around on Twitter so then found hunted around on Twitter so what I was able to find though is just what I was able to find though is just what I was able to find though is just that it's a ridiculous amount of effort
+
+that it's a ridiculous amount of effort that it's a ridiculous amount of effort and all this like math is just put onto
+
+and all this like math is just put onto and all this like math is just put onto the backs of the users so instead of
+
+the backs of the users so instead of the backs of the users so instead of trying to quantify everything Google's
+
+trying to quantify everything Google's trying to quantify everything Google's just like hey let's just see what people just like hey let's just see what people just like hey let's just see what people do create buckets of people based off of
+
+do create buckets of people based off of do create buckets of people based off of who we know them to be and then we'll
+
+who we know them to be and then we'll who we know them to be and then we'll make our algorithm based off of that and
+
+make our algorithm based off of that and make our algorithm based off of that and it's a good chunk of things if that's
+
+it's a good chunk of things if that's it's a good chunk of things if that's what it is and it's just measuring how
+
+what it is and it's just measuring how what it is and it's just measuring how people interact with your stuff then
+
+people interact with your stuff then people interact with your stuff then just copywriting is the secret or
+
+just copywriting is the secret or just copywriting is the secret or whatever the copywriting stuff it is
+
+whatever the copywriting stuff it is whatever the copywriting stuff it is like all those Sops around it that kind
+
+like all those Sops around it that kind like all those Sops around it that kind of is what you should be doing with your
+
+of is what you should be doing with your of is what you should be doing with your content make it enjoyable and I'm going
+
+content make it enjoyable and I'm going content make it enjoyable and I'm going to ask you for your library list of of
+
+to ask you for your library list of of to ask you for your library list of of copy dude for sure I so I was given this
+
+copy dude for sure I so I was given this copy dude for sure I so I was given this list from a guy that he turn he made
+
+list from a guy that he turn he made list from a guy that he turn he made this company he was like 21 and he
+
+this company he was like 21 and he this company he was like 21 and he turned a company from three million to
+
+turned a company from three million to turned a company from three million to 30 million to 100 million in under four
+
+30 million to 100 million in under four 30 million to 100 million in under four years we're talking like a huge company
+
+years we're talking like a huge company years we're talking like a huge company now it's it's wild and it was just off
+
+now it's it's wild and it was just off now it's it's wild and it was just off of the back of he obsessed over this and
+
+of the back of he obsessed over this and of the back of he obsessed over this and memorized almost entire books of how to
+
+memorized almost entire books of how to memorized almost entire books of how to do copy so this stuff works man like it
+
+do copy so this stuff works man like it do copy so this stuff works man like it just works so we only need four years
+
+just works so we only need four years just works so we only need four years and we'll both be hitting 100 million I
+
+and we'll both be hitting 100 million I and we'll both be hitting 100 million I can't do that man I I don't know how to
+
+can't do that man I I don't know how to can't do that man I I don't know how to do that all right I I want to ask
+
+do that all right I I want to ask do that all right I I want to ask another question it's very specific I
+
+another question it's very specific I another question it's very specific I don't know if your app can do this but I
+
+don't know if your app can do this but I don't know if your app can do this but I try to focus for my company to go how
+
+try to focus for my company to go how try to focus for my company to go how can I capture unique data sets that I
+
+can I capture unique data sets that I can I capture unique data sets that I cannot copy anywhere else so for example
+
+cannot copy anywhere else so for example cannot copy anywhere else so for example going very specifically for affiliate
+
+going very specifically for affiliate going very specifically for affiliate program reviews going what time zone is
+
+program reviews going what time zone is program reviews going what time zone is the data of that program is it are you
+
+the data of that program is it are you the data of that program is it are you given it by Real Time by the hour every
+
+given it by Real Time by the hour every given it by Real Time by the hour every 24 hours do they have S2s tracking do
+
+24 hours do they have S2s tracking do 24 hours do they have S2s tracking do they have pixels and all the really KY
+
+they have pixels and all the really KY they have pixels and all the really KY stuff that quite often you actually
+
+stuff that quite often you actually stuff that quite often you actually won't be able to scrape the website and
+
+won't be able to scrape the website and won't be able to scrape the website and find out so we get this by talking to
+
+find out so we get this by talking to find out so we get this by talking to the program going inside the the back
+
+the program going inside the the back the program going inside the the back ends so if we have this data how could
+
+ends so if we have this data how could ends so if we have this data how could we use content Sprout to produce some AI
+
+we use content Sprout to produce some AI we use content Sprout to produce some AI content and try to save ourselves the
+
+content and try to save ourselves the content and try to save ourselves the the hassle of going we have a database
+
+the hassle of going we have a database the hassle of going we have a database of 2,000 affiliate programs as pure data
+
+of 2,000 affiliate programs as pure data of 2,000 affiliate programs as pure data points we want to convert this into
+
+points we want to convert this into points we want to convert this into content which we do yeah for sure so
+
+content which we do yeah for sure so content which we do yeah for sure so let's see here
+
+let's see here let's see here going back into contents someone at my
+
+going back into contents someone at my going back into contents someone at my conference asked for was Holly yeah she
+
+conference asked for was Holly yeah she conference asked for was Holly yeah she is funny so we have symptoms of
+
+is funny so we have symptoms of is funny so we have symptoms of hemorrhoids suck I never had never
+
+hemorrhoids suck I never had never hemorrhoids suck I never had never struggled with it until was an SEO and
+
+struggled with it until was an SEO and struggled with it until was an SEO and then I had one it was awful but point
+
+then I had one it was awful but point then I had one it was awful but point being the you get your content here
+
+being the you get your content here being the you get your content here right and you don't have to keep all of
+
+right and you don't have to keep all of right and you don't have to keep all of this this think of this is with condent
+
+this this think of this is with condent this this think of this is with condent SP you're not charged based off of the
+
+SP you're not charged based off of the SP you're not charged based off of the words you'll get ,000 words sometimes
+
+words you'll get ,000 words sometimes words you'll get ,000 words sometimes typically no more than 4,000 I think we
+
+typically no more than 4,000 I think we typically no more than 4,000 I think we average around 2,800 but you can remove
+
+average around 2,800 but you can remove average around 2,800 but you can remove a lot of these things and or just find
+
+a lot of these things and or just find a lot of these things and or just find Opportunities to add your data I would
+
+Opportunities to add your data I would Opportunities to add your data I would just find Opportunities to add your data
+
+just find Opportunities to add your data just find Opportunities to add your data in and then if possible put a code
+
+in and then if possible put a code in and then if possible put a code coding element into it if you've ever
+
+coding element into it if you've ever coding element into it if you've ever been to nerdwallet.com or any of those
+
+been to nerdwallet.com or any of those been to nerdwallet.com or any of those other sort of websites they have a lot
+
+other sort of websites they have a lot other sort of websites they have a lot of widget type things I think just make
+
+of widget type things I think just make of widget type things I think just make a widget a calculator something like
+
+a widget a calculator something like a widget a calculator something like that would be really good and then just
+
+that would be really good and then just that would be really good and then just put that in anywhere it makes sense
+
+put that in anywhere it makes sense put that in anywhere it makes sense that's my whole whole thought with this
+
+that's my whole whole thought with this that's my whole whole thought with this sometimes you could replace the content sometimes you could replace the content sometimes you could replace the content and just put a widget in there instead
+
+and just put a widget in there instead and just put a widget in there instead but yeah I just think put the data that
+
+but yeah I just think put the data that but yeah I just think put the data that you have in here and that's actually my
+
+you have in here and that's actually my you have in here and that's actually my I have my whole like was it AI
+
+I have my whole like was it AI I have my whole like was it AI SEO sop I released it in my Facebook
+
+SEO sop I released it in my Facebook SEO sop I released it in my Facebook group for Content Sprout and in that
+
+group for Content Sprout and in that group for Content Sprout and in that it's basically sharing hey once you get
+
+it's basically sharing hey once you get it's basically sharing hey once you get this content here's you're supposed to
+
+this content here's you're supposed to this content here's you're supposed to spend a little bit of time editing so
+
+spend a little bit of time editing so spend a little bit of time editing so the editor should spend 20 minutes and
+
+the editor should spend 20 minutes and the editor should spend 20 minutes and ideally if you to go the extra mile if
+
+ideally if you to go the extra mile if ideally if you to go the extra mile if you're working with bigger companies or
+
+you're working with bigger companies or you're working with bigger companies or you just want to be the best all you
+
+you just want to be the best all you you just want to be the best all you need is an hour get a subject matter in
+
+need is an hour get a subject matter in need is an hour get a subject matter in there a subject matter expert in there
+
+there a subject matter expert in there there a subject matter expert in there and their whole job is just you go to
+
+and their whole job is just you go to and their whole job is just you go to scholar or J store or whatever sort of
+
+scholar or J store or whatever sort of scholar or J store or whatever sort of place maybe a government uh website of
+
+place maybe a government uh website of place maybe a government uh website of some kind edu website grab the data
+
+some kind edu website grab the data some kind edu website grab the data maybe you already have the data and then
+
+maybe you already have the data and then maybe you already have the data and then just add specifics so you're supposed to
+
+just add specifics so you're supposed to just add specifics so you're supposed to seek opportunities for specifics luckily
+
+seek opportunities for specifics luckily seek opportunities for specifics luckily I built a custom GPT where you can just
+
+I built a custom GPT where you can just I built a custom GPT where you can just click this and then it'll will tell you
+
+click this and then it'll will tell you click this and then it'll will tell you opportunities for doing that so you can
+
+opportunities for doing that so you can opportunities for doing that so you can click out of this and then it'll pop up
+
+click out of this and then it'll pop up click out of this and then it'll pop up later but yeah that's the what I'd
+
+later but yeah that's the what I'd later but yeah that's the what I'd recommend doing and then you can also
+
+recommend doing and then you can also recommend doing and then you can also say this like all right let me paste the
+
+say this like all right let me paste the say this like all right let me paste the data I have in in here I'm just going to
+
+data I have in in here I'm just going to data I have in in here I'm just going to say use the entire article's context so
+
+say use the entire article's context so say use the entire article's context so now the AI is like reading your whole
+
+now the AI is like reading your whole now the AI is like reading your whole article and you'll just say hey I have
+
+article and you'll just say hey I have article and you'll just say hey I have this data what's the best section to put
+
+this data what's the best section to put this data what's the best section to put this in you you already have exactly
+
+this in you you already have exactly this in you you already have exactly what you need without leaving I find
+
+what you need without leaving I find what you need without leaving I find that by just leaving one environment
+
+that by just leaving one environment that by just leaving one environment switching to other environments you just
+
+switching to other environments you just switching to other environments you just lose a lot of time just because there's
+
+lose a lot of time just because there's lose a lot of time just because there's always some sort of distraction so the
+
+always some sort of distraction so the always some sort of distraction so the goal is to keep it just in here it's not
+
+goal is to keep it just in here it's not goal is to keep it just in here it's not going to be nearly as good as Chet gbt
+
+going to be nearly as good as Chet gbt going to be nearly as good as Chet gbt itself but yeah so here we go so we can
+
+itself but yeah so here we go so we can itself but yeah so here we go so we can see identifying symptoms while it does a
+
+see identifying symptoms while it does a see identifying symptoms while it does a good job of listing the common symptoms
+
+good job of listing the common symptoms good job of listing the common symptoms it could be enhanced by including it could be enhanced by including it could be enhanced by including information on how these differ from
+
+information on how these differ from information on how these differ from some similar conditions or how they
+
+some similar conditions or how they some similar conditions or how they might evolve over time adding specific
+
+might evolve over time adding specific might evolve over time adding specific examples or anecdotes like different
+
+examples or anecdotes like different examples or anecdotes like different things like that and then if you have
+
+things like that and then if you have things like that and then if you have the data or you want to get your writer the data or you want to get your writer the data or you want to get your writer to do it great
+
+to do it great to do it great if you don't then see this if I back out
+
+if you don't then see this if I back out if you don't then see this if I back out of here I could just hit rewrite article
+
+of here I could just hit rewrite article of here I could just hit rewrite article and then now it's going to implement all
+
+and then now it's going to implement all and then now it's going to implement all that form me so I'll just wait three
+
+that form me so I'll just wait three that form me so I'll just wait three minutes and then I can have the article
+
+minutes and then I can have the article minutes and then I can have the article Rewritten with all those improvements
+
+Rewritten with all those improvements Rewritten with all those improvements but that's how do your do the data is
+
+but that's how do your do the data is but that's how do your do the data is okay and then I guess what I could do if
+
+okay and then I guess what I could do if okay and then I guess what I could do if I want to make life easier is I could
+
+I want to make life easier is I could I want to make life easier is I could build my own script to say here's all my
+
+build my own script to say here's all my build my own script to say here's all my data points let's turn them into generic
+
+data points let's turn them into generic data points let's turn them into generic sentences copy that in and then run that
+
+sentences copy that in and then run that sentences copy that in and then run that oh yeah so here here's a an example of
+
+oh yeah so here here's a an example of oh yeah so here here's a an example of how this would something I'm going to be
+
+how this would something I'm going to be how this would something I'm going to be adding into some of my articles I have
+
+adding into some of my articles I have adding into some of my articles I have this little whiskey finder tool so I
+
+this little whiskey finder tool so I this little whiskey finder tool so I paid a VA thousands of dollars to to dig
+
+paid a VA thousands of dollars to to dig paid a VA thousands of dollars to to dig through the internet and we have almost
+
+through the internet and we have almost through the internet and we have almost 8,000 whiskies and you could search
+
+8,000 whiskies and you could search 8,000 whiskies and you could search based on Flavor so you're like all right
+
+based on Flavor so you're like all right based on Flavor so you're like all right well like I know I like this one thing
+
+well like I know I like this one thing well like I know I like this one thing that has vanilla flavor or whatever you
+
+that has vanilla flavor or whatever you that has vanilla flavor or whatever you just put that in you keep hitting next
+
+just put that in you keep hitting next just put that in you keep hitting next and this is a nice little tool that can
+
+and this is a nice little tool that can and this is a nice little tool that can then surface all this kind of stuff and
+
+then surface all this kind of stuff and then surface all this kind of stuff and it doesn't even need just because it
+
+it doesn't even need just because it it doesn't even need just because it doesn't necessarily register the text
+
+doesn't necessarily register the text doesn't necessarily register the text which Google will read that doesn't mean
+
+which Google will read that doesn't mean which Google will read that doesn't mean that it's a bad thing once again if
+
+that it's a bad thing once again if that it's a bad thing once again if you're satisfying the user and they
+
+you're satisfying the user and they you're satisfying the user and they don't leave your site and they stay
+
+don't leave your site and they stay don't leave your site and they stay there or they just maybe they're only
+
+there or they just maybe they're only there or they just maybe they're only there 10 seconds they found what they there 10 seconds they found what they there 10 seconds they found what they want and they're gone that's fine so
+
+want and they're gone that's fine so want and they're gone that's fine so that just optimize for the user and you
+
+that just optimize for the user and you that just optimize for the user and you can do little tools like this it doesn't
+
+can do little tools like this it doesn't can do little tools like this it doesn't have to look as pretty as this but like have to look as pretty as this but like have to look as pretty as this but like that's all you need yeah and it's the
+
+that's all you need yeah and it's the that's all you need yeah and it's the little details like even when you were little details like even when you were little details like even when you were showing one of the other pages where it
+
+showing one of the other pages where it showing one of the other pages where it had the little clip of the sound bite
+
+had the little clip of the sound bite had the little clip of the sound bite where it was the audio version of it you
+
+where it was the audio version of it you where it was the audio version of it you know that when people click on it and know that when people click on it and know that when people click on it and listen to it that's more time spent on
+
+listen to it that's more time spent on listen to it that's more time spent on the page which at the end of the day the
+
+the page which at the end of the day the the page which at the end of the day the user is either going to appreciate or
+
+user is either going to appreciate or user is either going to appreciate or Google's going to have some
+
+Google's going to have some Google's going to have some understanding going we just know that understanding going we just know that understanding going we just know that you spent more time here than on the
+
+you spent more time here than on the you spent more time here than on the other page yeah and I think some people
+
+other page yeah and I think some people other page yeah and I think some people are afraid of the time commitment and CA
+
+are afraid of the time commitment and CA are afraid of the time commitment and CA but keep in mind that everything you
+
+but keep in mind that everything you but keep in mind that everything you make can have multiple uses so for
+
+make can have multiple uses so for make can have multiple uses so for instance all those images I made convert
+
+instance all those images I made convert instance all those images I made convert them into web story and that has its own
+
+them into web story and that has its own them into web story and that has its own organic distribution channel that audio
+
+organic distribution channel that audio organic distribution channel that audio I made con use canva put a background
+
+I made con use canva put a background I made con use canva put a background turn convert it into a podcast now you
+
+turn convert it into a podcast now you turn convert it into a podcast now you have that going on there's multiple
+
+have that going on there's multiple have that going on there's multiple things you can do here don't just don't
+
+things you can do here don't just don't things you can do here don't just don't think small think how can I squeeze
+
+think small think how can I squeeze think small think how can I squeeze every last drop out of this and that's
+
+every last drop out of this and that's every last drop out of this and that's how you use AI content in my opinion and
+
+how you use AI content in my opinion and how you use AI content in my opinion and it warrants the the extra time
+
+it warrants the the extra time it warrants the the extra time investment when you have all those other
+
+investment when you have all those other investment when you have all those other opportunities so how would you use a
+
+opportunities so how would you use a opportunities so how would you use a programmatic SEO is there an application
+
+programmatic SEO is there an application programmatic SEO is there an application for Content Sprout or is that kind of
+
+for Content Sprout or is that kind of for Content Sprout or is that kind of like combining what content Sprout can
+
+like combining what content Sprout can like combining what content Sprout can do with the the power programmatic SEO
+
+do with the the power programmatic SEO do with the the power programmatic SEO just depends like it I think we can
+
+just depends like it I think we can just depends like it I think we can do
+
+do do 10 maybe 25 or something I can't
+
+10 maybe 25 or something I can't 10 maybe 25 or something I can't remember what the last number is remember what the last number is remember what the last number is asynchronous sort of creation so it's a
+
+asynchronous sort of creation so it's a asynchronous sort of creation so it's a simple as just adding a a little like
+
+simple as just adding a a little like simple as just adding a a little like bracket or whatever and then you can
+
+bracket or whatever and then you can bracket or whatever and then you can write a 100 articles at a time and push
+
+write a 100 articles at a time and push write a 100 articles at a time and push them all straight to Wordpress we don't
+
+them all straight to Wordpress we don't them all straight to Wordpress we don't only have the WordPress integration only have the WordPress integration only have the WordPress integration right now but that's super nice so
+
+right now but that's super nice so right now but that's super nice so that's that is technically programmatic
+
+that's that is technically programmatic that's that is technically programmatic but when I'm thinking programmatic pre
+
+but when I'm thinking programmatic pre but when I'm thinking programmatic pre this this this AI it's I'll use the example landing
+
+AI it's I'll use the example landing AI it's I'll use the example landing pages Local Pages or we can use U ice
+
+pages Local Pages or we can use U ice pages Local Pages or we can use U ice Espionage that's a good example since
+
+Espionage that's a good example since Espionage that's a good example since let's stick in more the realm of SASS
+
+let's stick in more the realm of SASS let's stick in more the realm of SASS and stuff ispionage did a clever thing
+
+and stuff ispionage did a clever thing and stuff ispionage did a clever thing and I believe hre's learned from them
+
+and I believe hre's learned from them and I believe hre's learned from them where they decided to and they're
+
+where they decided to and they're where they decided to and they're competitors BYU and they were the first
+
+competitors BYU and they were the first competitors BYU and they were the first S I saw that published what their tools
+
+S I saw that published what their tools S I saw that published what their tools already produced producing right their already produced producing right their already produced producing right their tool produces these reports their ad
+
+tool produces these reports their ad tool produces these reports their ad reports on a bunch of different
+
+reports on a bunch of different reports on a bunch of different competitors anyone that's analyzed and
+
+competitors anyone that's analyzed and competitors anyone that's analyzed and then they just created a public URL that
+
+then they just created a public URL that then they just created a public URL that has that analysis with little widgets
+
+has that analysis with little widgets has that analysis with little widgets boom that's your there's a programmatic
+
+boom that's your there's a programmatic boom that's your there's a programmatic SEO strip so there's all sorts of things
+
+SEO strip so there's all sorts of things SEO strip so there's all sorts of things like that that you can do that obviously like that that you can do that obviously like that that you can do that obviously content Sprout's not going to be a part content Sprout's not going to be a part content Sprout's not going to be a part of but if you just want the actual like
+
+of but if you just want the actual like of but if you just want the actual like content itself without any proprietary
+
+content itself without any proprietary content itself without any proprietary data and stuff then sure content Sprout
+
+data and stuff then sure content Sprout data and stuff then sure content Sprout then there's tools that are like Local then there's tools that are like Local then there's tools that are like Local Pages you can just do variations with
+
+Pages you can just do variations with Pages you can just do variations with codes that are like hey instead of codes that are like hey instead of codes that are like hey instead of saying Chicago say Denver and those
+
+saying Chicago say Denver and those saying Chicago say Denver and those still work we do them and hack anyone
+
+still work we do them and hack anyone still work we do them and hack anyone search insert City SEO agency and you'll
+
+search insert City SEO agency and you'll search insert City SEO agency and you'll see it's alive and well and that
+
+see it's alive and well and that see it's alive and well and that strategy works too I'd be curious to
+
+strategy works too I'd be curious to strategy works too I'd be curious to know what you do for your programmatic
+
+know what you do for your programmatic know what you do for your programmatic stuff though not a whole lot but we
+
+stuff though not a whole lot but we stuff though not a whole lot but we actually had a a meeting with we've got
+
+actually had a a meeting with we've got actually had a a meeting with we've got a new head of product joining our team
+
+a new head of product joining our team a new head of product joining our team and even though he doesn't have an SEO
+
+and even though he doesn't have an SEO and even though he doesn't have an SEO background it's an interesting question
+
+background it's an interesting question background it's an interesting question because he's product I actually believe
+
+because he's product I actually believe because he's product I actually believe product people benefit your SEO because
+
+product people benefit your SEO because product people benefit your SEO because he's what are you use want what are they
+
+he's what are you use want what are they he's what are you use want what are they clicking on and so as we start going
+
+clicking on and so as we start going clicking on and so as we start going down this Rabbit Hole of what's down this Rabbit Hole of what's down this Rabbit Hole of what's important for the user it's all
+
+important for the user it's all important for the user it's all beneficial for SEO so we're talking
+
+beneficial for SEO so we're talking beneficial for SEO so we're talking about all the data we're sitting on and
+
+about all the data we're sitting on and about all the data we're sitting on and going in what capacity can we start
+
+going in what capacity can we start going in what capacity can we start programmatic SEO and how far do we take
+
+programmatic SEO and how far do we take programmatic SEO and how far do we take it where we don't take it so far that we
+
+it where we don't take it so far that we it where we don't take it so far that we end up with a penalty where like just to
+
+end up with a penalty where like just to end up with a penalty where like just to to go into detail and this is an to go into detail and this is an to go into detail and this is an interesting discussion because I had a
+
+interesting discussion because I had a interesting discussion because I had a chat with Eli Schwarz and he basically
+
+chat with Eli Schwarz and he basically chat with Eli Schwarz and he basically said what you could do is so we're
+
+said what you could do is so we're said what you could do is so we're taking Casino affiliate programs and taking Casino affiliate programs and taking Casino affiliate programs and then he's how do you know if it's worth then he's how do you know if it's worth then he's how do you know if it's worth creating a page for targeting India is
+
+creating a page for targeting India is creating a page for targeting India is that a specific thing and he's you don't
+
+that a specific thing and he's you don't that a specific thing and he's you don't need fancy tools just go to Google just
+
+need fancy tools just go to Google just need fancy tools just go to Google just type in the keyword find if there's
+
+type in the keyword find if there's type in the keyword find if there's enough rankings of the page that's a
+
+enough rankings of the page that's a enough rankings of the page that's a signal and then go to the pages and if
+
+signal and then go to the pages and if signal and then go to the pages and if they're real money sites that have put
+
+they're real money sites that have put they're real money sites that have put big effort into the content and the
+
+big effort into the content and the big effort into the content and the structure of it then you've basically
+
+structure of it then you've basically structure of it then you've basically got your answer as to is this worth
+
+got your answer as to is this worth got your answer as to is this worth it great so we're looking to do examples
+
+it great so we're looking to do examples it great so we're looking to do examples of that where we take it far but don't
+
+of that where we take it far but don't of that where we take it far but don't take it so far and then we're in this
+
+take it so far and then we're in this take it so far and then we're in this analysis paralysis uh stage of going we
+
+analysis paralysis uh stage of going we analysis paralysis uh stage of going we have all these data points and what do
+
+have all these data points and what do have all these data points and what do we do do we use AI to publish them and
+
+we do do we use AI to publish them and we do do we use AI to publish them and then also produce the tables of data do
+
+then also produce the tables of data do then also produce the tables of data do we get paranoid that someone's going to we get paranoid that someone's going to we get paranoid that someone's going to scrape our sites and what can we do to
+
+scrape our sites and what can we do to scrape our sites and what can we do to try to block that and I have a trick
+
+try to block that and I have a trick try to block that and I have a trick because a client of mine got
+
+because a client of mine got because a client of mine got legally hit on the wrist you put a
+
+legally hit on the wrist you put a legally hit on the wrist you put a little fake listing that doesn't exist
+
+little fake listing that doesn't exist little fake listing that doesn't exist on the internet and then you scrape for
+
+on the internet and then you scrape for on the internet and then you scrape for that and the moment that triggers
+
+that and the moment that triggers that and the moment that triggers somewhere I don't know the somewhere I don't know the somewhere I don't know the technicalities but yeah it's like
+
+technicalities but yeah it's like technicalities but yeah it's like placing them allall I don't know what placing them allall I don't know what placing them allall I don't know what the word is but I actually thought about the word is but I actually thought about the word is but I actually thought about that as well yeah it works man they got
+
+that as well yeah it works man they got that as well yeah it works man they got them in very fast yeah it's a it's the
+
+them in very fast yeah it's a it's the them in very fast yeah it's a it's the annoying part knowing that it's probably
+
+annoying part knowing that it's probably annoying part knowing that it's probably going to be a thing but other seos I've
+
+going to be a thing but other seos I've going to be a thing but other seos I've talked to like James dues just go ahead
+
+talked to like James dues just go ahead talked to like James dues just go ahead and do it be the first one if if the
+
+and do it be the first one if if the and do it be the first one if if the data is going to find its way out there
+
+data is going to find its way out there data is going to find its way out there you can care about it just only care
+
+you can care about it just only care you can care about it just only care about it when they start outranking you
+
+about it when they start outranking you about it when they start outranking you and if if you do catch them scraping
+
+and if if you do catch them scraping and if if you do catch them scraping put your scrape traps in place yeah
+
+put your scrape traps in place yeah put your scrape traps in place yeah scrape traps there's I heard someone say
+
+scrape traps there's I heard someone say scrape traps there's I heard someone say one of the interesting ways to get
+
+one of the interesting ways to get one of the interesting ways to get unique data so you could steal this is
+
+unique data so you could steal this is unique data so you could steal this is like a more of a stealing thing but you
+
+like a more of a stealing thing but you like a more of a stealing thing but you could take data that exists and just say
+
+could take data that exists and just say could take data that exists and just say it differently and you get unique points
+
+it differently and you get unique points it differently and you get unique points if you will so you could say that half
+
+if you will so you could say that half if you will so you could say that half of Americans are obese or you could say
+
+of Americans are obese or you could say of Americans are obese or you could say that's what's on the internet then you
+
+that's what's on the internet then you that's what's on the internet then you say I know that there's 320 million
+
+say I know that there's 320 million say I know that there's 320 million Americans so what I'll say instead is
+
+Americans so what I'll say instead is Americans so what I'll say instead is 165 million Americans are obese now you
+
+165 million Americans are obese now you 165 million Americans are obese now you have a unique have a unique have a unique statistic so you can do that all day
+
+statistic so you can do that all day statistic so you can do that all day long too the irony of it's a the same
+
+long too the irony of it's a the same long too the irony of it's a the same thing so yeah before I have the last
+
+thing so yeah before I have the last thing so yeah before I have the last question like I said I've been I'm in
+
+question like I said I've been I'm in question like I said I've been I'm in your Facebook group I've been been on
+
+your Facebook group I've been been on your Facebook group I've been been on the outside kind of looking at the the
+
+the outside kind of looking at the the the outside kind of looking at the the content spoke tool um just tell everyone
+
+content spoke tool um just tell everyone content spoke tool um just tell everyone uh what can we expect what's inside of
+
+uh what can we expect what's inside of uh what can we expect what's inside of it you know why should we give to spin
+
+it you know why should we give to spin it you know why should we give to spin oh for sure I have so many things that
+
+oh for sure I have so many things that oh for sure I have so many things that are on the way but even right now I'll
+
+are on the way but even right now I'll are on the way but even right now I'll just just just tell you right now I'm trying to bring
+
+tell you right now I'm trying to bring tell you right now I'm trying to bring basically like a a CMO level brain or
+
+basically like a a CMO level brain or basically like a a CMO level brain or first it's director level of SEO into
+
+first it's director level of SEO into first it's director level of SEO into here so how I analyze things all my
+
+here so how I analyze things all my here so how I analyze things all my reports how I do qord research slowly
+
+reports how I do qord research slowly reports how I do qord research slowly that'll get unpacked in here I just have
+
+that'll get unpacked in here I just have that'll get unpacked in here I just have to have the money to do it so based on
+
+to have the money to do it so based on to have the money to do it so based on how much like I take zero dollars and I
+
+how much like I take zero dollars and I how much like I take zero dollars and I don't plan on taking any money into I
+
+don't plan on taking any money into I don't plan on taking any money into I really just have this obsession with I
+
+really just have this obsession with I really just have this obsession with I want to get my brain out here so feel
+
+want to get my brain out here so feel want to get my brain out here so feel free to support the tool no it's all
+
+free to support the tool no it's all free to support the tool no it's all going to me just making a badass tool I
+
+going to me just making a badass tool I going to me just making a badass tool I want to build whatever you want but like
+
+want to build whatever you want but like want to build whatever you want but like right now the thing that I think people
+
+right now the thing that I think people right now the thing that I think people would really I think I'm most proud of
+
+would really I think I'm most proud of would really I think I'm most proud of this one we're going to get the
+
+this one we're going to get the this one we're going to get the clustering automat automatically here
+
+clustering automat automatically here clustering automat automatically here too in like in a couple days with search
+
+too in like in a couple days with search too in like in a couple days with search volume and CPC metrics and all sorts of
+
+volume and CPC metrics and all sorts of volume and CPC metrics and all sorts of stuff but for now with just one thing
+
+stuff but for now with just one thing stuff but for now with just one thing like hemorrhoids for instance or we like hemorrhoids for instance or we like hemorrhoids for instance or we could do painting contract or whatever
+
+could do painting contract or whatever could do painting contract or whatever we click this and then actually I don't
+
+we click this and then actually I don't we click this and then actually I don't want to talk about hemorrhoids over over
+
+want to talk about hemorrhoids over over want to talk about hemorrhoids over over do I I could make this the Insight clip
+
+do I I could make this the Insight clip do I I could make this the Insight clip yeah let's do let's do this instead
+
+yeah let's do let's do this instead yeah let's do let's do this instead we'll do aroma therapy right so aroma
+
+we'll do aroma therapy right so aroma we'll do aroma therapy right so aroma therapy Health treatments so we have therapy Health treatments so we have therapy Health treatments so we have essential oil with one click right I did
+
+essential oil with one click right I did essential oil with one click right I did this all I did is I hit create topic
+
+this all I did is I hit create topic this all I did is I hit create topic clicked whatever I wanted then in three
+
+clicked whatever I wanted then in three clicked whatever I wanted then in three and a half minutes all this gets created
+
+and a half minutes all this gets created and a half minutes all this gets created so I'll show you what it looks like
+
+so I'll show you what it looks like so I'll show you what it looks like we'll do essential oils so here I have
+
+we'll do essential oils so here I have we'll do essential oils so here I have all my categories automatically created
+
+all my categories automatically created all my categories automatically created for me I've got one view where I can see
+
+for me I've got one view where I can see for me I've got one view where I can see it just here so I have lavender oil it just here so I have lavender oil it just here so I have lavender oil peppermint oil tea tree oil I can do the
+
+peppermint oil tea tree oil I can do the peppermint oil tea tree oil I can do the keyword base so if I want to just export
+
+keyword base so if I want to just export keyword base so if I want to just export this into HRS what of keyword tool I can
+
+this into HRS what of keyword tool I can this into HRS what of keyword tool I can immediately get all that once again I
+
+immediately get all that once again I immediately get all that once again I have the clustering so we scrape the
+
+have the clustering so we scrape the have the clustering so we scrape the serp to find it'll be built-in keyword
+
+serp to find it'll be built-in keyword serp to find it'll be built-in keyword clustering with search volume and we'll
+
+clustering with search volume and we'll clustering with search volume and we'll do intent tagging and Page type and
+
+do intent tagging and Page type and do intent tagging and Page type and marketing funnel and we do all that
+
+marketing funnel and we do all that marketing funnel and we do all that automatically for you inside of here so
+
+automatically for you inside of here so automatically for you inside of here so once that'll be here so soon we have the
+
+once that'll be here so soon we have the once that'll be here so soon we have the visual so I can go in here and then just
+
+visual so I can go in here and then just visual so I can go in here and then just see the tree and we'll also create
+
+see the tree and we'll also create see the tree and we'll also create titles So based off of the top 10 of the
+
+titles So based off of the top 10 of the titles So based off of the top 10 of the Ser we'll have an AI prompt that's
+
+Ser we'll have an AI prompt that's Ser we'll have an AI prompt that's taking all that information and saying taking all that information and saying taking all that information and saying let's create a unique title based off of
+
+let's create a unique title based off of let's create a unique title based off of all this so you'll have that and then
+
+all this so you'll have that and then all this so you'll have that and then you'll if you click in it'll show you
+
+you'll if you click in it'll show you you'll if you click in it'll show you everything it'll show you all the everything it'll show you all the everything it'll show you all the associated keywords the cluster it
+
+associated keywords the cluster it associated keywords the cluster it belongs to whatever you'll be able to to
+
+belongs to whatever you'll be able to to belongs to whatever you'll be able to to just send it all right to the writer
+
+just send it all right to the writer just send it all right to the writer straight from here so I could typically
+
+straight from here so I could typically straight from here so I could typically you could start an affiliate site just
+
+you could start an affiliate site just you could start an affiliate site just from this in an hour you could have 300
+
+from this in an hour you could have 300 from this in an hour you could have 300 blogs in a niche that you've never
+
+blogs in a niche that you've never blogs in a niche that you've never researched and it's just incredible I
+
+researched and it's just incredible I researched and it's just incredible I sell these for hund if you've seen Matt
+
+sell these for hund if you've seen Matt sell these for hund if you've seen Matt Di's thing he sells these for 400 bucks
+
+Di's thing he sells these for 400 bucks Di's thing he sells these for 400 bucks to a thousand bucks I and I've sold them
+
+to a thousand bucks I and I've sold them to a thousand bucks I and I've sold them for 2 200 bucks to people before so like
+
+for 2 200 bucks to people before so like for 2 200 bucks to people before so like it's here it's just in the tool go sell
+
+it's here it's just in the tool go sell it's here it's just in the tool go sell it open a Fiverr gig do whatever you
+
+it open a Fiverr gig do whatever you it open a Fiverr gig do whatever you want you can download the PNG you can
+
+want you can download the PNG you can want you can download the PNG you can see this visual too you get the flower
+
+see this visual too you get the flower see this visual too you get the flower thing it's uh it's incredible so I I
+
+thing it's uh it's incredible so I I thing it's uh it's incredible so I I think this is the thing that I'm most
+
+think this is the thing that I'm most think this is the thing that I'm most proud of it's just going to get better proud of it's just going to get better proud of it's just going to get better and better and then once again you can
+
+and better and then once again you can and better and then once again you can just with when adding a new project
+
+just with when adding a new project just with when adding a new project you can upload your internal links
+
+you can upload your internal links you can upload your internal links targets so anytime it finds the keyword
+
+targets so anytime it finds the keyword targets so anytime it finds the keyword it puts it in automatically associated
+
+it puts it in automatically associated it puts it in automatically associated with the project you can do you if you
+
+with the project you can do you if you with the project you can do you if you just want to create outlines you can just want to create outlines you can just want to create outlines you can create hundreds of outlines the outlines
+
+create hundreds of outlines the outlines create hundreds of outlines the outlines are incredible are incredible are incredible too so that is here's best Queen tribute
+
+too so that is here's best Queen tribute too so that is here's best Queen tribute Brands but yeah so it it shows like this
+
+Brands but yeah so it it shows like this Brands but yeah so it it shows like this you can drag and drop you can scrape the
+
+you can drag and drop you can scrape the you can drag and drop you can scrape the thing too if you want to paste your own thing too if you want to paste your own thing too if you want to paste your own in then you write based off of whatever
+
+in then you write based off of whatever in then you write based off of whatever you believe to be the best select your
+
+you believe to be the best select your you believe to be the best select your language select the region
+
+language select the region language select the region you can make it right even like crazy
+
+you can make it right even like crazy you can make it right even like crazy better you can customize the paragraph
+
+better you can customize the paragraph better you can customize the paragraph length there's all sorts of stuff man so
+
+length there's all sorts of stuff man so length there's all sorts of stuff man so I think this Tool's awesome I made it
+
+I think this Tool's awesome I made it I think this Tool's awesome I made it for me and my friends and then I spread
+
+for me and my friends and then I spread for me and my friends and then I spread it out I was like you know what I'm just it out I was like you know what I'm just it out I was like you know what I'm just going to turn this into a SASS and I
+
+going to turn this into a SASS and I going to turn this into a SASS and I love it I love being a SAS owner and
+
+love it I love being a SAS owner and love it I love being a SAS owner and this is just fun yeah I mostly agree
+
+this is just fun yeah I mostly agree this is just fun yeah I mostly agree although there's some stressful times although there's some stressful times although there's some stressful times but that's for another podcast so I'm
+
+but that's for another podcast so I'm but that's for another podcast so I'm going to jump right into the last going to jump right into the last going to jump right into the last question I think we got five minutes too
+
+question I think we got five minutes too question I think we got five minutes too what do you see the future of affiliate
+
+what do you see the future of affiliate what do you see the future of affiliate marketing as it intersects with business
+
+marketing as it intersects with business marketing as it intersects with business intelligence give me let's Define
+
+intelligence give me let's Define intelligence give me let's Define business intelligence for people are you business intelligence for people are you business intelligence for people are you talking keyword like keyword volume and
+
+talking keyword like keyword volume and talking keyword like keyword volume and difficulty or are you talking about difficulty or are you talking about difficulty or are you talking about other types of metrics it could be
+
+other types of metrics it could be other types of metrics it could be anything I think at the end of the day
+
+anything I think at the end of the day anything I think at the end of the day just the more data you have at your
+
+just the more data you have at your just the more data you have at your disposal we're going into Data driven
+
+disposal we're going into Data driven disposal we're going into Data driven decisions in affiliate marketing and
+
+decisions in affiliate marketing and decisions in affiliate marketing and yeah my personal opinion is it goes in
+
+yeah my personal opinion is it goes in yeah my personal opinion is it goes in any direction in content we could easily
+
+any direction in content we could easily any direction in content we could easily just pun intended Sprout into so many
+
+just pun intended Sprout into so many just pun intended Sprout into so many different angles it's never ending like
+
+different angles it's never ending like different angles it's never ending like you said at the very start how detailed
+
+you said at the very start how detailed you said at the very start how detailed you can get it content and analyzing it
+
+you can get it content and analyzing it you can get it content and analyzing it and putting map behind it whether you
+
+and putting map behind it whether you and putting map behind it whether you you want to geek out that hard or just
+
+you want to geek out that hard or just you want to geek out that hard or just say let's focus on basic metrics oh yeah
+
+say let's focus on basic metrics oh yeah say let's focus on basic metrics oh yeah so like for me for instance with my
+
+so like for me for instance with my so like for me for instance with my whiskey site so here's how let's do zoom
+
+whiskey site so here's how let's do zoom whiskey site so here's how let's do zoom in on this let me share this because I
+
+in on this let me share this because I in on this let me share this because I actually do this to get VC funding or
+
+actually do this to get VC funding or actually do this to get VC funding or Angel Investing For My affiliate
+
+Angel Investing For My affiliate Angel Investing For My affiliate projects so here's one Direction you
+
+projects so here's one Direction you projects so here's one Direction you could take this right you don't have to
+
+could take this right you don't have to could take this right you don't have to just I just gave a speech in front of a
+
+just I just gave a speech in front of a just I just gave a speech in front of a 100 agency owners and did this so as you
+
+100 agency owners and did this so as you 100 agency owners and did this so as you can see here you can estimate the
+
+can see here you can estimate the can see here you can estimate the traffic the market share that exists you
+
+traffic the market share that exists you traffic the market share that exists you can uh estimate the total Pages the
+
+can uh estimate the total Pages the can uh estimate the total Pages the total amount of referring domains you
+
+total amount of referring domains you total amount of referring domains you can apply your link cost content cost
+
+can apply your link cost content cost can apply your link cost content cost referring domains per page you can apply
+
+referring domains per page you can apply referring domains per page you can apply all this stuff and get all this data and
+
+all this stuff and get all this data and all this stuff and get all this data and then now you have something to actually then now you have something to actually then now you have something to actually work from so whether you're trying to
+
+work from so whether you're trying to work from so whether you're trying to figure out should I go into this Niche
+
+figure out should I go into this Niche figure out should I go into this Niche let's look at the cluster of whiskey
+
+let's look at the cluster of whiskey let's look at the cluster of whiskey alone or let's look at the cluster of
+
+alone or let's look at the cluster of alone or let's look at the cluster of dog food let's see how many people rank
+
+dog food let's see how many people rank dog food let's see how many people rank for that you can do that kind of stuff for that you can do that kind of stuff for that you can do that kind of stuff with this data and then you can apply
+
+with this data and then you can apply with this data and then you can apply all these other Roi formulas of if you
+
+all these other Roi formulas of if you all these other Roi formulas of if you know the conversion rates and if you
+
+know the conversion rates and if you know the conversion rates and if you know what the affiliate commissions are
+
+know what the affiliate commissions are know what the affiliate commissions are the bo like payout and all that stuff
+
+the bo like payout and all that stuff the bo like payout and all that stuff you can really start to understand of
+
+you can really start to understand of you can really start to understand of okay now it's just a matter of if I know
+
+okay now it's just a matter of if I know okay now it's just a matter of if I know that the average is 200 pages and I know
+
+that the average is 200 pages and I know that the average is 200 pages and I know the average is a thousand referring
+
+the average is a thousand referring the average is a thousand referring domains and I know that generated them
+
+domains and I know that generated them domains and I know that generated them likely this amount of traffic and this
+
+likely this amount of traffic and this likely this amount of traffic and this market share how much am I willing to
+
+market share how much am I willing to market share how much am I willing to spend each month now I know exactly how
+
+spend each month now I know exactly how spend each month now I know exactly how long it is and when if you're better at
+
+long it is and when if you're better at long it is and when if you're better at uxui and better at being just being more
+
+uxui and better at being just being more uxui and better at being just being more efficient obviously then you can get
+
+efficient obviously then you can get efficient obviously then you can get better but this is one way I think is
+
+better but this is one way I think is better but this is one way I think is like super powerful otherwise I think
+
+like super powerful otherwise I think like super powerful otherwise I think people are underusing search console
+
+people are underusing search console people are underusing search console when you're already in a niche that data
+
+when you're already in a niche that data when you're already in a niche that data is incredibly powerful and I think what
+
+is incredibly powerful and I think what is incredibly powerful and I think what I plan on doing my tools matching search
+
+I plan on doing my tools matching search I plan on doing my tools matching search console more with a blended HF type
+
+console more with a blended HF type console more with a blended HF type environment where canb mization
+
+environment where canb mization environment where canb mization clustering and all this other lwh
+
+clustering and all this other lwh clustering and all this other lwh hanging fruit opportunities do that more
+
+hanging fruit opportunities do that more hanging fruit opportunities do that more there's so much data out there in search there's so much data out there in search there's so much data out there in search console and people are not using it I
+
+console and people are not using it I console and people are not using it I don't see Affiliates really talking don't see Affiliates really talking don't see Affiliates really talking about it that often but it is so strong
+
+about it that often but it is so strong about it that often but it is so strong just go into open AI do your chat you
+
+just go into open AI do your chat you just go into open AI do your chat you don't have to understand the Rex custom
+
+don't have to understand the Rex custom don't have to understand the Rex custom Rex but ask hey as an SEO what are the
+
+Rex but ask hey as an SEO what are the Rex but ask hey as an SEO what are the custom Rex things that would be
+
+custom Rex things that would be custom Rex things that would be applicable for someone interested in
+
+applicable for someone interested in applicable for someone interested in blah blah blah great it'll give you some
+
+blah blah blah great it'll give you some blah blah blah great it'll give you some so I wrote down a bunch last night just
+
+so I wrote down a bunch last night just so I wrote down a bunch last night just as an example I was like yeah this is
+
+as an example I was like yeah this is as an example I was like yeah this is perfect so now I know how to find just
+
+perfect so now I know how to find just perfect so now I know how to find just like exact kinds of queries and yeah
+
+like exact kinds of queries and yeah like exact kinds of queries and yeah just it's it's amazing so that's how I
+
+just it's it's amazing so that's how I just it's it's amazing so that's how I see data I use it all the time I heck
+
+see data I use it all the time I heck see data I use it all the time I heck our agent helium SEO if you want an
+
+our agent helium SEO if you want an our agent helium SEO if you want an agency that's designed for this that's
+
+agency that's designed for this that's agency that's designed for this that's our selling point we build custom tools
+
+our selling point we build custom tools our selling point we build custom tools and we provide data that no one else has
+
+and we provide data that no one else has and we provide data that no one else has and people like working with those sorts and people like working with those sorts and people like working with those sorts of people it gives them confidence so
+
+of people it gives them confidence so of people it gives them confidence so that's my answer perfect this was what I
+
+that's my answer perfect this was what I that's my answer perfect this was what I was hoping to hear and learn going deep
+
+was hoping to hear and learn going deep was hoping to hear and learn going deep on the data side so Andrew obviously
+
+on the data side so Andrew obviously on the data side so Andrew obviously we're going to put the links in the show
+
+we're going to put the links in the show we're going to put the links in the show notes for Content spro but how can
+
+notes for Content spro but how can notes for Content spro but how can people get a hold of you and anything people get a hold of you and anything people get a hold of you and anything else you want to share yeah full name
+
+else you want to share yeah full name else you want to share yeah full name Andrew Sterling ansy if you Google it
+
+Andrew Sterling ansy if you Google it Andrew Sterling ansy if you Google it all my socials pop up I have a YouTube I
+
+all my socials pop up I have a YouTube I all my socials pop up I have a YouTube I have a facebook facebook the best spot
+
+have a facebook facebook the best spot have a facebook facebook the best spot content Sprout has a private Facebook
+
+content Sprout has a private Facebook content Sprout has a private Facebook group you can just add that contents
+
+group you can just add that contents group you can just add that contents sprout. for the tool we'll have a
+
+sprout. for the tool we'll have a sprout. for the tool we'll have a website refresh and some cool things
+
+website refresh and some cool things website refresh and some cool things coming out the topic maps are awesome
+
+coming out the topic maps are awesome coming out the topic maps are awesome and then if you want any sort of
+
+and then if you want any sort of and then if you want any sort of services Consulting that kind of thing
+
+services Consulting that kind of thing services Consulting that kind of thing helium-cadmium
