@@ -1,3 +1,1975 @@
-I strongly believe that you cannot have great marketing whether that is SEO PPC social media you can't have that kind of presence and not have good cro because you can get a million people to your website and if zero of them buy from you because your experience sucks you don't have a good business if you generate 10,000 clicks tomorrow and four people bought for you that's a terrible Roi so you need to have conversion rate optimization thinking throughout your work like how do you get the people that are taking the time to come to your website how do you get them to take action I'm John Wright and you're listening to affiliate bi the business intelligence and affiliate marketing podcast brought to you by sta [music] welcome to the phbi podcast today we're chatting with Jesse ringer who is the founder of metric method and Metric which is an SEO agency based in Vancouver BC Canada Jesse's background covers it all from marketing social media PR and including video production Jesse welcome to the show hey John thanks for having me so I listed off a ton of skills there that you've gained over the last 10 15 plus years how are those experiences shaping you to be an allround SEO and how does that make you operate differently than maybe what other people think about when it comes to SEO yeah I I think the first part that people often associate with SEO is that it's often very technical and very content focused there is a lot of jargon in our industry but I think that in today's world of of SEO and optimizing for search engines and the landscape that looks like I think being a well-rounded marketer is hugely important so I think that my background in everything from content to video to PR and everything in between has really allowed me to look at problems that our clients face in a way that is not as straightforward or I don't know traditional in an SEO space so I think it gives me a huge opportunity to provide better Solutions and better opportunities for our clients just from having a a long career in this space would you say that YouTube is something that you leverage quite a bit for your clients yes and no I think we use it a fair bit for the clients that do generate a lot of video content and things like that but for the most part our clients don't do enough of it and so we use YouTube to an extent for keyword research and strategy development especially on the content side of things to help figure out how people are you know potentially searching for these topics in other mediums but at the end of the day most of our clients are really focused on generating traffic and revenue through their website so SEO is dead in 2025 and I want to ask you how's business it's probably like the 10th year that SEO has been dead and it's good it's good I think that as long as there continue to be search engines whether that is Google or Bing or maybe perplexity or chat gbt there's always going to be a need for businesses to generate traffic from those channels yeah businesses great yeah my personal take on that is anyone who does podcasts or put themselves out there let's say for example you in showcasing your skills and experience that makes you the go-to guy so if you've hired an SEO agency and Google's messed up your site and they tank and your SEO agency is like just give us more money they're eventually going to find people like you that says hey I'm not going to hoard all my SEO secrets I'm actually going to put myself up there yeah and that's been a guiding principle in my life and in my career in that like when I first started an SEO Twitter was where I found out about algorithm updates and figured out new strategies and and saw what other people were doing in this space as professionals and I feel that so much of my knowledge has been learned from other people's experiences and my own experiences that I think sharing that for the next generation and for other practitioners is just better for our industry if more companies are working with quality agencies then it just means that all of the good agencies that are out there are just going to be valued that much more and we don't have to fight to prove that we're a good agency because it'll just be common knowledge that these agencies are good and the work that we do is good yeah I guess it goes to saying it's better to have a case study of a site that looks amazing and ranks well rather than a site that looks like garbage and you manage to pull out magic and say wow I don't know how did that but that is also pretty magical right totally yeah absolutely and to your point like it's super easy to hide behind Shady tactics in the SEO world and it creates a lot of distrust for people who are looking for authentic and quality SEO folks so do you think it's possible that people can just run businesses without actually setting up not just only a website but a website without content YouTube was one example example we've seen a lot of people they're selling their SEO strategies or agency work just by going on social media to be very honest I've done a ton on LinkedIn and if I can actually if I had to lose all my channels I'd be do not take LinkedIn away from me that's my goal yeah yeah I've seen it I've seen businesses that do well with a very basic website a landing page with their value proposition the name of their business and an email address and yes certainly being a person that's grown up with the internet and being firsts in how effective your business can grow through digital channels it I would be very worried if you were a business in 2025 and beyond that didn't have a website that didn't use the website for lead generation or Business Development and obviously like built a whole business and agency around the value that a I can bring to a business and yeah I yeah I think it would be nuts not to have a website and to your point too like LinkedIn is huge Channel I think it's underutilized and it has grown into a a feed that is not just about going hey I got a new job or hey I'm looking for work to like hey here are some ideas and strategies that I'm experimenting with or trying out or check out this new case study or look at what these other brands are doing that's super impressive and so I think linkedin's really evolved into a way to communicate our value as thinkers and creators and marketers that wasn't there even five years ago yeah and I think uh similar to Twitter SLX it's also another channel for staying on top of whatever industry you're in it doesn't even matter if you're in a localized spot where it's okay I do I don't know dry cleaning and that's okay maybe that doesn't sound interesting but follow the people that are in the space and if they ever have anything interesting to write about you least want to stay on top of it and go is this leading to business or are you missing out on some opportunity yeah I think staying in touch with your peers and your industry is huge for the success of any business and for a dry cleaning space like what if a new chemical came out that was like half the cost of the current chemicals and clean twice as fast wouldn't you want to know about it and it's obviously an oversimplification of it all but that's real with SEO with Google like they're doing algorithm updates almost every week at this point there was one on Friday January 9th and all these people are idea like oh yeah I'm not paying attention to it all the time but then I go and look at the DAT I'm like oh yeah you can see there was an algorithm update and so you can start to Pivot and adjust your strategies accordingly and make sure that your clients are not failing or your own business hasn't been hit hard by it so yeah I rely on the SEO Community for a ton of our work and ATT ton of our insights and stuff great so you just ruined my evening where now I'm going to spend uh one to two hours just going on hups going all right let's see which affiliate sites got got nailed really bad and that's like a great evening I'm sure you have fun doing that no to be honest I actually enjoy doing it it's from my point of view because what we do as a company we're trying to stay on top of the trends for affiliate marketers especially in a particular niche in I gaming so the more I know about what's going on I'm surprised that how much people don't know what is happening around them and maybe there's just a market available for sharing this knowledge look at what's the guy's name Glenn alup who's got detail. com like that article and Report it's even if you're not working in that space you're like I'm still going to digest it this is cool stuff yeah and I think to add to that it's just look at what's happening in other Industries as the world goes and as other Industries and markets go so to Le yours AI came in and like that was all over the place and it's impacting SEO folk now it's it's imp acting content writers it's not just it's not just for creating cool pictures or writing crazy jargon it's used as a tool now and it impacts everyone's work and everyone's ability to generate money and yeah I think you have to have a pretty Broad worldview and see what's happening out there to know where you should focus your own energy down the road it's actually a real good strategy that I do every once in a while it's okay if I'm trying to rank something whether it's local or whatever I go give something that's similar but not in the same city it's like trying to help someone with like their mixed martial arts gym and then go okay let's look at boxing in another similar small town you get a lot of great ideas that way and yeah it's just sounds like Common Sense market research but I like going to different Industries going what have they done that's an interesting way of leveraging content or platforms oh yeah I do the same I read a ton of different like entrepreneur magazines and then ideas around business and even just like in Creative spaces like design or architecture and things like that because how they solve problems can very easily translate in certain aspects into like the work that we're doing and the problems we're trying to solve and it also makes it easier for me to connect with our clients and our prospects because I'll have a touch Point around the industry that they're in that we can be like this problem persists for you here's how this other company is solving that or or helping to alleviate some of that pain point so yeah it makes just makes us better at connecting overall it makes us smarter and more engaged okay the next uh question it's a series of questions I'm putting you a bit on the hot seat but I'm doing it for a good cause so I've Got Friends that they're always asking me for help on their SEO stuff I don't do SEO Consulting anymore I haven't done it in a long time and to be honest I I didn't do the best job of it but when I give them the strategies it's almost like they don't believe it and I think maybe they'd be better hearing it from a pro so who knows this might actually lead to some some referrals yeah maybe yeah okay so here's a a first case study what would you do for a website that does AI betting tips it has almost no content like it's got a homepage and a couple category pages and it almost has no links like the SEO visibility is basically zero with the exception of some Twitter X content but it is an actually awesome product that just people aren't aware of yeah for contacts say how are they currently getting clients they're not that's the the actual bad part it's they're trying to get some through Twitter but I don't think the traffic volume is enough and I don't think people are catching on what I actually think might be hurting them is possibly a brand presence where if someone's actually following them on Twitter and it's look they're actually you got a guy who's producing all these betting tips and it's it pretty much will W make money if you follow them but I think what happens is when people go on the links the site actually looks okay it could be better but I just think it's lacking content it's lacking that Authority that says how did we do this actually you know what it's like just you asking the question is like helping me solve their problem I think just for them explaining how they do it like why are they different what makes it AI I think that would actually be a great start for them yeah yeah and to add to that the thoughts around what is the value proposition what makes them worthy or worth the investment is it easy to sign up and in those cases too betting is a huge space AI is obviously a big black box of information demonstrating their expertise demonstrating like use cases demonstrating case studies examples of successful betting schemes and so forth but also creating content around you know that audience what they care about you know why do they need AI why do they need this tool for our other software type clients we'll always make sure that they address addess the pain points who it's for and all the features that they have and if it is just going AI for beding that's pretty broad but if it is I don't know AI for nailing your basketball parlay or how do you win your pool for football like those types of things are much more valuable like the person isn't just going to go I want to be better at beding that's not enough right like really it is about they're usually likely coming to you coming to this because they have identified that they are not good at choosing man the winning teams or the point spread and show show those people like okay here's the tool for helping you pick point spread here's how you're going to do it for you your parlays and those types of things and demonstrating that information and helping to prove that AIT out a bit more I think is where you go with it I don't know the industry well enough but those are just some ideas that I have from past experience with like software companies and yeah so sounds at least the common terms in betting so that's I watch a lot of sports I don't bet uh personally but I do see the odds and I see all the betting schemes and so forth yeah the odds are just uh tossed down your throat whether you want to actually pay attention to them like every intermission is no the plus minus is that this and yeah this team looks more favorable anyway yeah it's overdone okay the next company is I've got a friend he builds or designs luxury lighting and it starts at $1,000 and goes up to 15K so it's not cheap stuff and when I started doing research I was like wow okay without a doubt there's not a lot of companies that kind of put themselves in that space but he's looking to hire an SEO agency and I basically said these are some of the strategies you could do uh personally what I gave him as my advice was I thought digital PR and Link building could help quite a bit where it's such a unique topic that anyone that does anything in let's say architecture interior design looking for this content I don't even think you have to pay them for it so I think if uh he did stuff like that it would help attract that eventual buyer that says I want to drop 50k and Lighting in my or whatever it is yeah my first question then to your friend would be like is it the interior designers that they're targeting or is it the homeowner good different experiences and on one hand having a e-commerce component would matter but I don't think people are going to drop a, plus dollars on a lighting fixture that they haven't seen up close in that sense going with interior designers or yeah maybe a project like development firm that is lighting out all of the entryways for a new building or or something like that I would figure like align on what that that looks like and who that target audience is and then again it it really comes down to yeah PR and Link building I think in those visual spaces lighting architecture Furniture where it's very visual you need a lot of coverage in those things getting into yeah digital magazines or magazines that have a digital Edition matter a great deal featured on Instagram featured on Pinterest those types of things play a big factor in it the challenge with a lighting company an individual one too is that you're up against big players like you're up against like in Vancouver we have Robinson Lighting like you're up against massive companies and a variety of other outlets that are also looking for that business I would say that the pr and that connection building is a bigger part than speaking to trying to necessarily rank for luxury lighting or whatever keywords they would want to Target so this could be like like the anti- SEO Playbook where you could actually say look just focus on Business Development if it's if the if your potential buyer is like a designer or an architect you can just find them on LinkedIn there's no SEO there with one exception that when you do the digital PR that might be the way they actually discover you in the first place yeah yeah and like this would require a bit of user research and like customer research the design companies and stuff that I follow on interest Instagram and such like they are very much talking about the the locality of how they're made the products and the materials that they use they tell the story behind each fixture each product they design and the inspiration for it and using that as a a tool because I would say people on the west coast that are perhaps looking for to design their home in a traditional West Coast feel would want to have light fixtures by folks who live on this side of the country and I think in this space to Awards and recognition go a long way and earning that and then presenting that on your website be a big part and then again I like I will probably recommend this for the all of the the case studies here but content like how do you and maybe it's visual content maybe it's YouTube content like how you design your products how you manufacture them what makes them special like where what's the story behind it because I think at that price point too people want to be able to go look at this sculptural light that I just bought it's designed by S and St like it made from this stuff it uses the hair of a white Walsh and all that kind of stuff sells the product like yeah so being really articulated about that stuff goes a real way yeah and would you say that maybe even uh for an SEO Playbook here that e-commerce seems to be getting a lot more attention these days when we look at affiliate marketing I think affiliate content is not ranking as much as e-commerce and I've know so many seos that they're like I'm pivoting hardcore in e-commerce so maybe this would be an actual Playbook because when I looked at some of the other places where you could buy lighting Etsy was a place that actually had some expensive lights in there like we're talking $1,000 plus type of lighting so the Beast spoke stuff is on different platforms and it ranked I found it yeah and I think to your point like having just diverse channels yeah Etsy could be super effective Pinterest Google shopping if people know what they're looking for and they know what it is the the dimensions and things like that and that goes a long way but yeah there will be people that want to just buy like they saw you at a trade show and then okay I'm going to go online and buy it and make it simple yeah with all of that like clear and transparent pricing and then Pathways to making a purchase yeah it it it feels like a no-brainer in a lot of Industries these days just have it there even if it's not a huge driver it still makes a big difference okay the next one every once in a while I like to ask a self-serving question so the next one is more to do with what we do as a company so I'll just give you a quick uh context so we got assass tool for faic marketers that grabs all their data like their click data and the Revenue data in one place currently it's focused on I gaming but we plan to go outside of it and we've actually had a couple customers say hey John I'm looking for someone to buy either my affiliate accounts or my website do you know any buyers so we actually went through an experience many years ago do you know Flippa and Empire flippers I do I subscribed to there okay perfect so I sold the site in flipa quite a few years ago and I went through the experience of going how do I validate my Revenue long story short they wouldn't accept our app as uh Revenue validation we now have that and we actually have customers that they're actually using SE access to show the Revenue data without compromising anything so we're thinking about actually building an m&amp;a Marketplace like just something really basic like creating a page not making it super technical so what would you have for strategy for us to to do this Beyond just making announcements saying hey here's a press release we're now launching this you just sign in and it's it's almost hand off yeah so we've done a lot of marketplaces over the years in a variety of spaces what generally works well like one you need to have traffic to show the people that are going to be paying you the money that you're worth their time so that has to take on its own entity and you can make content that serves both sides of this Market especially in the blog space of yeah affiliate Market marting dues and don'ts all that kind of stuff getting into the business getting out of the business how to optimize that experience and you can write a lot of content around that stuff because that'll serve the whole audience that you're trying to Target your business Pages like your homepage can be split I would say but I would say that you would want to have the majority of your business Pages at least 70% of it focus on the people that are going to pay you money whatever ever you decide is going to be where you get your money from whether that is the people selling the site you get a commission that way or the buy the people the buyers might have to like subscription fees whoever that is and I I'm not going to suggest which one it should be that's up to you that's who you should focus all of that content to because if you start focusing on the people that don't have to pay and just have to create an account you're missing out on the opportunity to communicate your value proposition of why this website is important and why someone should give you money to list their website or their app with you okay so we we've seen it like so many times these double-ended markets where you need both sides to come to your website the the free side of things will be a lot easier for traffic generation you can run ads you can get sponsorships you can do all kinds of stuff join Reddit all that kind of stuff but who you really need are the businesses that are going to sell their their websites who have you make sure it's really clear to them what it is what the value is that your website is going to do for them okay then couple questions on top of that so the main app of what we have it's already got the homepage it's got the features who's this for so I don't think we we would make that the homepage we could give it its own page but would you say that it's even worthwhile create a subdomain saying it's a special feature or even its own domain so to give you a quick uh context when I Googled Buy sell affiliate sites Flippa and Empire flippers are number one number two and the ones that rank after they don't look very compelling like when I click on them I'm like you might technically do this but there's nothing here that's super profound in comparison to those top two and I'm not saying we're going to come in be number three instantly but I think we actually have an easy opportunity to rank and I'm just wondering do I rank for number three and four or just go for saw the number three regardless of paid subfolder subdomain my view of it is that third place still makes money you look at sports again to go back to that analogy we look at using a hockey example look at the W gret Skies the avkin and the comic Davids of the world and they do well like people know them and they make money and they are their name is currency but then you could look at a second line person or a third line person and anyone that plays in the NHL is still making a good amount of money but you never have to win the Stanley Cup to be great you can still be like very good and make a ton of money and like tennis is another example where like those people that are consistently ranking in the top 10 they're doing a good amount of money every time they may not be household names but they're still doing really well and in my mind is that's great you want to make money at this you don't need to be the greatest and best and remember through history for all time you just got to be better than the others than most and so being third is great and yeah to that point yeah having your homepage be the marketplace and like selling that's great I caution against using subdomains and I caution against having separate domains because one it can create brand confusion to an extent but I would say more importantly from an SEO perspective there we gos dilute themselves and they don't you don't cultivate all of that link Equity from all the different links and all the trust and everything if you can keep it all on one domain it'll be better from an SEO perspective two it'll be a lot easier to manage and just all that link Equity all that value that you'll build will go to one place rather than it being spread out across a bunch of different ones so it depends it depends yeah if there's a real use like I've seen it work well but I've also seen it where complete disaster in that all the subdomains for the brand that are paying this business are all a mess none of them rank particularly well when a person goes to click from a product on their subdomain it takes them over to the primary domain and that's a weird experience it's a little bit jarring those types of things I would have a really good thought about what is the ROI or the lifetime value of the people that are selling the websites are they going to be selling multiples are they likely just to be selling one and never come back because if that's the case stick with like subfolders and individual pages but if they're going to be like building an account building and flipping for a lot and all of like most of your business will come from people like that then maybe it makes sense to be on a subdomain so they can manage that separate experience okay lots to think about those are business questions those are not necessarily SEO questions yeah which I mean it goes with saying sometimes you need to ask the business questions before you give an SEO answer and looks yeah like I remember a guy um had started a business giving small perks and bonuses to like hourly workers and it was called the perk and they got really deep into the building of the product and the they were really tied to this name and about four months down the road he was like I need a website and started researching it and every version of the perk or perk on a. c.  co.  was all taken and there was a business in the states with the exact same name doing the exact same thing and I'm an SEO person but man just everyone listening just Google your business idea your business name first and make sure it's available make sure you can get the domain name because it really sucks when you have to get it's really hard to change once you realize you can't have that name not to mention trademarks as well yeah we years ago we had a company launch after us we were method and Metric we still are obviously but they were methods and metrics and we were getting a bunch of business from people who they thought we were them and so I emailed him and told him the situation and he wrote back a few days later because he was also doing digital marketing he's we'll change our name yeah because we ranked number one we were ranking number one for their name and every variation of their name as well as ours so it would have been a very competitive situation otherwise yeah makes sense all right one more pseudo case study type of question so I've done a couple case studies where I'm taking two slots affiliate websites they're a little different but I said they're not getting traffic one of them hasn't got off the ground properly the other one actually was just starting to get off the ground we're talking like April of 2024 and then another Google update and just put it back down one I actually think has a good USB but I think it's going to be difficult for for anyone to understand the USB so my suggestion to both of them was like look one thing that I see work with slots Affiliates is both streaming and video and I said also when I did research because I love podcasts I I went on my phone I said okay let me see if there's actually any slots podcast and there's almost none there might be a couple and some that have started and then they stopped I I think would be this would be easy SEO rankings not to mention I think all the links you can generate from the podcast sphere are strong signals that point in word to say hey if you're if you can't be the the top 10 streamer which is going to be difficult today you can at least be number one in a podcast what would you suggest to these guys if they're still not listening oh podcasts are huge they are a good source of content and opportunity they're hyper targeted I don't think many people outside of like affiliate industry will necessarily listen to this and now that it's great not great content it's just not going to resonate with people right the same way and we have to I would definitely double down on that I think that podcasts are a great deal but to my earlier point of like you can still make a good living being third or fourth these Brands can be third or fourth in in streaming and stuff and by all means like I think that there's still a lot of money to be had in that space but they need to be really honest with themselves about it and if they're small and they're still trying to figure out their revenue streams and like how to consistently generate Revenue this goes for SEO and this goes for every other kind of space like you got to start small and then grow it's not to say you can't grow for us in the early going it used to be like we would want to rank for SEO agency yeah great obviously like but that's super competitive every SEO agency wants to rank for SEO agency so we started smaller like we I my first website J ringer.
+I strongly believe that you cannot have I strongly believe that you cannot have great marketing whether that is SEO PPC
 
-com today that's actually good now yeah I really yeah at the time as like yeah this is great I didn't really know what to do with the domain but that's a different story and like ranking like I'd be like SEO agency in downtown Vancouver SEO agency in yell toown and Target those these are neighborhoods in Vancouver yeah like just small areas to try and get that foothold and then you start to grow and that's how you can get the like you go your big important head term whatever like affiliate marketing but then you could go you gota go near affiliate marketing for sports betting or affiliate marketing for podcasters or whatever go Niche go a bit smaller it's less competitive you can own that space a lot more and then you can start to build up to these other spaces and if you you start trying to compete with the big people that have already well established mean you're going to get your ass kicked and it's going to be so humbling and it's not fun so start small get an audience and then start getting bigger yeah it's even worse when Google we don't even care about your website anyway so it doesn't even matter if you're on page four or just not index at all Google 10 websites in the whole internet like that's all the rest of us are just like lucky to be invited you know they just yeah Google makes money and that's all they really need to worry about yeah we should just invest in Google they're they're just G to print more money with pmax and everything else right I got a call from the ads people today that's anyway that's a different story yeah pivoting to cro which is conversion rate optimization one of my favorite topics what do you think people should be doing in terms of cro is this another example of okay they come here for SEO but they're like wait a minute we could actually potentially crank out an extra 50% Revenue just by making some changes on your website absolutely you I strongly believe that you cannot have great marketing whether that is SEO PPC social media you can't have that kind of presence and not have good cro because you could get a million people to your website and if zero of them buy from you because your experience sucks you you don't have a good business if you generate 10,000 clicks tomorrow and four people bought from you that's a terrible Roi so you need to have conversion rate optimization thinking throughout your work like how do you get the people that are taking the time to come to your website how do you get them to take action and that comes down to the marketing like the targeting and that experience but also studying what they click on and what they engage with and what kind of behav behaviors they take on your website we got a client years ago from the UK because they're like we're working with this Ad Agency and they just keep telling us to spend more money but I don't trust them we're not getting any leads and so we went and looked at their website and their contact form was broken so no one could contact them and so this agency was like Hey if you double your ATS spend you will get double your leads and that's impossible if the form is broken and that's simple conversion rate optimizing you fix your form you're going to convert more if you take up the stop boards you make it like don't load your website with popups and you make it really easy for people to like take action and you have a clear value proposition your checkout pages are fluid and smooth and it works well on mobile all that kind of stuff is great if you eliminate any unnecessary distractions those things go a long way and that's really what all of this is marketing is great branded awareness is great but if no one buys from you if no one gives you money you're not a business you're just a little passion project so C is yeah it's hugely important like and cro clearly ties in with paid marketing where to be honest I've not done a lot of uh paid media for a long time because I've been very aware for whether it's SAS or affiliate marketing that it's pretty easy that when you don't pay attention to the little details you can just spend money you're waiting for the result at the end but some along the way there's optimization within and I think I think for a lot of people just may be intimidating yeah yeah totally and Google makes it complex on purpose or seemingly complex so that people are deterred Google makes most of their revenue from Google ads and the more they blur the work and make it harder for you to find stuff and harder for you to think that you're doing a good job and bombard you with warnings that your account sucks they make more money and yeah if you're running Google ads or really any paid Media stuff you got to know all the ins and outs and you got to be really detailed about it because they will take your money they will gladly I worked for company that did a case study on uh the Domino's Pizza this was like before the pandemic and they had nothing to do with pizza they had nothing to do with abs really they were just talking about innovation but they let their ad campaign run on everything on their website and so they spent upwards of $10,000 on people searching for Domino's Pizza because they let this blog post into beat and it was people like going Domino's near me Domino's phone number order Domino's online all these things Google show like 10 grand because it ran for a year he's just like yo like don't yeah yeah this is what I wish Google would actually fix cuz imagine if you're the user that goes to Google and this happens to you let's just imagine in a perfect world B actually never allows this to happen eventually in theory I'd think that more people would gravitate towards place where this won't happen I hope this Futures around the corner but I'm not holding my breath for it yet because if you can spend ads on LinkedIn spend them on Facebook spend them on Google I've never had them say whoa John I see that you're clearly I could cut your ad spin in half they want me to double it yeah of course even if could show you how your ads could convert more they wouldn't no they wouldn't do it like it's not happening yeah they're not economically incentivized to make us better at what we're doing next year or maybe there's going to be a chatbot version that's going to be I'm just gonna ask you the questions and then we'll figure it for you that' be great that that'd be cool app for someone to build last question is what do you see of the future of affiliate marketing as it intersects with business intelligence yeah I think that this is obviously the question I was like giving most thought to when you send me the the question by the way I think that the internet is evolving in a way that meta's rules changing aside and things like that and Twitter becoming its own thing people still want connection and want to be able to take recommendations from people that they like no interest and I think affiliate marketing is an inval tool in that that if you are creating content that is authentic and sincere and truly helpful to people they will want to do business and trust you when you recommend products like trust is such a rare thing on the internet these days that you have such an advantage just by being authentic about it and being strategic about the affiliate choices that you make and sharing that information and so in that sense I think that it's a massive underutilized channel for most businesses right like most businesses don't really offer affiliate programs unless they're of a certain size or maybe they're in the software space but like your tab it's it's in my mind I think affiliate marketing is top tier version of influencer marketing and it's just it's just done differently it's done in such a hopefully authentic way that really helps create a good connection that when someone clicks that affiliate link and arrives on your product they know that they're in the right space they're in the place that they need to be because person that told them to be here cares about Their audience and knows that your product is great yeah that's a it's a great answer because let's go to the opposite of that where you get like New York Times or fortune. com ranking for like best vpn's and you're like they have no business ranking for best VPN and you know what they're doing it basically it's just it's pure affiliate channnel they don't give a damn about who the best VPN they give a damn about who's the best paying VPN in order from one to 10 Fortune ranking for like best keeping gear oh my God this is nuts horrible I'm glad uh Google fixed that one for us barely yeah solid answer you think people need to to understand it's almost like there's no course in trust there's courses to do affiliate marketing and they all say you got to build trust but it's almost like no one really doubles down on and go let's deconstruct what trust actually is and yeah that was well articulated Jesse thank you so much for doing this I want to pass it back to you how can people get a hold of you if you want them to get a hold of you yeah I'd love to meet more people John thank you for having me first of all yeah I'm on LinkedIn Super Active there so Jesse ringer L light bulp there to keep the spam folk out of that request feed our website method metric.
+great marketing whether that is SEO PPC great marketing whether that is SEO PPC social media you can't have that kind of
+
+social media you can't have that kind of social media you can't have that kind of presence and not have good cro because
+
+presence and not have good cro because presence and not have good cro because you can get a million people to your
+
+you can get a million people to your you can get a million people to your website and if zero of them buy from you
+
+website and if zero of them buy from you website and if zero of them buy from you because your experience sucks
+
+because your experience sucks because your experience sucks you don't have a good business if you
+
+you don't have a good business if you you don't have a good business if you generate 10,000 clicks tomorrow and four
+
+generate 10,000 clicks tomorrow and four generate 10,000 clicks tomorrow and four people bought for you that's a terrible
+
+people bought for you that's a terrible people bought for you that's a terrible Roi so you need to have conversion rate
+
+Roi so you need to have conversion rate Roi so you need to have conversion rate optimization thinking throughout your
+
+optimization thinking throughout your optimization thinking throughout your work like how do you get the people that
+
+work like how do you get the people that work like how do you get the people that are taking the time to come to your are taking the time to come to your are taking the time to come to your website how do you get them to take
+
+website how do you get them to take website how do you get them to take action
+
+action action I'm John Wright and you're listening to
+
+I'm John Wright and you're listening to I'm John Wright and you're listening to affiliate bi the business intelligence
+
+affiliate bi the business intelligence affiliate bi the business intelligence and affiliate marketing podcast brought
+
+and affiliate marketing podcast brought and affiliate marketing podcast brought to you by sta [music]
+
+to you by sta [music] to you by sta [music] welcome to the phbi podcast today we're
+
+welcome to the phbi podcast today we're welcome to the phbi podcast today we're chatting with Jesse ringer who is the
+
+chatting with Jesse ringer who is the chatting with Jesse ringer who is the founder of metric method and Metric
+
+founder of metric method and Metric founder of metric method and Metric which is an SEO agency based in
+
+which is an SEO agency based in which is an SEO agency based in Vancouver BC Canada Jesse's background
+
+Vancouver BC Canada Jesse's background Vancouver BC Canada Jesse's background covers it all from marketing social
+
+covers it all from marketing social covers it all from marketing social media PR and including video production
+
+media PR and including video production media PR and including video production Jesse welcome to the show hey John
+
+Jesse welcome to the show hey John Jesse welcome to the show hey John thanks for having me so I listed off a
+
+thanks for having me so I listed off a thanks for having me so I listed off a ton of skills there that you've gained
+
+ton of skills there that you've gained ton of skills there that you've gained over the last 10 15 plus years how are
+
+over the last 10 15 plus years how are over the last 10 15 plus years how are those experiences shaping you to be an
+
+those experiences shaping you to be an those experiences shaping you to be an allround SEO and how does that make you
+
+allround SEO and how does that make you allround SEO and how does that make you operate differently than maybe what
+
+operate differently than maybe what operate differently than maybe what other people think about when it comes other people think about when it comes other people think about when it comes to SEO
+
+to SEO to SEO yeah I I think the first part that
+
+yeah I I think the first part that yeah I I think the first part that people often associate with SEO is that
+
+people often associate with SEO is that people often associate with SEO is that it's often very technical and very
+
+it's often very technical and very it's often very technical and very content focused there is a lot of jargon
+
+content focused there is a lot of jargon content focused there is a lot of jargon in our industry but I think that in
+
+in our industry but I think that in in our industry but I think that in today's world of of SEO and optimizing
+
+today's world of of SEO and optimizing today's world of of SEO and optimizing for search engines and the landscape
+
+for search engines and the landscape for search engines and the landscape that looks like I think being a
+
+that looks like I think being a that looks like I think being a well-rounded marketer is hugely
+
+well-rounded marketer is hugely well-rounded marketer is hugely important so I think that my background
+
+important so I think that my background important so I think that my background in everything from content to video to
+
+in everything from content to video to in everything from content to video to PR and everything in between has really
+
+PR and everything in between has really PR and everything in between has really allowed me to look at problems that our
+
+allowed me to look at problems that our allowed me to look at problems that our clients face in a way that is not as
+
+clients face in a way that is not as clients face in a way that is not as straightforward or I don't know
+
+straightforward or I don't know straightforward or I don't know traditional in an SEO space so I think
+
+traditional in an SEO space so I think traditional in an SEO space so I think it gives me a huge opportunity to
+
+it gives me a huge opportunity to it gives me a huge opportunity to provide better Solutions and better
+
+provide better Solutions and better provide better Solutions and better opportunities for our clients just from
+
+opportunities for our clients just from opportunities for our clients just from having a a long career in this space
+
+having a a long career in this space having a a long career in this space would you say that YouTube is something
+
+would you say that YouTube is something would you say that YouTube is something that you leverage quite a bit for your that you leverage quite a bit for your that you leverage quite a bit for your clients clients clients yes and no I think we use it a fair bit
+
+yes and no I think we use it a fair bit yes and no I think we use it a fair bit for the clients that do generate a lot
+
+for the clients that do generate a lot for the clients that do generate a lot of video content and things like that
+
+of video content and things like that of video content and things like that but for the most part our clients don't
+
+but for the most part our clients don't but for the most part our clients don't do enough of it and so we use YouTube to
+
+do enough of it and so we use YouTube to do enough of it and so we use YouTube to an extent for keyword research and
+
+an extent for keyword research and an extent for keyword research and strategy development especially on the
+
+strategy development especially on the strategy development especially on the content side of things to help figure
+
+content side of things to help figure content side of things to help figure out how people are you know potentially
+
+out how people are you know potentially out how people are you know potentially searching for these topics in other
+
+searching for these topics in other searching for these topics in other mediums but at the end of the day most
+
+mediums but at the end of the day most mediums but at the end of the day most of our clients are really focused on
+
+of our clients are really focused on of our clients are really focused on generating traffic and revenue through
+
+generating traffic and revenue through generating traffic and revenue through their website
+
+their website their website so SEO is dead in 2025 and I want to ask
+
+so SEO is dead in 2025 and I want to ask so SEO is dead in 2025 and I want to ask you how's business it's probably like
+
+you how's business it's probably like you how's business it's probably like the 10th year that SEO has been dead and
+
+the 10th year that SEO has been dead and the 10th year that SEO has been dead and it's good it's good I think that as long
+
+it's good it's good I think that as long it's good it's good I think that as long as there continue to be search engines
+
+as there continue to be search engines as there continue to be search engines whether that is Google or Bing or maybe
+
+whether that is Google or Bing or maybe whether that is Google or Bing or maybe perplexity or chat gbt there's always
+
+perplexity or chat gbt there's always perplexity or chat gbt there's always going to be a need for businesses to
+
+going to be a need for businesses to going to be a need for businesses to generate traffic from those channels
+
+generate traffic from those channels generate traffic from those channels yeah businesses great yeah my personal
+
+yeah businesses great yeah my personal yeah businesses great yeah my personal take on that is anyone who does podcasts
+
+take on that is anyone who does podcasts take on that is anyone who does podcasts or put themselves out there let's say
+
+or put themselves out there let's say or put themselves out there let's say for example you in showcasing your
+
+for example you in showcasing your for example you in showcasing your skills and experience that makes you the
+
+skills and experience that makes you the skills and experience that makes you the go-to guy so if you've hired an SEO
+
+go-to guy so if you've hired an SEO go-to guy so if you've hired an SEO agency and Google's messed up your site
+
+agency and Google's messed up your site agency and Google's messed up your site and they tank and your SEO agency is
+
+and they tank and your SEO agency is and they tank and your SEO agency is like just give us more money they're
+
+like just give us more money they're like just give us more money they're eventually going to find people like you eventually going to find people like you eventually going to find people like you that says hey I'm not going to hoard all
+
+that says hey I'm not going to hoard all that says hey I'm not going to hoard all my SEO secrets I'm actually going to put my SEO secrets I'm actually going to put my SEO secrets I'm actually going to put myself up there yeah and that's been a
+
+myself up there yeah and that's been a myself up there yeah and that's been a guiding principle in my life and in my
+
+guiding principle in my life and in my guiding principle in my life and in my career in that like when I first started
+
+career in that like when I first started career in that like when I first started an SEO
+
+an SEO an SEO Twitter was where I found out about
+
+Twitter was where I found out about Twitter was where I found out about algorithm updates and figured out new
+
+algorithm updates and figured out new algorithm updates and figured out new strategies and and saw what other people
+
+strategies and and saw what other people strategies and and saw what other people were doing in this space as
+
+were doing in this space as were doing in this space as professionals and I feel that so much of
+
+professionals and I feel that so much of professionals and I feel that so much of my knowledge has been learned from other
+
+my knowledge has been learned from other my knowledge has been learned from other people's experiences and my own
+
+people's experiences and my own people's experiences and my own experiences that I think sharing that
+
+experiences that I think sharing that experiences that I think sharing that for the next generation and for other
+
+for the next generation and for other for the next generation and for other practitioners is just better for our
+
+practitioners is just better for our practitioners is just better for our industry industry industry if more companies are working with
+
+if more companies are working with if more companies are working with quality agencies then it just means that
+
+quality agencies then it just means that quality agencies then it just means that all of the good agencies that are out
+
+all of the good agencies that are out all of the good agencies that are out there are just going to be valued that there are just going to be valued that there are just going to be valued that much more and we don't have to fight to
+
+much more and we don't have to fight to much more and we don't have to fight to prove that we're a good agency because
+
+prove that we're a good agency because prove that we're a good agency because it'll just be common knowledge that
+
+it'll just be common knowledge that it'll just be common knowledge that these agencies are good and the work
+
+these agencies are good and the work these agencies are good and the work that we do is good yeah I guess it goes
+
+that we do is good yeah I guess it goes that we do is good yeah I guess it goes to saying it's better to have a case
+
+to saying it's better to have a case to saying it's better to have a case study of a site that looks amazing and
+
+study of a site that looks amazing and study of a site that looks amazing and ranks well rather than a site that looks
+
+ranks well rather than a site that looks ranks well rather than a site that looks like garbage and you manage to pull out
+
+like garbage and you manage to pull out like garbage and you manage to pull out magic and say wow I don't know how did
+
+magic and say wow I don't know how did magic and say wow I don't know how did that but that is also pretty magical
+
+that but that is also pretty magical that but that is also pretty magical right totally yeah absolutely and to
+
+right totally yeah absolutely and to right totally yeah absolutely and to your point like it's super easy to hide
+
+your point like it's super easy to hide your point like it's super easy to hide behind Shady tactics in the SEO world
+
+behind Shady tactics in the SEO world behind Shady tactics in the SEO world and it creates a lot of distrust for
+
+and it creates a lot of distrust for and it creates a lot of distrust for people who are looking for authentic and
+
+people who are looking for authentic and people who are looking for authentic and quality SEO folks so do you think it's
+
+quality SEO folks so do you think it's quality SEO folks so do you think it's possible that people can just run
+
+possible that people can just run possible that people can just run businesses without actually setting up
+
+businesses without actually setting up businesses without actually setting up not just only a website but a website
+
+not just only a website but a website not just only a website but a website without content YouTube was one example
+
+without content YouTube was one example without content YouTube was one example example we've seen a lot of people
+
+example we've seen a lot of people example we've seen a lot of people they're selling their SEO strategies or
+
+they're selling their SEO strategies or they're selling their SEO strategies or agency work just by going on social
+
+agency work just by going on social agency work just by going on social media to be very honest I've done a ton
+
+media to be very honest I've done a ton media to be very honest I've done a ton on LinkedIn and if I can actually if I
+
+on LinkedIn and if I can actually if I on LinkedIn and if I can actually if I had to lose all my channels I'd be do
+
+had to lose all my channels I'd be do had to lose all my channels I'd be do not take LinkedIn away from me that's my
+
+not take LinkedIn away from me that's my not take LinkedIn away from me that's my goal yeah yeah I've seen it I've seen
+
+goal yeah yeah I've seen it I've seen goal yeah yeah I've seen it I've seen businesses that do well with a very
+
+businesses that do well with a very businesses that do well with a very basic website a landing page with their
+
+basic website a landing page with their basic website a landing page with their value proposition the name of their value proposition the name of their value proposition the name of their business and an email address
+
+business and an email address business and an email address and yes certainly being a person that's
+
+and yes certainly being a person that's and yes certainly being a person that's grown up with the internet and being
+
+grown up with the internet and being grown up with the internet and being firsts in how effective your business
+
+firsts in how effective your business firsts in how effective your business can grow through digital channels it I
+
+can grow through digital channels it I can grow through digital channels it I would be very worried if you were a
+
+would be very worried if you were a would be very worried if you were a business in 2025 and beyond that didn't
+
+business in 2025 and beyond that didn't business in 2025 and beyond that didn't have a website that didn't use the
+
+have a website that didn't use the have a website that didn't use the website for lead generation or Business
+
+website for lead generation or Business website for lead generation or Business Development and obviously like built a
+
+Development and obviously like built a Development and obviously like built a whole business and agency around the
+
+whole business and agency around the whole business and agency around the value that a I can bring to a business
+
+value that a I can bring to a business value that a I can bring to a business and yeah I yeah I think it would be nuts
+
+and yeah I yeah I think it would be nuts and yeah I yeah I think it would be nuts not to have a website and to your point
+
+not to have a website and to your point not to have a website and to your point too like LinkedIn is huge Channel I
+
+too like LinkedIn is huge Channel I too like LinkedIn is huge Channel I think it's underutilized and it has
+
+think it's underutilized and it has think it's underutilized and it has grown into a a feed that is not just
+
+grown into a a feed that is not just grown into a a feed that is not just about going hey I got a new job or hey
+
+about going hey I got a new job or hey about going hey I got a new job or hey I'm looking for work to like hey here
+
+I'm looking for work to like hey here I'm looking for work to like hey here are some ideas and strategies that I'm
+
+are some ideas and strategies that I'm are some ideas and strategies that I'm experimenting with or trying out or
+
+experimenting with or trying out or experimenting with or trying out or check out this new case study or look at
+
+check out this new case study or look at check out this new case study or look at what these other brands are doing that's
+
+what these other brands are doing that's what these other brands are doing that's super impressive and so I think
+
+super impressive and so I think super impressive and so I think linkedin's really evolved into a way to
+
+linkedin's really evolved into a way to linkedin's really evolved into a way to communicate our value as thinkers and
+
+communicate our value as thinkers and communicate our value as thinkers and creators and marketers that wasn't there
+
+creators and marketers that wasn't there creators and marketers that wasn't there even five years ago yeah and I think uh
+
+even five years ago yeah and I think uh even five years ago yeah and I think uh similar to Twitter SLX it's also another
+
+similar to Twitter SLX it's also another similar to Twitter SLX it's also another channel for staying on top of whatever
+
+channel for staying on top of whatever channel for staying on top of whatever industry you're in it doesn't even
+
+industry you're in it doesn't even industry you're in it doesn't even matter if you're in a localized spot
+
+matter if you're in a localized spot matter if you're in a localized spot where it's okay I do
+
+where it's okay I do where it's okay I do I don't know dry cleaning and that's
+
+I don't know dry cleaning and that's I don't know dry cleaning and that's okay maybe that doesn't sound okay maybe that doesn't sound okay maybe that doesn't sound interesting but follow the people that
+
+interesting but follow the people that interesting but follow the people that are in the space and if they ever have
+
+are in the space and if they ever have are in the space and if they ever have anything interesting to write about you
+
+anything interesting to write about you anything interesting to write about you least want to stay on top of it and go
+
+least want to stay on top of it and go least want to stay on top of it and go is this leading to business or are you
+
+is this leading to business or are you is this leading to business or are you missing out on some opportunity yeah I
+
+missing out on some opportunity yeah I missing out on some opportunity yeah I think staying in touch with your peers
+
+think staying in touch with your peers think staying in touch with your peers and your industry is huge for the
+
+and your industry is huge for the and your industry is huge for the success of any business and for a dry
+
+success of any business and for a dry success of any business and for a dry cleaning space like what if a new cleaning space like what if a new cleaning space like what if a new chemical came out that was like half the
+
+chemical came out that was like half the chemical came out that was like half the cost of the current chemicals and clean
+
+cost of the current chemicals and clean cost of the current chemicals and clean twice as fast wouldn't you want to know
+
+twice as fast wouldn't you want to know twice as fast wouldn't you want to know about it and it's obviously an
+
+about it and it's obviously an about it and it's obviously an oversimplification of it all but that's
+
+oversimplification of it all but that's oversimplification of it all but that's real with SEO with Google like they're
+
+real with SEO with Google like they're real with SEO with Google like they're doing algorithm updates almost every
+
+doing algorithm updates almost every doing algorithm updates almost every week at this point there was one on
+
+week at this point there was one on week at this point there was one on Friday January 9th and all these people
+
+Friday January 9th and all these people Friday January 9th and all these people are idea like oh yeah I'm not paying
+
+are idea like oh yeah I'm not paying are idea like oh yeah I'm not paying attention to it all the time but then I attention to it all the time but then I attention to it all the time but then I go and look at the DAT I'm like oh yeah
+
+go and look at the DAT I'm like oh yeah go and look at the DAT I'm like oh yeah you can see there was an algorithm you can see there was an algorithm you can see there was an algorithm update and so you can start to Pivot and
+
+update and so you can start to Pivot and update and so you can start to Pivot and adjust your strategies accordingly and
+
+adjust your strategies accordingly and adjust your strategies accordingly and make sure that your clients are not make sure that your clients are not make sure that your clients are not failing or your own business hasn't been
+
+failing or your own business hasn't been failing or your own business hasn't been hit hard by it so yeah I rely on the SEO
+
+hit hard by it so yeah I rely on the SEO hit hard by it so yeah I rely on the SEO Community for a ton of our work and ATT
+
+Community for a ton of our work and ATT Community for a ton of our work and ATT ton of our insights and stuff great so
+
+ton of our insights and stuff great so ton of our insights and stuff great so you just ruined my evening where now I'm
+
+you just ruined my evening where now I'm you just ruined my evening where now I'm going to spend uh one to two hours just
+
+going to spend uh one to two hours just going to spend uh one to two hours just going on hups going all right let's see
+
+going on hups going all right let's see going on hups going all right let's see which affiliate sites got got nailed
+
+which affiliate sites got got nailed which affiliate sites got got nailed really bad and that's like a great
+
+really bad and that's like a great really bad and that's like a great evening I'm sure you have fun doing that
+
+evening I'm sure you have fun doing that evening I'm sure you have fun doing that no to be honest I actually enjoy doing
+
+no to be honest I actually enjoy doing no to be honest I actually enjoy doing it it's from my point of view because
+
+it it's from my point of view because it it's from my point of view because what we do as a company we're trying to
+
+what we do as a company we're trying to what we do as a company we're trying to stay on top of the trends for affiliate
+
+stay on top of the trends for affiliate stay on top of the trends for affiliate marketers especially in a particular
+
+marketers especially in a particular marketers especially in a particular niche in I gaming so the more I know
+
+niche in I gaming so the more I know niche in I gaming so the more I know about what's going on I'm surprised that
+
+about what's going on I'm surprised that about what's going on I'm surprised that how much people don't know what is
+
+how much people don't know what is how much people don't know what is happening around them and maybe there's
+
+happening around them and maybe there's happening around them and maybe there's just a market available for sharing this
+
+just a market available for sharing this just a market available for sharing this knowledge look at what's the guy's name
+
+knowledge look at what's the guy's name knowledge look at what's the guy's name Glenn alup who's got detail.com like
+
+Glenn alup who's got detail.com like Glenn alup who's got detail.com like that article and Report it's even if
+
+that article and Report it's even if that article and Report it's even if you're not working in that space you're you're not working in that space you're you're not working in that space you're like I'm still going to digest it this
+
+like I'm still going to digest it this like I'm still going to digest it this is cool stuff yeah and I think to add to
+
+is cool stuff yeah and I think to add to is cool stuff yeah and I think to add to that it's just look at what's happening
+
+that it's just look at what's happening that it's just look at what's happening in other Industries as the world goes
+
+in other Industries as the world goes in other Industries as the world goes and as other Industries and markets go
+
+and as other Industries and markets go and as other Industries and markets go so to Le yours AI came in and like that
+
+so to Le yours AI came in and like that so to Le yours AI came in and like that was all over the place and it's
+
+was all over the place and it's was all over the place and it's impacting SEO folk now it's it's imp
+
+impacting SEO folk now it's it's imp impacting SEO folk now it's it's imp acting content writers it's not just
+
+acting content writers it's not just acting content writers it's not just it's not just for creating cool pictures
+
+it's not just for creating cool pictures it's not just for creating cool pictures or writing crazy jargon it's used as a
+
+or writing crazy jargon it's used as a or writing crazy jargon it's used as a tool now and it impacts everyone's work
+
+tool now and it impacts everyone's work tool now and it impacts everyone's work and everyone's ability to generate money
+
+and everyone's ability to generate money and everyone's ability to generate money and yeah I think you have to have a
+
+and yeah I think you have to have a and yeah I think you have to have a pretty Broad worldview and see what's
+
+pretty Broad worldview and see what's pretty Broad worldview and see what's happening out there to know where you
+
+happening out there to know where you happening out there to know where you should focus your own energy down the
+
+should focus your own energy down the should focus your own energy down the road it's actually a real good strategy
+
+road it's actually a real good strategy road it's actually a real good strategy that I do every once in a while it's
+
+that I do every once in a while it's that I do every once in a while it's okay if I'm trying to rank something okay if I'm trying to rank something okay if I'm trying to rank something whether it's local or whatever I go give
+
+whether it's local or whatever I go give whether it's local or whatever I go give something that's similar but not in the
+
+something that's similar but not in the something that's similar but not in the same city it's like trying to help
+
+same city it's like trying to help same city it's like trying to help someone with like their mixed martial someone with like their mixed martial someone with like their mixed martial arts gym and then go okay let's look at
+
+arts gym and then go okay let's look at arts gym and then go okay let's look at boxing in another similar small town you
+
+boxing in another similar small town you boxing in another similar small town you get a lot of great ideas that way and
+
+get a lot of great ideas that way and get a lot of great ideas that way and yeah it's just sounds like Common Sense
+
+yeah it's just sounds like Common Sense yeah it's just sounds like Common Sense market research but I like going to
+
+market research but I like going to market research but I like going to different Industries going what have different Industries going what have different Industries going what have they done that's an interesting way of
+
+they done that's an interesting way of they done that's an interesting way of leveraging content or platforms oh yeah
+
+leveraging content or platforms oh yeah leveraging content or platforms oh yeah I do the same I read a ton of different
+
+I do the same I read a ton of different I do the same I read a ton of different like entrepreneur magazines and then
+
+like entrepreneur magazines and then like entrepreneur magazines and then ideas around business and even just like
+
+ideas around business and even just like ideas around business and even just like in Creative spaces like design or
+
+in Creative spaces like design or in Creative spaces like design or architecture and things like that architecture and things like that architecture and things like that because how they solve problems can very
+
+because how they solve problems can very because how they solve problems can very easily translate in certain aspects into
+
+easily translate in certain aspects into easily translate in certain aspects into like the work that we're doing and the like the work that we're doing and the like the work that we're doing and the problems we're trying to solve and it
+
+problems we're trying to solve and it problems we're trying to solve and it also makes it easier for me to connect
+
+also makes it easier for me to connect also makes it easier for me to connect with our clients and our prospects
+
+with our clients and our prospects with our clients and our prospects because I'll have a touch Point around
+
+because I'll have a touch Point around because I'll have a touch Point around the industry that they're in that we can the industry that they're in that we can the industry that they're in that we can be like this problem persists for you
+
+be like this problem persists for you be like this problem persists for you here's how this other company is solving
+
+here's how this other company is solving here's how this other company is solving that or or helping to alleviate some of
+
+that or or helping to alleviate some of that or or helping to alleviate some of that pain point so yeah it makes just
+
+that pain point so yeah it makes just that pain point so yeah it makes just makes us better at connecting overall it
+
+makes us better at connecting overall it makes us better at connecting overall it makes us smarter and more engaged
+
+makes us smarter and more engaged makes us smarter and more engaged okay the next uh question it's a series
+
+okay the next uh question it's a series okay the next uh question it's a series of questions I'm putting you a bit on
+
+of questions I'm putting you a bit on of questions I'm putting you a bit on the hot seat but I'm doing it for a good
+
+the hot seat but I'm doing it for a good the hot seat but I'm doing it for a good cause so I've Got Friends that they're
+
+cause so I've Got Friends that they're cause so I've Got Friends that they're always asking me for help on their SEO
+
+always asking me for help on their SEO always asking me for help on their SEO stuff I don't do SEO Consulting anymore
+
+stuff I don't do SEO Consulting anymore stuff I don't do SEO Consulting anymore I haven't done it in a long time and to
+
+I haven't done it in a long time and to I haven't done it in a long time and to be honest I I didn't do the best job of
+
+be honest I I didn't do the best job of be honest I I didn't do the best job of it but when I give them the strategies
+
+it but when I give them the strategies it but when I give them the strategies it's almost like they don't believe it
+
+it's almost like they don't believe it it's almost like they don't believe it and I think maybe they'd be better
+
+and I think maybe they'd be better and I think maybe they'd be better hearing it from a pro so who knows this
+
+hearing it from a pro so who knows this hearing it from a pro so who knows this might actually lead to some some might actually lead to some some might actually lead to some some referrals yeah maybe yeah okay so here's
+
+referrals yeah maybe yeah okay so here's referrals yeah maybe yeah okay so here's a a first case study what would you do
+
+a a first case study what would you do a a first case study what would you do for a website that does AI betting tips
+
+for a website that does AI betting tips for a website that does AI betting tips it has almost no content like it's got a
+
+it has almost no content like it's got a it has almost no content like it's got a homepage and a couple category pages and
+
+homepage and a couple category pages and homepage and a couple category pages and it almost has no links like the SEO
+
+it almost has no links like the SEO it almost has no links like the SEO visibility is basically zero with the
+
+visibility is basically zero with the visibility is basically zero with the exception of some Twitter X content but
+
+exception of some Twitter X content but exception of some Twitter X content but it is an actually awesome product that
+
+it is an actually awesome product that it is an actually awesome product that just people aren't aware of yeah for
+
+just people aren't aware of yeah for just people aren't aware of yeah for contacts say how are they currently
+
+contacts say how are they currently contacts say how are they currently getting clients
+
+getting clients getting clients they're not that's the the actual bad
+
+they're not that's the the actual bad they're not that's the the actual bad part it's they're trying to get some
+
+part it's they're trying to get some part it's they're trying to get some through Twitter but I don't think the
+
+through Twitter but I don't think the through Twitter but I don't think the traffic volume is enough and I don't
+
+traffic volume is enough and I don't traffic volume is enough and I don't think people are catching on what I
+
+think people are catching on what I think people are catching on what I actually think might be hurting them is
+
+actually think might be hurting them is actually think might be hurting them is possibly a brand presence where if
+
+possibly a brand presence where if possibly a brand presence where if someone's actually following them on someone's actually following them on someone's actually following them on Twitter and it's look they're actually
+
+Twitter and it's look they're actually Twitter and it's look they're actually you got a guy who's producing all these
+
+you got a guy who's producing all these you got a guy who's producing all these betting tips and it's it pretty much
+
+betting tips and it's it pretty much betting tips and it's it pretty much will W make money if you follow them but
+
+will W make money if you follow them but will W make money if you follow them but I think what happens is when people go I think what happens is when people go I think what happens is when people go on the links the site actually looks
+
+on the links the site actually looks on the links the site actually looks okay it could be better but I just think
+
+okay it could be better but I just think okay it could be better but I just think it's lacking content it's lacking that
+
+it's lacking content it's lacking that it's lacking content it's lacking that Authority that says how did we do this
+
+Authority that says how did we do this Authority that says how did we do this actually you know what it's like just
+
+actually you know what it's like just actually you know what it's like just you asking the question is like helping you asking the question is like helping you asking the question is like helping me solve their problem I think just for
+
+me solve their problem I think just for me solve their problem I think just for them explaining how they do it like why
+
+them explaining how they do it like why them explaining how they do it like why are they different what makes it AI I
+
+are they different what makes it AI I are they different what makes it AI I think that would actually be a great think that would actually be a great think that would actually be a great start for them yeah yeah and to add to
+
+start for them yeah yeah and to add to start for them yeah yeah and to add to that
+
+that that the thoughts around what is the value
+
+the thoughts around what is the value the thoughts around what is the value proposition what makes them worthy or
+
+proposition what makes them worthy or proposition what makes them worthy or worth the investment
+
+worth the investment worth the investment is it easy to sign up and in those cases
+
+is it easy to sign up and in those cases is it easy to sign up and in those cases too betting is a huge space AI is
+
+too betting is a huge space AI is too betting is a huge space AI is obviously a big black box of information
+
+obviously a big black box of information obviously a big black box of information demonstrating their expertise
+
+demonstrating their expertise demonstrating their expertise demonstrating like use cases
+
+demonstrating like use cases demonstrating like use cases demonstrating case studies examples of
+
+demonstrating case studies examples of demonstrating case studies examples of successful
+
+successful successful betting schemes and so forth but also
+
+betting schemes and so forth but also betting schemes and so forth but also creating content around you know that
+
+creating content around you know that creating content around you know that audience what they care about you know
+
+audience what they care about you know audience what they care about you know why do they need AI why do they need
+
+why do they need AI why do they need why do they need AI why do they need this tool for our other software type
+
+this tool for our other software type this tool for our other software type clients we'll always make sure that they
+
+clients we'll always make sure that they clients we'll always make sure that they address addess the pain points who it's
+
+address addess the pain points who it's address addess the pain points who it's for and all the features that they have
+
+for and all the features that they have for and all the features that they have and if it is just going AI for beding
+
+and if it is just going AI for beding and if it is just going AI for beding that's pretty broad but if it is I don't
+
+that's pretty broad but if it is I don't that's pretty broad but if it is I don't know AI for nailing your basketball
+
+know AI for nailing your basketball know AI for nailing your basketball parlay or how do you win your pool for
+
+parlay or how do you win your pool for parlay or how do you win your pool for football like those types of things are
+
+football like those types of things are football like those types of things are much more valuable like the person isn't
+
+much more valuable like the person isn't much more valuable like the person isn't just going to go I want to be better at
+
+just going to go I want to be better at just going to go I want to be better at beding
+
+beding beding that's not enough right like really it
+
+that's not enough right like really it that's not enough right like really it is about they're usually likely coming
+
+is about they're usually likely coming is about they're usually likely coming to you coming to this because they have
+
+to you coming to this because they have to you coming to this because they have identified that they are not good at
+
+identified that they are not good at identified that they are not good at choosing
+
+choosing choosing man the winning teams or the point
+
+man the winning teams or the point man the winning teams or the point spread and show show those people like
+
+spread and show show those people like spread and show show those people like okay here's the tool for helping you
+
+okay here's the tool for helping you okay here's the tool for helping you pick point spread here's how you're
+
+pick point spread here's how you're pick point spread here's how you're going to do it for you your parlays and
+
+going to do it for you your parlays and going to do it for you your parlays and those types of things and demonstrating
+
+those types of things and demonstrating those types of things and demonstrating that information and helping to prove
+
+that information and helping to prove that information and helping to prove that AIT out a bit more I think is where
+
+that AIT out a bit more I think is where that AIT out a bit more I think is where you go with it I don't know the industry
+
+you go with it I don't know the industry you go with it I don't know the industry well enough but those are just some well enough but those are just some well enough but those are just some ideas that I have from past experience
+
+ideas that I have from past experience ideas that I have from past experience with like software companies and yeah so
+
+with like software companies and yeah so with like software companies and yeah so sounds at least the common terms in
+
+sounds at least the common terms in sounds at least the common terms in betting so that's I watch a lot of betting so that's I watch a lot of betting so that's I watch a lot of sports
+
+sports sports I don't bet uh personally but I do see
+
+I don't bet uh personally but I do see I don't bet uh personally but I do see the odds and I see all the betting
+
+the odds and I see all the betting the odds and I see all the betting schemes and so forth yeah the odds are
+
+schemes and so forth yeah the odds are schemes and so forth yeah the odds are just uh tossed down your throat whether
+
+just uh tossed down your throat whether just uh tossed down your throat whether you want to actually pay attention to
+
+you want to actually pay attention to you want to actually pay attention to them like every intermission is no the
+
+them like every intermission is no the them like every intermission is no the plus minus is that this and yeah this
+
+plus minus is that this and yeah this plus minus is that this and yeah this team looks more favorable anyway yeah
+
+team looks more favorable anyway yeah team looks more favorable anyway yeah it's overdone okay the next company is
+
+it's overdone okay the next company is it's overdone okay the next company is I've got a friend he builds or designs
+
+I've got a friend he builds or designs I've got a friend he builds or designs luxury lighting and it starts at $1,000
+
+luxury lighting and it starts at $1,000 luxury lighting and it starts at $1,000 and goes up to 15K so it's not cheap
+
+and goes up to 15K so it's not cheap and goes up to 15K so it's not cheap stuff and when I started doing research
+
+stuff and when I started doing research stuff and when I started doing research I was like wow okay without a doubt
+
+I was like wow okay without a doubt I was like wow okay without a doubt there's not a lot of companies that kind
+
+there's not a lot of companies that kind there's not a lot of companies that kind of put themselves in that space but he's
+
+of put themselves in that space but he's of put themselves in that space but he's looking to hire an SEO agency and I
+
+looking to hire an SEO agency and I looking to hire an SEO agency and I basically said these are some of the
+
+basically said these are some of the basically said these are some of the strategies you could do uh personally
+
+strategies you could do uh personally strategies you could do uh personally what I gave him as my advice was I
+
+what I gave him as my advice was I what I gave him as my advice was I thought digital PR and Link building
+
+thought digital PR and Link building thought digital PR and Link building could help quite a bit where it's such a
+
+could help quite a bit where it's such a could help quite a bit where it's such a unique topic that anyone that does
+
+unique topic that anyone that does unique topic that anyone that does anything in let's say architecture
+
+anything in let's say architecture anything in let's say architecture interior design looking for this content
+
+interior design looking for this content interior design looking for this content I don't even think you have to pay them I don't even think you have to pay them I don't even think you have to pay them for it so I think if uh he did stuff
+
+for it so I think if uh he did stuff for it so I think if uh he did stuff like that it would help attract that
+
+like that it would help attract that like that it would help attract that eventual buyer that says I want to drop
+
+eventual buyer that says I want to drop eventual buyer that says I want to drop 50k and Lighting in my or whatever it is
+
+50k and Lighting in my or whatever it is 50k and Lighting in my or whatever it is yeah my first question then to your
+
+yeah my first question then to your yeah my first question then to your friend would be like is it the interior
+
+friend would be like is it the interior friend would be like is it the interior designers that they're targeting or is
+
+designers that they're targeting or is designers that they're targeting or is it the homeowner
+
+it the homeowner it the homeowner good different experiences
+
+good different experiences good different experiences and on one hand having a e-commerce
+
+and on one hand having a e-commerce and on one hand having a e-commerce component would matter but I don't think
+
+component would matter but I don't think component would matter but I don't think people are going to drop a, plus dollars
+
+people are going to drop a, plus dollars people are going to drop a, plus dollars on a lighting fixture that they haven't
+
+on a lighting fixture that they haven't on a lighting fixture that they haven't seen up close
+
+seen up close seen up close in that sense going with interior
+
+in that sense going with interior in that sense going with interior designers or yeah maybe a project like
+
+designers or yeah maybe a project like designers or yeah maybe a project like development firm that is lighting out
+
+development firm that is lighting out development firm that is lighting out all of the entryways for a new building
+
+all of the entryways for a new building all of the entryways for a new building or or something like that I would figure
+
+or or something like that I would figure or or something like that I would figure like align on what that that looks like
+
+like align on what that that looks like like align on what that that looks like and who that target audience is and then
+
+and who that target audience is and then and who that target audience is and then again it it really comes down to yeah PR
+
+again it it really comes down to yeah PR again it it really comes down to yeah PR and Link building I think in those
+
+and Link building I think in those and Link building I think in those visual spaces lighting architecture
+
+visual spaces lighting architecture visual spaces lighting architecture Furniture where it's very visual you
+
+Furniture where it's very visual you Furniture where it's very visual you need a lot of coverage in those things
+
+need a lot of coverage in those things need a lot of coverage in those things getting into yeah
+
+getting into yeah getting into yeah digital magazines or magazines that have
+
+digital magazines or magazines that have digital magazines or magazines that have a digital Edition matter a great deal
+
+a digital Edition matter a great deal a digital Edition matter a great deal featured on Instagram featured on
+
+featured on Instagram featured on featured on Instagram featured on Pinterest those types of things play a
+
+Pinterest those types of things play a Pinterest those types of things play a big factor in it the challenge with a
+
+big factor in it the challenge with a big factor in it the challenge with a lighting company an individual one too
+
+lighting company an individual one too lighting company an individual one too is that you're up against big players
+
+is that you're up against big players is that you're up against big players like you're up against like in Vancouver
+
+like you're up against like in Vancouver like you're up against like in Vancouver we have Robinson Lighting like you're up
+
+we have Robinson Lighting like you're up we have Robinson Lighting like you're up against massive companies and a variety
+
+against massive companies and a variety against massive companies and a variety of other outlets that are also looking
+
+of other outlets that are also looking of other outlets that are also looking for that business
+
+for that business for that business I would say that the pr and that
+
+I would say that the pr and that I would say that the pr and that connection building is a bigger part
+
+connection building is a bigger part connection building is a bigger part than
+
+than than speaking to trying to necessarily rank
+
+speaking to trying to necessarily rank speaking to trying to necessarily rank for luxury lighting or whatever keywords
+
+for luxury lighting or whatever keywords for luxury lighting or whatever keywords they would want to Target so this could
+
+they would want to Target so this could they would want to Target so this could be like like the anti- SEO Playbook
+
+be like like the anti- SEO Playbook be like like the anti- SEO Playbook where you could actually say look just where you could actually say look just where you could actually say look just focus on Business Development if it's if
+
+focus on Business Development if it's if focus on Business Development if it's if the if your potential buyer is like a
+
+the if your potential buyer is like a the if your potential buyer is like a designer or an architect you can just
+
+designer or an architect you can just designer or an architect you can just find them on LinkedIn there's no SEO
+
+find them on LinkedIn there's no SEO find them on LinkedIn there's no SEO there with one exception that when you
+
+there with one exception that when you there with one exception that when you do the digital PR that might be the way
+
+do the digital PR that might be the way do the digital PR that might be the way they actually discover you in the first they actually discover you in the first they actually discover you in the first place yeah yeah and like this would
+
+place yeah yeah and like this would place yeah yeah and like this would require a bit of user research and like
+
+require a bit of user research and like require a bit of user research and like customer research the design companies
+
+customer research the design companies customer research the design companies and stuff that I follow on interest
+
+and stuff that I follow on interest and stuff that I follow on interest Instagram and such like they are very
+
+Instagram and such like they are very Instagram and such like they are very much talking about the the locality of
+
+much talking about the the locality of much talking about the the locality of how they're made the products and the
+
+how they're made the products and the how they're made the products and the materials that they use they tell the
+
+materials that they use they tell the materials that they use they tell the story behind each fixture each product
+
+story behind each fixture each product story behind each fixture each product they design and the inspiration for it
+
+they design and the inspiration for it they design and the inspiration for it and using that as a a tool because I
+
+and using that as a a tool because I and using that as a a tool because I would say people on the west coast that
+
+would say people on the west coast that would say people on the west coast that are perhaps looking for to design their
+
+are perhaps looking for to design their are perhaps looking for to design their home in a traditional West Coast feel
+
+home in a traditional West Coast feel home in a traditional West Coast feel would want to have light fixtures by
+
+would want to have light fixtures by would want to have light fixtures by folks who live on this side of the
+
+folks who live on this side of the folks who live on this side of the country and I think in this space to
+
+country and I think in this space to country and I think in this space to Awards and recognition go a long way and
+
+Awards and recognition go a long way and Awards and recognition go a long way and earning that and then presenting that on
+
+earning that and then presenting that on earning that and then presenting that on your website be a big part and then
+
+your website be a big part and then your website be a big part and then again I like I will probably recommend
+
+again I like I will probably recommend again I like I will probably recommend this for the all of the the case studies
+
+this for the all of the the case studies this for the all of the the case studies here but content like how do you and
+
+here but content like how do you and here but content like how do you and maybe it's visual content maybe it's maybe it's visual content maybe it's maybe it's visual content maybe it's YouTube content like how you design your
+
+YouTube content like how you design your YouTube content like how you design your products how you manufacture them what
+
+products how you manufacture them what products how you manufacture them what makes them special like where
+
+makes them special like where makes them special like where what's the story behind it because I what's the story behind it because I what's the story behind it because I think at that price point too people
+
+think at that price point too people think at that price point too people want to be able to go look at this
+
+want to be able to go look at this want to be able to go look at this sculptural light that I just bought it's
+
+sculptural light that I just bought it's sculptural light that I just bought it's designed by S and St like it made from
+
+designed by S and St like it made from designed by S and St like it made from this stuff it uses the hair of a white
+
+this stuff it uses the hair of a white this stuff it uses the hair of a white Walsh and all that kind of stuff sells
+
+Walsh and all that kind of stuff sells Walsh and all that kind of stuff sells the product like yeah so being really
+
+the product like yeah so being really the product like yeah so being really articulated about that stuff goes a real
+
+articulated about that stuff goes a real articulated about that stuff goes a real way yeah and would you say that maybe
+
+way yeah and would you say that maybe way yeah and would you say that maybe even uh for an SEO Playbook here that
+
+even uh for an SEO Playbook here that even uh for an SEO Playbook here that e-commerce seems to be getting a lot e-commerce seems to be getting a lot e-commerce seems to be getting a lot more attention these days when we look
+
+more attention these days when we look more attention these days when we look at affiliate marketing I think affiliate
+
+at affiliate marketing I think affiliate at affiliate marketing I think affiliate content is not ranking as much as
+
+content is not ranking as much as content is not ranking as much as e-commerce and I've know so many seos
+
+e-commerce and I've know so many seos e-commerce and I've know so many seos that they're like I'm pivoting hardcore
+
+that they're like I'm pivoting hardcore that they're like I'm pivoting hardcore in e-commerce so maybe this would be an
+
+in e-commerce so maybe this would be an in e-commerce so maybe this would be an actual Playbook because when I looked at
+
+actual Playbook because when I looked at actual Playbook because when I looked at some of the other places where you could some of the other places where you could some of the other places where you could buy lighting buy lighting buy lighting Etsy was a place that actually had some
+
+Etsy was a place that actually had some Etsy was a place that actually had some expensive lights in there like we're
+
+expensive lights in there like we're expensive lights in there like we're talking $1,000 plus type of lighting so
+
+talking $1,000 plus type of lighting so talking $1,000 plus type of lighting so the Beast spoke stuff is on different
+
+the Beast spoke stuff is on different the Beast spoke stuff is on different platforms and it ranked I found it yeah
+
+platforms and it ranked I found it yeah platforms and it ranked I found it yeah and I think to your point like having
+
+and I think to your point like having and I think to your point like having just diverse channels yeah Etsy could be
+
+just diverse channels yeah Etsy could be just diverse channels yeah Etsy could be super effective Pinterest Google
+
+super effective Pinterest Google super effective Pinterest Google shopping if people know what they're
+
+shopping if people know what they're shopping if people know what they're looking for and they know what it is the
+
+looking for and they know what it is the looking for and they know what it is the the dimensions and things like that and
+
+the dimensions and things like that and the dimensions and things like that and that goes a long way but yeah there will
+
+that goes a long way but yeah there will that goes a long way but yeah there will be people that want to just buy like
+
+be people that want to just buy like be people that want to just buy like they saw you at a trade show and then
+
+they saw you at a trade show and then they saw you at a trade show and then okay I'm going to go online and buy it
+
+okay I'm going to go online and buy it okay I'm going to go online and buy it and make it simple yeah with all of that
+
+and make it simple yeah with all of that and make it simple yeah with all of that like clear and transparent pricing and
+
+like clear and transparent pricing and like clear and transparent pricing and then Pathways to making a purchase yeah
+
+then Pathways to making a purchase yeah then Pathways to making a purchase yeah it it it feels like a no-brainer in a
+
+it it it feels like a no-brainer in a it it it feels like a no-brainer in a lot of Industries these days just have
+
+lot of Industries these days just have lot of Industries these days just have it there even if it's not a huge driver
+
+it there even if it's not a huge driver it there even if it's not a huge driver it still makes a big difference okay the
+
+it still makes a big difference okay the it still makes a big difference okay the next one every once in a while I like to
+
+next one every once in a while I like to next one every once in a while I like to ask a self-serving question so the next
+
+ask a self-serving question so the next ask a self-serving question so the next one is more to do with what we do as a
+
+one is more to do with what we do as a one is more to do with what we do as a company so I'll just give you a quick uh
+
+company so I'll just give you a quick uh company so I'll just give you a quick uh context so we got assass tool for faic
+
+context so we got assass tool for faic context so we got assass tool for faic marketers that grabs all their data like
+
+marketers that grabs all their data like marketers that grabs all their data like their click data and the Revenue data in
+
+their click data and the Revenue data in their click data and the Revenue data in one place currently it's focused on I
+
+one place currently it's focused on I one place currently it's focused on I gaming but we plan to go outside of it
+
+gaming but we plan to go outside of it gaming but we plan to go outside of it and we've actually had a couple and we've actually had a couple and we've actually had a couple customers say hey John I'm looking for
+
+customers say hey John I'm looking for customers say hey John I'm looking for someone to buy either my affiliate
+
+someone to buy either my affiliate someone to buy either my affiliate accounts or my website do you know any
+
+accounts or my website do you know any accounts or my website do you know any buyers so we actually went through an
+
+buyers so we actually went through an buyers so we actually went through an experience many years ago do you know
+
+experience many years ago do you know experience many years ago do you know Flippa and Empire flippers I do I
+
+Flippa and Empire flippers I do I Flippa and Empire flippers I do I subscribed to there okay perfect so I
+
+subscribed to there okay perfect so I subscribed to there okay perfect so I sold the site in flipa quite a few years
+
+sold the site in flipa quite a few years sold the site in flipa quite a few years ago and I went through the experience of ago and I went through the experience of ago and I went through the experience of going how do I validate my Revenue long
+
+going how do I validate my Revenue long going how do I validate my Revenue long story short they wouldn't accept our app
+
+story short they wouldn't accept our app story short they wouldn't accept our app as uh Revenue validation we now have
+
+as uh Revenue validation we now have as uh Revenue validation we now have that and we actually have customers that
+
+that and we actually have customers that that and we actually have customers that they're actually using SE access to show
+
+they're actually using SE access to show they're actually using SE access to show the Revenue data without compromising
+
+the Revenue data without compromising the Revenue data without compromising anything so we're thinking about
+
+anything so we're thinking about anything so we're thinking about actually building an m&amp;a Marketplace
+
+actually building an m&amp;a Marketplace actually building an m&amp;a Marketplace like just something really basic like like just something really basic like like just something really basic like creating a page not making it super
+
+creating a page not making it super creating a page not making it super technical so what would you have for
+
+technical so what would you have for technical so what would you have for strategy for us to to do this Beyond
+
+strategy for us to to do this Beyond strategy for us to to do this Beyond just making announcements saying hey
+
+just making announcements saying hey just making announcements saying hey here's a press release we're now here's a press release we're now here's a press release we're now launching this you just sign in and it's
+
+launching this you just sign in and it's launching this you just sign in and it's it's almost hand off yeah so we've done
+
+it's almost hand off yeah so we've done it's almost hand off yeah so we've done a lot of marketplaces over the years in
+
+a lot of marketplaces over the years in a lot of marketplaces over the years in a variety of spaces
+
+a variety of spaces a variety of spaces what generally works well like one you
+
+what generally works well like one you what generally works well like one you need to have traffic to show the people
+
+need to have traffic to show the people need to have traffic to show the people that are going to be paying you the
+
+that are going to be paying you the that are going to be paying you the money that you're worth their time so
+
+money that you're worth their time so money that you're worth their time so that has to take on its own entity and
+
+that has to take on its own entity and that has to take on its own entity and you can make content that serves both
+
+you can make content that serves both you can make content that serves both sides of this Market especially in the
+
+sides of this Market especially in the sides of this Market especially in the blog space of yeah affiliate Market
+
+blog space of yeah affiliate Market blog space of yeah affiliate Market marting dues and don'ts all that kind of
+
+marting dues and don'ts all that kind of marting dues and don'ts all that kind of stuff getting into the business getting
+
+stuff getting into the business getting stuff getting into the business getting out of the business how to optimize that
+
+out of the business how to optimize that out of the business how to optimize that experience and you can write a lot of experience and you can write a lot of experience and you can write a lot of content around that stuff because content around that stuff because content around that stuff because that'll serve the whole audience that
+
+that'll serve the whole audience that that'll serve the whole audience that you're trying to Target
+
+you're trying to Target you're trying to Target your business Pages like your homepage
+
+your business Pages like your homepage your business Pages like your homepage can be split I would say but I would say
+
+can be split I would say but I would say can be split I would say but I would say that you would want to have the majority that you would want to have the majority that you would want to have the majority of your business Pages at least 70% of
+
+of your business Pages at least 70% of of your business Pages at least 70% of it focus on the people that are going to
+
+it focus on the people that are going to it focus on the people that are going to pay you money whatever ever you decide
+
+pay you money whatever ever you decide pay you money whatever ever you decide is going to be where you get your money
+
+is going to be where you get your money is going to be where you get your money from whether that is the people selling
+
+from whether that is the people selling from whether that is the people selling the site you get a commission that way
+
+the site you get a commission that way the site you get a commission that way or the buy the people the buyers might
+
+or the buy the people the buyers might or the buy the people the buyers might have to like subscription fees whoever
+
+have to like subscription fees whoever have to like subscription fees whoever that is and I I'm not going to suggest
+
+that is and I I'm not going to suggest that is and I I'm not going to suggest which one it should be that's up to you
+
+which one it should be that's up to you which one it should be that's up to you that's who you should focus all of that
+
+that's who you should focus all of that that's who you should focus all of that content to because if you start focusing
+
+content to because if you start focusing content to because if you start focusing on the people that don't have to pay and on the people that don't have to pay and on the people that don't have to pay and just have to create an account you're
+
+just have to create an account you're just have to create an account you're missing out on the opportunity to
+
+missing out on the opportunity to missing out on the opportunity to communicate your value proposition of
+
+communicate your value proposition of communicate your value proposition of why this website is important
+
+why this website is important why this website is important and why someone should give you money to
+
+and why someone should give you money to and why someone should give you money to list their website or their app with you
+
+list their website or their app with you list their website or their app with you okay so we we've seen it like so many
+
+okay so we we've seen it like so many okay so we we've seen it like so many times these double-ended markets where
+
+times these double-ended markets where times these double-ended markets where you need both sides to come to your
+
+you need both sides to come to your you need both sides to come to your website
+
+website website the the free side of things will be a
+
+the the free side of things will be a the the free side of things will be a lot easier for traffic generation
+
+lot easier for traffic generation lot easier for traffic generation you can run ads you can get sponsorships
+
+you can run ads you can get sponsorships you can run ads you can get sponsorships you can do all kinds of stuff join
+
+you can do all kinds of stuff join you can do all kinds of stuff join Reddit all that kind of stuff but who
+
+Reddit all that kind of stuff but who Reddit all that kind of stuff but who you really need are the businesses that
+
+you really need are the businesses that you really need are the businesses that are going to sell their their websites
+
+are going to sell their their websites are going to sell their their websites who have you make sure it's really clear
+
+who have you make sure it's really clear who have you make sure it's really clear to them what it is what the value is
+
+to them what it is what the value is to them what it is what the value is that your website is going to do for
+
+that your website is going to do for that your website is going to do for them okay then couple questions on top
+
+them okay then couple questions on top them okay then couple questions on top of that so the main app of what we have
+
+of that so the main app of what we have of that so the main app of what we have it's already got the homepage it's got
+
+it's already got the homepage it's got it's already got the homepage it's got the features who's this for so I don't
+
+the features who's this for so I don't the features who's this for so I don't think we we would make that the homepage
+
+think we we would make that the homepage think we we would make that the homepage we could give it its own page but would
+
+we could give it its own page but would we could give it its own page but would you say that it's even worthwhile create
+
+you say that it's even worthwhile create you say that it's even worthwhile create a subdomain saying it's a special
+
+a subdomain saying it's a special a subdomain saying it's a special feature or even its own domain so to
+
+feature or even its own domain so to feature or even its own domain so to give you a quick uh context when I
+
+give you a quick uh context when I give you a quick uh context when I Googled Buy sell affiliate sites Flippa
+
+Googled Buy sell affiliate sites Flippa Googled Buy sell affiliate sites Flippa and Empire flippers are number one
+
+and Empire flippers are number one and Empire flippers are number one number two and the ones that rank after
+
+number two and the ones that rank after number two and the ones that rank after they don't look very compelling like
+
+they don't look very compelling like they don't look very compelling like when I click on them I'm like you might
+
+when I click on them I'm like you might when I click on them I'm like you might technically do this but there's nothing
+
+technically do this but there's nothing technically do this but there's nothing here that's super profound in comparison
+
+here that's super profound in comparison here that's super profound in comparison to those top two and I'm not saying
+
+to those top two and I'm not saying to those top two and I'm not saying we're going to come in be number three
+
+we're going to come in be number three we're going to come in be number three instantly but I think we actually have
+
+instantly but I think we actually have instantly but I think we actually have an easy opportunity to rank and I'm just
+
+an easy opportunity to rank and I'm just an easy opportunity to rank and I'm just wondering do I rank for number three and
+
+wondering do I rank for number three and wondering do I rank for number three and four or just go for saw the number three
+
+four or just go for saw the number three four or just go for saw the number three regardless of paid subfolder subdomain
+
+regardless of paid subfolder subdomain regardless of paid subfolder subdomain my view of it is that third place still
+
+my view of it is that third place still my view of it is that third place still makes money you look at sports again to
+
+makes money you look at sports again to makes money you look at sports again to go back to that analogy we look at using
+
+go back to that analogy we look at using go back to that analogy we look at using a hockey example look at the W gret
+
+a hockey example look at the W gret a hockey example look at the W gret Skies the avkin and the comic Davids of
+
+Skies the avkin and the comic Davids of Skies the avkin and the comic Davids of the world and they do well like people
+
+the world and they do well like people the world and they do well like people know them and they make money and they
+
+know them and they make money and they know them and they make money and they are their name is currency but then you
+
+are their name is currency but then you are their name is currency but then you could look at a second line person or a
+
+could look at a second line person or a could look at a second line person or a third line person and anyone that plays
+
+third line person and anyone that plays third line person and anyone that plays in the NHL is still making a good amount
+
+in the NHL is still making a good amount in the NHL is still making a good amount of money but you never have to win the
+
+of money but you never have to win the of money but you never have to win the Stanley Cup to be great you can still be
+
+Stanley Cup to be great you can still be Stanley Cup to be great you can still be like very good and make a ton of money
+
+like very good and make a ton of money like very good and make a ton of money and like tennis is another example where
+
+and like tennis is another example where and like tennis is another example where like those people that are consistently
+
+like those people that are consistently like those people that are consistently ranking in the top 10
+
+ranking in the top 10 ranking in the top 10 they're doing a good amount of money
+
+they're doing a good amount of money they're doing a good amount of money every time they may not be household
+
+every time they may not be household every time they may not be household names but they're still doing really
+
+names but they're still doing really names but they're still doing really well and in my mind is that's great you
+
+well and in my mind is that's great you well and in my mind is that's great you want to make money at this you don't want to make money at this you don't want to make money at this you don't need to be the greatest and best and
+
+need to be the greatest and best and need to be the greatest and best and remember through history for all time
+
+remember through history for all time remember through history for all time you just got to be better than the
+
+you just got to be better than the you just got to be better than the others than most and so being third is
+
+others than most and so being third is others than most and so being third is great and yeah to that point yeah having
+
+great and yeah to that point yeah having great and yeah to that point yeah having your homepage be the marketplace and
+
+your homepage be the marketplace and your homepage be the marketplace and like selling that's great I caution
+
+like selling that's great I caution like selling that's great I caution against using subdomains and I caution
+
+against using subdomains and I caution against using subdomains and I caution against having separate domains because
+
+against having separate domains because against having separate domains because one it can create
+
+one it can create one it can create brand confusion to an extent but I would
+
+brand confusion to an extent but I would brand confusion to an extent but I would say more importantly from an SEO
+
+say more importantly from an SEO say more importantly from an SEO perspective there we gos dilute
+
+perspective there we gos dilute perspective there we gos dilute themselves and they don't you don't
+
+themselves and they don't you don't themselves and they don't you don't cultivate all of that link Equity from
+
+cultivate all of that link Equity from cultivate all of that link Equity from all the different links and all the all the different links and all the all the different links and all the trust and everything if you can keep it
+
+trust and everything if you can keep it trust and everything if you can keep it all on one domain it'll be better from
+
+all on one domain it'll be better from all on one domain it'll be better from an SEO perspective
+
+an SEO perspective an SEO perspective two it'll be a lot easier to manage and
+
+two it'll be a lot easier to manage and two it'll be a lot easier to manage and just all that link Equity all that value
+
+just all that link Equity all that value just all that link Equity all that value that you'll build will go to one place
+
+that you'll build will go to one place that you'll build will go to one place rather than it being spread out across a
+
+rather than it being spread out across a rather than it being spread out across a bunch of different ones so it depends it
+
+bunch of different ones so it depends it bunch of different ones so it depends it depends yeah if there's a real use like
+
+depends yeah if there's a real use like depends yeah if there's a real use like I've seen it work well but I've also
+
+I've seen it work well but I've also I've seen it work well but I've also seen it where complete disaster in that
+
+seen it where complete disaster in that seen it where complete disaster in that all the subdomains for the brand that
+
+all the subdomains for the brand that all the subdomains for the brand that are paying this business are all a mess
+
+are paying this business are all a mess are paying this business are all a mess none of them rank particularly well when
+
+none of them rank particularly well when none of them rank particularly well when a person goes to click from a product on
+
+a person goes to click from a product on a person goes to click from a product on their subdomain it takes them over to
+
+their subdomain it takes them over to their subdomain it takes them over to the primary domain and that's a weird
+
+the primary domain and that's a weird the primary domain and that's a weird experience it's a little bit jarring
+
+experience it's a little bit jarring experience it's a little bit jarring those types of things I would have a
+
+those types of things I would have a those types of things I would have a really good thought about what is the
+
+really good thought about what is the really good thought about what is the ROI or the lifetime value of the people
+
+ROI or the lifetime value of the people ROI or the lifetime value of the people that are selling the websites are they that are selling the websites are they that are selling the websites are they going to be selling multiples are they
+
+going to be selling multiples are they going to be selling multiples are they likely just to be selling one and never
+
+likely just to be selling one and never likely just to be selling one and never come back come back come back because if that's the case stick with
+
+because if that's the case stick with because if that's the case stick with like subfolders and individual pages but
+
+like subfolders and individual pages but like subfolders and individual pages but if they're going to be like building an if they're going to be like building an if they're going to be like building an account building and flipping for a lot
+
+account building and flipping for a lot account building and flipping for a lot and all of like most of your business
+
+and all of like most of your business and all of like most of your business will come from people like that then will come from people like that then will come from people like that then maybe it makes sense to be on a maybe it makes sense to be on a maybe it makes sense to be on a subdomain so they can manage that
+
+subdomain so they can manage that subdomain so they can manage that separate experience
+
+separate experience separate experience okay lots to think about those are
+
+okay lots to think about those are okay lots to think about those are business questions those are not business questions those are not business questions those are not necessarily SEO questions yeah which I
+
+necessarily SEO questions yeah which I necessarily SEO questions yeah which I mean it goes with saying sometimes you
+
+mean it goes with saying sometimes you mean it goes with saying sometimes you need to ask the business questions need to ask the business questions need to ask the business questions before you give an SEO answer and looks
+
+before you give an SEO answer and looks before you give an SEO answer and looks yeah like I remember a guy um had
+
+yeah like I remember a guy um had yeah like I remember a guy um had started a business giving small perks
+
+started a business giving small perks started a business giving small perks and bonuses to like hourly workers and
+
+and bonuses to like hourly workers and and bonuses to like hourly workers and it was called the perk and they got
+
+it was called the perk and they got it was called the perk and they got really deep into the building of the
+
+really deep into the building of the really deep into the building of the product and the they were really tied to
+
+product and the they were really tied to product and the they were really tied to this name and about four months down the
+
+this name and about four months down the this name and about four months down the road he was like I need a website and
+
+road he was like I need a website and road he was like I need a website and started researching it and every version
+
+started researching it and every version started researching it and every version of the perk or perk on a.c.
+
+of the perk or perk on a.c. of the perk or perk on a.c. co. was all taken and there was a
+
+co. was all taken and there was a co. was all taken and there was a business in the states with the exact business in the states with the exact business in the states with the exact same name doing the exact same thing and
+
+same name doing the exact same thing and same name doing the exact same thing and I'm an SEO person but man just everyone
+
+I'm an SEO person but man just everyone I'm an SEO person but man just everyone listening just Google your business idea
+
+listening just Google your business idea listening just Google your business idea your business name first and make sure your business name first and make sure your business name first and make sure it's available make sure you can get the
+
+it's available make sure you can get the it's available make sure you can get the domain name because it really sucks when
+
+domain name because it really sucks when domain name because it really sucks when you have to get it's really hard to
+
+you have to get it's really hard to you have to get it's really hard to change once you realize you can't have
+
+change once you realize you can't have change once you realize you can't have that name not to mention trademarks as
+
+that name not to mention trademarks as that name not to mention trademarks as well yeah we years ago we had a company
+
+well yeah we years ago we had a company well yeah we years ago we had a company launch after us we were method and
+
+launch after us we were method and launch after us we were method and Metric we still are obviously but they
+
+Metric we still are obviously but they Metric we still are obviously but they were methods and metrics
+
+were methods and metrics were methods and metrics and we were getting a bunch of business
+
+and we were getting a bunch of business and we were getting a bunch of business from people who they thought we were
+
+from people who they thought we were from people who they thought we were them and so I emailed him and told him
+
+them and so I emailed him and told him them and so I emailed him and told him the situation and he wrote back a few
+
+the situation and he wrote back a few the situation and he wrote back a few days later because he was also doing days later because he was also doing days later because he was also doing digital marketing he's we'll change our digital marketing he's we'll change our digital marketing he's we'll change our name yeah because we ranked number one
+
+name yeah because we ranked number one name yeah because we ranked number one we were ranking number one for their
+
+we were ranking number one for their we were ranking number one for their name and every variation of their name
+
+name and every variation of their name name and every variation of their name as well as ours so it would have been a
+
+as well as ours so it would have been a as well as ours so it would have been a very competitive situation otherwise
+
+very competitive situation otherwise very competitive situation otherwise yeah makes sense all right one more
+
+yeah makes sense all right one more yeah makes sense all right one more pseudo case study type of question so
+
+pseudo case study type of question so pseudo case study type of question so I've done a couple case studies where
+
+I've done a couple case studies where I've done a couple case studies where I'm taking two slots affiliate websites
+
+I'm taking two slots affiliate websites I'm taking two slots affiliate websites they're a little different but I said
+
+they're a little different but I said they're a little different but I said they're not getting traffic one of them
+
+they're not getting traffic one of them they're not getting traffic one of them hasn't got off the ground properly the
+
+hasn't got off the ground properly the hasn't got off the ground properly the other one actually was just starting to other one actually was just starting to other one actually was just starting to get off the ground we're talking like
+
+get off the ground we're talking like get off the ground we're talking like April of 2024 and then another Google
+
+April of 2024 and then another Google April of 2024 and then another Google update and just put it back down one I
+
+update and just put it back down one I update and just put it back down one I actually think has a good USB but I actually think has a good USB but I actually think has a good USB but I think it's going to be difficult for for
+
+think it's going to be difficult for for think it's going to be difficult for for anyone to understand the USB so my
+
+anyone to understand the USB so my anyone to understand the USB so my suggestion to both of them was like look
+
+suggestion to both of them was like look suggestion to both of them was like look one thing that I see work with slots
+
+one thing that I see work with slots one thing that I see work with slots Affiliates is both streaming and video
+
+Affiliates is both streaming and video Affiliates is both streaming and video and I said also when I did research
+
+and I said also when I did research and I said also when I did research because I love podcasts I I went on my
+
+because I love podcasts I I went on my because I love podcasts I I went on my phone I said okay let me see if there's
+
+phone I said okay let me see if there's phone I said okay let me see if there's actually any slots podcast and there's
+
+actually any slots podcast and there's actually any slots podcast and there's almost none there might be a couple and
+
+almost none there might be a couple and almost none there might be a couple and some that have started and then they some that have started and then they some that have started and then they stopped I I think would be this would be
+
+stopped I I think would be this would be stopped I I think would be this would be easy SEO rankings not to mention I think
+
+easy SEO rankings not to mention I think easy SEO rankings not to mention I think all the links you can generate from the all the links you can generate from the all the links you can generate from the podcast sphere are strong signals that
+
+podcast sphere are strong signals that podcast sphere are strong signals that point in word to say hey if you're if
+
+point in word to say hey if you're if point in word to say hey if you're if you can't be the the top 10 streamer
+
+you can't be the the top 10 streamer you can't be the the top 10 streamer which is going to be difficult today you
+
+which is going to be difficult today you which is going to be difficult today you can at least be number one in a podcast
+
+can at least be number one in a podcast can at least be number one in a podcast what would you suggest to these guys if
+
+what would you suggest to these guys if what would you suggest to these guys if they're still not listening
+
+oh podcasts are huge they are a good oh podcasts are huge they are a good source of content and opportunity
+
+source of content and opportunity source of content and opportunity they're hyper targeted
+
+they're hyper targeted they're hyper targeted I don't think many people outside of
+
+I don't think many people outside of I don't think many people outside of like affiliate industry will necessarily
+
+like affiliate industry will necessarily like affiliate industry will necessarily listen to this and now that it's great
+
+listen to this and now that it's great listen to this and now that it's great not great content it's just not going to
+
+not great content it's just not going to not great content it's just not going to resonate with people right the same way
+
+resonate with people right the same way resonate with people right the same way and we have to I would definitely double
+
+and we have to I would definitely double and we have to I would definitely double down on that I think that podcasts are a
+
+down on that I think that podcasts are a down on that I think that podcasts are a great deal but to my earlier point of
+
+great deal but to my earlier point of great deal but to my earlier point of like you can still make a good living
+
+like you can still make a good living like you can still make a good living being third or fourth these Brands can
+
+being third or fourth these Brands can being third or fourth these Brands can be third or fourth in in streaming and
+
+be third or fourth in in streaming and be third or fourth in in streaming and stuff and by all means like I think that
+
+stuff and by all means like I think that stuff and by all means like I think that there's still a lot of money to be had there's still a lot of money to be had there's still a lot of money to be had in that space but they need to be really
+
+in that space but they need to be really in that space but they need to be really honest with themselves about it and if
+
+honest with themselves about it and if honest with themselves about it and if they're small and they're still trying
+
+they're small and they're still trying they're small and they're still trying to figure out their revenue streams and
+
+to figure out their revenue streams and to figure out their revenue streams and like how to consistently generate
+
+like how to consistently generate like how to consistently generate Revenue
+
+Revenue Revenue this goes for SEO and this goes for
+
+this goes for SEO and this goes for this goes for SEO and this goes for every other kind of space like you got
+
+every other kind of space like you got every other kind of space like you got to start small and then grow it's not to
+
+to start small and then grow it's not to to start small and then grow it's not to say you can't grow for us in the early
+
+say you can't grow for us in the early say you can't grow for us in the early going it used to be like we would want
+
+going it used to be like we would want going it used to be like we would want to rank for SEO agency yeah great
+
+to rank for SEO agency yeah great to rank for SEO agency yeah great obviously like but that's super
+
+obviously like but that's super obviously like but that's super competitive every SEO agency wants to
+
+competitive every SEO agency wants to competitive every SEO agency wants to rank for SEO agency so
+
+rank for SEO agency so rank for SEO agency so we started smaller like we I my first
+
+we started smaller like we I my first we started smaller like we I my first website J ringer.com today
+
+that's actually good now yeah I really that's actually good now yeah I really yeah at the time as like yeah this is
+
+yeah at the time as like yeah this is yeah at the time as like yeah this is great I didn't really know what to do great I didn't really know what to do great I didn't really know what to do with the domain but that's a different with the domain but that's a different with the domain but that's a different story and like ranking like I'd be like
+
+story and like ranking like I'd be like story and like ranking like I'd be like SEO agency in downtown Vancouver SEO
+
+SEO agency in downtown Vancouver SEO SEO agency in downtown Vancouver SEO agency in yell toown and Target those
+
+agency in yell toown and Target those agency in yell toown and Target those these are neighborhoods in Vancouver
+
+these are neighborhoods in Vancouver these are neighborhoods in Vancouver yeah like just small areas to try and
+
+yeah like just small areas to try and yeah like just small areas to try and get that foothold and then you start to
+
+get that foothold and then you start to get that foothold and then you start to grow and that's how you can get the like
+
+grow and that's how you can get the like grow and that's how you can get the like you go your big important head term
+
+you go your big important head term you go your big important head term whatever like affiliate marketing but
+
+whatever like affiliate marketing but whatever like affiliate marketing but then you could go you gota go near
+
+then you could go you gota go near then you could go you gota go near affiliate marketing for sports betting
+
+affiliate marketing for sports betting affiliate marketing for sports betting or affiliate marketing for podcasters or
+
+or affiliate marketing for podcasters or or affiliate marketing for podcasters or whatever go Niche go a bit smaller it's
+
+whatever go Niche go a bit smaller it's whatever go Niche go a bit smaller it's less competitive you can own that space
+
+less competitive you can own that space less competitive you can own that space a lot more and then you can start to
+
+a lot more and then you can start to a lot more and then you can start to build up to these other spaces and if
+
+build up to these other spaces and if build up to these other spaces and if you you start trying to compete with the
+
+you you start trying to compete with the you you start trying to compete with the big people that have already well
+
+big people that have already well big people that have already well established mean you're going to get established mean you're going to get established mean you're going to get your ass kicked and it's going to be so
+
+your ass kicked and it's going to be so your ass kicked and it's going to be so humbling and it's not fun so start small
+
+humbling and it's not fun so start small humbling and it's not fun so start small get an audience and then start getting
+
+get an audience and then start getting get an audience and then start getting bigger yeah it's even worse when Google
+
+bigger yeah it's even worse when Google bigger yeah it's even worse when Google we don't even care about your website we don't even care about your website we don't even care about your website anyway so it doesn't even matter if anyway so it doesn't even matter if anyway so it doesn't even matter if you're on page four or just not index at
+
+you're on page four or just not index at you're on page four or just not index at all Google 10 websites in the whole
+
+all Google 10 websites in the whole all Google 10 websites in the whole internet like that's all the rest of us
+
+internet like that's all the rest of us internet like that's all the rest of us are just like lucky to be invited you
+
+are just like lucky to be invited you are just like lucky to be invited you know they just yeah Google makes money
+
+know they just yeah Google makes money know they just yeah Google makes money and that's all they really need to worry
+
+and that's all they really need to worry and that's all they really need to worry about yeah we should just invest in
+
+about yeah we should just invest in about yeah we should just invest in Google they're they're just G to print Google they're they're just G to print Google they're they're just G to print more money with pmax and everything else
+
+more money with pmax and everything else more money with pmax and everything else right I got a call from the ads people
+
+right I got a call from the ads people right I got a call from the ads people today that's anyway that's a different
+
+today that's anyway that's a different today that's anyway that's a different story
+
+story story yeah pivoting to cro which is conversion
+
+yeah pivoting to cro which is conversion yeah pivoting to cro which is conversion rate optimization one of my favorite
+
+rate optimization one of my favorite rate optimization one of my favorite topics what do you think people should
+
+topics what do you think people should topics what do you think people should be doing in terms of cro is this another
+
+be doing in terms of cro is this another be doing in terms of cro is this another example of okay they come here for SEO
+
+example of okay they come here for SEO example of okay they come here for SEO but they're like wait a minute we could but they're like wait a minute we could but they're like wait a minute we could actually potentially crank out an extra
+
+actually potentially crank out an extra actually potentially crank out an extra 50% Revenue just by making some changes
+
+50% Revenue just by making some changes 50% Revenue just by making some changes on your website absolutely you I
+
+on your website absolutely you I on your website absolutely you I strongly believe that you cannot have
+
+strongly believe that you cannot have strongly believe that you cannot have great marketing whether that is SEO PPC
+
+great marketing whether that is SEO PPC great marketing whether that is SEO PPC social media you can't have that kind of
+
+social media you can't have that kind of social media you can't have that kind of presence and not have good cro because
+
+presence and not have good cro because presence and not have good cro because you could get a million people to your
+
+you could get a million people to your you could get a million people to your website and if zero of them buy from you
+
+website and if zero of them buy from you website and if zero of them buy from you because your experience sucks you you
+
+because your experience sucks you you because your experience sucks you you don't have a good business if you
+
+don't have a good business if you don't have a good business if you generate 10,000 clicks tomorrow and four
+
+generate 10,000 clicks tomorrow and four generate 10,000 clicks tomorrow and four people bought from you that's a terrible
+
+people bought from you that's a terrible people bought from you that's a terrible Roi so you need to have conversion rate
+
+Roi so you need to have conversion rate Roi so you need to have conversion rate optimization thinking throughout your
+
+optimization thinking throughout your optimization thinking throughout your work like how do you get the people that
+
+work like how do you get the people that work like how do you get the people that are taking the time to come to your are taking the time to come to your are taking the time to come to your website how do you get them to take
+
+website how do you get them to take website how do you get them to take action and that comes down to the
+
+action and that comes down to the action and that comes down to the marketing like the targeting and that
+
+marketing like the targeting and that marketing like the targeting and that experience but also studying
+
+experience but also studying experience but also studying what they click on and what they engage
+
+what they click on and what they engage what they click on and what they engage with and what kind of behav behaviors
+
+with and what kind of behav behaviors with and what kind of behav behaviors they take on your website we got a
+
+they take on your website we got a they take on your website we got a client years ago from the UK because
+
+client years ago from the UK because client years ago from the UK because they're like we're working with this Ad
+
+they're like we're working with this Ad they're like we're working with this Ad Agency and they just keep telling us to
+
+Agency and they just keep telling us to Agency and they just keep telling us to spend more money but I don't trust them
+
+spend more money but I don't trust them spend more money but I don't trust them we're not getting any leads and so we
+
+we're not getting any leads and so we we're not getting any leads and so we went and looked at their website and went and looked at their website and went and looked at their website and their contact form was broken so no one
+
+their contact form was broken so no one their contact form was broken so no one could contact them and so this agency
+
+could contact them and so this agency could contact them and so this agency was like Hey if you double your ATS
+
+was like Hey if you double your ATS was like Hey if you double your ATS spend you will get double your leads and
+
+spend you will get double your leads and spend you will get double your leads and that's impossible if the form is broken
+
+that's impossible if the form is broken that's impossible if the form is broken and that's simple conversion rate and that's simple conversion rate and that's simple conversion rate optimizing you fix your form you're
+
+optimizing you fix your form you're optimizing you fix your form you're going to convert more if you take up the
+
+going to convert more if you take up the going to convert more if you take up the stop boards you make it like don't load
+
+stop boards you make it like don't load stop boards you make it like don't load your website with popups and you make it your website with popups and you make it your website with popups and you make it really easy for people to like take
+
+really easy for people to like take really easy for people to like take action and you have a clear value
+
+action and you have a clear value action and you have a clear value proposition your checkout pages are
+
+proposition your checkout pages are proposition your checkout pages are fluid and smooth and it works well on
+
+fluid and smooth and it works well on fluid and smooth and it works well on mobile all that kind of stuff is great
+
+mobile all that kind of stuff is great mobile all that kind of stuff is great if you eliminate any unnecessary
+
+if you eliminate any unnecessary if you eliminate any unnecessary distractions those things go a long way
+
+distractions those things go a long way distractions those things go a long way and that's really what all of this is
+
+and that's really what all of this is and that's really what all of this is marketing is great branded awareness is
+
+marketing is great branded awareness is marketing is great branded awareness is great but if no one buys from you if no
+
+great but if no one buys from you if no great but if no one buys from you if no one gives you money you're not a
+
+one gives you money you're not a one gives you money you're not a business you're just a little passion
+
+business you're just a little passion business you're just a little passion project so C is yeah it's hugely
+
+project so C is yeah it's hugely project so C is yeah it's hugely important like and cro clearly ties in
+
+important like and cro clearly ties in important like and cro clearly ties in with paid marketing where to be honest
+
+with paid marketing where to be honest with paid marketing where to be honest I've not done a lot of uh paid media for
+
+I've not done a lot of uh paid media for I've not done a lot of uh paid media for a long time because I've been very aware
+
+a long time because I've been very aware a long time because I've been very aware for whether it's SAS or affiliate
+
+for whether it's SAS or affiliate for whether it's SAS or affiliate marketing that it's pretty easy that
+
+marketing that it's pretty easy that marketing that it's pretty easy that when you don't pay attention to the when you don't pay attention to the when you don't pay attention to the little details you can just spend money
+
+little details you can just spend money little details you can just spend money you're waiting for the result at the end
+
+you're waiting for the result at the end you're waiting for the result at the end but some along the way there's
+
+but some along the way there's but some along the way there's optimization within and I think I think
+
+optimization within and I think I think optimization within and I think I think for a lot of people just may be for a lot of people just may be for a lot of people just may be intimidating yeah yeah totally and
+
+intimidating yeah yeah totally and intimidating yeah yeah totally and Google makes it complex on purpose or
+
+Google makes it complex on purpose or Google makes it complex on purpose or seemingly complex so that people are
+
+seemingly complex so that people are seemingly complex so that people are deterred Google makes most of their
+
+deterred Google makes most of their deterred Google makes most of their revenue from Google ads and the more
+
+revenue from Google ads and the more revenue from Google ads and the more they blur
+
+they blur they blur the work and make it harder for you to
+
+the work and make it harder for you to the work and make it harder for you to find stuff and harder for you to think
+
+find stuff and harder for you to think find stuff and harder for you to think that you're doing a good job and bombard
+
+that you're doing a good job and bombard that you're doing a good job and bombard you with warnings that your account you with warnings that your account you with warnings that your account sucks they make more money and yeah if
+
+sucks they make more money and yeah if sucks they make more money and yeah if you're running Google ads or really any
+
+you're running Google ads or really any you're running Google ads or really any paid Media stuff you got to know all the
+
+paid Media stuff you got to know all the paid Media stuff you got to know all the ins and outs and you got to be really ins and outs and you got to be really ins and outs and you got to be really detailed about it because they will take
+
+detailed about it because they will take detailed about it because they will take your money they will gladly I worked for
+
+your money they will gladly I worked for your money they will gladly I worked for company that did a case study on uh the
+
+company that did a case study on uh the company that did a case study on uh the Domino's Pizza this was like before the
+
+Domino's Pizza this was like before the Domino's Pizza this was like before the pandemic and they had nothing to do with
+
+pandemic and they had nothing to do with pandemic and they had nothing to do with pizza they had nothing to do with abs
+
+pizza they had nothing to do with abs pizza they had nothing to do with abs really they were just talking about really they were just talking about really they were just talking about innovation but they let their ad
+
+innovation but they let their ad innovation but they let their ad campaign run on everything on their
+
+campaign run on everything on their campaign run on everything on their website and so they spent upwards of
+
+website and so they spent upwards of website and so they spent upwards of $10,000 on people searching for Domino's
+
+$10,000 on people searching for Domino's $10,000 on people searching for Domino's Pizza because they let this blog post
+
+Pizza because they let this blog post Pizza because they let this blog post into beat and it was people like going
+
+into beat and it was people like going into beat and it was people like going Domino's near me Domino's phone number
+
+Domino's near me Domino's phone number Domino's near me Domino's phone number order Domino's online all these things
+
+order Domino's online all these things order Domino's online all these things Google show like 10 grand because it ran
+
+Google show like 10 grand because it ran Google show like 10 grand because it ran for a year he's just like yo like don't
+
+for a year he's just like yo like don't for a year he's just like yo like don't yeah yeah this is what I wish Google
+
+yeah yeah this is what I wish Google yeah yeah this is what I wish Google would actually fix cuz imagine if you're
+
+would actually fix cuz imagine if you're would actually fix cuz imagine if you're the user that goes to Google and this
+
+the user that goes to Google and this the user that goes to Google and this happens to you let's just imagine in a
+
+happens to you let's just imagine in a happens to you let's just imagine in a perfect world B actually never allows
+
+perfect world B actually never allows perfect world B actually never allows this to happen eventually in theory I'd
+
+this to happen eventually in theory I'd this to happen eventually in theory I'd think that more people would gravitate think that more people would gravitate think that more people would gravitate towards place where this won't happen I
+
+towards place where this won't happen I towards place where this won't happen I hope this Futures around the corner but
+
+hope this Futures around the corner but hope this Futures around the corner but I'm not holding my breath for it yet I'm not holding my breath for it yet I'm not holding my breath for it yet because if you can spend ads on LinkedIn
+
+because if you can spend ads on LinkedIn because if you can spend ads on LinkedIn spend them on Facebook spend them on
+
+spend them on Facebook spend them on spend them on Facebook spend them on Google I've never had them say whoa John
+
+Google I've never had them say whoa John Google I've never had them say whoa John I see that you're clearly I could cut
+
+I see that you're clearly I could cut I see that you're clearly I could cut your ad spin in half they want me to
+
+your ad spin in half they want me to your ad spin in half they want me to double it yeah of course even if could
+
+double it yeah of course even if could double it yeah of course even if could show you how your ads could convert more
+
+show you how your ads could convert more show you how your ads could convert more they wouldn't no they wouldn't do it
+
+they wouldn't no they wouldn't do it they wouldn't no they wouldn't do it like it's not happening
+
+like it's not happening like it's not happening yeah they're not economically yeah they're not economically yeah they're not economically incentivized to make us better at what
+
+incentivized to make us better at what incentivized to make us better at what we're doing next year or maybe there's
+
+we're doing next year or maybe there's we're doing next year or maybe there's going to be a chatbot version that's
+
+going to be a chatbot version that's going to be a chatbot version that's going to be I'm just gonna ask you the going to be I'm just gonna ask you the going to be I'm just gonna ask you the questions and then we'll figure it for
+
+questions and then we'll figure it for questions and then we'll figure it for you that' be great that that'd be cool
+
+you that' be great that that'd be cool you that' be great that that'd be cool app for someone to build last question
+
+app for someone to build last question app for someone to build last question is what do you see of the future of is what do you see of the future of is what do you see of the future of affiliate marketing as it intersects
+
+affiliate marketing as it intersects affiliate marketing as it intersects with business intelligence
+
+with business intelligence with business intelligence yeah I think that this is obviously the
+
+yeah I think that this is obviously the yeah I think that this is obviously the question I was like giving most thought
+
+question I was like giving most thought question I was like giving most thought to when you send me the the question by
+
+to when you send me the the question by to when you send me the the question by the way I think that the internet is
+
+the way I think that the internet is the way I think that the internet is evolving in a way that meta's rules
+
+evolving in a way that meta's rules evolving in a way that meta's rules changing aside and things like that and
+
+changing aside and things like that and changing aside and things like that and Twitter becoming its own thing people
+
+Twitter becoming its own thing people Twitter becoming its own thing people still want connection and want to be still want connection and want to be still want connection and want to be able to take recommendations from people
+
+able to take recommendations from people able to take recommendations from people that they like no interest and I think
+
+that they like no interest and I think that they like no interest and I think affiliate marketing is an inval tool in
+
+affiliate marketing is an inval tool in affiliate marketing is an inval tool in that that if you are creating content
+
+that that if you are creating content that that if you are creating content that is authentic and sincere and truly
+
+that is authentic and sincere and truly that is authentic and sincere and truly helpful to people they will want to do
+
+helpful to people they will want to do helpful to people they will want to do business and trust you when you
+
+business and trust you when you business and trust you when you recommend products like trust is such a
+
+recommend products like trust is such a recommend products like trust is such a rare thing on the internet these days
+
+rare thing on the internet these days rare thing on the internet these days that you have such an advantage just by
+
+that you have such an advantage just by that you have such an advantage just by being authentic about it and being
+
+being authentic about it and being being authentic about it and being strategic about the affiliate choices
+
+strategic about the affiliate choices strategic about the affiliate choices that you make and sharing that
+
+that you make and sharing that that you make and sharing that information and so in that sense I think
+
+information and so in that sense I think information and so in that sense I think that it's a massive underutilized
+
+that it's a massive underutilized that it's a massive underutilized channel for most businesses right like
+
+channel for most businesses right like channel for most businesses right like most businesses don't really offer
+
+most businesses don't really offer most businesses don't really offer affiliate programs unless they're of a
+
+affiliate programs unless they're of a affiliate programs unless they're of a certain size or maybe they're in the certain size or maybe they're in the certain size or maybe they're in the software space but like
+
+software space but like software space but like your tab it's it's in my mind I think
+
+your tab it's it's in my mind I think your tab it's it's in my mind I think affiliate marketing is top tier version
+
+affiliate marketing is top tier version affiliate marketing is top tier version of influencer marketing and it's just
+
+of influencer marketing and it's just of influencer marketing and it's just it's just done differently it's done in
+
+it's just done differently it's done in it's just done differently it's done in such a hopefully authentic way that
+
+such a hopefully authentic way that such a hopefully authentic way that really helps create a good connection
+
+really helps create a good connection really helps create a good connection that when someone clicks that affiliate
+
+that when someone clicks that affiliate that when someone clicks that affiliate link and arrives on your product they
+
+link and arrives on your product they link and arrives on your product they know that they're in the right space
+
+know that they're in the right space know that they're in the right space they're in the place that they need to they're in the place that they need to they're in the place that they need to be because person that told them to be
+
+be because person that told them to be be because person that told them to be here cares about Their audience and
+
+here cares about Their audience and here cares about Their audience and knows that your product is great yeah
+
+knows that your product is great yeah knows that your product is great yeah that's a it's a great answer because
+
+that's a it's a great answer because that's a it's a great answer because let's go to the opposite of that where
+
+let's go to the opposite of that where let's go to the opposite of that where you get like New York Times or
+
+you get like New York Times or you get like New York Times or fortune.com ranking for like best vpn's
+
+fortune.com ranking for like best vpn's fortune.com ranking for like best vpn's and you're like they have no business
+
+and you're like they have no business and you're like they have no business ranking for best VPN and you know what
+
+ranking for best VPN and you know what ranking for best VPN and you know what they're doing it basically it's just
+
+they're doing it basically it's just they're doing it basically it's just it's pure affiliate channnel they don't
+
+it's pure affiliate channnel they don't it's pure affiliate channnel they don't give a damn about who the best VPN they
+
+give a damn about who the best VPN they give a damn about who the best VPN they give a damn about who's the best paying
+
+give a damn about who's the best paying give a damn about who's the best paying VPN in order from one to 10 Fortune
+
+VPN in order from one to 10 Fortune VPN in order from one to 10 Fortune ranking for like best keeping gear oh my
+
+ranking for like best keeping gear oh my ranking for like best keeping gear oh my God this is nuts horrible I'm glad uh
+
+God this is nuts horrible I'm glad uh God this is nuts horrible I'm glad uh Google fixed that one for us
+
+Google fixed that one for us Google fixed that one for us barely yeah solid answer you think
+
+barely yeah solid answer you think barely yeah solid answer you think people need to to understand it's almost
+
+people need to to understand it's almost people need to to understand it's almost like there's no course in trust there's
+
+like there's no course in trust there's like there's no course in trust there's courses to do affiliate marketing and
+
+courses to do affiliate marketing and courses to do affiliate marketing and they all say you got to build trust but
+
+they all say you got to build trust but they all say you got to build trust but it's almost like no one really doubles
+
+it's almost like no one really doubles it's almost like no one really doubles down on and go let's deconstruct what
+
+down on and go let's deconstruct what down on and go let's deconstruct what trust actually is and yeah that was well
+
+trust actually is and yeah that was well trust actually is and yeah that was well articulated Jesse thank you so much for
+
+articulated Jesse thank you so much for articulated Jesse thank you so much for doing this I want to pass it back to you
+
+doing this I want to pass it back to you doing this I want to pass it back to you how can people get a hold of you if you
+
+how can people get a hold of you if you how can people get a hold of you if you want them to get a hold of you yeah I'd
+
+want them to get a hold of you yeah I'd want them to get a hold of you yeah I'd love to meet more people John thank you
+
+love to meet more people John thank you love to meet more people John thank you for having me first of all yeah I'm on
+
+for having me first of all yeah I'm on for having me first of all yeah I'm on LinkedIn Super Active there so Jesse
+
+LinkedIn Super Active there so Jesse LinkedIn Super Active there so Jesse ringer L light bulp there to keep the
+
+ringer L light bulp there to keep the ringer L light bulp there to keep the spam folk out of that request feed our
+
+spam folk out of that request feed our spam folk out of that request feed our website method metric.com we have tons
+
+website method metric.com we have tons website method metric.com we have tons of free resources there lots of content
+
+of free resources there lots of content of free resources there lots of content happy to connect there as well but yeah
+
+happy to connect there as well but yeah happy to connect there as well but yeah those are the two big channels LinkedIn those are the two big channels LinkedIn those are the two big channels LinkedIn and our website are really where I spend
+
+and our website are really where I spend and our website are really where I spend most of my time online these days
+
+most of my time online these days most of my time online these days awesome and you can get that in the show awesome and you can get that in the show awesome and you can get that in the show notes Jesse thanks a lot for doing this
+
+notes Jesse thanks a lot for doing this notes Jesse thanks a lot for doing this yeah thank you John it was a great yeah thank you John it was a great yeah thank you John it was a great conversation thanks
+
+thank you for tuning in to the affiliate thank you for tuning in to the affiliate bi podcast I'd like to take this time to
+
+bi podcast I'd like to take this time to bi podcast I'd like to take this time to ask for a small favor to leave a raing
+
+ask for a small favor to leave a raing ask for a small favor to leave a raing and review wherever you listen to your
+
+and review wherever you listen to your and review wherever you listen to your podcast that helps [music] us expand our
+
+podcast that helps [music] us expand our podcast that helps [music] us expand our reach to rank higher in podcast
+
+reach to rank higher in podcast reach to rank higher in podcast directories and reach more listeners

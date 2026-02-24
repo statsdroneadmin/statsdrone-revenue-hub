@@ -1,3 +1,2097 @@
-I think um you know personal brand has been huge in my life um it's been something I've mostly committed to like over these last five years I've had you know a couple months where I've I've dipped out a little bit and to taken some time off or whatever but in general I would say it's been a pretty consistent effort and I think consistency is really everything like when I when I started SEO notebook um you know I was I knew the idea was good but like I didn't really have any experience in doing this stuff and um there was a guy um named Dirk Diggy um he was like buds with Glenn alsop and like I just knew him through like the social social media and I had a conversation with him like prior to starting SEO notebook and you know he just offered me this like one really important piece of advice that was if you don't email weekly um people are going to forget about who you are and if he didn't tell me that I probably would started a bi-weekly newsletter and not been as successful I'm John Wright and you're listening to affiliate bi the business intelligence and affiliate marketing podcast brought to you by [Music] sta welcome to the affiliate bi podcast today we're chatting with Steve Toof who is the founder of SEO notebook uh which I'm a big fan of and he's also running an event called SEO IRL in Toronto which I got a ticket for and Steve welcome welcome to the show hey John thanks for having me excited to be here so how much time are you spending creating your SEO notebook and I ask that because I'm a content creator for the B2B side but what I think is that you're I'm guessing you're putting in a lot of quality time making an amazing product that people talk about and link to and I think maybe your answer might give uh some insights to people on the fic marketing side yeah for sure so maybe I'll just start with just for those of uh the Watchers who aren't with seu notebook what it is exactly um it's a it's a newsletter but it's not like a Roundup newsletter so essentially what I do and have done for the past five years is um create like one actionable piece of strategy uh and then email that to my list on a weekly basis so I've been doing that for five years now which means I have over 250 actionable strategies that I've sent out and you know hopefully like by this point we're almost at 20,000 subscribers so do something right and um you know in terms of like how much time I put into this content um it can be as little as 30 minutes or it could be as much as like almost two full working days um it just really depends on uh you know what I'm doing and how I'm inspired uh you know last week what I did was I created a spreadsheet that essentially pre-populated a bunch of URL strings for tools like HFS and Sam rush and other tools like seliner copyscape archive. org and essentially what you just do is put your url into your domain into the tool it then pre-populates all those URLs for you which you can just open in a bunch of tabs and kind of get like a nice high level overview of how your site's doing and like you know very specific screens and HFS like what are my new backlinks what are the keywords that have declined what are the keywords that have risen and stuff like that and you know that note was just basically like an idea I had in the shower and it was very quick for me to put that together like maybe only an hour uh but you know when I'm when it comes to things like you know um creating AI Bots and stuff you never know how long those ones are going to go and honestly they can take a very long time to get it right and cause a lot of frustration and I've had things where like you know I've lost my um my change history on like certain Bots and like had to go back and like you know go back and try to fix stuff so those ones can definitely be a bit more frustrating and I am more cognizant to give myself you know extra time when I am you know creating a GPT bot but for example um one of the ones that was relatively like not too bad maybe only took me like five or six hours uh was um creating a GPT bot that analyzed Google patents so what I did was um I uploaded the Google leak uh to the back end of the GPT bot and then basically had the bot you know analyze a Google Patent PDF um against sort of a structured way of looking at the whole thing so you know pulling the abstract looking at Key Concepts Etc and then also comparing what was in the patent to the leak as well and uh you know that um it does take a lot of trial and error but you know I learned so much when it comes to prompting I think trial and error is everything um you know when you're trying to achieve a certain thing and you know you're just kind of like constantly refining um you can just learn so much that way and um you know that that bought yeah like I said maybe took five or six hours but um the AI stuff I always like you know uh like if I'm um have the weekend I always tell my girlfriend like it's going to be like potentially a little longer than I I can really anticipate so she like when I don't when I'm not doing GPT but think we get so do you ever write a note and then it takes five hours and then you realize it's not going to work and then you just scrap it and throw it out and oh absolutely I'm asking for a friend yeah no seriously like that's a very valid point um last week when I I mentioned I came up with that note around um pre-populating those URLs that was actually because I had failed on a GPT bot earlier than that so I was trying to create a bot that would predict whether or not a page could be shown in Google discover and like How likely a page would be to be shown in Google discover and I had you know lots of really solid criteria that I was evaluating the page against and all kinds of things but you know when it actually came down to testing it with my own data and looking at the pages that I knew for sure sh showed and discover and then the pages that I knew absolutely did not show and discover the bot was just a complete complete failure so I I never uh released that that GPT bot and like I'm always very you know cognizant of like you know my success is tied to um how much I can how much value I can provide through SEO notebook and uh you know I'm never going to release something that I'll think is good or as delivering false positives and stuff like that so that was unfortunately you know probably four or five hours down the drain when I finally realized that this thing just was reliable in terms of predicting Google discover and that's totally fine I just move on to the next thing damn uh going straight into technical SEO um I want to ask you what is keyword verticalization strategy um and I'm asking this because you mentioned that you did some of this work for consultings uh for mapon and I think it's freshbook so I just want to know if you're able to share examples of that yeah for sure I've done it for mapped in fresh books signatur Le all L lots of uh different companies so essentially um this verticalization strategy and actually I'll mention one thing that uh it's not live yet but I have a five-part email series that really goes into depth with this um I will be launching it on SEO notebook and if you subscribe to se notebook. com that's probably the best place you can hear about it we literally go into dissecting the whole strategy uh in detail like from from five and a series of five different emails but um essentially you know when there is an industry that Target a company that targets several Industries um there's oftentimes like a really good um opportunity for seos to you know create um the one page on let's say um invoice templates like at Fresh books and then you know uh targeting invoice templates for contractors for lawyers for graphic designers and even things like file types for PDF for Excel for Google Sheets and uh you know essentially verticalized your content across these different Industries um you know for maap in that was indoor maps for malls for for offices for stadiums and stuff like that um you can really build a lot of solid relevance with Google um and you know when when you have people who are searching for a very tailored solution like I don't want just any invoice template I want one for a graphic designer um you end up actually having a much higher conversion rate because the thing that you're offering them uh is you know specifically relevant to them so I would say like you obviously like shouldn't just like you know create a page about graphic designer invoice template and not make it you know just be be generic I would I wouldn't suggest that I would suggest basically making it as um tailored as possible and you know we've done that on sites like signatur le. com which is a site that I helped launch actually in in 2020 that is doing extremely well um since then and um you know we created contract templates so we actually created leral contracts for you know wedding planner contract or photographer contract and stuff like that and you know actually offered a real piece of value to all those um you know different uh vertical so you know when that's a online signature software so obviously you know people who are looking for that kind of stuff are in the market for um you know getting a legally binding online signature it was another great opportunity for that type of strategy yeah it sounds like middle or bottom of funnel content with high intent yeah exactly so the what you know when we did um when we did invoice templates that was a really unique uh situation just because um you know if you look at a company like fresh books or equip books are zero the total addressable market for those companies is absolutely huge um you know just Freelancers and contractors around the world right um and uh and that also translated into extremely high volume keywords uh just because there's so many people looking for an invoicing solution right so if you can yeah find a vertical opportunity that is a company that is you know pretty much mass market like you could say that fresh books is B2B but you could also say that it's B Toc when you're talking about like Freelancers and contractors um when you can kind of marry those two things it can be like you know such a huge opportunity but even on a smaller scale you know like when I've been working with mapin now for over four years um you know there's not that many people looking to make an indoor map but um it it is like you said it's um you know it's high intent and you know people are are like wow well you know I have a stadium and I really need an mapping solution this page tells me all about you know how to do that and you know shows me that you've done XY andz stadiums Unfortunately they they can't say that they have uh worked with certain professional sports leagues um unfortunately we can't we can't use that but they have um but you know like just basically what I'm saying is like when you see that custom tailored landing page your conversion rate is going to be a lot higher so even in the case where um mapped in isn't super high volume it's still very much worth it to do that kind of strategy it sounds like it's kind of similar or related to programmatic SEO just maybe a little different yeah it could it could be for sure like um the you you can take a programmatic approach to that um but I would say that you know if it you kind of have to weigh like what what your resources are right so let's say you're doing um you know contract templates and uh you want to take like you know chat GPT contract everything or you literally just want to like swap out Industries as placeholders across all these different things like you can do that and take more of a programmatic approach uh but I think ultimately you have to look at like what are your resources what's the potential payoff and you know either invest in you know human written content or human AI content that's human edited and just like have a little bit more of a uh sales SL copyrighting angle to it then then just you know straight um find a replace and going into more of an example like for what we do we have a directory of affiliate programs across many different Industries and we have a lot of Rich data behind it and I'm wondering if there's a right and wrong way of doing programmatic I'm assuming the wrong way is doing so much maybe AI or lowquality or thin content that you have so many pages that Google says hey you're just basically blasting the internet here but I'm just wondering if there's like a best structure to say okay we've got um a main page that's affiliate programs and then it's like the industry but then it could be the industry in relation to a country or in relation to a commission type so what would your thoughts on that be yeah I mean I think you can certainly rank with the very like you know programmatic low effort content it all just really depends on your competition right so if you're the first um site to go after you know particular um strategy like a particular keywords in your Niche and you know all you would need is just basically a relevant page and and you would rank but I think um you know over time you're going to obviously have competitors and by this point like it's also improbable that you're the first to do something on the Internet um so I guess you know when evaluating the approach that you're going to take with that you really need to look at the competition and and kind of gauge what how much effort is going to be required to to rank I think I'll have to do a bit of research on the search intent but I can say that some of those examples where you go super deep haven't really been touched and I I'm kind of surprised on it so because you said be the first I think I'm going to put that as high priority without a doubt yeah I mean like you you can like I said if if you are one of the early Trailblazers in that you really only need like you know your title tag to be relevant in your H form like that's that's that would get you there right but I think maybe um you know one important point there is like even if you are able to get to a a very like you know advantageous position um by with minimal effort uh you shouldn't just let those pages be you should you know make a make a concerted effort of like at least evaluating the the performance every six months and and making adjustments I agree I like to think that building a product is helpful like applying it to uh affiliate sites and to help them survive and thrive but maybe not everything could be an affiliate product so what else do you think you know just putting you know a pretend affiliate hat on what do you think affiliate sites can do that's not always a product that's going to help them um survive well I think the one big obvious one is an email list I mean I can say for myself like even not being like an affiliate first my affiliate Revenue through my email list is pretty solid um you know the more captive an audience you have the the higher quality list you have um the more you're going to be able to blast out relevant offers and really monetize that way so you know that also you know it's obviously the landscape is changing quite rapidly with what types of affil what type of traffic affiliate sites are you know going to expect but um if you build that email list off your tofu content that's ranking um you know you you essentially create like a really viable channel for you to earn a lot of Revenue um I would also say that like it seems counterintuitive but from what I have personally seen you know um like really successful Affiliates are now offering Consulting like literally because they've proven themselves um to be you know super successful they've got a few flipped sites under their belt like they have you know cred uh in the industry and um are actually just you know offering Consulting to to clients right so I mean that's my um you know main Revenue source is is SEO Consulting and kind of hybrid agency work which is what we do and um you know I can tell you that like as long as you know how to sort of choose the right types of clients and you know a little bit about client management um it can actually be like an amazing um you know Focus for you uh really like you know I know um you know a friend of mine here in in Toronto um Alex Savvy I don't know if you you know him but um you know he he flipped a site in the mattress industry for over a million and um now he's really looking you know Consulting as being um you know one of his you know primary income sources right because he has that track record and he has that credibility so um you know I think you know through creating content that demonstrates your expertise um you're going to be able to attract uh those types of um of of clients so you know that would be you know I would say the most lucrative opportunity if if you're asking me but I'm also biased because that's what it might be bias but I think it's a perfect example of going what is the value of a single user or single click like I've talked to a lot of uh SEO personalities and they basically say when they go on YouTube they might have 200 views and people think this person's not making any money but what you can't see behind that is the invisible DMS that lead to hey I want to talk to you what are your rates and then you know once you have that experience um you know the the quality is kind of implied in the price yeah um once people kind of see you know you like just see a personal side of you like you know I've gotten amazing clients through podcast appearances that you know in on my own website I even have like a press section you may be watching it through that right now and the future but um you know I even have a press section that just has all my podcast appearances and you know I I've had multiple clients say that they've discovered me through podcast I've had clients tell me that they've discovered me because someone else mentioned my name on a podcast like you know so there's the the thing about um you know inbound marketing and all that kind of stuff is it's really impossible to predict you know where your next lead is going to come from but um you have to kind of take the approach that you know you're sewing seeds and eventually those seeds are going to spray and you know start paying back to you um you've just always got to kind of be planting them I want to go back to what you said about newsletters do you think that by having a newsletter audience that when you post something and let's pretend it's going back to your website that it's kind of like an indirect signal for Google that says hey we have real traffic coming back and you're not fully dependent on the search traffic yeah I think that's definitely potentially a very positive side you know when you say you know you don't really have an email list you have a Gmail list is what you really have right so you're you're you know Google's like keeping tabs on how many people are replying to you what your open rate is and all that kind of stuff they would never do that I think yeah um that you know you you you essentially yeah have like you know a new traffic Source it really legitimizes you you're you know you're when you have a new post you're losting it out and you're getting a bunch of um you know traffic it's just like social media traffic too right um yeah it's uh you know there's obviously not Google Plus anymore but um you know I think Google has a good idea about which websites you know have legit like natural signals like that and which ones are you know just expressly for the purpose of ranking and banking then similar topic on newsletter do you think people should care about the SEO value of their newsletter or maybe care more about the social value because I mean we have tools like beehive and uh like there's convert kit and some of them they're not always websites they're kind of like they might be a website but they don't really seem to care much about being indexed or being SEO optimized so what's your take on that well personally for me I don't even launch any content on my website I keep it all in the newsletter and through notion right part of that is that like you know I really give away my best stuff on SEO notebook and I don't want like it to be always out in the open all the time right it's also hard to optimize for certain things like nobody's searching for uh you know Google Patent analyzer GPT right so I personally just take the like social um and just content first approach to all that and uh and don't really try to rank things um and yeah I I mean I'm not saying that it's like not a wise thing to do to try to rank for um you know Lo page SEO tips or best Lo building strategies or whatever you want to kind of rank for but um I I would say for a newsletter audience um they wanna like they appreciate good copywriting um they appreciate brevity getting to the point and then you know sometimes when you're trying to optimize an article a little bit it's a bit counterintuitive to to creating the content that that makes sense because I mean like just another example of of my side where it's like okay I maybe I want to have a community for my audience which is affiliate marketers and you know what are the options there's Facebook where the Facebook page could rank itself uh but the content inside might not Rank and then I could use discourse as a forum which is more of an SEO Playbook but I'm just wondering if you think the tide has changed where people don't really care about these old forums maybe they're actually going I want to be in a community where if I want to be anonymous or private it's n of your business um the the the what's the question there though sorry the the question is more like you know you have two options like whether it's a newsletter or a forum where it's like they're kind of Community Based and you could either care about the SEO component or you can say I don't give a damn and I'm wondering if the like the trend for people especially um the younger generation is they're not really caring about hey I found this as a discource Forum that's fully indexed in Google they're finding it in maybe Facebook communities or more like Discord telegram that sort of thing right um yeah I think uh actually like you know even like stuff like WhatsApp channels are probably a pretty underrated source of traffic considering um you know how ubiquitous WhatsApp is and how easy they are to set up and just blast out your content through there um and you know probably a very also a very intimate channel in terms of like you know reaching your audience through something that they don't really consider as like a you know a Facebook or a Twitter um feed right so I definitely think there's you know other channels that uh that can you know help basically um Propel your your content and your brand and I also think that um you know even though like SEO notebook is somewhere around a dr50 with like no conscious leak building there's also like certain spaces are so saturated right like you you look at like even like a guy like Matt Diggity right um it's hard for his blog to complete compete against you know search engine land and search engine journal and all those you know really well established sites for like SEO tips and tricks and stuff like that so I'm not saying that Matt's not doing a good job with his site it's just that you know even somebody of of that stature is going to have a harder time uh you know ranking and competing in such a saturated market right so um I think you know if you're going to go that route I mean I would try to mirror somebody like a Brian Dean um you know who did obviously backlink co. com and uh you know put tons of effort into a very low number of pages right so his uh guides were really you know off the charts in terms of um you know how in-depth and thorough they were and you know he also wrote I I think at least you know before he sold the semrush I'm not sure now um at you know all those piece all those articles like on his own right um to keep the quality level super high so um if if you are looking at um you know uh a strategy like to try and rank and and get views that way I would be like really selective with what you do and like make sure that you know you know exactly who you're up against and that your quality is topn and also you know develop a solid brand for yourself because that's also going to really help you just basically set up my next question which is you Steve Toth uh Matt digity um Brian Dean I mean these are all personal names and it's kind of like you know who who do I want to actually look up for um people in Theo space for Thought leadership it's I I I do run across articles like search engine land and things like that but um it's kind of like you know I think is why your notebook is as popular and why people follow Matt's uh blog and Facebook posts and YouTube channels you think uh this is um Google and everything else people are just always naturally gravitating towards people yeah definitely I think um you know personal brand has been huge in my life um it's been something I've mostly committed to like over these last five years I've had you know a couple months where I've I've dipped out a little bit and to taken some time off or whatever but in General I would say it's been a pretty consistent effort and I think consistency is really everything like when I when I started SEO notebook um you know I was I knew the idea was good but like I didn't really have any experience in doing this stuff and and there was a guy um named Dirk Diggy um he was like buds with Glenn alsop and like I just knew him through like the social social media and I had a conversation with him like prior to starting SEO notebook and you know he just offered me this like one really important piece of advice that was if you don't email weekly um people are going to forget about who you are and if he didn't tell me that I probably would have started a bi-weekly newsletter and not been as successful um so you know I think um people look to people um versus you know just thinking that you know MOS is an authority or sej is an authority or whatever and uh and and then on the flip side of that if that's what you're trying to do um like consistency really is everything and obviously you have to pair that with like super high quality content and really give it your all um but if you're if you just decide to like if you don't have like a a tight schedule in terms like a consistent schedule of of when you're want to share you will just be forgotten like you know you're not speec that makes sense sense I I would agree to that in the sense that I've been doing podcasting for a year and a half straight I don't miss a week my newsletter was bi-weekly but it's kind of becoming every three weeks and I pay attention to a lot of people that you and a couple other friends that have weekly newsletters and they just seem to get stronger because you're consistent you're always top of mind so um good lesson for me and I think good lessons for a lot of other people yeah I mean um like I said if I didn't get that piece of advice I might not be you know as successful as I have been with with that's good um I I've studied a lot of some of the most successful Affiliates in I gaming and outside of I gaming and I try to look at patterns of like what do I see as part of their success and I think a lot of times SEO is a part of it but I think other parts of it are brand and one thing that I started noticing when looking through like okay who's working for these companies like what are the jobs they're hiring for and one that starting to come as a pattern for me is like product at a product product owner um what is your take on it do you think this is something that a lot of like everything in digital marketing people might be overlooking yeah I mean like you know product people traditionally are the ones that um help help the company understand its users right like where you know achieving that like classic like product Market fit right is is it there isn't it there um and you know those people have that like you know hopefully they have that ability and they have that experience to really you know understand like who the different people are that that uh that frequent the site and you know what are their needs right so if um you know and they and they will they their job is not to like you know do the SEO per se but their job is to guide the the the site in terms of like what it actually produces to meet user needs right so um I think it's a incredibly important role and you know in the way that that kind of marries with SEO is like well what are the landing pages that are going to meet the user needs not just like you know being a product person and saying that you know our Freelancers need double entry accounting and and that's that's something that we really need to do to get more market share right but it's like you know what what uh what front-facing assets do we put on the site to you know help attract those types of users next question is I want to know if you can share one or two notes from your Su notebook whether it's recent or in the past five years where you're working on something and something just kind of hits you and you're like wow this is unreal you feel like you've discovered like a I don't know a cheat code or something uh what's one story that comes to mind that you just say this is unreal this is an amazing story or a case study yeah there there's uh you know there's there's a few like I really I know when to have something like based on somehow excited I have about that week um and you know usually I do a pretty good job of of giving myself the time to really figure out something that you know I I want to publish um and uh this was a while back but um what I what I realized would be like a really good way to kind of like achieve like topical relevance which obviously parlays into topical Authority would be to like Google a keyword right so Google a keyword let's say like car insurance and then you look at like what are the top sites that are ranking for car insurance so you might see things like guo all state Liberty Mutual stuff like that and then from there like perform another search that is a site search for site geo.
+I think um you know personal brand has I think um you know personal brand has been huge in my life um it's been
 
-com car insurance sitecon libertymutual. com car insurance and then basically what you're seeing there are all of the articles on that website that um are helping it be relevant and ranking for that head term of carence right so um you know just even that like little insight there is like a really quick hack I mean you can you can scan account a million ways like you could do Gap analysis you could do all these other things but in terms of like just sheer speed and efficiency of understanding you know what articles are causing a site to rank for super high competitive terms like car insurance um I I love that one so I recently uh I I did I put that on YouTube and it did fairly well and then I recently republished that on link did a few weeks ago and it did very well as well so that that one comes to mind as as kind of an interesting one um I don't know I have like just a lot um I'm looking at my my things here um let's just see what else have oh yeah this one I really liked as well um I called it why Google is the go keyword research tool um so basically what you would do is like you'd start and like I love using the Google Sur in case you haven't noticed to to do keyword research and um what what I what you start with is like Googling a keyword like best mortgage rates and then once you've Googled that you go back up to the SE far and start typing things like what is when does what or and and and Google because it knows you just searched uh best mortgage rates starts to give you things like what is a mortgage tracker what is jumbo mortgage what is a good credit score and basically starts to try to anticipate the types of questions a person would ask directly after asking best mortgage rates into the search engine right so um that one's a really fun one and uh on SEO notebook essentially what I did was um I I shared a list of interrogative Words which are those like words that begin questions like what is when does can you stuff like that and uh and the amount of amazingly relevant keywords you can get to something like best mortgage rates after doing that exercise it's just insane and it's also something that we know we've automated completely at my agency um but you can even just get started on your own just doing it manually so I mean those last two tips what I think you're going to get is you're going to get reverse engineer what the big companies are caring about like so if you use GCO as one example you're going to pick why did they create 40 pages around car insurance yeah and how relevant are those pages I think it goes with that saying you know you got to assume that some of these larger companies have invested a lot of time in a market research and they wouldn't really keep these Pages uh for the hell of it I think they're they're creating these things because they're one testing and two um understanding the value that could be like high conversion maybe lower volume yeah I mean there's just going to be also very obvious Pages like you know firsttime driver car insurance or student car car car best car insurance for students or you know things that you may just not have on your site that are like obviously like monetizable pages right so um even even if you don't go the full like I need to you know recreate um the best of strategy between Geico All State and Liberty Mutual you can at least get some ideas of you know bottom funnel Landing gauges that you can then produce a challenging question uh just putting you on the spot what would you do for a company whether it's an affiliate site or SAS company doesn't matter where people are problem aware but they're not solution aware um I guess uh like problem okay so they are I'm just they know of a pain point I can't articulate it yeah uh oh um I actually I actually know um a really good uh um strategy for this so in your Google search console there is a wealth of data that I don't think enough people really leverage and um actually this isn't no is not going to answer your your thing because it's like what I was going to say was I'm listening you search console let me let me just go here for one second in Google search consoer there's a wealth of data um and people might be describing your product in a way that you actually aren't even aware of so using synonyms for things like system tool platform software app um you and you basically look at all your keywords that use those different you know SAS qu qualifiers you can get like you know a multitude of new ways that people are actually searching for your product um so those people you know it it may be a case where like they don't actually know if something exists and they're like you know um you know like a PowerPoint for or like you know apps like PowerPoint for your phone or something like that right like maybe maybe they don't even know that that this that this exists but they're trying to describe what they want that's the type of um uh uh strategy that can kind of uncover those keywords um in terms of like you know um uh Pro not solution aware those people are still going to have questions that they're trying to solve like how do I do X or what what's the best way to do why um you basically try to put yourself in the shoes of a user and like the common things that they encounter um and and then go after that um there's other strategies whereby like you can even look at like you know error codes that people get in certain platforms and like start to optimize for those and like you know metion your competitor so there's there's all kinds of things um that I I think you know are around that sort of sphere um but in terms of like your specific question I would just basically try to optimize for the questions that a person has like how do I do X or how you know how what's the best way to do y um and then and then just go from there that makes sense I mean I was listening to a podcast on Chris Walker who does B2B sales I think it's Revenue vitals and he talked about uh how do you be how do you solve this where it's like you've got problem aware but not solution aware and his answer was like he didn't say topical Authority but he kind of implied that he said you know be the person that people go to when they think of your your core topic where that they can't articulate those questions and I think it's difficult for people on the side of the business to go how can they even know what they're looking for you know I think that requires uh like a little bit of intelligence emotional intelligence to kind of go I need to think like a user and it's not easy like here's an example that I just thought of right like say you're LMS you're a learning management system and somebody wants to create a course and they're like the what's the best way to teach X or what's the best way to create a course like you know do I have to create a PowerPoint or do I have to film it or do I have to upload my thing no there's actually like real solutions that you know like kajabi or whatever that that uh that make the whole process easy so you know trying to figure out like in the process of a person who wants to create a course but isn't really you know familiar with with LMS tools like what are the different challenges that they're um you know trying to tackle right are they be saying that I have to create this on YouTube or whatever like you know there's there's all sorts of um all sorts of different Avenues you can kind of Target to get in front of that person yeah I think in my situation for what we do with our software company is we don't have a lot of examples of competitors that have already mapped out that whole Space of what content to create so we had to kind of uncover it on our own and I think just by talking to Affiliates and uh trying to create some content around it I think that's where we we had some accidental discoveries and in our case it was creating some content that we didn't really know what was going to work and then realizing hey how did you hear about us well I was looking how to build an API to connect with this affiliate program and you showed up like great it's well I wish we could have known that at from day one one of the other um like really key things especially that I noticed with my B2B clients is we'll always ask them like what are the common questions that your salespeople are getting asked over and over again and basically try to optimize for what those are right because you you can't really oftentimes like you only find those types of keywords in search console but um you know the the salese at these companies um they've basically got their list of common questions and then they you know obviously their answers to what those questions are to effectively handle them and uh that can be a really great resource um if you can tap that and last question is what do you see of the future of affiliate marketing as it intersects with business intelligence um well I think um you know getting your finger on the pulse of where Google is going um I think that ultimately we're going to have to brace ourselves for murkier data and I mean that I think that trend has already been going for a long time um in terms of not having the complete you know picture of what's going on like you know with AI over views or you you know you may have a number one ranking but you may not even be above the fold anymore okay so um stuff like that that I think you've basically got to prepare yourself um for you know having you know murkier data than than ever um but at that said like you know murkier murky data is definitely better than no data and um and you know using tools um you know like yours or um like looker studio and and bring in different data sources and really trying to make something meaningful uh is you know stuff that we do for all the sites that we work on we have a an amazing data analyst on our team um who essentially creates you know dashboards custom to whatever um site that whatever the site really you know wants to track or needs to track so if that's a local business site we've got Co rail in there if they're a HubSpot site then UPS spot or all those types of things um but I would also say that like um you know having the data is one thing but you know actioning on that data is is a totally other thing and uh and you you have to basically have you know a good team in place who's going to be able to you know harness all the things that you're tracking and you know do the digging right because um a while back I worked as a product advisor on keyword.  comom I'm bringing in a share voice feature into that tool and you know it's great to have shared voice it's great to know you know where you stand but um if you don't actually you know look at the sites that are beating you out in share voice and are able to kind of reverse engineer that and uh you know bring your site up to parody then what's the what's the use of having that data right so I think just you know getting getting the best data that you can from all the all the different sources that you can and then having it having a team that actively you know optimizes against that awesome uh Steve thank you so much for doing this um obviously we're going to put uh everything in the show notes but how can people get a hold of you seon notebook. com is the best place um and then I would say follow me on LinkedIn because that's where I'm most active I'll add that and of course uh just another shout out to SEO irl.
+been huge in my life um it's been been huge in my life um it's been something I've mostly committed to like
+
+something I've mostly committed to like something I've mostly committed to like over these last five years I've had you
+
+over these last five years I've had you over these last five years I've had you know a couple months where I've I've
+
+know a couple months where I've I've know a couple months where I've I've dipped out a little bit and to taken
+
+dipped out a little bit and to taken dipped out a little bit and to taken some time off or whatever but in general
+
+some time off or whatever but in general some time off or whatever but in general I would say it's been a pretty I would say it's been a pretty I would say it's been a pretty consistent effort and I think
+
+consistent effort and I think consistent effort and I think consistency is really everything like
+
+consistency is really everything like consistency is really everything like when I when I started SEO notebook um
+
+when I when I started SEO notebook um when I when I started SEO notebook um you know I was I knew the idea was good
+
+you know I was I knew the idea was good you know I was I knew the idea was good but like I didn't really have any but like I didn't really have any but like I didn't really have any experience in doing this stuff and um
+
+experience in doing this stuff and um experience in doing this stuff and um there was a guy um named Dirk Diggy um
+
+there was a guy um named Dirk Diggy um there was a guy um named Dirk Diggy um he was like buds with Glenn alsop and
+
+he was like buds with Glenn alsop and he was like buds with Glenn alsop and like I just knew him through like the
+
+like I just knew him through like the like I just knew him through like the social social media and I had a
+
+social social media and I had a social social media and I had a conversation with him like prior to
+
+conversation with him like prior to conversation with him like prior to starting SEO notebook and you know he
+
+starting SEO notebook and you know he starting SEO notebook and you know he just offered me this like one really
+
+just offered me this like one really just offered me this like one really important piece of advice that was if
+
+important piece of advice that was if important piece of advice that was if you don't email weekly um people are
+
+you don't email weekly um people are you don't email weekly um people are going to forget about who you are and if
+
+going to forget about who you are and if going to forget about who you are and if he didn't tell me that I probably would
+
+he didn't tell me that I probably would he didn't tell me that I probably would started a bi-weekly newsletter and not
+
+started a bi-weekly newsletter and not started a bi-weekly newsletter and not been as
+
+been as been as successful I'm John Wright and you're
+
+successful I'm John Wright and you're successful I'm John Wright and you're listening to affiliate bi the business
+
+listening to affiliate bi the business listening to affiliate bi the business intelligence and affiliate marketing
+
+intelligence and affiliate marketing intelligence and affiliate marketing podcast brought to you by
+
+podcast brought to you by podcast brought to you by [Music]
+
+[Music] [Music] sta welcome to the affiliate bi podcast
+
+sta welcome to the affiliate bi podcast sta welcome to the affiliate bi podcast today we're chatting with Steve Toof who
+
+today we're chatting with Steve Toof who today we're chatting with Steve Toof who is the founder of SEO notebook uh which
+
+is the founder of SEO notebook uh which is the founder of SEO notebook uh which I'm a big fan of and he's also running
+
+I'm a big fan of and he's also running I'm a big fan of and he's also running an event called SEO IRL in Toronto which
+
+an event called SEO IRL in Toronto which an event called SEO IRL in Toronto which I got a ticket for and Steve welcome
+
+I got a ticket for and Steve welcome I got a ticket for and Steve welcome welcome to the show hey John thanks for
+
+welcome to the show hey John thanks for welcome to the show hey John thanks for having me excited to be here so how much
+
+having me excited to be here so how much having me excited to be here so how much time are you spending creating your SEO
+
+time are you spending creating your SEO time are you spending creating your SEO notebook and I ask that because I'm a
+
+notebook and I ask that because I'm a notebook and I ask that because I'm a content creator for the B2B side but
+
+content creator for the B2B side but content creator for the B2B side but what I think is that you're I'm guessing
+
+what I think is that you're I'm guessing what I think is that you're I'm guessing you're putting in a lot of quality time
+
+you're putting in a lot of quality time you're putting in a lot of quality time making an amazing product that people
+
+making an amazing product that people making an amazing product that people talk about and link to and I think maybe
+
+talk about and link to and I think maybe talk about and link to and I think maybe your answer might give uh some insights
+
+your answer might give uh some insights your answer might give uh some insights to people on the fic marketing side yeah
+
+to people on the fic marketing side yeah to people on the fic marketing side yeah for sure so maybe I'll just start with
+
+for sure so maybe I'll just start with for sure so maybe I'll just start with just for those of uh the Watchers who
+
+just for those of uh the Watchers who just for those of uh the Watchers who aren't with seu notebook what it is
+
+aren't with seu notebook what it is aren't with seu notebook what it is exactly um it's a it's a newsletter but
+
+exactly um it's a it's a newsletter but exactly um it's a it's a newsletter but it's not like a Roundup newsletter so
+
+it's not like a Roundup newsletter so it's not like a Roundup newsletter so essentially what I do and have done for
+
+essentially what I do and have done for essentially what I do and have done for the past five years is um create like
+
+the past five years is um create like the past five years is um create like one actionable piece of strategy uh and
+
+one actionable piece of strategy uh and one actionable piece of strategy uh and then email that to my list on a weekly
+
+then email that to my list on a weekly then email that to my list on a weekly basis so I've been doing that for five
+
+basis so I've been doing that for five basis so I've been doing that for five years now which means I have over 250
+
+years now which means I have over 250 years now which means I have over 250 actionable strategies that I've sent out
+
+actionable strategies that I've sent out actionable strategies that I've sent out and you know hopefully like by this
+
+and you know hopefully like by this and you know hopefully like by this point we're almost at 20,000 subscribers
+
+point we're almost at 20,000 subscribers point we're almost at 20,000 subscribers so do something right and um you know in
+
+so do something right and um you know in so do something right and um you know in terms of like how much time I put into
+
+terms of like how much time I put into terms of like how much time I put into this content um it can be as little as
+
+this content um it can be as little as this content um it can be as little as 30 minutes or it could be as much as
+
+30 minutes or it could be as much as 30 minutes or it could be as much as like almost two full working days um it
+
+like almost two full working days um it like almost two full working days um it just really depends on uh you know what
+
+just really depends on uh you know what just really depends on uh you know what I'm doing and how I'm
+
+I'm doing and how I'm I'm doing and how I'm inspired uh you know last week what I
+
+inspired uh you know last week what I inspired uh you know last week what I did was I created a spreadsheet that
+
+did was I created a spreadsheet that did was I created a spreadsheet that essentially pre-populated a bunch of URL
+
+essentially pre-populated a bunch of URL essentially pre-populated a bunch of URL strings for tools like HFS and Sam rush
+
+strings for tools like HFS and Sam rush strings for tools like HFS and Sam rush and other tools like seliner copyscape
+
+and other tools like seliner copyscape and other tools like seliner copyscape archive.org and essentially what you
+
+archive.org and essentially what you archive.org and essentially what you just do is put your url into your domain
+
+just do is put your url into your domain just do is put your url into your domain into the tool it then pre-populates all
+
+into the tool it then pre-populates all into the tool it then pre-populates all those URLs for you which you can just
+
+those URLs for you which you can just those URLs for you which you can just open in a bunch of tabs and kind of get
+
+open in a bunch of tabs and kind of get open in a bunch of tabs and kind of get like a nice high level overview of how
+
+like a nice high level overview of how like a nice high level overview of how your site's doing and like you know very
+
+your site's doing and like you know very your site's doing and like you know very specific screens and HFS like what are
+
+specific screens and HFS like what are specific screens and HFS like what are my new backlinks what are the keywords
+
+my new backlinks what are the keywords my new backlinks what are the keywords that have declined what are the keywords that have declined what are the keywords that have declined what are the keywords that have risen and stuff like that and
+
+that have risen and stuff like that and that have risen and stuff like that and you know that note was just basically
+
+you know that note was just basically you know that note was just basically like an idea I had in the shower and it
+
+like an idea I had in the shower and it like an idea I had in the shower and it was very quick for me to put that
+
+was very quick for me to put that was very quick for me to put that together like maybe only an hour uh but
+
+together like maybe only an hour uh but together like maybe only an hour uh but you know when I'm when it comes to
+
+you know when I'm when it comes to you know when I'm when it comes to things like you know um creating AI Bots
+
+things like you know um creating AI Bots things like you know um creating AI Bots and stuff you never know how long those
+
+and stuff you never know how long those and stuff you never know how long those ones are going to go and honestly they
+
+ones are going to go and honestly they ones are going to go and honestly they can take a very long time to get it
+
+can take a very long time to get it can take a very long time to get it right and cause a lot of frustration and
+
+right and cause a lot of frustration and right and cause a lot of frustration and I've had things where like you know I've
+
+I've had things where like you know I've I've had things where like you know I've lost my um my change history on like
+
+lost my um my change history on like lost my um my change history on like certain Bots and like had to go back and
+
+certain Bots and like had to go back and certain Bots and like had to go back and like you know go back and try to fix
+
+like you know go back and try to fix like you know go back and try to fix stuff so those ones can definitely be a
+
+stuff so those ones can definitely be a stuff so those ones can definitely be a bit more frustrating and I am more
+
+bit more frustrating and I am more bit more frustrating and I am more cognizant to give myself you know extra
+
+cognizant to give myself you know extra cognizant to give myself you know extra time when I am you know creating a GPT
+
+time when I am you know creating a GPT time when I am you know creating a GPT bot but for example um one of the ones
+
+bot but for example um one of the ones bot but for example um one of the ones that was relatively like not too bad
+
+that was relatively like not too bad that was relatively like not too bad maybe only took me like five or six
+
+maybe only took me like five or six maybe only took me like five or six hours uh was um creating a GPT bot that
+
+hours uh was um creating a GPT bot that hours uh was um creating a GPT bot that analyzed Google patents so what I did
+
+analyzed Google patents so what I did analyzed Google patents so what I did was um I was um I was um I uploaded the Google leak uh to the back
+
+uploaded the Google leak uh to the back uploaded the Google leak uh to the back end of the GPT bot and then basically
+
+end of the GPT bot and then basically end of the GPT bot and then basically had the bot you know analyze a Google
+
+had the bot you know analyze a Google had the bot you know analyze a Google Patent PDF um against sort of a
+
+Patent PDF um against sort of a Patent PDF um against sort of a structured way of looking at the whole
+
+structured way of looking at the whole structured way of looking at the whole thing so you know pulling the abstract
+
+thing so you know pulling the abstract thing so you know pulling the abstract looking at Key Concepts Etc and then
+
+looking at Key Concepts Etc and then looking at Key Concepts Etc and then also comparing what was in the patent to
+
+also comparing what was in the patent to also comparing what was in the patent to the leak as well and uh you know that um
+
+the leak as well and uh you know that um the leak as well and uh you know that um it does take a lot of trial and error
+
+it does take a lot of trial and error it does take a lot of trial and error but you know I learned so much when it
+
+but you know I learned so much when it but you know I learned so much when it comes to prompting I think trial and comes to prompting I think trial and comes to prompting I think trial and error is everything um you know when
+
+error is everything um you know when error is everything um you know when you're trying to achieve a certain thing
+
+you're trying to achieve a certain thing you're trying to achieve a certain thing and you know you're just kind of like
+
+and you know you're just kind of like and you know you're just kind of like constantly refining um you can just
+
+constantly refining um you can just constantly refining um you can just learn so much that way and um you know
+
+learn so much that way and um you know learn so much that way and um you know that that bought yeah like I said maybe
+
+that that bought yeah like I said maybe that that bought yeah like I said maybe took five or six hours but um the AI
+
+took five or six hours but um the AI took five or six hours but um the AI stuff I always like you know uh like if
+
+stuff I always like you know uh like if stuff I always like you know uh like if I'm um have the weekend I always tell my
+
+I'm um have the weekend I always tell my I'm um have the weekend I always tell my girlfriend like it's going to be like
+
+girlfriend like it's going to be like girlfriend like it's going to be like potentially a little longer than I I can
+
+potentially a little longer than I I can potentially a little longer than I I can really anticipate so she like when I
+
+really anticipate so she like when I really anticipate so she like when I don't when I'm not doing GPT but think
+
+don't when I'm not doing GPT but think don't when I'm not doing GPT but think we get so do you ever write a note and
+
+we get so do you ever write a note and we get so do you ever write a note and then it takes five hours and then you then it takes five hours and then you then it takes five hours and then you realize it's not going to work and then
+
+realize it's not going to work and then realize it's not going to work and then you just scrap it and throw it out and
+
+you just scrap it and throw it out and you just scrap it and throw it out and oh absolutely I'm asking for a friend
+
+oh absolutely I'm asking for a friend oh absolutely I'm asking for a friend yeah no seriously like that's a very
+
+yeah no seriously like that's a very yeah no seriously like that's a very valid point um last week when I I
+
+valid point um last week when I I valid point um last week when I I mentioned I came up with that note
+
+mentioned I came up with that note mentioned I came up with that note around um pre-populating those URLs that
+
+around um pre-populating those URLs that around um pre-populating those URLs that was actually because I had failed on a
+
+was actually because I had failed on a was actually because I had failed on a GPT bot earlier than that so I was
+
+GPT bot earlier than that so I was GPT bot earlier than that so I was trying to create a bot that would
+
+trying to create a bot that would trying to create a bot that would predict predict predict whether or not a page could be shown in
+
+whether or not a page could be shown in whether or not a page could be shown in Google discover and like How likely a
+
+Google discover and like How likely a Google discover and like How likely a page would be to be shown in Google
+
+page would be to be shown in Google page would be to be shown in Google discover and I had you know lots of
+
+discover and I had you know lots of discover and I had you know lots of really solid criteria that I was
+
+really solid criteria that I was really solid criteria that I was evaluating the page against and all
+
+evaluating the page against and all evaluating the page against and all kinds of things but you know when it
+
+kinds of things but you know when it kinds of things but you know when it actually came down to testing it with my
+
+actually came down to testing it with my actually came down to testing it with my own data and looking at the pages that I
+
+own data and looking at the pages that I own data and looking at the pages that I knew for sure sh showed and discover and
+
+knew for sure sh showed and discover and knew for sure sh showed and discover and then the pages that I knew absolutely
+
+then the pages that I knew absolutely then the pages that I knew absolutely did not show and discover the bot was
+
+did not show and discover the bot was did not show and discover the bot was just a complete complete failure so I I
+
+just a complete complete failure so I I just a complete complete failure so I I never uh released that that GPT bot and
+
+never uh released that that GPT bot and never uh released that that GPT bot and like I'm always very you know cognizant
+
+like I'm always very you know cognizant like I'm always very you know cognizant of like you know my success is tied to
+
+of like you know my success is tied to of like you know my success is tied to um how much I can how much value I can
+
+um how much I can how much value I can um how much I can how much value I can provide through SEO notebook and uh you
+
+provide through SEO notebook and uh you provide through SEO notebook and uh you know I'm never going to release know I'm never going to release know I'm never going to release something that I'll think is good or as
+
+something that I'll think is good or as something that I'll think is good or as delivering false positives and stuff
+
+delivering false positives and stuff delivering false positives and stuff like that so that was unfortunately you
+
+like that so that was unfortunately you like that so that was unfortunately you know probably four or five hours down
+
+know probably four or five hours down know probably four or five hours down the drain when I finally realized that
+
+the drain when I finally realized that the drain when I finally realized that this thing just was reliable in terms of
+
+this thing just was reliable in terms of this thing just was reliable in terms of predicting Google discover and that's
+
+predicting Google discover and that's predicting Google discover and that's totally fine I just move on to the next
+
+totally fine I just move on to the next totally fine I just move on to the next thing damn uh going straight into
+
+thing damn uh going straight into thing damn uh going straight into technical SEO um I want to ask you what
+
+technical SEO um I want to ask you what technical SEO um I want to ask you what is keyword verticalization strategy um
+
+is keyword verticalization strategy um is keyword verticalization strategy um and I'm asking this because you
+
+and I'm asking this because you and I'm asking this because you mentioned that you did some of this work
+
+mentioned that you did some of this work mentioned that you did some of this work for consultings uh for mapon and I think
+
+for consultings uh for mapon and I think for consultings uh for mapon and I think it's freshbook so I just want to know if
+
+it's freshbook so I just want to know if it's freshbook so I just want to know if you're able to share examples of that
+
+you're able to share examples of that you're able to share examples of that yeah for sure I've done it for mapped in
+
+yeah for sure I've done it for mapped in yeah for sure I've done it for mapped in fresh books signatur Le all L lots of uh
+
+fresh books signatur Le all L lots of uh fresh books signatur Le all L lots of uh different companies so essentially um
+
+different companies so essentially um different companies so essentially um this verticalization strategy and
+
+this verticalization strategy and this verticalization strategy and actually I'll mention one thing that uh
+
+actually I'll mention one thing that uh actually I'll mention one thing that uh it's not live yet but I have a five-part
+
+it's not live yet but I have a five-part it's not live yet but I have a five-part email series that really goes into depth
+
+email series that really goes into depth email series that really goes into depth with this um I will be launching it on
+
+with this um I will be launching it on with this um I will be launching it on SEO notebook and if you subscribe to se
+
+SEO notebook and if you subscribe to se SEO notebook and if you subscribe to se notebook.com that's probably the best
+
+notebook.com that's probably the best notebook.com that's probably the best place you can hear about it we literally
+
+place you can hear about it we literally place you can hear about it we literally go into dissecting the whole strategy uh
+
+go into dissecting the whole strategy uh go into dissecting the whole strategy uh in detail like from from five and a
+
+in detail like from from five and a in detail like from from five and a series of five different emails but um
+
+series of five different emails but um series of five different emails but um essentially you know when there is an
+
+essentially you know when there is an essentially you know when there is an industry that Target a company that
+
+industry that Target a company that industry that Target a company that targets several Industries um there's
+
+targets several Industries um there's targets several Industries um there's oftentimes like a really good um
+
+oftentimes like a really good um oftentimes like a really good um opportunity for seos to you know create
+
+opportunity for seos to you know create opportunity for seos to you know create um the one page on let's say um invoice
+
+um the one page on let's say um invoice um the one page on let's say um invoice templates like at Fresh books and then
+
+templates like at Fresh books and then templates like at Fresh books and then you know uh targeting invoice templates
+
+you know uh targeting invoice templates you know uh targeting invoice templates for contractors for lawyers for graphic
+
+for contractors for lawyers for graphic for contractors for lawyers for graphic designers and even things like file
+
+designers and even things like file designers and even things like file types for PDF for Excel for Google
+
+types for PDF for Excel for Google types for PDF for Excel for Google Sheets and uh you know essentially
+
+Sheets and uh you know essentially Sheets and uh you know essentially verticalized your content across these
+
+verticalized your content across these verticalized your content across these different Industries um you know for
+
+different Industries um you know for different Industries um you know for maap in that was indoor maps for malls
+
+maap in that was indoor maps for malls maap in that was indoor maps for malls for for offices for stadiums and stuff
+
+for for offices for stadiums and stuff for for offices for stadiums and stuff like that um you can really build a lot
+
+like that um you can really build a lot like that um you can really build a lot of solid relevance with Google um and
+
+of solid relevance with Google um and of solid relevance with Google um and you know when when you have people who
+
+you know when when you have people who you know when when you have people who are searching for a very tailored
+
+are searching for a very tailored are searching for a very tailored solution like I don't want just any
+
+solution like I don't want just any solution like I don't want just any invoice template I want one for a
+
+invoice template I want one for a invoice template I want one for a graphic designer um you end up actually
+
+graphic designer um you end up actually graphic designer um you end up actually having a much higher conversion rate
+
+having a much higher conversion rate having a much higher conversion rate because the thing that you're offering
+
+because the thing that you're offering because the thing that you're offering them uh is you know specifically
+
+them uh is you know specifically them uh is you know specifically relevant to them so I would say like you
+
+relevant to them so I would say like you relevant to them so I would say like you obviously like shouldn't just like you
+
+obviously like shouldn't just like you obviously like shouldn't just like you know create a page about graphic
+
+know create a page about graphic know create a page about graphic designer invoice template and not make
+
+designer invoice template and not make designer invoice template and not make it you know just be be generic I would I
+
+it you know just be be generic I would I it you know just be be generic I would I wouldn't suggest that I would suggest
+
+wouldn't suggest that I would suggest wouldn't suggest that I would suggest basically making it as um tailored as
+
+basically making it as um tailored as basically making it as um tailored as possible and you know we've done that on
+
+possible and you know we've done that on possible and you know we've done that on sites like signatur le.com which is a
+
+sites like signatur le.com which is a sites like signatur le.com which is a site that I helped launch actually in in
+
+site that I helped launch actually in in site that I helped launch actually in in 2020 that is doing extremely well um
+
+2020 that is doing extremely well um 2020 that is doing extremely well um since then and um you know we created
+
+since then and um you know we created since then and um you know we created contract templates so we actually
+
+contract templates so we actually contract templates so we actually created leral contracts for you know
+
+created leral contracts for you know created leral contracts for you know wedding planner contract or photographer
+
+wedding planner contract or photographer wedding planner contract or photographer contract and stuff like that and you
+
+contract and stuff like that and you contract and stuff like that and you know actually offered a real piece of
+
+know actually offered a real piece of know actually offered a real piece of value to all those um you know different
+
+value to all those um you know different value to all those um you know different uh vertical so you know when that's a
+
+uh vertical so you know when that's a uh vertical so you know when that's a online signature software so obviously
+
+online signature software so obviously online signature software so obviously you know people who are looking for that
+
+you know people who are looking for that you know people who are looking for that kind of stuff are in the market for um
+
+kind of stuff are in the market for um kind of stuff are in the market for um you know getting a legally binding
+
+you know getting a legally binding you know getting a legally binding online signature it was another great
+
+online signature it was another great online signature it was another great opportunity for that type of strategy
+
+opportunity for that type of strategy opportunity for that type of strategy yeah it sounds like middle or bottom of
+
+yeah it sounds like middle or bottom of yeah it sounds like middle or bottom of funnel content with high intent yeah
+
+funnel content with high intent yeah funnel content with high intent yeah exactly so the what you know when we did
+
+exactly so the what you know when we did exactly so the what you know when we did um when we did invoice templates that
+
+um when we did invoice templates that um when we did invoice templates that was a really unique uh situation just
+
+was a really unique uh situation just was a really unique uh situation just because um you know if you look at a
+
+because um you know if you look at a because um you know if you look at a company like fresh books or equip books
+
+company like fresh books or equip books company like fresh books or equip books are zero the total addressable market
+
+are zero the total addressable market are zero the total addressable market for those companies is absolutely huge
+
+for those companies is absolutely huge for those companies is absolutely huge um you know just Freelancers and
+
+um you know just Freelancers and um you know just Freelancers and contractors around the world right um
+
+contractors around the world right um contractors around the world right um and uh and that also translated into
+
+and uh and that also translated into and uh and that also translated into extremely high volume keywords uh just
+
+extremely high volume keywords uh just extremely high volume keywords uh just because there's so many people looking
+
+because there's so many people looking because there's so many people looking for an invoicing solution right so if
+
+for an invoicing solution right so if for an invoicing solution right so if you can yeah find a vertical opportunity
+
+you can yeah find a vertical opportunity you can yeah find a vertical opportunity that is a company that is you know
+
+that is a company that is you know that is a company that is you know pretty much mass market like you could
+
+pretty much mass market like you could pretty much mass market like you could say that fresh books is B2B but you
+
+say that fresh books is B2B but you say that fresh books is B2B but you could also say that it's B Toc when
+
+could also say that it's B Toc when could also say that it's B Toc when you're talking about like Freelancers you're talking about like Freelancers you're talking about like Freelancers and contractors um when you can kind of
+
+and contractors um when you can kind of and contractors um when you can kind of marry those two things it can be like
+
+marry those two things it can be like marry those two things it can be like you know such a huge opportunity but
+
+you know such a huge opportunity but you know such a huge opportunity but even on a smaller scale you know like
+
+even on a smaller scale you know like even on a smaller scale you know like when I've been working with mapin now
+
+when I've been working with mapin now when I've been working with mapin now for over four years um you know there's
+
+for over four years um you know there's for over four years um you know there's not that many people looking to make an
+
+not that many people looking to make an not that many people looking to make an indoor map but um it it is like you said
+
+indoor map but um it it is like you said indoor map but um it it is like you said it's um you know it's high intent and
+
+it's um you know it's high intent and it's um you know it's high intent and you know people are are like wow well
+
+you know people are are like wow well you know people are are like wow well you know I have a stadium and I really
+
+you know I have a stadium and I really you know I have a stadium and I really need an mapping solution this page tells
+
+need an mapping solution this page tells need an mapping solution this page tells me all about you know how to do that and
+
+me all about you know how to do that and me all about you know how to do that and you know shows me that you've done XY
+
+you know shows me that you've done XY you know shows me that you've done XY andz stadiums Unfortunately they they
+
+andz stadiums Unfortunately they they andz stadiums Unfortunately they they can't say that they have uh worked with
+
+can't say that they have uh worked with can't say that they have uh worked with certain professional sports leagues um
+
+certain professional sports leagues um certain professional sports leagues um unfortunately we can't we can't use that
+
+unfortunately we can't we can't use that unfortunately we can't we can't use that but they have um but you know like just
+
+but they have um but you know like just but they have um but you know like just basically what I'm saying is like when basically what I'm saying is like when basically what I'm saying is like when you see that custom tailored landing
+
+you see that custom tailored landing you see that custom tailored landing page your conversion rate is going to be
+
+page your conversion rate is going to be page your conversion rate is going to be a lot higher so even in the case where
+
+a lot higher so even in the case where a lot higher so even in the case where um mapped in isn't super high volume
+
+um mapped in isn't super high volume um mapped in isn't super high volume it's still very much worth it to do that
+
+it's still very much worth it to do that it's still very much worth it to do that kind of strategy it sounds like it's
+
+kind of strategy it sounds like it's kind of strategy it sounds like it's kind of similar or related to
+
+kind of similar or related to kind of similar or related to programmatic SEO just maybe a little
+
+programmatic SEO just maybe a little programmatic SEO just maybe a little different yeah it could it could be for
+
+different yeah it could it could be for different yeah it could it could be for sure like
+
+sure like sure like um the you you can take a programmatic
+
+um the you you can take a programmatic um the you you can take a programmatic approach to that um but I would say that
+
+approach to that um but I would say that approach to that um but I would say that you know if it you kind of have to weigh
+
+you know if it you kind of have to weigh you know if it you kind of have to weigh like what what your resources are right
+
+like what what your resources are right like what what your resources are right so let's say you're doing um you know
+
+so let's say you're doing um you know so let's say you're doing um you know contract templates and uh you want to
+
+contract templates and uh you want to contract templates and uh you want to take like you know chat GPT contract
+
+take like you know chat GPT contract take like you know chat GPT contract everything or you literally just want to
+
+everything or you literally just want to everything or you literally just want to like swap out Industries as placeholders
+
+like swap out Industries as placeholders like swap out Industries as placeholders across all these different things like
+
+across all these different things like across all these different things like you can do that and take more of a
+
+you can do that and take more of a you can do that and take more of a programmatic approach uh but I think
+
+programmatic approach uh but I think programmatic approach uh but I think ultimately you have to look at like what
+
+ultimately you have to look at like what ultimately you have to look at like what are your resources what's the potential
+
+are your resources what's the potential are your resources what's the potential payoff and you know either invest in you
+
+payoff and you know either invest in you payoff and you know either invest in you know human written content or human AI
+
+know human written content or human AI know human written content or human AI content that's human edited and just
+
+content that's human edited and just content that's human edited and just like have a little bit more of a uh
+
+like have a little bit more of a uh like have a little bit more of a uh sales SL copyrighting angle to it then
+
+sales SL copyrighting angle to it then sales SL copyrighting angle to it then then just you know straight um find a
+
+then just you know straight um find a then just you know straight um find a replace and going into more of an
+
+replace and going into more of an replace and going into more of an example like for what we do we have a
+
+example like for what we do we have a example like for what we do we have a directory of affiliate programs across
+
+directory of affiliate programs across directory of affiliate programs across many different Industries and we have a
+
+many different Industries and we have a many different Industries and we have a lot of Rich data behind it and I'm
+
+lot of Rich data behind it and I'm lot of Rich data behind it and I'm wondering if there's a right and wrong
+
+wondering if there's a right and wrong wondering if there's a right and wrong way of doing programmatic I'm assuming
+
+way of doing programmatic I'm assuming way of doing programmatic I'm assuming the wrong way is doing so much maybe AI
+
+the wrong way is doing so much maybe AI the wrong way is doing so much maybe AI or lowquality or thin content that you
+
+or lowquality or thin content that you or lowquality or thin content that you have so many pages that Google says hey
+
+have so many pages that Google says hey have so many pages that Google says hey you're just basically blasting the you're just basically blasting the you're just basically blasting the internet here but I'm just wondering if
+
+internet here but I'm just wondering if internet here but I'm just wondering if there's like a best structure to say
+
+there's like a best structure to say there's like a best structure to say okay we've got um a main page that's
+
+okay we've got um a main page that's okay we've got um a main page that's affiliate programs and then it's like affiliate programs and then it's like affiliate programs and then it's like the industry but then it could be the the industry but then it could be the the industry but then it could be the industry in relation to a country or in
+
+industry in relation to a country or in industry in relation to a country or in relation to a commission type so what
+
+relation to a commission type so what relation to a commission type so what would your thoughts on that be yeah I
+
+would your thoughts on that be yeah I would your thoughts on that be yeah I mean I think you can certainly rank with
+
+mean I think you can certainly rank with mean I think you can certainly rank with the very like you know programmatic low
+
+the very like you know programmatic low the very like you know programmatic low effort content it all just really
+
+effort content it all just really effort content it all just really depends on your competition right so if
+
+depends on your competition right so if depends on your competition right so if you're the first um site to go after you
+
+you're the first um site to go after you you're the first um site to go after you know particular um strategy like a
+
+know particular um strategy like a know particular um strategy like a particular keywords in your Niche and
+
+particular keywords in your Niche and particular keywords in your Niche and you know all you would need is just you know all you would need is just you know all you would need is just basically a relevant page and and you
+
+basically a relevant page and and you basically a relevant page and and you would rank but I think um you know over
+
+would rank but I think um you know over would rank but I think um you know over time you're going to obviously have
+
+time you're going to obviously have time you're going to obviously have competitors and by this point like it's
+
+competitors and by this point like it's competitors and by this point like it's also improbable that you're the first to
+
+also improbable that you're the first to also improbable that you're the first to do something on the Internet um so I
+
+do something on the Internet um so I do something on the Internet um so I guess you know when evaluating the
+
+guess you know when evaluating the guess you know when evaluating the approach that you're going to take with approach that you're going to take with approach that you're going to take with that you really need to look at the
+
+that you really need to look at the that you really need to look at the competition and and kind of gauge what
+
+competition and and kind of gauge what competition and and kind of gauge what how much effort is going to be required
+
+how much effort is going to be required how much effort is going to be required to to rank I think I'll have to do a bit
+
+to to rank I think I'll have to do a bit to to rank I think I'll have to do a bit of research on the search intent but I
+
+of research on the search intent but I of research on the search intent but I can say that some of those examples
+
+can say that some of those examples can say that some of those examples where you go super deep haven't really
+
+where you go super deep haven't really where you go super deep haven't really been touched and I I'm kind of surprised
+
+been touched and I I'm kind of surprised been touched and I I'm kind of surprised on it so because you said be the first I
+
+on it so because you said be the first I on it so because you said be the first I think I'm going to put that as high think I'm going to put that as high think I'm going to put that as high priority without a doubt yeah I mean
+
+priority without a doubt yeah I mean priority without a doubt yeah I mean like you you can like I said if if you
+
+like you you can like I said if if you like you you can like I said if if you are one of the early Trailblazers in
+
+are one of the early Trailblazers in are one of the early Trailblazers in that you really only need like you know
+
+that you really only need like you know that you really only need like you know your title tag to be relevant in your H
+
+your title tag to be relevant in your H your title tag to be relevant in your H form like that's that's that would get
+
+form like that's that's that would get form like that's that's that would get you there right but I think maybe um you
+
+you there right but I think maybe um you you there right but I think maybe um you know one important point there is like
+
+know one important point there is like know one important point there is like even if you are able to get to a a very
+
+even if you are able to get to a a very even if you are able to get to a a very like you know advantageous position um
+
+like you know advantageous position um like you know advantageous position um by with minimal effort uh you shouldn't
+
+by with minimal effort uh you shouldn't by with minimal effort uh you shouldn't just let those pages be you should you
+
+just let those pages be you should you just let those pages be you should you know make a make a concerted effort of
+
+know make a make a concerted effort of know make a make a concerted effort of like at least evaluating the the
+
+like at least evaluating the the like at least evaluating the the performance every six months and and
+
+performance every six months and and performance every six months and and making making making adjustments I agree I like to think that
+
+adjustments I agree I like to think that adjustments I agree I like to think that building a product is helpful like
+
+building a product is helpful like building a product is helpful like applying it to uh affiliate sites and to
+
+applying it to uh affiliate sites and to applying it to uh affiliate sites and to help them survive and thrive but maybe
+
+help them survive and thrive but maybe help them survive and thrive but maybe not everything could be an affiliate not everything could be an affiliate not everything could be an affiliate product so what else do you think you
+
+product so what else do you think you product so what else do you think you know just putting you know a pretend
+
+know just putting you know a pretend know just putting you know a pretend affiliate hat on what do you think affiliate hat on what do you think affiliate hat on what do you think affiliate sites can do that's not always
+
+affiliate sites can do that's not always affiliate sites can do that's not always a product that's going to help them um
+
+a product that's going to help them um a product that's going to help them um survive well I think the one big obvious
+
+survive well I think the one big obvious survive well I think the one big obvious one is an email list I mean I can say
+
+one is an email list I mean I can say one is an email list I mean I can say for myself like even not being like an
+
+for myself like even not being like an for myself like even not being like an affiliate first my affiliate Revenue
+
+affiliate first my affiliate Revenue affiliate first my affiliate Revenue through my email list is pretty solid
+
+through my email list is pretty solid through my email list is pretty solid um you know the more captive an audience
+
+um you know the more captive an audience um you know the more captive an audience you have the the higher quality list you
+
+you have the the higher quality list you you have the the higher quality list you have um the more you're going to be able
+
+have um the more you're going to be able have um the more you're going to be able to blast out relevant offers and really
+
+to blast out relevant offers and really to blast out relevant offers and really monetize that way so you know that
+
+monetize that way so you know that monetize that way so you know that also you know it's obviously the
+
+also you know it's obviously the also you know it's obviously the landscape is changing quite rapidly with
+
+landscape is changing quite rapidly with landscape is changing quite rapidly with what types of affil what type of traffic
+
+what types of affil what type of traffic what types of affil what type of traffic affiliate sites are you know going to
+
+affiliate sites are you know going to affiliate sites are you know going to expect but um if you build that email
+
+expect but um if you build that email expect but um if you build that email list off your tofu content that's
+
+list off your tofu content that's list off your tofu content that's ranking um you know you you essentially
+
+ranking um you know you you essentially ranking um you know you you essentially create like a really viable channel for
+
+create like a really viable channel for create like a really viable channel for you to earn a lot of Revenue um I would
+
+you to earn a lot of Revenue um I would you to earn a lot of Revenue um I would also say that like it seems
+
+also say that like it seems also say that like it seems counterintuitive but from what I have
+
+counterintuitive but from what I have counterintuitive but from what I have personally seen you know um like really
+
+personally seen you know um like really personally seen you know um like really successful Affiliates are now offering
+
+successful Affiliates are now offering successful Affiliates are now offering Consulting like literally because
+
+Consulting like literally because Consulting like literally because they've proven themselves um to be you
+
+they've proven themselves um to be you they've proven themselves um to be you know super successful they've got a few
+
+know super successful they've got a few know super successful they've got a few flipped sites under their belt like they
+
+flipped sites under their belt like they flipped sites under their belt like they have you know cred uh in the industry
+
+have you know cred uh in the industry have you know cred uh in the industry and um are actually just you know
+
+and um are actually just you know and um are actually just you know offering Consulting to to clients right
+
+offering Consulting to to clients right offering Consulting to to clients right so I mean that's my um you know main
+
+so I mean that's my um you know main so I mean that's my um you know main Revenue source is is SEO Consulting and
+
+Revenue source is is SEO Consulting and Revenue source is is SEO Consulting and kind of hybrid agency work which is what
+
+kind of hybrid agency work which is what kind of hybrid agency work which is what we do and um you know I can tell you
+
+we do and um you know I can tell you we do and um you know I can tell you that like as long as you know how to
+
+that like as long as you know how to that like as long as you know how to sort of choose the right types of
+
+sort of choose the right types of sort of choose the right types of clients and you know a little bit about
+
+clients and you know a little bit about clients and you know a little bit about client management um it can actually be
+
+client management um it can actually be client management um it can actually be like an amazing um you know Focus for
+
+like an amazing um you know Focus for like an amazing um you know Focus for you uh really like you know I know um
+
+you uh really like you know I know um you uh really like you know I know um you know a friend of mine here in in
+
+you know a friend of mine here in in you know a friend of mine here in in Toronto um Alex Savvy I don't know if
+
+Toronto um Alex Savvy I don't know if Toronto um Alex Savvy I don't know if you you know him but um you know he he
+
+you you know him but um you know he he you you know him but um you know he he flipped a site in the mattress industry
+
+flipped a site in the mattress industry flipped a site in the mattress industry for over a million and um now he's
+
+for over a million and um now he's for over a million and um now he's really looking you know Consulting as
+
+really looking you know Consulting as really looking you know Consulting as being um you know one of his you know
+
+being um you know one of his you know being um you know one of his you know primary income sources right because he
+
+primary income sources right because he primary income sources right because he has that track record and he has that
+
+has that track record and he has that has that track record and he has that credibility so um you know I think you
+
+credibility so um you know I think you credibility so um you know I think you know through creating content that
+
+know through creating content that know through creating content that demonstrates your expertise um you're
+
+demonstrates your expertise um you're demonstrates your expertise um you're going to be able to attract uh those
+
+going to be able to attract uh those going to be able to attract uh those types of um of of clients so you know
+
+types of um of of clients so you know types of um of of clients so you know that would be you know I would say the
+
+that would be you know I would say the that would be you know I would say the most lucrative opportunity if if you're
+
+most lucrative opportunity if if you're most lucrative opportunity if if you're asking me but I'm also biased because
+
+asking me but I'm also biased because asking me but I'm also biased because that's what it might be bias but I think
+
+that's what it might be bias but I think that's what it might be bias but I think it's a perfect example of going what is
+
+it's a perfect example of going what is it's a perfect example of going what is the value of a single user or single
+
+the value of a single user or single the value of a single user or single click like I've talked to a lot of uh
+
+click like I've talked to a lot of uh click like I've talked to a lot of uh SEO personalities and they basically say
+
+SEO personalities and they basically say SEO personalities and they basically say when they go on YouTube they might have
+
+when they go on YouTube they might have when they go on YouTube they might have 200 views and people think this person's
+
+200 views and people think this person's 200 views and people think this person's not making any money but what you can't
+
+not making any money but what you can't not making any money but what you can't see behind that is the invisible DMS
+
+see behind that is the invisible DMS see behind that is the invisible DMS that lead to hey I want to talk to you
+
+that lead to hey I want to talk to you that lead to hey I want to talk to you what are your rates and then you know
+
+what are your rates and then you know what are your rates and then you know once you have that experience um you
+
+once you have that experience um you once you have that experience um you know the the quality is kind of implied
+
+know the the quality is kind of implied know the the quality is kind of implied in the price yeah um once people kind of
+
+in the price yeah um once people kind of in the price yeah um once people kind of see you know you like just see a
+
+see you know you like just see a see you know you like just see a personal side of you like you know I've
+
+personal side of you like you know I've personal side of you like you know I've gotten amazing clients through podcast
+
+gotten amazing clients through podcast gotten amazing clients through podcast appearances that you know in on my own
+
+appearances that you know in on my own appearances that you know in on my own website I even have like a press section
+
+website I even have like a press section website I even have like a press section you may be watching it through that you may be watching it through that you may be watching it through that right now and the future but um you know
+
+right now and the future but um you know right now and the future but um you know I even have a press section that just
+
+I even have a press section that just I even have a press section that just has all my podcast appearances and you
+
+has all my podcast appearances and you has all my podcast appearances and you know I I've had multiple clients say
+
+know I I've had multiple clients say know I I've had multiple clients say that they've discovered me through that they've discovered me through that they've discovered me through podcast I've had clients tell me that
+
+podcast I've had clients tell me that podcast I've had clients tell me that they've discovered me because someone
+
+they've discovered me because someone they've discovered me because someone else mentioned my name on a podcast like
+
+else mentioned my name on a podcast like else mentioned my name on a podcast like you know so there's the the thing about
+
+you know so there's the the thing about you know so there's the the thing about um you know inbound marketing and all
+
+um you know inbound marketing and all um you know inbound marketing and all that kind of stuff is it's really
+
+that kind of stuff is it's really that kind of stuff is it's really impossible to predict you know where
+
+impossible to predict you know where impossible to predict you know where your next lead is going to come from but
+
+your next lead is going to come from but your next lead is going to come from but um you have to kind of take the approach
+
+um you have to kind of take the approach um you have to kind of take the approach that you know you're sewing seeds and
+
+that you know you're sewing seeds and that you know you're sewing seeds and eventually those seeds are going to
+
+eventually those seeds are going to eventually those seeds are going to spray and you know start paying back to
+
+spray and you know start paying back to spray and you know start paying back to you um you've just always got to kind of
+
+you um you've just always got to kind of you um you've just always got to kind of be planting them I want to go back to
+
+be planting them I want to go back to be planting them I want to go back to what you said about newsletters do you
+
+what you said about newsletters do you what you said about newsletters do you think that by having a newsletter
+
+think that by having a newsletter think that by having a newsletter audience that when you post something
+
+audience that when you post something audience that when you post something and let's pretend it's going back to
+
+and let's pretend it's going back to and let's pretend it's going back to your website that it's kind of like an
+
+your website that it's kind of like an your website that it's kind of like an indirect signal for Google that says hey
+
+indirect signal for Google that says hey indirect signal for Google that says hey we have real traffic coming back and we have real traffic coming back and we have real traffic coming back and you're not fully dependent on the search
+
+you're not fully dependent on the search you're not fully dependent on the search traffic traffic traffic yeah I think that's definitely yeah I think that's definitely yeah I think that's definitely potentially a very positive side you
+
+potentially a very positive side you potentially a very positive side you know when you say you know you don't
+
+know when you say you know you don't know when you say you know you don't really have an email list you have a
+
+really have an email list you have a really have an email list you have a Gmail list is what you really have right
+
+Gmail list is what you really have right Gmail list is what you really have right so you're you're you know Google's like
+
+so you're you're you know Google's like so you're you're you know Google's like keeping tabs on how many people are
+
+keeping tabs on how many people are keeping tabs on how many people are replying to you what your open rate is
+
+replying to you what your open rate is replying to you what your open rate is and all that kind of stuff they would and all that kind of stuff they would and all that kind of stuff they would never do that I think yeah um that you
+
+never do that I think yeah um that you never do that I think yeah um that you know you you you essentially yeah have
+
+know you you you essentially yeah have know you you you essentially yeah have like you know a new traffic Source it
+
+like you know a new traffic Source it like you know a new traffic Source it really legitimizes you you're you know
+
+really legitimizes you you're you know really legitimizes you you're you know you're when you have a new post you're you're when you have a new post you're you're when you have a new post you're losting it out and you're getting a losting it out and you're getting a losting it out and you're getting a bunch of um you know traffic it's just
+
+bunch of um you know traffic it's just bunch of um you know traffic it's just like social media traffic too right um
+
+like social media traffic too right um like social media traffic too right um yeah it's uh you know there's obviously
+
+yeah it's uh you know there's obviously yeah it's uh you know there's obviously not Google Plus anymore but um you know
+
+not Google Plus anymore but um you know not Google Plus anymore but um you know I think Google has a good idea about
+
+I think Google has a good idea about I think Google has a good idea about which websites you know have legit like
+
+which websites you know have legit like which websites you know have legit like natural signals like that and which ones
+
+natural signals like that and which ones natural signals like that and which ones are you know just expressly for the
+
+are you know just expressly for the are you know just expressly for the purpose of ranking and banking then
+
+purpose of ranking and banking then purpose of ranking and banking then similar topic on newsletter do you think
+
+similar topic on newsletter do you think similar topic on newsletter do you think people should care about the SEO value
+
+people should care about the SEO value people should care about the SEO value of their newsletter or maybe care more
+
+of their newsletter or maybe care more of their newsletter or maybe care more about the social value because I mean we
+
+about the social value because I mean we about the social value because I mean we have tools like beehive and uh like
+
+have tools like beehive and uh like have tools like beehive and uh like there's convert kit and some of them there's convert kit and some of them there's convert kit and some of them they're not always websites they're kind
+
+they're not always websites they're kind they're not always websites they're kind of like they might be a website but they
+
+of like they might be a website but they of like they might be a website but they don't really seem to care much about
+
+don't really seem to care much about don't really seem to care much about being indexed or being SEO optimized so
+
+being indexed or being SEO optimized so being indexed or being SEO optimized so what's your take on that well personally
+
+what's your take on that well personally what's your take on that well personally for me I don't even launch any content
+
+for me I don't even launch any content for me I don't even launch any content on my website I keep it all in the
+
+on my website I keep it all in the on my website I keep it all in the newsletter and through notion right part
+
+newsletter and through notion right part newsletter and through notion right part of that is that like you know I really
+
+of that is that like you know I really of that is that like you know I really give away my best stuff on SEO notebook
+
+give away my best stuff on SEO notebook give away my best stuff on SEO notebook and I don't want like it to be always
+
+and I don't want like it to be always and I don't want like it to be always out in the open all the time right it's
+
+out in the open all the time right it's out in the open all the time right it's also hard to optimize for certain things
+
+also hard to optimize for certain things also hard to optimize for certain things like nobody's searching for uh you know
+
+like nobody's searching for uh you know like nobody's searching for uh you know Google Patent analyzer GPT right so I
+
+Google Patent analyzer GPT right so I Google Patent analyzer GPT right so I personally just take the like social um
+
+personally just take the like social um personally just take the like social um and just content first approach to all
+
+and just content first approach to all and just content first approach to all that and uh and don't really try to rank
+
+that and uh and don't really try to rank that and uh and don't really try to rank things um and yeah I I mean I'm not
+
+things um and yeah I I mean I'm not things um and yeah I I mean I'm not saying that it's like not a wise thing
+
+saying that it's like not a wise thing saying that it's like not a wise thing to do to try to rank for um you know Lo
+
+to do to try to rank for um you know Lo to do to try to rank for um you know Lo page SEO tips or best Lo building
+
+page SEO tips or best Lo building page SEO tips or best Lo building strategies or whatever you want to kind strategies or whatever you want to kind strategies or whatever you want to kind of rank for but um I I would say for a
+
+of rank for but um I I would say for a of rank for but um I I would say for a newsletter audience um they wanna like
+
+newsletter audience um they wanna like newsletter audience um they wanna like they appreciate good copywriting um they
+
+they appreciate good copywriting um they they appreciate good copywriting um they appreciate brevity getting to the point
+
+appreciate brevity getting to the point appreciate brevity getting to the point and then you know sometimes when you're
+
+and then you know sometimes when you're and then you know sometimes when you're trying to optimize an article a little
+
+trying to optimize an article a little trying to optimize an article a little bit it's a bit counterintuitive to to
+
+bit it's a bit counterintuitive to to bit it's a bit counterintuitive to to creating the content that
+
+creating the content that creating the content that that makes sense because I mean like
+
+that makes sense because I mean like that makes sense because I mean like just another example of of my side where
+
+just another example of of my side where just another example of of my side where it's like okay I maybe I want to have a
+
+it's like okay I maybe I want to have a it's like okay I maybe I want to have a community for my audience which is
+
+community for my audience which is community for my audience which is affiliate marketers and you know what
+
+affiliate marketers and you know what affiliate marketers and you know what are the options there's Facebook where
+
+are the options there's Facebook where are the options there's Facebook where the Facebook page could rank itself uh
+
+the Facebook page could rank itself uh the Facebook page could rank itself uh but the content inside might not Rank
+
+but the content inside might not Rank but the content inside might not Rank and then I could use discourse as a
+
+and then I could use discourse as a and then I could use discourse as a forum which is more of an SEO Playbook
+
+forum which is more of an SEO Playbook forum which is more of an SEO Playbook but I'm just wondering if you think the
+
+but I'm just wondering if you think the but I'm just wondering if you think the tide has changed where people don't tide has changed where people don't tide has changed where people don't really care about these old forums maybe
+
+really care about these old forums maybe really care about these old forums maybe they're actually going I want to be in a
+
+they're actually going I want to be in a they're actually going I want to be in a community where if I want to be
+
+community where if I want to be community where if I want to be anonymous or private it's n of your
+
+business um the the the what's the business um the the the what's the question there though sorry the the
+
+question there though sorry the the question there though sorry the the question is more like you know you have
+
+question is more like you know you have question is more like you know you have two options like whether it's a
+
+two options like whether it's a two options like whether it's a newsletter or a forum where it's like
+
+newsletter or a forum where it's like newsletter or a forum where it's like they're kind of Community Based and you
+
+they're kind of Community Based and you they're kind of Community Based and you could either care about the SEO could either care about the SEO could either care about the SEO component or you can say I don't give a component or you can say I don't give a component or you can say I don't give a damn and I'm wondering if the like the
+
+damn and I'm wondering if the like the damn and I'm wondering if the like the trend for people especially um the
+
+trend for people especially um the trend for people especially um the younger generation is they're not really
+
+younger generation is they're not really younger generation is they're not really caring about hey I found this as a
+
+caring about hey I found this as a caring about hey I found this as a discource Forum that's fully indexed in
+
+discource Forum that's fully indexed in discource Forum that's fully indexed in Google they're finding it in maybe
+
+Google they're finding it in maybe Google they're finding it in maybe Facebook communities or more like
+
+Facebook communities or more like Facebook communities or more like Discord telegram that sort of thing
+
+Discord telegram that sort of thing Discord telegram that sort of thing right um yeah I think uh actually like
+
+right um yeah I think uh actually like right um yeah I think uh actually like you know even like stuff like WhatsApp
+
+you know even like stuff like WhatsApp you know even like stuff like WhatsApp channels are probably a pretty
+
+channels are probably a pretty channels are probably a pretty underrated source of traffic considering
+
+underrated source of traffic considering underrated source of traffic considering um you know how ubiquitous WhatsApp is
+
+um you know how ubiquitous WhatsApp is um you know how ubiquitous WhatsApp is and how easy they are to set up and just
+
+and how easy they are to set up and just and how easy they are to set up and just blast out your content through there um
+
+blast out your content through there um blast out your content through there um and you know probably a very also a very
+
+and you know probably a very also a very and you know probably a very also a very intimate channel in terms of like you
+
+intimate channel in terms of like you intimate channel in terms of like you know reaching your audience through
+
+know reaching your audience through know reaching your audience through something that they don't really something that they don't really something that they don't really consider as like a you know a Facebook
+
+consider as like a you know a Facebook consider as like a you know a Facebook or a Twitter um feed right so I
+
+or a Twitter um feed right so I or a Twitter um feed right so I definitely think there's you know other definitely think there's you know other definitely think there's you know other channels that uh that can you know help
+
+channels that uh that can you know help channels that uh that can you know help basically um Propel your your content
+
+basically um Propel your your content basically um Propel your your content and your brand and I also think that um
+
+and your brand and I also think that um and your brand and I also think that um you know even though like SEO notebook
+
+you know even though like SEO notebook you know even though like SEO notebook is somewhere around a dr50 with like no
+
+is somewhere around a dr50 with like no is somewhere around a dr50 with like no conscious leak building there's also
+
+conscious leak building there's also conscious leak building there's also like certain spaces are so saturated
+
+like certain spaces are so saturated like certain spaces are so saturated right like you you look at like even
+
+right like you you look at like even right like you you look at like even like a guy like Matt Diggity right um
+
+like a guy like Matt Diggity right um like a guy like Matt Diggity right um it's hard for his blog to complete
+
+it's hard for his blog to complete it's hard for his blog to complete compete against you know search engine
+
+compete against you know search engine compete against you know search engine land and search engine journal and all
+
+land and search engine journal and all land and search engine journal and all those you know really well established
+
+those you know really well established those you know really well established sites for like SEO tips and tricks and
+
+sites for like SEO tips and tricks and sites for like SEO tips and tricks and stuff like that so I'm not saying that
+
+stuff like that so I'm not saying that stuff like that so I'm not saying that Matt's not doing a good job with his
+
+Matt's not doing a good job with his Matt's not doing a good job with his site it's just that you know even
+
+site it's just that you know even site it's just that you know even somebody of of that stature is going to
+
+somebody of of that stature is going to somebody of of that stature is going to have a harder time uh you know ranking
+
+have a harder time uh you know ranking have a harder time uh you know ranking and competing in such a saturated market
+
+and competing in such a saturated market and competing in such a saturated market right so um I think you know if you're
+
+right so um I think you know if you're right so um I think you know if you're going to go that route I mean I would
+
+going to go that route I mean I would going to go that route I mean I would try to mirror somebody like a Brian Dean
+
+try to mirror somebody like a Brian Dean try to mirror somebody like a Brian Dean um you know who did obviously backlink
+
+um you know who did obviously backlink um you know who did obviously backlink co.com and uh you know put tons of
+
+co.com and uh you know put tons of co.com and uh you know put tons of effort into a very low number of pages
+
+effort into a very low number of pages effort into a very low number of pages right so his uh guides were really you
+
+right so his uh guides were really you right so his uh guides were really you know off the charts in terms of um you
+
+know off the charts in terms of um you know off the charts in terms of um you know how in-depth and thorough they were
+
+know how in-depth and thorough they were know how in-depth and thorough they were and you know he also wrote I I think at
+
+and you know he also wrote I I think at and you know he also wrote I I think at least you know before he sold the
+
+least you know before he sold the least you know before he sold the semrush I'm not sure now um at you know
+
+semrush I'm not sure now um at you know semrush I'm not sure now um at you know all those piece all those articles like
+
+all those piece all those articles like all those piece all those articles like on his own right um to keep the quality
+
+on his own right um to keep the quality on his own right um to keep the quality level super high so um if if you are
+
+level super high so um if if you are level super high so um if if you are looking at um you know uh a strategy
+
+looking at um you know uh a strategy looking at um you know uh a strategy like to try and rank and and get views
+
+like to try and rank and and get views like to try and rank and and get views that way I would be like really
+
+that way I would be like really that way I would be like really selective with what you do and like make
+
+selective with what you do and like make selective with what you do and like make sure that you know you know exactly who
+
+sure that you know you know exactly who sure that you know you know exactly who you're up against and that your quality
+
+you're up against and that your quality you're up against and that your quality is topn is topn is topn and also you know develop a solid brand
+
+and also you know develop a solid brand and also you know develop a solid brand for yourself because that's also going for yourself because that's also going for yourself because that's also going to really help you just basically set up
+
+to really help you just basically set up to really help you just basically set up my next question which is you Steve Toth
+
+my next question which is you Steve Toth my next question which is you Steve Toth uh Matt digity um Brian Dean I mean
+
+uh Matt digity um Brian Dean I mean uh Matt digity um Brian Dean I mean these are all personal names and it's
+
+these are all personal names and it's these are all personal names and it's kind of like you know who who do I want
+
+kind of like you know who who do I want kind of like you know who who do I want to actually look up for um people in
+
+to actually look up for um people in to actually look up for um people in Theo space for Thought leadership it's I
+
+Theo space for Thought leadership it's I Theo space for Thought leadership it's I I I do run across articles like search
+
+I I do run across articles like search I I do run across articles like search engine land and things like that but um
+
+engine land and things like that but um engine land and things like that but um it's kind of like you know I think is
+
+it's kind of like you know I think is it's kind of like you know I think is why your notebook is as popular and why
+
+why your notebook is as popular and why why your notebook is as popular and why people follow Matt's uh blog and
+
+people follow Matt's uh blog and people follow Matt's uh blog and Facebook posts and YouTube channels you
+
+Facebook posts and YouTube channels you Facebook posts and YouTube channels you think uh this is um Google and
+
+think uh this is um Google and think uh this is um Google and everything else people are just always everything else people are just always everything else people are just always naturally gravitating towards people
+
+naturally gravitating towards people naturally gravitating towards people yeah definitely I think um you know
+
+yeah definitely I think um you know yeah definitely I think um you know personal brand has been huge in my life
+
+personal brand has been huge in my life personal brand has been huge in my life um it's been something I've mostly
+
+um it's been something I've mostly um it's been something I've mostly committed to like over these last five
+
+committed to like over these last five committed to like over these last five years I've had you know a couple months
+
+years I've had you know a couple months years I've had you know a couple months where I've I've dipped out a little bit
+
+where I've I've dipped out a little bit where I've I've dipped out a little bit and to taken some time off or whatever
+
+and to taken some time off or whatever and to taken some time off or whatever but in General I would say it's been a
+
+but in General I would say it's been a but in General I would say it's been a pretty consistent effort and I think
+
+pretty consistent effort and I think pretty consistent effort and I think consistency is really everything like
+
+consistency is really everything like consistency is really everything like when I when I started SEO notebook um
+
+when I when I started SEO notebook um when I when I started SEO notebook um you know I was I knew the idea was good
+
+you know I was I knew the idea was good you know I was I knew the idea was good but like I didn't really have any but like I didn't really have any but like I didn't really have any experience in doing this stuff and and
+
+experience in doing this stuff and and experience in doing this stuff and and there was a guy um named Dirk Diggy um
+
+there was a guy um named Dirk Diggy um there was a guy um named Dirk Diggy um he was like buds with Glenn alsop and
+
+he was like buds with Glenn alsop and he was like buds with Glenn alsop and like I just knew him through like the
+
+like I just knew him through like the like I just knew him through like the social social media and I had a
+
+social social media and I had a social social media and I had a conversation with him like prior to
+
+conversation with him like prior to conversation with him like prior to starting SEO notebook and you know he
+
+starting SEO notebook and you know he starting SEO notebook and you know he just offered me this like one really
+
+just offered me this like one really just offered me this like one really important piece of advice that was if
+
+important piece of advice that was if important piece of advice that was if you don't email weekly um people are
+
+you don't email weekly um people are you don't email weekly um people are going to forget about who you are and if
+
+going to forget about who you are and if going to forget about who you are and if he didn't tell me that I probably would
+
+he didn't tell me that I probably would he didn't tell me that I probably would have started a bi-weekly newsletter and
+
+have started a bi-weekly newsletter and have started a bi-weekly newsletter and not been as successful um so you know I
+
+not been as successful um so you know I not been as successful um so you know I think um people look to people um versus
+
+think um people look to people um versus think um people look to people um versus you know just thinking that you know MOS
+
+you know just thinking that you know MOS you know just thinking that you know MOS is an authority or sej is an authority
+
+is an authority or sej is an authority is an authority or sej is an authority or whatever
+
+or whatever or whatever and uh and and then on the flip side of
+
+and uh and and then on the flip side of and uh and and then on the flip side of that if that's what you're trying to do
+
+that if that's what you're trying to do that if that's what you're trying to do um like consistency really is everything
+
+um like consistency really is everything um like consistency really is everything and obviously you have to pair that with
+
+and obviously you have to pair that with and obviously you have to pair that with like super high quality content and
+
+like super high quality content and like super high quality content and really give it your all um but if you're
+
+really give it your all um but if you're really give it your all um but if you're if you just decide to like if you don't
+
+if you just decide to like if you don't if you just decide to like if you don't have like a a tight schedule in terms
+
+have like a a tight schedule in terms have like a a tight schedule in terms like a consistent schedule of of when
+
+like a consistent schedule of of when like a consistent schedule of of when you're want to share you will just be
+
+you're want to share you will just be you're want to share you will just be forgotten like you know you're not speec
+
+forgotten like you know you're not speec forgotten like you know you're not speec that makes sense sense I I would agree
+
+that makes sense sense I I would agree that makes sense sense I I would agree to that in the sense that I've been
+
+to that in the sense that I've been to that in the sense that I've been doing podcasting for a year and a half
+
+doing podcasting for a year and a half doing podcasting for a year and a half straight I don't miss a week my
+
+straight I don't miss a week my straight I don't miss a week my newsletter was bi-weekly but it's kind
+
+newsletter was bi-weekly but it's kind newsletter was bi-weekly but it's kind of becoming every three weeks and I pay
+
+of becoming every three weeks and I pay of becoming every three weeks and I pay attention to a lot of people that you
+
+attention to a lot of people that you attention to a lot of people that you and a couple other friends that have
+
+and a couple other friends that have and a couple other friends that have weekly newsletters and they just seem to
+
+weekly newsletters and they just seem to weekly newsletters and they just seem to get stronger because you're consistent
+
+get stronger because you're consistent get stronger because you're consistent you're always top of mind so um good
+
+you're always top of mind so um good you're always top of mind so um good lesson for me and I think good lessons lesson for me and I think good lessons lesson for me and I think good lessons for a lot of other people yeah I mean um
+
+for a lot of other people yeah I mean um for a lot of other people yeah I mean um like I said if I didn't get that piece
+
+like I said if I didn't get that piece like I said if I didn't get that piece of advice I might not be you know as
+
+of advice I might not be you know as of advice I might not be you know as successful as I have been with
+
+successful as I have been with successful as I have been with with that's good um I I've studied a lot
+
+with that's good um I I've studied a lot with that's good um I I've studied a lot of some of the most successful of some of the most successful of some of the most successful Affiliates in I gaming and outside of I
+
+Affiliates in I gaming and outside of I Affiliates in I gaming and outside of I gaming and I try to look at patterns of
+
+gaming and I try to look at patterns of gaming and I try to look at patterns of like what do I see as part of their
+
+like what do I see as part of their like what do I see as part of their success and I think a lot of times SEO
+
+success and I think a lot of times SEO success and I think a lot of times SEO is a part of it but I think other parts
+
+is a part of it but I think other parts is a part of it but I think other parts of it are brand and one thing that I
+
+of it are brand and one thing that I of it are brand and one thing that I started noticing when looking through
+
+started noticing when looking through started noticing when looking through like okay who's working for these like okay who's working for these like okay who's working for these companies like what are the jobs they're
+
+companies like what are the jobs they're companies like what are the jobs they're hiring for and one that starting to come
+
+hiring for and one that starting to come hiring for and one that starting to come as a pattern for me is like product at a
+
+as a pattern for me is like product at a as a pattern for me is like product at a product product owner um what is your
+
+product product owner um what is your product product owner um what is your take on it do you think this is take on it do you think this is take on it do you think this is something that a lot of like everything
+
+something that a lot of like everything something that a lot of like everything in digital marketing people might be
+
+in digital marketing people might be in digital marketing people might be overlooking yeah I mean like you know
+
+overlooking yeah I mean like you know overlooking yeah I mean like you know product people traditionally are the
+
+product people traditionally are the product people traditionally are the ones that um help help the company
+
+ones that um help help the company ones that um help help the company understand its users right like where
+
+understand its users right like where understand its users right like where you know achieving that like classic
+
+you know achieving that like classic you know achieving that like classic like product Market fit right is is it
+
+like product Market fit right is is it like product Market fit right is is it there isn't it there um and you know
+
+there isn't it there um and you know there isn't it there um and you know those people have that like you know
+
+those people have that like you know those people have that like you know hopefully they have that ability and hopefully they have that ability and hopefully they have that ability and they have that experience to really you
+
+they have that experience to really you they have that experience to really you know understand like who the different
+
+know understand like who the different know understand like who the different people are that that uh that frequent
+
+people are that that uh that frequent people are that that uh that frequent the site and you know what are their
+
+the site and you know what are their the site and you know what are their needs right so if um you know and they
+
+needs right so if um you know and they needs right so if um you know and they and they will they their job is not
+
+and they will they their job is not and they will they their job is not to like you know do the SEO per se but
+
+to like you know do the SEO per se but to like you know do the SEO per se but their job is to guide the the the site
+
+their job is to guide the the the site their job is to guide the the the site in terms of like what it actually
+
+in terms of like what it actually in terms of like what it actually produces to meet user needs right so um
+
+produces to meet user needs right so um produces to meet user needs right so um I think it's a incredibly important role
+
+I think it's a incredibly important role I think it's a incredibly important role and you know in the way that that kind
+
+and you know in the way that that kind and you know in the way that that kind of marries with SEO is like well what
+
+of marries with SEO is like well what of marries with SEO is like well what are the landing pages that are going to
+
+are the landing pages that are going to are the landing pages that are going to meet the user needs not just like you
+
+meet the user needs not just like you meet the user needs not just like you know being a product person and saying
+
+know being a product person and saying know being a product person and saying that you know our Freelancers need
+
+that you know our Freelancers need that you know our Freelancers need double entry accounting and and that's
+
+double entry accounting and and that's double entry accounting and and that's that's something that we really need to that's something that we really need to that's something that we really need to do to get more market share right but
+
+do to get more market share right but do to get more market share right but it's like you know what what uh what
+
+it's like you know what what uh what it's like you know what what uh what front-facing assets do we put on the
+
+front-facing assets do we put on the front-facing assets do we put on the site to you know help attract those
+
+site to you know help attract those site to you know help attract those types of users
+
+types of users types of users next question is I want to know if you
+
+next question is I want to know if you next question is I want to know if you can share one or two notes from your Su
+
+can share one or two notes from your Su can share one or two notes from your Su notebook whether it's recent or in the
+
+notebook whether it's recent or in the notebook whether it's recent or in the past five years where you're working on
+
+past five years where you're working on past five years where you're working on something and something just kind of
+
+something and something just kind of something and something just kind of hits you and you're like wow this is
+
+hits you and you're like wow this is hits you and you're like wow this is unreal you feel like you've discovered
+
+unreal you feel like you've discovered unreal you feel like you've discovered like a I don't know a cheat code or
+
+like a I don't know a cheat code or like a I don't know a cheat code or something uh what's one story that comes
+
+something uh what's one story that comes something uh what's one story that comes to mind that you just say this is unreal
+
+to mind that you just say this is unreal to mind that you just say this is unreal this is an amazing story or a case study
+
+this is an amazing story or a case study this is an amazing story or a case study yeah there there's uh you know there's
+
+yeah there there's uh you know there's yeah there there's uh you know there's there's a few like I really I know when
+
+there's a few like I really I know when there's a few like I really I know when to have something like based on somehow
+
+to have something like based on somehow to have something like based on somehow excited I have about that week um and
+
+excited I have about that week um and excited I have about that week um and you know usually I do a pretty good job
+
+you know usually I do a pretty good job you know usually I do a pretty good job of of giving myself the time to really
+
+of of giving myself the time to really of of giving myself the time to really figure out something that you know I I
+
+figure out something that you know I I figure out something that you know I I want to publish um and uh this was a
+
+want to publish um and uh this was a want to publish um and uh this was a while back but um what I what I realized
+
+while back but um what I what I realized while back but um what I what I realized would be like a really good way to kind
+
+would be like a really good way to kind would be like a really good way to kind of like achieve like topical relevance
+
+of like achieve like topical relevance of like achieve like topical relevance which obviously parlays into topical
+
+which obviously parlays into topical which obviously parlays into topical Authority would be to like Google a
+
+Authority would be to like Google a Authority would be to like Google a keyword right so Google a keyword let's
+
+keyword right so Google a keyword let's keyword right so Google a keyword let's say like car insurance and then you look
+
+say like car insurance and then you look say like car insurance and then you look at like what are the top sites that are
+
+at like what are the top sites that are at like what are the top sites that are ranking for car insurance so you might
+
+ranking for car insurance so you might ranking for car insurance so you might see things like guo all state Liberty
+
+see things like guo all state Liberty see things like guo all state Liberty Mutual stuff like that and then from
+
+Mutual stuff like that and then from Mutual stuff like that and then from there like perform another search that
+
+there like perform another search that there like perform another search that is a site search for site geo.com car
+
+is a site search for site geo.com car is a site search for site geo.com car insurance sitecon libertymutual.com car
+
+insurance sitecon libertymutual.com car insurance sitecon libertymutual.com car insurance and then basically what you're
+
+insurance and then basically what you're insurance and then basically what you're seeing there are all of the
+
+seeing there are all of the seeing there are all of the articles on that website that um are
+
+articles on that website that um are articles on that website that um are helping it be relevant and ranking for
+
+helping it be relevant and ranking for helping it be relevant and ranking for that head term of carence right so um
+
+that head term of carence right so um that head term of carence right so um you know just even that like little
+
+you know just even that like little you know just even that like little insight there is like a really quick
+
+insight there is like a really quick insight there is like a really quick hack I mean you can you can scan account
+
+hack I mean you can you can scan account hack I mean you can you can scan account a million ways like you could do Gap
+
+a million ways like you could do Gap a million ways like you could do Gap analysis you could do all these other
+
+analysis you could do all these other analysis you could do all these other things but in terms of like just sheer
+
+things but in terms of like just sheer things but in terms of like just sheer speed and efficiency of understanding
+
+speed and efficiency of understanding speed and efficiency of understanding you know what articles are causing a
+
+you know what articles are causing a you know what articles are causing a site to rank for super high competitive
+
+site to rank for super high competitive site to rank for super high competitive terms like car insurance um I I love
+
+terms like car insurance um I I love terms like car insurance um I I love that one so I recently uh I I did I put
+
+that one so I recently uh I I did I put that one so I recently uh I I did I put that on YouTube and it did fairly well
+
+that on YouTube and it did fairly well that on YouTube and it did fairly well and then I recently republished that on
+
+and then I recently republished that on and then I recently republished that on link did a few weeks ago and it did very
+
+link did a few weeks ago and it did very link did a few weeks ago and it did very well as well so that that one comes to
+
+well as well so that that one comes to well as well so that that one comes to mind as as kind of an interesting one um
+
+mind as as kind of an interesting one um mind as as kind of an interesting one um I don't know I have like just a lot um
+
+I don't know I have like just a lot um I don't know I have like just a lot um I'm looking at my my things here
+
+I'm looking at my my things here I'm looking at my my things here um let's just see what else have
+
+oh yeah this one I really liked as well oh yeah this one I really liked as well um I called it why Google is the go
+
+um I called it why Google is the go um I called it why Google is the go keyword research tool um so basically
+
+keyword research tool um so basically keyword research tool um so basically what you would do is like you'd start
+
+what you would do is like you'd start what you would do is like you'd start and like I love using the Google Sur in
+
+and like I love using the Google Sur in and like I love using the Google Sur in case you haven't noticed to to do case you haven't noticed to to do case you haven't noticed to to do keyword research and um what what I what
+
+keyword research and um what what I what keyword research and um what what I what you start with is like Googling a
+
+you start with is like Googling a you start with is like Googling a keyword like best mortgage rates and
+
+keyword like best mortgage rates and keyword like best mortgage rates and then once you've Googled that you go
+
+then once you've Googled that you go then once you've Googled that you go back up to the SE far and start typing
+
+back up to the SE far and start typing back up to the SE far and start typing things like what is when does what or
+
+things like what is when does what or things like what is when does what or and and and Google because it knows you
+
+and and and Google because it knows you and and and Google because it knows you just searched uh best mortgage rates
+
+just searched uh best mortgage rates just searched uh best mortgage rates starts to give you things like what is a
+
+starts to give you things like what is a starts to give you things like what is a mortgage tracker what is jumbo mortgage
+
+mortgage tracker what is jumbo mortgage mortgage tracker what is jumbo mortgage what is a good credit score and
+
+what is a good credit score and what is a good credit score and basically starts to try to anticipate
+
+basically starts to try to anticipate basically starts to try to anticipate the types of questions a person would
+
+the types of questions a person would the types of questions a person would ask directly after asking best mortgage
+
+ask directly after asking best mortgage ask directly after asking best mortgage rates into the search engine right so um
+
+rates into the search engine right so um rates into the search engine right so um that one's a really fun one and uh on
+
+that one's a really fun one and uh on that one's a really fun one and uh on SEO notebook essentially what I did was
+
+SEO notebook essentially what I did was SEO notebook essentially what I did was um I I shared a list of interrogative
+
+um I I shared a list of interrogative um I I shared a list of interrogative Words which are those like words that
+
+Words which are those like words that Words which are those like words that begin questions like what is when does
+
+begin questions like what is when does begin questions like what is when does can you stuff like that and uh and the
+
+can you stuff like that and uh and the can you stuff like that and uh and the amount of amazingly relevant keywords
+
+amount of amazingly relevant keywords amount of amazingly relevant keywords you can get to something like best
+
+you can get to something like best you can get to something like best mortgage rates after doing that exercise
+
+mortgage rates after doing that exercise mortgage rates after doing that exercise it's just insane and it's also something
+
+it's just insane and it's also something it's just insane and it's also something that we know we've automated completely
+
+that we know we've automated completely that we know we've automated completely at my agency um but you can even just
+
+at my agency um but you can even just at my agency um but you can even just get started on your own just doing it
+
+get started on your own just doing it get started on your own just doing it manually so I mean those last two tips
+
+manually so I mean those last two tips manually so I mean those last two tips what I think you're going to get is what I think you're going to get is what I think you're going to get is you're going to get reverse engineer
+
+you're going to get reverse engineer you're going to get reverse engineer what the big companies are caring about
+
+what the big companies are caring about what the big companies are caring about like so if you use GCO as one example
+
+like so if you use GCO as one example like so if you use GCO as one example you're going to pick why did they create you're going to pick why did they create you're going to pick why did they create 40 pages around car insurance yeah and
+
+40 pages around car insurance yeah and 40 pages around car insurance yeah and how relevant are those pages I think it
+
+how relevant are those pages I think it how relevant are those pages I think it goes with that saying you know you got goes with that saying you know you got goes with that saying you know you got to assume that some of these larger to assume that some of these larger to assume that some of these larger companies have invested a lot of time in
+
+companies have invested a lot of time in companies have invested a lot of time in a market research and they wouldn't
+
+a market research and they wouldn't a market research and they wouldn't really keep these Pages uh for the hell
+
+really keep these Pages uh for the hell really keep these Pages uh for the hell of it I think they're they're creating of it I think they're they're creating of it I think they're they're creating these things because they're one testing these things because they're one testing these things because they're one testing and two um understanding the value that
+
+and two um understanding the value that and two um understanding the value that could be like high conversion maybe
+
+could be like high conversion maybe could be like high conversion maybe lower volume yeah I mean there's just
+
+lower volume yeah I mean there's just lower volume yeah I mean there's just going to be also very obvious Pages like
+
+going to be also very obvious Pages like going to be also very obvious Pages like you know firsttime driver car insurance
+
+you know firsttime driver car insurance you know firsttime driver car insurance or student car car car best car
+
+or student car car car best car or student car car car best car insurance for students or you know
+
+insurance for students or you know insurance for students or you know things that you may just not have on
+
+things that you may just not have on things that you may just not have on your site that are like obviously like
+
+your site that are like obviously like your site that are like obviously like monetizable pages right so um even even
+
+monetizable pages right so um even even monetizable pages right so um even even if you don't go the full like I need to
+
+if you don't go the full like I need to if you don't go the full like I need to you know recreate um the best of
+
+you know recreate um the best of you know recreate um the best of strategy between Geico All State and
+
+strategy between Geico All State and strategy between Geico All State and Liberty Mutual you can at least get some
+
+Liberty Mutual you can at least get some Liberty Mutual you can at least get some ideas of you know bottom funnel Landing
+
+ideas of you know bottom funnel Landing ideas of you know bottom funnel Landing gauges that you can then
+
+gauges that you can then gauges that you can then produce a challenging question uh just
+
+produce a challenging question uh just produce a challenging question uh just putting you on the spot what would you
+
+putting you on the spot what would you putting you on the spot what would you do for a company whether it's an do for a company whether it's an do for a company whether it's an affiliate site or SAS company doesn't
+
+affiliate site or SAS company doesn't affiliate site or SAS company doesn't matter where people are problem aware
+
+matter where people are problem aware matter where people are problem aware but they're not solution
+
+aware um I guess uh like problem okay aware um I guess uh like problem okay so they are I'm just they know of a pain
+
+so they are I'm just they know of a pain so they are I'm just they know of a pain point I can't articulate it yeah uh oh
+
+point I can't articulate it yeah uh oh point I can't articulate it yeah uh oh um I actually I actually know um a
+
+um I actually I actually know um a um I actually I actually know um a really good uh um strategy for this so
+
+really good uh um strategy for this so really good uh um strategy for this so in your Google search console there is a
+
+in your Google search console there is a in your Google search console there is a wealth of data that I don't think enough
+
+wealth of data that I don't think enough wealth of data that I don't think enough people really leverage and um actually
+
+people really leverage and um actually people really leverage and um actually this isn't no is not going to answer
+
+this isn't no is not going to answer this isn't no is not going to answer your your thing because it's like what I
+
+your your thing because it's like what I your your thing because it's like what I was going to say was I'm listening you
+
+was going to say was I'm listening you was going to say was I'm listening you search console let me let me just go
+
+search console let me let me just go search console let me let me just go here for one second in Google search
+
+here for one second in Google search here for one second in Google search consoer there's a wealth of data um and
+
+consoer there's a wealth of data um and consoer there's a wealth of data um and people might be describing your product
+
+people might be describing your product people might be describing your product in a way that you actually aren't even
+
+in a way that you actually aren't even in a way that you actually aren't even aware of so using synonyms for things
+
+aware of so using synonyms for things aware of so using synonyms for things like system tool platform software app
+
+like system tool platform software app like system tool platform software app um you and you basically look at all
+
+um you and you basically look at all um you and you basically look at all your keywords that use those different
+
+your keywords that use those different your keywords that use those different you know SAS qu qualifiers you can get
+
+you know SAS qu qualifiers you can get you know SAS qu qualifiers you can get like you know a multitude of new ways
+
+like you know a multitude of new ways like you know a multitude of new ways that people are actually searching for that people are actually searching for that people are actually searching for your product um so those people you know
+
+your product um so those people you know your product um so those people you know it it may be a case where like they
+
+it it may be a case where like they it it may be a case where like they don't actually know if something exists
+
+don't actually know if something exists don't actually know if something exists and they're like you know
+
+and they're like you know and they're like you know um you know like a PowerPoint for or
+
+um you know like a PowerPoint for or um you know like a PowerPoint for or like you know apps like PowerPoint for
+
+like you know apps like PowerPoint for like you know apps like PowerPoint for your phone or something like that right your phone or something like that right your phone or something like that right like maybe maybe they don't even know
+
+like maybe maybe they don't even know like maybe maybe they don't even know that that this that this exists but
+
+that that this that this exists but that that this that this exists but they're trying to describe what they they're trying to describe what they they're trying to describe what they want that's the type of um uh uh
+
+want that's the type of um uh uh want that's the type of um uh uh strategy that can kind of uncover those
+
+strategy that can kind of uncover those strategy that can kind of uncover those keywords um in terms of like you know um
+
+keywords um in terms of like you know um keywords um in terms of like you know um uh Pro not solution aware those people
+
+uh Pro not solution aware those people uh Pro not solution aware those people are still going to have questions that
+
+are still going to have questions that are still going to have questions that they're trying to solve like how do I do
+
+they're trying to solve like how do I do they're trying to solve like how do I do X or what what's the best way to do why
+
+X or what what's the best way to do why X or what what's the best way to do why um you basically try to put yourself in
+
+um you basically try to put yourself in um you basically try to put yourself in the shoes of a user and like the common
+
+the shoes of a user and like the common the shoes of a user and like the common things that they encounter um and and
+
+things that they encounter um and and things that they encounter um and and then go after that um there's other
+
+then go after that um there's other then go after that um there's other strategies whereby like you can even
+
+strategies whereby like you can even strategies whereby like you can even look at like you know error codes that
+
+look at like you know error codes that look at like you know error codes that people get in certain platforms and like
+
+people get in certain platforms and like people get in certain platforms and like start to optimize for those and like you
+
+start to optimize for those and like you start to optimize for those and like you know metion your competitor so there's
+
+know metion your competitor so there's know metion your competitor so there's there's all kinds of things um that I I
+
+there's all kinds of things um that I I there's all kinds of things um that I I think you know are around that sort of
+
+think you know are around that sort of think you know are around that sort of sphere um but in terms of like your
+
+sphere um but in terms of like your sphere um but in terms of like your specific question I would just basically
+
+specific question I would just basically specific question I would just basically try to optimize for the questions that a
+
+try to optimize for the questions that a try to optimize for the questions that a person has like how do I do X or how you
+
+person has like how do I do X or how you person has like how do I do X or how you know how what's the best way to do y um
+
+know how what's the best way to do y um know how what's the best way to do y um and then and then just go from there
+
+and then and then just go from there and then and then just go from there that makes sense I mean I was listening
+
+that makes sense I mean I was listening that makes sense I mean I was listening to a podcast on Chris Walker who does
+
+to a podcast on Chris Walker who does to a podcast on Chris Walker who does B2B sales I think it's Revenue vitals
+
+B2B sales I think it's Revenue vitals B2B sales I think it's Revenue vitals and he talked about uh how do you be how
+
+and he talked about uh how do you be how and he talked about uh how do you be how do you solve this where it's like you've
+
+do you solve this where it's like you've do you solve this where it's like you've got problem aware but not solution aware
+
+got problem aware but not solution aware got problem aware but not solution aware and his answer was like he didn't say
+
+and his answer was like he didn't say and his answer was like he didn't say topical Authority but he kind of implied
+
+topical Authority but he kind of implied topical Authority but he kind of implied that he said you know be the person that
+
+that he said you know be the person that that he said you know be the person that people go to when they think of your
+
+people go to when they think of your people go to when they think of your your core topic where that they can't
+
+your core topic where that they can't your core topic where that they can't articulate those questions and I think
+
+articulate those questions and I think articulate those questions and I think it's difficult for people on the side of
+
+it's difficult for people on the side of it's difficult for people on the side of the business to go how can they even
+
+the business to go how can they even the business to go how can they even know what they're looking for you know I know what they're looking for you know I know what they're looking for you know I think that requires uh like a little bit
+
+think that requires uh like a little bit think that requires uh like a little bit of intelligence emotional intelligence
+
+of intelligence emotional intelligence of intelligence emotional intelligence to kind of go I need to think like a
+
+to kind of go I need to think like a to kind of go I need to think like a user and it's not easy like here's an
+
+user and it's not easy like here's an user and it's not easy like here's an example that I just thought of right
+
+example that I just thought of right example that I just thought of right like say you're LMS you're a learning
+
+like say you're LMS you're a learning like say you're LMS you're a learning management system and somebody wants to
+
+management system and somebody wants to management system and somebody wants to create a course and they're like the
+
+create a course and they're like the create a course and they're like the what's the best way to teach X or what's
+
+what's the best way to teach X or what's what's the best way to teach X or what's the best way to create a course like you
+
+the best way to create a course like you the best way to create a course like you know do I have to create a PowerPoint or
+
+know do I have to create a PowerPoint or know do I have to create a PowerPoint or do I have to film it or do I have to
+
+do I have to film it or do I have to do I have to film it or do I have to upload my thing no there's actually like
+
+upload my thing no there's actually like upload my thing no there's actually like real solutions that you know like kajabi
+
+real solutions that you know like kajabi real solutions that you know like kajabi or whatever that that uh that make the
+
+or whatever that that uh that make the or whatever that that uh that make the whole process easy so you know trying to
+
+whole process easy so you know trying to whole process easy so you know trying to figure out like in the process of a
+
+figure out like in the process of a figure out like in the process of a person who wants to create a course but
+
+person who wants to create a course but person who wants to create a course but isn't really you know familiar with with
+
+isn't really you know familiar with with isn't really you know familiar with with LMS tools like what are the different
+
+LMS tools like what are the different LMS tools like what are the different challenges that they're um you know
+
+challenges that they're um you know challenges that they're um you know trying to tackle right are they be
+
+trying to tackle right are they be trying to tackle right are they be saying that I have to create this on
+
+saying that I have to create this on saying that I have to create this on YouTube or whatever like you know
+
+YouTube or whatever like you know YouTube or whatever like you know there's there's all sorts of um all
+
+there's there's all sorts of um all there's there's all sorts of um all sorts of different Avenues you can kind
+
+sorts of different Avenues you can kind sorts of different Avenues you can kind of Target to get in front of that person
+
+of Target to get in front of that person of Target to get in front of that person yeah I think in my situation for what we
+
+yeah I think in my situation for what we yeah I think in my situation for what we do with our software company is we don't
+
+do with our software company is we don't do with our software company is we don't have a lot of examples of competitors
+
+have a lot of examples of competitors have a lot of examples of competitors that have already mapped out that whole
+
+that have already mapped out that whole that have already mapped out that whole Space of what content to create so we
+
+Space of what content to create so we Space of what content to create so we had to kind of uncover it on our own and
+
+had to kind of uncover it on our own and had to kind of uncover it on our own and I think just by talking to Affiliates
+
+I think just by talking to Affiliates I think just by talking to Affiliates and uh trying to create some content
+
+and uh trying to create some content and uh trying to create some content around it I think that's where we we had
+
+around it I think that's where we we had around it I think that's where we we had some accidental discoveries and in our
+
+some accidental discoveries and in our some accidental discoveries and in our case it was creating some content that
+
+case it was creating some content that case it was creating some content that we didn't really know what was going to we didn't really know what was going to we didn't really know what was going to work and then realizing hey how did you
+
+work and then realizing hey how did you work and then realizing hey how did you hear about us well I was looking how to
+
+hear about us well I was looking how to hear about us well I was looking how to build an API to connect with this
+
+build an API to connect with this build an API to connect with this affiliate program and you showed up like
+
+affiliate program and you showed up like affiliate program and you showed up like great it's well I wish we could have
+
+great it's well I wish we could have great it's well I wish we could have known that at from day one one of the
+
+known that at from day one one of the known that at from day one one of the other um like really key things
+
+other um like really key things other um like really key things especially that I noticed with my B2B
+
+especially that I noticed with my B2B especially that I noticed with my B2B clients is we'll always ask them like
+
+clients is we'll always ask them like clients is we'll always ask them like what are the common questions that your
+
+what are the common questions that your what are the common questions that your salespeople are getting asked over and
+
+salespeople are getting asked over and salespeople are getting asked over and over again and basically try to optimize
+
+over again and basically try to optimize over again and basically try to optimize for what those are right because you you
+
+for what those are right because you you for what those are right because you you can't really oftentimes like you only
+
+can't really oftentimes like you only can't really oftentimes like you only find those types of keywords in search
+
+find those types of keywords in search find those types of keywords in search console but um you know the the salese
+
+console but um you know the the salese console but um you know the the salese at these companies um they've basically
+
+at these companies um they've basically at these companies um they've basically got their list of common questions and
+
+got their list of common questions and got their list of common questions and then they you know obviously their
+
+then they you know obviously their then they you know obviously their answers to what those questions are to
+
+answers to what those questions are to answers to what those questions are to effectively handle them and uh that can
+
+effectively handle them and uh that can effectively handle them and uh that can be a really great resource um if you can
+
+be a really great resource um if you can be a really great resource um if you can tap that and last question is what do
+
+tap that and last question is what do tap that and last question is what do you see of the future of affiliate
+
+you see of the future of affiliate you see of the future of affiliate marketing as it intersects with business
+
+marketing as it intersects with business marketing as it intersects with business intelligence um well I think um you
+
+intelligence um well I think um you intelligence um well I think um you know getting your finger on the pulse of
+
+know getting your finger on the pulse of know getting your finger on the pulse of where Google is going um I think that
+
+where Google is going um I think that where Google is going um I think that ultimately we're going to have to brace
+
+ultimately we're going to have to brace ultimately we're going to have to brace ourselves for murkier data and I mean
+
+ourselves for murkier data and I mean ourselves for murkier data and I mean that I think that trend has already been
+
+that I think that trend has already been that I think that trend has already been going for a long time um in terms of not
+
+going for a long time um in terms of not going for a long time um in terms of not having the complete you know picture of
+
+having the complete you know picture of having the complete you know picture of what's going on like you know with AI
+
+what's going on like you know with AI what's going on like you know with AI over views or you you know you may have
+
+over views or you you know you may have over views or you you know you may have a number one ranking but you may not
+
+a number one ranking but you may not a number one ranking but you may not even be above the fold anymore okay so
+
+even be above the fold anymore okay so even be above the fold anymore okay so um stuff like that that I think you've
+
+um stuff like that that I think you've um stuff like that that I think you've basically got to prepare yourself um for
+
+basically got to prepare yourself um for basically got to prepare yourself um for you know having you know murkier data
+
+you know having you know murkier data you know having you know murkier data than than ever um but at that said like
+
+than than ever um but at that said like than than ever um but at that said like you know murkier murky data is
+
+you know murkier murky data is you know murkier murky data is definitely better than no data and um
+
+definitely better than no data and um definitely better than no data and um and you know using tools um you know
+
+and you know using tools um you know and you know using tools um you know like yours or um like looker studio and
+
+like yours or um like looker studio and like yours or um like looker studio and and bring in different data sources and
+
+and bring in different data sources and and bring in different data sources and really trying to make something really trying to make something really trying to make something meaningful uh is you know stuff that we
+
+meaningful uh is you know stuff that we meaningful uh is you know stuff that we do for all the sites that we work on we
+
+do for all the sites that we work on we do for all the sites that we work on we have a an amazing data analyst on our
+
+have a an amazing data analyst on our have a an amazing data analyst on our team um who essentially creates you know
+
+team um who essentially creates you know team um who essentially creates you know dashboards custom to whatever um site
+
+dashboards custom to whatever um site dashboards custom to whatever um site that whatever the site really you know
+
+that whatever the site really you know that whatever the site really you know wants to track or needs to track so if
+
+wants to track or needs to track so if wants to track or needs to track so if that's a local business site we've got
+
+that's a local business site we've got that's a local business site we've got Co rail in there if they're a HubSpot
+
+Co rail in there if they're a HubSpot Co rail in there if they're a HubSpot site then UPS spot or all those types of
+
+site then UPS spot or all those types of site then UPS spot or all those types of things um but I would also say that like
+
+things um but I would also say that like things um but I would also say that like um you know having the data is one thing
+
+um you know having the data is one thing um you know having the data is one thing but you know actioning on that data is
+
+but you know actioning on that data is but you know actioning on that data is is a totally other thing and uh and you
+
+is a totally other thing and uh and you is a totally other thing and uh and you you have to basically have you know a
+
+you have to basically have you know a you have to basically have you know a good team in place who's going to be
+
+good team in place who's going to be good team in place who's going to be able to you know harness all the things
+
+able to you know harness all the things able to you know harness all the things that you're tracking and you know do the
+
+that you're tracking and you know do the that you're tracking and you know do the digging right because um a while back I
+
+digging right because um a while back I digging right because um a while back I worked as a product advisor on keyword.
+
+worked as a product advisor on keyword. worked as a product advisor on keyword. comom I'm bringing in a share voice
+
+comom I'm bringing in a share voice comom I'm bringing in a share voice feature into that tool and you know it's
+
+feature into that tool and you know it's feature into that tool and you know it's great to have shared voice it's great to
+
+great to have shared voice it's great to great to have shared voice it's great to know you know where you stand but um if
+
+know you know where you stand but um if know you know where you stand but um if you don't actually you know look at the
+
+you don't actually you know look at the you don't actually you know look at the sites that are beating you out in share
+
+sites that are beating you out in share sites that are beating you out in share voice and are able to kind of reverse
+
+voice and are able to kind of reverse voice and are able to kind of reverse engineer that and uh you know bring your
+
+engineer that and uh you know bring your engineer that and uh you know bring your site up to parody then what's the what's
+
+site up to parody then what's the what's site up to parody then what's the what's the use of having that data right so I
+
+the use of having that data right so I the use of having that data right so I think just you know getting getting the
+
+think just you know getting getting the think just you know getting getting the best data that you can from all the all
+
+best data that you can from all the all best data that you can from all the all the different sources that you can and
+
+the different sources that you can and the different sources that you can and then having it having a team that
+
+then having it having a team that then having it having a team that actively you know optimizes against that
+
+actively you know optimizes against that actively you know optimizes against that awesome uh Steve thank you so much for
+
+awesome uh Steve thank you so much for awesome uh Steve thank you so much for doing this um obviously we're going to
+
+doing this um obviously we're going to doing this um obviously we're going to put uh everything in the show notes but put uh everything in the show notes but put uh everything in the show notes but how can people get a hold of you seon
+
+how can people get a hold of you seon how can people get a hold of you seon notebook.com is the best place um and
+
+notebook.com is the best place um and notebook.com is the best place um and then I would say follow me on LinkedIn
+
+then I would say follow me on LinkedIn then I would say follow me on LinkedIn because that's where I'm most active
+
+because that's where I'm most active because that's where I'm most active I'll add that and of course uh just
+
+I'll add that and of course uh just I'll add that and of course uh just another shout out to SEO irl.com which
+
+another shout out to SEO irl.com which another shout out to SEO irl.com which will be in Toronto looking forward to
+
+will be in Toronto looking forward to will be in Toronto looking forward to that Steve thanks a lot that'll be
+
+that Steve thanks a lot that'll be that Steve thanks a lot that'll be October 4th uh 2024 in torono so we hope
+
+October 4th uh 2024 in torono so we hope October 4th uh 2024 in torono so we hope I will see you there but I hope to see I will see you there but I hope to see I will see you there but I hope to see others as
+
+others as others as well thank you for tuning in to the
+
+well thank you for tuning in to the well thank you for tuning in to the affiliate bi podcast I'd like to take
+
+affiliate bi podcast I'd like to take affiliate bi podcast I'd like to take this time to ask for a small favor to
+
+this time to ask for a small favor to this time to ask for a small favor to leave a rating and review wherever you
+
+leave a rating and review wherever you leave a rating and review wherever you listen to your podcast that helps us
+
+listen to your podcast that helps us listen to your podcast that helps us expand our reach to rank higher in
+
+expand our reach to rank higher in expand our reach to rank higher in podcast directories and reach more
+
+podcast directories and reach more podcast directories and reach more listeners

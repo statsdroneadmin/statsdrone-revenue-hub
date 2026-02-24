@@ -1,181 +1,2887 @@
-I believe the majority of them already already left SEO.  That's why actually the industry right now has a better focus for engineering and they have a higher way higher respect.  Welcome to revenue optimization with Stats Drone.  This affiliate marketing podcast is brought to you by Affiliate Track, which is an affiliate link research tool and affiliate finder and also brought to you by Stats Drone, the best stats and analytics tool for affiliates, agencies, affiliate networks, and affiliate programs.  Let's start with what we were just chatting about like two seconds ago, which is like, you know, I I'm building a uh a product that uh scrapes the internet of just affiliate sites only.
+I believe the majority of them already I believe the majority of them already already left SEO. That's why actually
 
-It has the affiliate link linking to a product, whether it's like casino, SAS, uh SEO, affiliate network, and we're also downloading the page titles.  you were just telling me that like the the capabilities of these page titles is immense because the the basic search is one thing but then there's the semantic search which is like what is the meaning behind it.  So I'm looking at actually vectorizing our own data which is going to be a lot of work but I think it's worth it and I'm assuming that's worth it.  &gt;&gt; I believe uh actually every SEO should be doing it like around four years ago I created a GitHub repo.  It's still actually in my profile in GitHub.
+already left SEO. That's why actually already left SEO. That's why actually the industry right now has a better
 
-they can check the username which is KTG1.  uh I called it actually s beat which means search engine result page beating which means that actually I just because in that script I am checking actually search results every second every second I search it then I take the data every second &gt;&gt; the main trick there is you realize that after a point even every second the rankings are keep actually changing and there is a pattern in these ranking changes and after getting let's say 60,000 snapshots for that data I was able to actually create the animation of these ranking changes by seeing that every certain site is changing their place with another certain site.  It's not randomly changing.  There is a pattern of these ranking changes from second to second.  Another thing is that when I get all these data from the SER, I was also scraping the results to see actually why these websites are changing with each other.
+the industry right now has a better the industry right now has a better focus for engineering and they have a
 
-For instance, the second site suddenly becomes seventh.  seventh becomes the second and why actually they are replacing each other based on this let's say data and I was checking let's say whether they have a number in the first sentence whether they have let's say a certain predicate in the title pack or whether they have an HTML form element converter or any type of input area if you're able to basically run certain type of let's say similarity checks or certain type of uh let's say entity attribute relations uh based on these uh let's data that you have.  You can actually run these data with the historical changes of Google and you can see what websites are actually increasing in the rankings and what websites actually are not performing that well which will be a great actually snapshot of everything.  Other way you have to spend like your three months click here, click there, check this and check that and if you have the data already with your tool it will be helping actually greatly for the plate marketers.  Okay, that was called search B.
+focus for engineering and they have a focus for engineering and they have a higher way higher respect.
 
-&gt;&gt; Uh, search B.  Search beats.  Let me just find it.  &gt;&gt; Search.  &gt;&gt; Yeah, maybe I have.
+higher way higher respect. higher way higher respect. Welcome to revenue optimization with
 
-&gt;&gt; I think I'll be able to find it.  &gt;&gt; Yeah, it's in my basic GitHub.  It's directly there.  And I created it like there is also a webinar that I did earlier with Ranksense from Hamlet Batista.  &gt;&gt; Okay.
+Welcome to revenue optimization with Welcome to revenue optimization with Stats Drone. This affiliate marketing
 
-&gt;&gt; He's not around with us anymore unfortunately due to the co uh situation.  uh but he he was also doing great things here and I just wanted to show him to this and he wanted to do the webinar as well.  &gt;&gt; Okay.  So yeah, like I said this uh I I went down a rabbit hole a couple months ago spending more time doing um uh building products with AI tools and then I'm reading a book and the book is called um semantic AI search with vector databases by I don't know if I'm pronouncing the name properly but it's Emlit B H O T E.  uh it came out recently and uh I'm doing this because of that project I mentioned before.
+Stats Drone. This affiliate marketing Stats Drone. This affiliate marketing podcast is brought to you by Affiliate
 
-So I'm like okay I need to start analyzing databases and getting better with like um you know just doing search.  So what you just said uh a couple minutes ago.  So would you say that people should take the content of their own site and also vectorize it and maybe produce a better search engine within their own site?  So uh if you have programmatic SEO site let's say you are ranking for 7,000 setrains like in the CBD niche in that case managing that content is going to be really hard.  If you have 40,000 products in your ecom site again it's going to be very hard for you to actually manage everything.
+podcast is brought to you by Affiliate podcast is brought to you by Affiliate Track, which is an affiliate link
 
-If the project site is big I will definitely vectorize it and I would actually also standardize my sentence structures.  For instance, when I create a templated content to decrease the repetitiveness and increase the originality, I use certain type of synonymizations or I change word orders and I try to add also uh let's say different criterias because in Google's language system they have four main actually principle.  One of them is factual content, opinionated content, structured content and unsstructured content.  Which means some sections of the content should be tables and the lists which is structured.  Some sections should be paragraph and some sections especially should be reflecting opinionated angles uh perspectives and the experiences as happens in the Reddit or qu or any type of social media site you should include these angles there.
+Track, which is an affiliate link Track, which is an affiliate link research tool and affiliate finder and
 
-And when I do these type of vectorizations, I'm able to see the percentage of factual content or percentage of opinionated content which actually helps me to correlate it with the affiliated especially for the affiliate industry is important because since 2023 the the content that is factual with certain perspectives also reflected in the language is actually favored by Google especially user generated content heavily has been promoted already even Google's API leak.  If you go to the Google's content API leak for content warehouse API league and if you search there UGC especially UGC change frequency you will see that there are lots of metals there to see actually how frequently the user generated content is changing there.  If you go to the Google's quality guideline, you will see human effort.  Total human effort is a really important signal and you can see also content effort as a property in API lead and they say that content effort is measured with large language models.  So in short, vectorization will be very smart especially changing thousands of pages programmatically while also doing that try to decrease repetitiveness to signal originality as well.
+research tool and affiliate finder and research tool and affiliate finder and also brought to you by Stats Drone, the
 
-Okay, that was pretty heavy.  Uh we we were just kind of like joking earlier that, you know, as I was studying this stuff and reading this books, I'm like, "Wait a minute, you were talking about this stuff like four years ago or longer. " And it's like, you know, I I thought I understood semantic SEO, but now that I'm going deeper down the rabbit hole of studying like how Google works, um vectorizing of content, um the databases, um I realize like it's a lot deeper.  And I think you said earlier that you believe that a lot of people didn't understand semantic SEO back then and maybe a lot of them still won't today.  I believe the the majority of them already already left SEO.
+also brought to you by Stats Drone, the also brought to you by Stats Drone, the best stats and analytics tool for
 
-That's why actually the industry right now has a better focus for engineering and they have a higher way higher respect.  And I already know that actually when I did the interview with Matt Deidi years ago, I know that actually some people were saying that oh topical maps or topical authority it will be just for seven days thing people will forget that and these people right now they are trying to sell topical maps and they are trying to actually try to own even the concept of topical authority and yes years ago when we were explaining these things some people were claiming that we are trying to make the SEO harder.  Now actually we were trying to let you know that these are coming for your your way and people who saw it they joined the community and they basically do a great work right now.  We published as I said ear to like around 400 success shares in the community publicly and the ones that they didn't follow I believe they left the industry already and or either they are trying to read adapt from a certain level but I can tell that especially if you started SEO around 2012 13 uh I usually see two type of people like there for instance in our mastermind in Turkey there was a person I can name Luke Bustin he is from UK and he's a great person and He actually improved himself greatly.  He studied the course.
+best stats and analytics tool for best stats and analytics tool for affiliates, agencies, affiliate
 
-He even went to the actually information retrieval conferences and he said to me that uh professors in the area of information retrieval they actually hate SEOs because whenever we go to a conference we try to monetize their knowledge and they hate from that situation.  So Luke Baston here is a good example.  He changed he started on that era and he changed developed or developed new skills and understanding and majority of them the people who started SEO around 2010s I believe they still have old habits and majority of them left SEO by saying SEO is that already I can tell that the year that people claim that SEO is that was the year that actually we did the most money already.  So I'm very happy that it is keep dying.  &gt;&gt; Yeah.
+affiliates, agencies, affiliate affiliates, agencies, affiliate networks, and affiliate programs.
 
-A and the irony would you say this is true or maybe not true that with the new AI tools that are available that it's actually making semantic SEO a lot easier to get into like a lot easier to understand maybe even the research itself.  I actually agree with that out of three four reasons because when I was starting these things around 2017 to just read a single patent I was spending my heart because you need to keep everything in your memory and you need to remember okay I I remember this engineer and he mentions this then there is another pattern that mentions the same thing and what is the relation between these two it was like a journalism I could analyze even I don't know Satam Hussein's actually government in the same way it it was a heavy work actually but Today you just actually give a patent to CH GBT and tell explain it to me and he actually explains everything to you and then also he it tells you what other patterns exist from the same engineers.  It makes things very way very way very easier.  I can tell sometimes of course it it is hallucinating by giving some fancy random verse that doesn't have a proper meaning on that section.  You should of course cow shoes but I believe it made everything way easier because you can give a pro typos a paragraph to GBT and ask the GBT basles here entities the attributes or what are the sentence let's say number of unique words in this area or what are the let's say hypermes or the hyponyms and they are passed there and you can see the anotomy of semantics in every text unit easily with the LLM so it makes it easier in my opinion 17 Then would you say that can like are we here today where I can go into Gemini perplexity and be okay I need you to act like you're Karai and I want you to be my my SEO advisor um analyze my site what should I be doing read all of Karay's uh material uh download all the podcasts through what is it notebook LLM and &gt;&gt; they do it already my community already do that and they keep sharing actually my core box they call it And they it also works too because for instance I don't remember every podcast that I did like through the years but AI remembers it sites these things very in a very good way and finds all the connections and suggest in a very structured way I can site that actually it already works and many people in our comments already actually is using them.
+networks, and affiliate programs. networks, and affiliate programs. Let's start with what we were just
 
-&gt;&gt; Okay.  I I need to look up some krybots but uh I did try to try a couple examples of that before recording so I was like I'm sure I could do this right now.  Yeah, definitely.  I believe so.  &gt;&gt; Okay.
+Let's start with what we were just Let's start with what we were just chatting about like two seconds ago, chatting about like two seconds ago, chatting about like two seconds ago, which is like, you know, I I'm building
 
-So, over the last couple years, I've interviewed so many different SEO people and there's always been constant talk about both AI and AI with content uh generation.  And I've been personally scared about using AI because I've seen some people brag about how they use AI to make all this money and then they went quiet because their site got destroyed.  And I've seen a lot of destroyed websites.  So is there a right way of do of not only using AI for content research but actually creating content itself?  I believe there is because we created actually AI websites in 2021 way before CH DBT and I explained these actually websites in my Saigon speech in 2023 and I remembered actually how people were shocked on that speech too because they saw it already because they were already discussing this like is it safe or not and when I showed them the websites that actually already are hit even two years earlier than GBT era they were understanding okay this is already actually covered by Google but the main thing there is they usually cover it from your momentum because when I created a topical authority concept I say that there are three principles you cover it actually wider you cover it deeper and you cover it faster the fast section I called it momentum if you cover a topic let's say you publish 8,000 uh strange pages on one day initially it ranks really greatly it indexes very fast but after like around average six weeks later your website is going to be hit and it will be dropping in a very great way So that's why I usually suggest actually for momentum stay in the human range.
+which is like, you know, I I'm building which is like, you know, I I'm building a uh a product that uh scrapes the
 
-Don't publish everything at the same time but just distribute it at a time.  The second part is that the humanization is a big part because we always have a blacklisted blacklisted nouns, blacklisted adverbs, blacklisted adjectives because if you look at the AI, it is actually called statistical semantics because AI distributes certain type of verbs together with certain co occurrences and this usually called actually styometric.  It has a style already.  When you see that style, when you go beyond that actually let's say ordinary people's angle and when you see actually the anatomy of the text that it creates you're able to actually hide the signatures in a better way because I'm able to say that never use this word always replace it with one of these actually synonyms you're able to create a decision tree for your own industry by giving an SEO dictionary sentence structures and order of these sentences and you can always actually create unique content thanks to that but you should have very strict system instructions and a very let's say a good uh blacklisted word uh component to actually write it in a proper way but it works already.  &gt;&gt; So maybe a quick example of this would be let's say if you want to do 8,000 affiliate program reviews you do it all at once you're risking a problem but in order to get through 8,000 human you know reviews of 500 words that's going to take a long time.
+a uh a product that uh scrapes the a uh a product that uh scrapes the internet of just affiliate sites only.
 
-So maybe as an idea that you could kind of take like a like create mini databases where you know someone's manually going through the current site um they're trying to document what they see maybe even what's been written on the internet about them and then kind of like do a mini summary feed that into AI and then use that for &gt;&gt; there is example site for it actually I always give that website as a bad example and as a good example though it is topfires reviews. com it should be as much as I can remember it's a good example because it's also programmatic.  It always uses actually Amazon reviews.  &gt;&gt; In my Sophia speech in 2024, I explained actually how we use existing reviews from Amazon, Reddit or other places to scrape all of them and combine them with our large language model in a very unique way in a way that actually Google sees it user generated content.  Okay, it's originality.
+internet of just affiliate sites only. internet of just affiliate sites only. It has the affiliate link linking to a
 
-It also does the same thing.  It is also a better example because if you check the way back data for the era that they are losing the rankings you will see that once they get the rankings for firearms they also start to review hotels bicycles bags etc but so it was diluting the topicality and decreasing the site focus score as the API actually says and they were hit once they removed this unnecessary content they came back one more thing is about the images Google doesn't index text every image and when they go to the Amazon reviews or products to the page fifth, six, seven, you will always see unique user generated images there and that unique images on your pages also contribute to the uniqueness and the originality will sees that image first time on your page as well.  So these type of many other angles actually can be used as well.  &gt;&gt; Okay.  Well, I'll give you an example of something I've done but I haven't published it yet but now I need to publish it.
+It has the affiliate link linking to a It has the affiliate link linking to a product, whether it's like casino, SAS,
 
-So I took uh I was doing a presentation at a Sigma conference um last year and the topic was why online casinos close.  So I analyzed Ask Gamblers database, lcb. org database.  We also have a database of closed affiliate programs and I said what's the signatures behind it?  So, of course, I went scraped a lot of data, ran a lot of Python, and then I started looking at, well, what were the signatures?
+product, whether it's like casino, SAS, product, whether it's like casino, SAS, uh SEO, affiliate network, and we're
 
-And one of the signatures that came to the top was uh most of these sites had really bad terms and conditions for players that said, uh, you can't cash out more than like $2,000 per day or 5,000 per week or 10,000 per month.  It was pretty bad.  And that was actually most of the the the co-work.  So, I think by publishing that data could be useful.  And I think another example uh just to use your example would be taking casino complaints which is ask gamblers lcb.
+uh SEO, affiliate network, and we're uh SEO, affiliate network, and we're also downloading the page titles. you
 
-org for casino guru.  I mean I don't understand why people don't do this.  Like if I was an affiliate today I would create an aggregator site and say I'll tell you everything you need to know about all the complaints not just one site.  That's true actually and in one actually s for instance in the online dating industry it is the main competitor of Tinder but I can't give the name due to the NDI on that company for instance when it comes to the subject of senior dating we added some design elements to the page.  These design elements actually have some polls which means that actually let's say we ask a question like what is the best place to meet with seniors over 60 years old on that answer we don't answer it we just give let's say options on you choose the answer on that poll we show the percentages and AI is automatically writes the paragraph based on the user inputs which also adds actually user generated content angle with also uniqueness also shows engagement And at the most bottom part, we also add the most asked questions directly as user generated content.
+also downloading the page titles. you also downloading the page titles. you were just telling me that like the the
 
-And then we use directly an entity person from the Google knowledge graph on these topics especially to answer these questions as well.  But this also ask basically human effort one more time too.  So many people still try to rank with ordinary blog layouts.  So try to always include these polls or Q&amp;As or some forum components as much as possible to avoid some filterings of the Google system today.  Yeah, but that's also a great content generation idea because I do polls on LinkedIn and sometimes the answers I get surprise me.
+were just telling me that like the the were just telling me that like the the capabilities of these page titles is
 
-I'm like, I had no idea this is what I was going to get for an answer.  And because I get those answers, it changes changes a lot of things for me.  So I think I think this would be a total content playbook here.  &gt;&gt; I hope one day people will be implementing these more.  &gt;&gt; I I'm going to find clever ways of doing it and AI tools make it uh really easy.
+capabilities of these page titles is capabilities of these page titles is immense because the the basic search is
 
-I'm actually going to experiment with the the podcast website we have now.  So I built it in I'm pretty good with code but I actually went to lovable and it's just super easy.  &gt;&gt; All is really surprisingly good actually.  And it is able to integrate everything with GitHub, WordPress or whatever CMS that you need.  It's really good strength there.
+immense because the the basic search is immense because the the basic search is one thing but then there's the semantic
 
-&gt;&gt; Yeah, I I'm definitely going to do that there because I've already um I've used the RSS feed to autogenerate each podcast episode and then now I'm going to like you know we're talking geek talk.  I'm going to go into nen download all the audio convert it into text and then I'm going to do a whole content playbook which is a it is another question I've got later on uh for this.  Okay, so I want to talk about I I was actually using a lot of AI tools and I was starting to build some Google search console um uh dashboards and as I was doing I was like wait a minute is this going to be a waste of time like is Google search console going to be totally different in a year from now?  So where do you think a tool like search console is going to be as we change from like the regular Google to you know the AI version?  So the first thing there is I believe over three years search console is already not giving maybe 40% of the real data or the value I can say was the first thing is there there are so many new surf features we even didn't name them as SEO industry unfortunately I will I have my own dictionary there some of the names that I use might not be that clear but for instance when you search for the uh let's say the best uh SEO tools let's Okay, they usually give all the brands at the top.
+one thing but then there's the semantic one thing but then there's the semantic search which is like what is the meaning search which is like what is the meaning search which is like what is the meaning behind it. So I'm looking at actually
 
-It is actually in the patterns they call it generated ranked entity list.  It's the official name in the patterns.  My naming there is basically hyperser I call it because it's like a SER inside another SER.  That's why I call it like hypersurer.  And when you click to the one of these brand bubbles, it opens another accordion and gives you the three top results for that index as well.
+behind it. So I'm looking at actually behind it. So I'm looking at actually vectorizing our own data which is going
 
-Let's say you search for best SEO tools.  I don't want to advertise anything there but let's say you do one thing &gt;&gt; and then actually shows you three results from that specific index which means actually it connects an index to the another one &gt;&gt; and technically right now none of the SEO tools actually track what entities appear on that list and inside that actually bubbles what it ranks it's not also not known if you go to the what people say surf feature which usually LinkedIn Tik Tok Instagram Reddit type of places are ranking there we still don't know actually which brands social media or which brands influencer is ranking on that part nobody cares nobody checks and I believe Google search console also doesn't give this data on purpose because if they start to give that data SEOs will realize it is important then we will be asking even more so they also want to keep us in that dark zone the one key difference is that at the 8th December 2025 they announced that they are integ rating social media channels into the search console and I believe it was the biggest change of entire year in my opinion because uh in 2023 they announced helpful content system by saying that helpful information for people on social media and forum sites.  This was the exact phrase and still they keep doing it because Google's moto is very clear for SEO or for search.  It is basically people for people in the search.  They want people to create content and they want people to find people content on social media sites and the forums are the main principle right now for them.
+vectorizing our own data which is going vectorizing our own data which is going to be a lot of work but I think it's
 
-And that's why they are integrating your YouTube channel, your Reddit will be the next one and other social media channels to do your search console today.  If your YouTube channel basically gets more clicks from Google, they will be telling it to you and it helps them for two reasons.  One thing is that the search console will be topic based which means that in the future rather than telling you what query brings you the most clicks they might be saying you what topic is bringing more clicks as well.  The second thing is that they want you to also they want you to create more content by showing your face in a video in a podcast and they want you to create more content for their integrated platforms like YouTube or the Reddit.  If I add one more thing there is if your website gets fewer clicks due to the AI search features when they give you the social media clicks in your search console they are actually telling that yes your website gets fewer clicks but your socials are getting more so focus on there they are trying to tell and in 2019 in one case that I said that if you have a YouTube channel there's a higher chance that you can actually save yourself from these core updates because ownership of a active YouTube channel pro directly proves that there is a brand attribution and there is a business behind actually everything that you do as well.
+to be a lot of work but I think it's to be a lot of work but I think it's worth it and I'm assuming that's worth
 
-So I believe the search console will be very much more integrated with AI ser features.  So you will be using all these filtering filters with AI or LLM.  It will be it will be a kind of conversational data analyzis tool not for the queries mainly for the topics and it won't be only for your site.  It will be also for your web entity which involves all of your alo social media channels and maybe even beyond as well.  Okay, that was pretty heavy.
+worth it and I'm assuming that's worth worth it and I'm assuming that's worth it. it. it. &gt;&gt; I believe uh actually every SEO should
 
-But um that's actually something uh I was actually planning to do on that initial project where we we scrape and we find all the affiliate sites.  Like we're actually scraping all their social contacts like do they have YouTube?  Do they have Facebook or X or Reddit and contact forms and addresses and we I believe there's a correlation there, but we won't know what the correlation is until we actually start saying here's affiliate sites, here's all the links they have on all their pages and here's everything.  So I think there's going to be some like that's obvious I think um but I think a lot of people they need to see the data before they they have that aha moment.  &gt;&gt; Yeah.
+&gt;&gt; I believe uh actually every SEO should &gt;&gt; I believe uh actually every SEO should be doing it like around four years ago I
 
-If I would think about maybe one more functionality for that tool, if you allow people to integrate their search console data with your technology and if they also give you the log files, you can see actually whether social media links help Google to crawl more URLs from their actually let's say uh website overall because comparing some data like this let's say there is a URL it is being crawled by Google bot higher frequency during actually social media shares because if you go to the search console use your inspection tool sometimes you will see that actually Tik Tok or Instagram comes in the referred page section they find your URLs from socials and then they start actually scrolling there you can decrease the indexation delay and you can increase number of keywords that you rank through actually getting these links from socials I'm not talking about link juice or page rank here it's different I'm just talking about exploration of new content and forcing Google to crawl it more frequently as well.  That type of maybe check on would be helpful too.  &gt;&gt; That's actually a great idea to ask to say, "Hey, do you want to connect your search console data? " But it goes without saying that the user needs a benefit from it.  But I do think like I've actually built some of these console uh reports where it's like okay, you know, you know how your data is only what 16 months of console data before it disappears.
+be doing it like around four years ago I be doing it like around four years ago I created a GitHub repo. It's still
 
-And I do believe that the daily console data is useful, but Google doesn't make it super easy for you to export just the daily.  So you have to pull the data once a day.  And I'm basically, you've probably already done this before, but uh I'm basically building this stuff.  So maybe there could be some connectivity where it's like, how do we make this useful for someone to connect their search console?  Maybe if we give them this new um console reader or console report for free, that might be the intent of the big, hey, I have a reason to actually upload it.
+created a GitHub repo. It's still created a GitHub repo. It's still actually in my profile in GitHub. they
 
-And maybe there's some sort of social not social but maybe there's some sort of big data sharing where the data is not exposed but it's put into a a giant database.  Many other things can be done with the search console data.  I believe for instance you can always create custom click curves every seven days.  is you can tell them actually what pages are increasing in impressions from what queries or you can give them number of URLs that give that takes impressions for the same queries which actually shows micro cannibalizations.  You can always actually uh easily export your data to the bigquery automatically as well and from BigQuery you can always try to actually see for instance there is a seasonal event every year for some certain certain let's say types of situations and you can see actually how your CTR is changing during this seasonal events or also you can import your log files and you can see actually your traffic data and the crawl data how they are correlating with each other many other things actually can be done there uh actually &gt;&gt; it's a lot of data &gt;&gt; especially your actually vector database let's say you vectorize my content and you have my search console data as well you can sometimes uh because in semantics actually if you want to do semantic SEO the first thing that you should be doing is decrease the dimensionality because I can't keep adding new data new correlations new causations many other things I my script in the GitHub I have 2,000 columns.
+actually in my profile in GitHub. they actually in my profile in GitHub. they can check the username which is KTG1.
 
-I I have taken everything there.  But actually seeing the most important thing there is you don't need to check 2,000 columns to see how this website is ranking or why it is not ranking.  If you decrease the dimensionality of the data you can just check some simple things there.  For instance, in a simple way just compare actually your crawl frequency to the actual content updateness let's say or your update frequency.  Compare let's say your number of embeddings when you vectorize the content.
+can check the username which is KTG1. can check the username which is KTG1. uh I called it actually s beat which
 
-Compare your number of embeddings to the number of queries that you are ranking for or compare your let's say number of heings to the number of queries or percentage of this impression increases as well.  All these actually will be more helpful for you to see what I should be increasing most in that area.  If you start to deep dive into the every punctuation, every word, every in today's reviews, it's not humanly possible.  Uh on that level, I can say, &gt;&gt; yeah, but I actually think that would be pretty cool to give someone the power to be like, hey, here's your page.  You know, the data technically is available in search console, but it requires I think a little bit of data manipulation to see here's your pages and here's what you're uh getting traffic for, both in terms of impressions and clicks.
+uh I called it actually s beat which uh I called it actually s beat which means search engine result page beating
 
-And I think if people had easier access to this, this would actually educate them on the actual basics of semantic SEO to be like, "Oh, I didn't realize this was an important term. " Or, I mean, I don't know if this is possible.  Do you think it there's a future where the search comes in from something really obscure, so it's not a lot of clicks, but maybe the value of the click is worth more?  So, we have a tool that that has dynamic variables.  So, it's click ID level tracking.
+means search engine result page beating means search engine result page beating which means that actually I just because
 
-So, we can actually map each individual click.  Now, I don't know if Google Search Console has already switched to by the minute or real time data because if you actually know what click came from where, maybe you might be able to match the search query to the actual click going to the affiliate program and actually getting the revenue associated with that click.  &gt;&gt; It is uh it's hard to do because the thing is that they're anonymizing or K anonymizing the data.  Uh if you manage to do that, they will be very against it.  They might sue you.
+which means that actually I just because which means that actually I just because in that script I am checking actually
 
-if possibly or hide it basically from them at least &gt;&gt; or or acquire me.  &gt;&gt; Yeah, that's possibly I mean you can try to run maybe timestamp similarity.  There is an organic click on a certain time stamp and if you are able to also see the session time stamp and if they are close to each other uh closer than let's say 1 second probably it's the same user and from there you can assign basically this user ID below to this clicks and from there you can actually track them but legally I'm not sure how it will be and &gt;&gt; it goes without saying you have to start with the user saying do you agree to these terms and conditions and cookies and you start there with permission Once you have their permission, I mean that would be phenomenal to be able to match the revenue.  &gt;&gt; True.  There is one small tool actually like I guess it was a keyword hero.
+in that script I am checking actually in that script I am checking actually search results every second every second
 
-uh it is a partner of Google Analytics for and they are doing it but they also do it in a like fro not like for every click like a level of clicks they are trying to give you uh but they are having a special permission from Google Analytics as a partner and even it doesn't do more than maybe 25 person I can say &gt;&gt; okay I I've got some homework I'm gonna give it a try because I'm actually building another uh small project where it's basically like it's in I gaming so obviously you have recurring revenue which is valuable to an affiliate.  So the idea is that when you have a newsletter you're usually sending one tracking link to your entire database.  So all users the revenue ends up in a single bucket.  You can't you can't separate it.  But with click ID level tracking what you do is you basically are able to assign a unique click ID to each email.
+search results every second every second search results every second every second I search it then I take the data every
 
-So, if you signed up to one of my newsletters that I've built on the side, it starts with permission and then once you filter the flow, I I sign a unique ID associated to you, that ID is put inside the tracking link and that tracking link shows up into my revenue reports.  So, I I could actually see your last deposit.  Um, so I know if you stop playing at the casino whether the casino removed you from the database because they want to steal from me or you actually generally stop playing.  So um I think there's &gt;&gt; great actually surveillance in that area.  It might be closing a very good good cap gap actually for monetization as well.
+I search it then I take the data every I search it then I take the data every second second second &gt;&gt; the main trick there is you realize that
 
-It's it's a nice nice design.  &gt;&gt; Yeah.  And then of course uh the thing that you could build is taking the user going back to the website as long as they're logged in then you can start putting that parameter in all the pages and going what pages and content are they consuming and as they send emails to you.  So rather than sending a newsletter like email, you actually send a conversational one like, "Hey Karai, how's it going?  I'm curious to know what games you like.
+&gt;&gt; the main trick there is you realize that &gt;&gt; the main trick there is you realize that after a point even every second the
 
-" And as you reply in text, we convert the text, put it into a database if and when it needs to go into a database.  And then u and then I think you can see why I went down the rabbit hole of like, okay, let's start studying rag and vectorizing and all these databases.  And &gt;&gt; so &gt;&gt; yeah, definitely &gt;&gt; that's where I'm at.  &gt;&gt; It's a nice design.  I believe you can if you can basically create it.
+after a point even every second the after a point even every second the rankings are keep actually changing and
 
-I believe it will be worth really good amount of millions of dollars.  &gt;&gt; Yeah.  And I've actually built another component of it which is it starts by taking the user's email and then basically it goes through naden.  So it's like you get one of four messages and it's all like AB split testing and then um based on your response like if you if you view the page or if you click on the link um that all goes back into the database.  So I built a database.
+rankings are keep actually changing and rankings are keep actually changing and there is a pattern in these ranking
 
-I used a Postgress to build it because I thought it might be better when it comes to this AI rag vectorization.  Um, of course you can use almost anything but um that's where I'm at right now.  &gt;&gt; That's also a good plan as well.  And also you can always defend yourself against the casino or whoever basic you are affiliate with.  So it will be a very strict proof actually.
+there is a pattern in these ranking there is a pattern in these ranking changes and after getting let's say
 
-Yeah, I can.  &gt;&gt; And then this is where it can get more uh interesting.  So, not all programs give you click ID level tracking.  So, there's postbacks over here, dynamic variables over here, and then there's a lot of programs that don't have either of them.  Now, if you have a player that's worth a lot of money, what you could do is you can go into the affiliate program, create 100 packing links in advance, and say, I only want to assign these links to players that I know are actually worth something.
+changes and after getting let's say changes and after getting let's say 60,000 snapshots for that data I was
 
-So, you're you're getting the equivalent of a click ID level click, but you're doing it manually, but it's still worth it.  So, if you got a player that's uh spending, let's say, €10,000 per month, um it's worth giving them a custom link.  You know, it's worth actually going customer &gt;&gt; VIP customers deserve VIP IDs basically.  &gt;&gt; Yeah.  That actually uh segments into a question I have about personalization, which is the newsletter is a personalization concept.
+60,000 snapshots for that data I was 60,000 snapshots for that data I was able to actually create the animation of
 
-Um, but do you think that there's a a new world of personalization in terms of like creating the content and going how do we hyperpersonalize this to users with and without them logging in if that makes sense?  &gt;&gt; So when you mean the personalization do you mean personalization of the content on the site or personalization of the content on just a newsletter or &gt;&gt; more on the website?  one.  So that part is a little bit actually bringing me to some of my latest SOPs because I started to differentiate domains from each other because some domains and technically of course as I said earlier too what you do for AI features of Google and for the regular traditional search it's not that different to rank in the AI you have to rank your document if you rank your document your passages are going to be processed and ranked and retrieved if your passages are ranked in the feature snippets or the People also ask also the retrieved and generated and augmented passage also is going to be citing you as well.  But for these money sites usually you also have to balance some sections.
+able to actually create the animation of able to actually create the animation of these ranking changes by seeing that
 
-Let's say I'm searching for car accident attorney Houston for Filipinos or Filipino victims because Filipinos sometimes actually just want a Filipino lawyer for themselves.  And if you keep adding every nationality to your web document then actually you are going to be decreasing the relevance while increasing what Google calls gore.  So the personalization that you do on certain valuable domains rather than making it very explicitly you have to annotate it basic by adding the most important ones and annotate the rest from that class basically.  And there is a second group of domains that actually I call and I started to call them either permanent EMDs or temporary EMDs.  If it's a permanent exact match domain, you can check one of them for instance otoex.
+these ranking changes by seeing that these ranking changes by seeing that every certain site is changing their
 
-com and we ranked it like around just two months and right now it's around 6,000 clicks.  Sorry, 60 days 6,000 clicks already exact mesh domain and it's converting really well on that one for instance.  It's a permanent exact mesh domain that we want to also manipulate every type of surf feature in these ones too.  Actually, I try to be closer to a certain type of vector with your with my brand attribution and the content is adjusted for that.  There is also wasteful domains like I call for the wasteful domains.
+every certain site is changing their every certain site is changing their place with another certain site. It's
 
-For instance, I can actually open any page for any long-term question or whatever.  And that is actually not even a permanent domain that much because all of my social media accounts or social media official accounts or nonofficial accounts and my wasteful domains that I call them, they are all actually adjusted for creating a consensus around the web by actually creating a surrounding sound around my brand and also around my topic.  It is actually called surround sound campaigns as well.  And we try to manipulate LLMs and reach out to these people with hyperfocus and hyper personalization.  Even if that domain doesn't rank for the long term or even if that domain doesn't rank for valuable query terms, it's okay because we target maybe 20 words of queries or sentences or instructions.
+place with another certain site. It's place with another certain site. It's not randomly changing. There is a
 
-So these are usually uh mainly for actually LLM focus domains.  And if you want to do this level of personalization, usually this is what we do.  Beyond that, if I need to do personalization for every landed user to do my web page on that segment, I need to usually use either some JS redirections which Google doesn't like that much because they call it sneaky redirection which might be causing some cannibalization and also canonicalization problems.  If I use uh some let's say different content based on the user agents and user agent IP address or user agent location I need to accept the risk of being diagn diagnosed as cloaking source because if I'm showing a different something for every user including also Google user agents it will be a way of actually cloaking and if I change my URL for some of them but I if I keep it same for some others Again actually it will be seen a bit dangerous by Google bot too.  To increase your chance of success there you can try to see what location Google bot is crawling you and from that location you can always show a certain type of content and for other locations you can show some different content as well but eventually in my experience they will catch &gt;&gt; both.
+not randomly changing. There is a not randomly changing. There is a pattern of these ranking changes from
 
-So if the website is money site I usually try to not do that that much unless they are logged in.  If they locked in, you are safe.  But if you are serving different things to the not locked in users, I usually prefer wasteful domains, which means domains that I can waste easily &gt;&gt; to do these type of things.  That's challenging.  I don't think I've got an answer to to that because like I'll give you the example like we have our website stats drone.
+pattern of these ranking changes from pattern of these ranking changes from second to second. Another thing is that
 
-We're a tool for affiliates, but we have a lot of different uh personas on our website.  We have affiliates, affiliate agencies, affiliate networks, we have SEO affiliates, we have PPC affiliates, uh affiliate managers, operators, and the software.  And it's kind of like trying to create all trying to keep all of them happy is not easy.  But I have some ideas of what pages some of them like to go on.  Uh but there's a lot of the pages where it's actually suitable for everyone.
+second to second. Another thing is that second to second. Another thing is that when I get all these data from the SER,
 
-But it's like I'm trying to go, okay, how do I create content and keep everyone happy?  Like do you think that there's a way where we could have like a instead of a geo bar that says you're from Canada, it could actually be like what is your ICP?  &gt;&gt; Might be also that also in a way that's also working too.  But I believe for this issue there is not a 100% perfect solution.  There might be maybe just one thing that also might be harming less while helping for personalization.
+when I get all these data from the SER, when I get all these data from the SER, I was also scraping the results to see
 
-It's something I usually started to do when these LLM starts to be more important.  I still do it for some pages.  So technically uh I just choose some zones on the web page and I just do personalization for that section and the percentage of content that I change with the personalization is not over 10% of the text.  That's the first thing.  I never personalize the content or customize the content from the important headings or important sections of the HTML.
+I was also scraping the results to see I was also scraping the results to see actually why these websites are changing
 
-The third thing is that if I do personalization, I use data no index snippet which means I tell Googlebot if you come to this page do not index this section of the HTML which decreases its prominence for indexation or rank of or ranking purposes.  By using that approach, I am able to also basically constraint the personalization to the non-important sections and I also tell the search engine it's not for you.  Don't index it as well.  So this is the least or let's say most possible healthy version there.  Still not perfect but it might or at least for LLM angle it is working because for large linkage model sometimes I'm adding very big chunk of text to the bottom but I tell Google bot it's not for you.
+actually why these websites are changing actually why these websites are changing with each other. For instance, the
 
-Don't index it.  don't check it, don't care about it.  &gt;&gt; So this type of maybe differentiation with some certain data snippets instructions actually is helpful.  &gt;&gt; That that might be a good solution.  It's kind of like, you know, let Google know that it's like, hey, I've got five pieces of content.
+with each other. For instance, the with each other. For instance, the second site suddenly becomes seventh.
 
-They're all personalized and it's like one of five personas and it's kind of like, hey, if you're this persona, click here and I'll tell you something you need to know about this page.  &gt;&gt; Yeah.  And it's not for Google bot basically because technically if they see something no index to save the cost they don't even judge it.  They even don't check it.  They have a kinds of basically pattern behavior there.
+second site suddenly becomes seventh. second site suddenly becomes seventh. seventh becomes the second and why
 
-If for instance if the page is no index they even don't render the JavaScript &gt;&gt; to decrease the cost.  So if you say data no snippet uh so data no index for a certain part of HTML they wouldn't run a proper algorithm to check what is actually going on in that area too.  &gt;&gt; Okay.  I've never heard of that before, but you know what?  As we're scraping all these affiliate sites, that's going to be one thing we're going to add to the list.
+seventh becomes the second and why seventh becomes the second and why actually they are replacing each other
 
-We'll be like, who which affiliates do this?  Because my personal take is if it works really well, then we might see some of the best um SEO focused affiliate sites ranking at the top and if they start having these signatures on their code, uh we'll find it and all that.  I believe you can check also Google's own documentation.  They have some of these uh these type of things there as well.  If you create some different URLs uh with JavaScript redirection also try to use there is one instruction that you can use for Google bot it tells until what time it should be crawled.
+actually they are replacing each other actually they are replacing each other based on this let's say data and I was
 
-&gt;&gt; Okay.  &gt;&gt; For instance you create a alternative version and you redirect only that user to the air that zone and you can use base like shorter than two weeks.  They are very tolerant for two weeks time zone for AB testing or for these type of sneaky redirects.  They don't see it's sneaky if it is shorter than two weeks.  If you create an automated URL change system, every two weeks you can change it to another URL and you can again tell after this way it's not needed anymore.
+based on this let's say data and I was based on this let's say data and I was checking let's say whether they have a
 
-So don't try to index it or don't try to canonicalize it.  It's just for some small portion of users for limited number of days.  Basically these type of signals actually can uh let's say help you to personalize the content without being flagged as cloaking source in that area too.  &gt;&gt; So in other words SEO is dead in 2026.  &gt;&gt; Yeah.
+checking let's say whether they have a checking let's say whether they have a number in the first sentence whether
 
-I mean I hope it keeps dying.  As I said whenever it dies we make more money.  So &gt;&gt; no I believe that to be true.  I mean it's kind of weird that I left the affiliate space and I I long time ago I did SEO consulting and I just be like wow if I actually stuck in this space I mean that there's so much money to be made.  Yeah, definitely &gt;&gt; especially in affiliate industry I can tell for let's say Scandinavian countries in I gaming every country like for instance even if you go to the Nigeria especially Nigeria actually they gamble a lot but let's say even Somali even the countries with civil war they keep gambling and &gt;&gt; and the the internet on these countries are virgin and you can easily manipulate things there actually with hack domains expired domains exact mesh domains and many things there so you can use technically.
+number in the first sentence whether number in the first sentence whether they have let's say a certain predicate
 
-&gt;&gt; Yeah, &gt;&gt; it's infinite.  I mean, we we have so many different types of uh affiliate customers.  I mean, we we don't see their data, but I mean, we we a lot of them talk to us and they tell us what they do and it's um yeah, people keep asking us like they're like, "So, SEO is dying, so therefore our business at risk.  I'm at risk, we'd actually be dropping and we keep getting uh we we keep gaining more customers, but we actually are increasing our our our proof like all the time.  It's just like because we have more advanced features and they keep using them and it's like look affiliates is not dying.
+they have let's say a certain predicate they have let's say a certain predicate in the title pack or whether they have
 
-&gt;&gt; True.  I can also tell maybe one definitive thing about whether SEO is going to be dead one day or not.  In my opinion, I say this earlier too and I'm saying it actually with very high confidence.  If you want to kill search engine optimization, first you have to change the economy model.  If you bring communism one day, yes, SEO will be dead with many other things.
+in the title pack or whether they have in the title pack or whether they have an HTML form element converter or any
 
-But as long as you have free markets and the free will, people are going to be searching.  For searching, there will be a search engine.  For search engine, there will be optimization.  It's not going to change.  Maybe you will be searching from your narons.
+an HTML form element converter or any an HTML form element converter or any type of input area if you're able to
 
-Maybe you will be searching direct in your brain.  You won't be looking at the screen.  Maybe you'll be using your brain directly with narrow link or whatever.  But even then there will be search engine optimization even for that too.  Eventually it's going to be always working.
+type of input area if you're able to type of input area if you're able to basically run certain type of let's say
 
-So you need to change economy model to kill it to be honest.  Well, hopefully we don't get the communism version where it's like post on social media can get you in jail.  Will you surges get you in jail?  &gt;&gt; Many other many other things there actually I can't say.  But I believe that's the only way of killing that.
+basically run certain type of let's say basically run certain type of let's say similarity checks or certain type of uh
 
-Other than that, I don't think that it's going to be ever.  It will just keep changing, but it will be also keep existing.  &gt;&gt; All right.  I'm confident in that.  All right.
+similarity checks or certain type of uh similarity checks or certain type of uh let's say entity attribute relations uh
 
-So, I'm going to wrap up with the two more quick questions.  Um, so with this podcast, like I've been doing this for two and a half years.  I haven't actually took a lot of the content from it from audio to text because I used to use descript which is a lot of work in editing but I know that the the tools now are like even easier.  So I'm about to build an edit and automation convert it but I don't want to just publish the transcript blindly.  I want to I want to do lots with this.
+let's say entity attribute relations uh let's say entity attribute relations uh based on these uh let's data that you
 
-So what would you advise whether it's me as a B2B podcast or anyone who's doing a BTOC podcast as an affiliate marketer?  Well, great question actually and again it is touching to the my latest SOP because we created an SOP for law firms and in that SOP we turn every lawyer first into an entity in a knowledge graph then we open official site for them then we create all the social media accounts for them including IMDb professional account then we add every podcast by turning every podcast into entities in IMDb and assigning that lawyer as an actor in the podcast.  &gt;&gt; Okay.  And then to do official site we also keep adding every podcast episode and sometimes we also create a separate site for the podcast itself too.  While doing that we turn every podcast episode to the text because we know that when we keep adding this podcast to the Apple podcast or Spotify or whatever else all of them basic being consolidated by large language models and Google and then they also actually change the large language model answers directly as well.
+based on these uh let's data that you based on these uh let's data that you have. You can actually run these data
 
-So the text there is actually used by LLMs in a very good way.  We distribute to the official side of the entity and to the IMDb and to the many other social media accounts.  And then we also use certain GPTs or N8N as well to turn this transcript or transcripted text to the tweet floats or to the Reddit threads or to the qu basically post and every prompt basically takes the same text and turns it into something else.  Then it doesn't end there.  We also take that episode and we chunk it to the smaller pieces because episode is designed in that way and then we also add a kind of uh sound way to do that that thing.
+have. You can actually run these data have. You can actually run these data with the historical changes of Google
 
-We turn it into a video then we post it to the YouTube and then also we basically make it YouTube shorts and Tik Tok shorts, Facebook short videos and many other things as well.  So it is a kind of content reformatting, repurposing and syndicating with different angles.  Then you will see that actually you are creating so much content from alternative sources with every type of format like text content, audio content, video content and then eventually you start to change the answers of LLMs as well because the moment that you're an entity and the moment that you have too many documents and the pages that are mentioning you, LM also start to site you and since we have too many law firms as well, we also say things like this a law site says that basically owner of this law firm from California states that we keep citing you.  We keep mentioning you from other low sites as well which also creates one more time entitization and also trust around that specific entity and his or her works as well.  So this will be one of the things that people can do.
+with the historical changes of Google with the historical changes of Google and you can see what websites are
 
-&gt;&gt; Okay.  So basically if you weren't doing a podcast before this is a great way to build authority plus content.  &gt;&gt; Definitely.  &gt;&gt; Okay.  So I did the right thing years ago without realizing what I was doing.
+and you can see what websites are and you can see what websites are actually increasing in the rankings and
 
-I was like, "Let me just do this and figure it out and try to get some customers and it's paid off in more ways than one. " &gt;&gt; Definitely.  &gt;&gt; Second question is uh Yeah.  So, we have uh over a few thousand affiliate program reviews.  We have a site um that we compete with.
+actually increasing in the rankings and actually increasing in the rankings and what websites actually are not what websites actually are not what websites actually are not performing that well which will be a
 
-It's not a direct product compare uh competition, but it is uh get lasso. co.  So, they have affiliate program categories and reviews of affiliate programs.  I do think their content is paper thin.  Doesn't matter.
+performing that well which will be a performing that well which will be a great actually snapshot of everything.
 
-They rank really well.  uh what should we be doing to improve our rankings and authority for we want to be like the number one affiliate marketing company like when it comes to the B2B side so in that area actually I can tell that many people focus on actually the text mainly around 2023 even the half of the 2024 it was still the main focus but right now Google is mainly focusing on your layout okay &gt;&gt; they are able to understand whether you are AI generated or not from the or visual semantics.  I will give two names.  One of them is Alexander Nayor.  The other one is a Michael Benderki.
+great actually snapshot of everything. great actually snapshot of everything. Other way you have to spend like your
 
-If you check these two people, you will see they are reshaping the goals ranking algorithm right now and they heavily focus on your layout.  If you're able to use annotations and specific visual semantics by putting the same data in a better structured visual way, you can again keep increasing your rankings in a better way as well.  I will be focusing on a little bit in layout there.  The second thing is that without bloating the page too much.  I will try to add more information with the same data.
+Other way you have to spend like your Other way you have to spend like your three months click here, click there,
 
-Even if the data is same, you can interpret the data in a different way as well.  You can add different comparisons, different declarations or different let's say uh clarifications around them.  One more thing is that defining a concept is always making you an authority whenever that concept exists in the queries.  If you want to be an authority on B2B affilate defining B2B marketing and also affilate marketing and connecting these two each other and distributing all these links and authority back to your review pages will be a good approach as well in the period.  Okay, that was &gt;&gt; pretty good.
+three months click here, click there, three months click here, click there, check this and check that and if you
 
-And just something that I wanted to share that because we have this this uh research tool for affiliates linking to operators, we want to try to put that data back into the reviews to say what are some of the affiliates linking to this this brand.  Um and then also the increase or decrease of links because we think that's actually a signal where it's like what happens when the five biggest gaming affiliates remove a brand.  That's a pretty strong signal there.  We don't know what's behind it, but it could be it.  It's just not good.
+check this and check that and if you check this and check that and if you have the data already with your tool it
 
-Let's put it that way.  One more thing is that by the way you can also try to defend these user generated content signals by adding submit a question feature or by asking people would you vote this let's say a late program let's say for this this this criteria and then if you go to the Google open the visa AI overview future by using let's say USA VPN or whatever and just try to search for this give me top 20 a programs for these three criteria whenever you change these three criterias you they're going to see that the answer is changing and it means that actually they are able to judge basically for these criterias in a very clear way.  If you add these criterias and comparison for these criterias, definitions for these criterias and also if you allow users also review these programs or products or services for these criterias that will be a very good approach there as well.  For many sus we use this de top five up to 20 for this with criteria results.  We secrete these results.
+have the data already with your tool it have the data already with your tool it will be helping actually greatly for the
 
-Then we try to see which criteria is associated with which product, service or brand.  And from there we try to actually exchange the consensus with the wasteful domains as I explained earlier.  &gt;&gt; Okay, I got lots of homework to do.  I got so many pages of notes.  So let's end it there.
+will be helping actually greatly for the will be helping actually greatly for the plate marketers. Okay, that was called
 
-Uh Karai, thanks for for doing this.  I want to pass it back to you.  How can people get a hold of you and tell me what's new on your site?  &gt;&gt; Thank you so much.  And I am active in Facebook, LinkedIn, Twitter and in other places.
+plate marketers. Okay, that was called plate marketers. Okay, that was called search B.
 
-And if you want to join to our coach topical authority or you can join to our community as well.  And if you want to see me in person, you can come to the Kushasa Turkey during the September always.  We have a mastermind for seven days and probably we'll be focusing on a launch of a new course and a new sus in 2027.  We are actually planning for mainly semantics.  We are starting the design and also coding it as well.
+search B. search B. &gt;&gt; Uh, search B. Search beats. Let me just
 
-But I won't I'm not going to be announced officially until I I trust the sauce as well.  And that's it.  Awesome.  Uh, I got to make my way to Turkey to hang out at your event.  So, I'm gonna put it on the calendar and if another event has to move, uh, we'll see what we can do.
+&gt;&gt; Uh, search B. Search beats. Let me just &gt;&gt; Uh, search B. Search beats. Let me just find it. find it. find it. &gt;&gt; Search. &gt;&gt; Search. &gt;&gt; Search. &gt;&gt; Yeah, maybe I have.
 
-&gt;&gt; Thank you so much.  &gt;&gt; Thank you.  Thank you as well.  Bye.  Bye.
+&gt;&gt; Yeah, maybe I have. &gt;&gt; Yeah, maybe I have. &gt;&gt; I think I'll be able to find it.
 
-&gt;&gt; Damn, that was an intense episode.  Um, I told Karai that, you know, this would probably be a 20 to 30 minute chat and we went close to an hour.  Uh we chatted a little bit before and after the podcast recording and yeah we just talked about a lot of things in the SEO space.  I think uh Karai is possibly one of the more misunderstood SEOs in the world.  Um misunderstood because I think he attacks uh SEO from a different angle and I think he's actually been doing it in an an advanced way for many years.
+&gt;&gt; I think I'll be able to find it. &gt;&gt; I think I'll be able to find it. &gt;&gt; Yeah, it's in my basic GitHub. It's
 
-I think it's actually now because we've got uh the world of AI and people are starting to talk about LLMs and rag and you know vectorizing databases that all the stuff Karai was working on years ago.  Um it's almost like it came true.  Um so I I got a lot of really good ideas out of this podcast.  I hope you did too.  Um I'm personally planning to listen to this a couple more times.
+&gt;&gt; Yeah, it's in my basic GitHub. It's &gt;&gt; Yeah, it's in my basic GitHub. It's directly there. And I created it like
 
-So the next flight I go on I'm going to listen to this episode and I'm going to take my pen and paper and just write some notes.  So very grateful to have a this chat with Karai.  Um still buzzing from doing the recording and he was one of the more uh downloaded episodes we've had in the last couple years and I think this one is probably going to beat it and it's going to be just new content that's relevant for today.  And for those that have kind of uh maybe thought that you know Cry was just talking too much about semantic SEO.  Well, semantic SEO is a real thing, but it goes deeper beyond just kind of, you know, doing eat and uh topical authority.
+directly there. And I created it like directly there. And I created it like there is also a webinar that I did there is also a webinar that I did there is also a webinar that I did earlier with Ranksense from Hamlet
 
-It's you can take it to another level.  And I think in the world we live in today with AI, there's definitely a lot of opportunities here.
+earlier with Ranksense from Hamlet earlier with Ranksense from Hamlet Batista. Batista. Batista. &gt;&gt; Okay. &gt;&gt; Okay. &gt;&gt; Okay. &gt;&gt; He's not around with us anymore
+
+&gt;&gt; He's not around with us anymore &gt;&gt; He's not around with us anymore unfortunately due to the co uh
+
+unfortunately due to the co uh unfortunately due to the co uh situation. uh but he he was also doing
+
+situation. uh but he he was also doing situation. uh but he he was also doing great things here and I just wanted to great things here and I just wanted to great things here and I just wanted to show him to this and he wanted to do the
+
+show him to this and he wanted to do the show him to this and he wanted to do the webinar as well.
+
+webinar as well. webinar as well. &gt;&gt; Okay. So yeah, like I said this uh I I
+
+&gt;&gt; Okay. So yeah, like I said this uh I I &gt;&gt; Okay. So yeah, like I said this uh I I went down a rabbit hole a couple months
+
+went down a rabbit hole a couple months went down a rabbit hole a couple months ago spending more time doing um uh
+
+ago spending more time doing um uh ago spending more time doing um uh building products with AI tools and then
+
+building products with AI tools and then building products with AI tools and then I'm reading a book and the book is I'm reading a book and the book is I'm reading a book and the book is called um semantic AI search with vector
+
+called um semantic AI search with vector called um semantic AI search with vector databases by I don't know if I'm
+
+databases by I don't know if I'm databases by I don't know if I'm pronouncing the name properly but it's pronouncing the name properly but it's pronouncing the name properly but it's Emlit B H O T E. uh it came out recently
+
+Emlit B H O T E. uh it came out recently Emlit B H O T E. uh it came out recently and uh I'm doing this because of that
+
+and uh I'm doing this because of that and uh I'm doing this because of that project I mentioned before. So I'm like
+
+project I mentioned before. So I'm like project I mentioned before. So I'm like okay I need to start analyzing databases
+
+okay I need to start analyzing databases okay I need to start analyzing databases and getting better with like um you know
+
+and getting better with like um you know and getting better with like um you know just doing search. So what you just said
+
+just doing search. So what you just said just doing search. So what you just said uh a couple minutes ago. So would you
+
+uh a couple minutes ago. So would you uh a couple minutes ago. So would you say that people should take the content
+
+say that people should take the content say that people should take the content of their own site and also vectorize it
+
+of their own site and also vectorize it of their own site and also vectorize it and maybe produce a better search engine
+
+and maybe produce a better search engine and maybe produce a better search engine within their own site?
+
+within their own site? within their own site? So uh if you have programmatic SEO site
+
+So uh if you have programmatic SEO site So uh if you have programmatic SEO site let's say you are ranking for 7,000
+
+let's say you are ranking for 7,000 let's say you are ranking for 7,000 setrains like in the CBD niche in that
+
+setrains like in the CBD niche in that setrains like in the CBD niche in that case managing that content is going to
+
+case managing that content is going to case managing that content is going to be really hard. If you have 40,000
+
+be really hard. If you have 40,000 be really hard. If you have 40,000 products in your ecom site again it's
+
+products in your ecom site again it's products in your ecom site again it's going to be very hard for you to going to be very hard for you to going to be very hard for you to actually manage everything. If the
+
+actually manage everything. If the actually manage everything. If the project site is big I will definitely
+
+project site is big I will definitely project site is big I will definitely vectorize it and I would actually also
+
+vectorize it and I would actually also vectorize it and I would actually also standardize my sentence structures. For
+
+standardize my sentence structures. For standardize my sentence structures. For instance, when I create a templated
+
+instance, when I create a templated instance, when I create a templated content to decrease the repetitiveness
+
+content to decrease the repetitiveness content to decrease the repetitiveness and increase the originality, I use
+
+and increase the originality, I use and increase the originality, I use certain type of synonymizations or I
+
+certain type of synonymizations or I certain type of synonymizations or I change word orders and I try to add also
+
+change word orders and I try to add also change word orders and I try to add also uh let's say different criterias because
+
+uh let's say different criterias because uh let's say different criterias because in Google's language system they have
+
+in Google's language system they have in Google's language system they have four main actually principle. One of
+
+four main actually principle. One of four main actually principle. One of them is factual content, opinionated
+
+them is factual content, opinionated them is factual content, opinionated content, structured content and
+
+content, structured content and content, structured content and unsstructured content. Which means some
+
+unsstructured content. Which means some unsstructured content. Which means some sections of the content should be tables
+
+sections of the content should be tables sections of the content should be tables and the lists which is structured. Some
+
+and the lists which is structured. Some and the lists which is structured. Some sections should be paragraph and some
+
+sections should be paragraph and some sections should be paragraph and some sections especially should be reflecting
+
+sections especially should be reflecting sections especially should be reflecting opinionated angles uh perspectives and
+
+opinionated angles uh perspectives and opinionated angles uh perspectives and the experiences as happens in the Reddit
+
+the experiences as happens in the Reddit the experiences as happens in the Reddit or qu or any type of social media site
+
+or qu or any type of social media site or qu or any type of social media site you should include these angles there.
+
+you should include these angles there. you should include these angles there. And when I do these type of And when I do these type of And when I do these type of vectorizations, I'm able to see the
+
+vectorizations, I'm able to see the vectorizations, I'm able to see the percentage of factual content or
+
+percentage of factual content or percentage of factual content or percentage of opinionated content which
+
+percentage of opinionated content which percentage of opinionated content which actually helps me to correlate it with
+
+actually helps me to correlate it with actually helps me to correlate it with the affiliated especially for the
+
+the affiliated especially for the the affiliated especially for the affiliate industry is important because
+
+affiliate industry is important because affiliate industry is important because since 2023 the the content that is
+
+since 2023 the the content that is since 2023 the the content that is factual with certain perspectives also
+
+factual with certain perspectives also factual with certain perspectives also reflected in the language is actually
+
+reflected in the language is actually reflected in the language is actually favored by Google especially user
+
+favored by Google especially user favored by Google especially user generated content heavily has been
+
+generated content heavily has been generated content heavily has been promoted already even Google's API leak.
+
+promoted already even Google's API leak. promoted already even Google's API leak. If you go to the Google's content API
+
+If you go to the Google's content API If you go to the Google's content API leak for content warehouse API league
+
+leak for content warehouse API league leak for content warehouse API league and if you search there UGC especially
+
+and if you search there UGC especially and if you search there UGC especially UGC change frequency you will see that
+
+UGC change frequency you will see that UGC change frequency you will see that there are lots of metals there to see
+
+there are lots of metals there to see there are lots of metals there to see actually how frequently the user
+
+actually how frequently the user actually how frequently the user generated content is changing there. If
+
+generated content is changing there. If generated content is changing there. If you go to the Google's quality you go to the Google's quality you go to the Google's quality guideline, you will see human effort.
+
+guideline, you will see human effort. guideline, you will see human effort. Total human effort is a really important
+
+Total human effort is a really important Total human effort is a really important signal and you can see also content
+
+signal and you can see also content signal and you can see also content effort as a property in API lead and
+
+effort as a property in API lead and effort as a property in API lead and they say that content effort is measured
+
+they say that content effort is measured they say that content effort is measured with large language models. So in short,
+
+with large language models. So in short, with large language models. So in short, vectorization will be very smart
+
+vectorization will be very smart vectorization will be very smart especially changing thousands of pages
+
+especially changing thousands of pages especially changing thousands of pages programmatically while also doing that
+
+programmatically while also doing that programmatically while also doing that try to decrease repetitiveness to signal
+
+try to decrease repetitiveness to signal try to decrease repetitiveness to signal originality as well.
+
+originality as well. originality as well. Okay, that was pretty heavy. Uh we we
+
+Okay, that was pretty heavy. Uh we we Okay, that was pretty heavy. Uh we we were just kind of like joking earlier
+
+were just kind of like joking earlier were just kind of like joking earlier that, you know, as I was studying this
+
+that, you know, as I was studying this that, you know, as I was studying this stuff and reading this books, I'm like, stuff and reading this books, I'm like, stuff and reading this books, I'm like, "Wait a minute, you were talking about "Wait a minute, you were talking about "Wait a minute, you were talking about this stuff like four years ago or
+
+this stuff like four years ago or this stuff like four years ago or longer." And it's like, you know, I I
+
+longer." And it's like, you know, I I longer." And it's like, you know, I I thought I understood semantic SEO, but
+
+thought I understood semantic SEO, but thought I understood semantic SEO, but now that I'm going deeper down the now that I'm going deeper down the now that I'm going deeper down the rabbit hole of studying like how Google
+
+rabbit hole of studying like how Google rabbit hole of studying like how Google works, um vectorizing of content, um the
+
+works, um vectorizing of content, um the works, um vectorizing of content, um the databases, um I realize like it's a lot
+
+databases, um I realize like it's a lot databases, um I realize like it's a lot deeper. And I think you said earlier
+
+deeper. And I think you said earlier deeper. And I think you said earlier that you believe that a lot of people
+
+that you believe that a lot of people that you believe that a lot of people didn't understand semantic SEO back then
+
+didn't understand semantic SEO back then didn't understand semantic SEO back then and maybe a lot of them still won't
+
+and maybe a lot of them still won't and maybe a lot of them still won't today.
+
+today. today. I believe the the majority of them
+
+I believe the the majority of them I believe the the majority of them already already left SEO. That's why
+
+already already left SEO. That's why already already left SEO. That's why actually the industry right now has a
+
+actually the industry right now has a actually the industry right now has a better focus for engineering and they
+
+better focus for engineering and they better focus for engineering and they have a higher way higher respect. And I
+
+have a higher way higher respect. And I have a higher way higher respect. And I already know that actually when I did already know that actually when I did already know that actually when I did the interview with Matt Deidi years ago,
+
+the interview with Matt Deidi years ago, the interview with Matt Deidi years ago, I know that actually some people were
+
+I know that actually some people were I know that actually some people were saying that oh topical maps or topical
+
+saying that oh topical maps or topical saying that oh topical maps or topical authority it will be just for seven days
+
+authority it will be just for seven days authority it will be just for seven days thing people will forget that and these
+
+thing people will forget that and these thing people will forget that and these people right now they are trying to sell
+
+people right now they are trying to sell people right now they are trying to sell topical maps and they are trying to
+
+topical maps and they are trying to topical maps and they are trying to actually try to own even the concept of
+
+actually try to own even the concept of actually try to own even the concept of topical authority and yes years ago when
+
+topical authority and yes years ago when topical authority and yes years ago when we were explaining these things some
+
+we were explaining these things some we were explaining these things some people were claiming that we are trying people were claiming that we are trying people were claiming that we are trying to make the SEO harder. Now actually we
+
+to make the SEO harder. Now actually we to make the SEO harder. Now actually we were trying to let you know that these were trying to let you know that these were trying to let you know that these are coming for your your way and people
+
+are coming for your your way and people are coming for your your way and people who saw it they joined the community and
+
+who saw it they joined the community and who saw it they joined the community and they basically do a great work right
+
+they basically do a great work right they basically do a great work right now. We published as I said ear to like
+
+now. We published as I said ear to like now. We published as I said ear to like around 400 success shares in the
+
+around 400 success shares in the around 400 success shares in the community publicly and the ones that
+
+community publicly and the ones that community publicly and the ones that they didn't follow I believe they left
+
+they didn't follow I believe they left they didn't follow I believe they left the industry already and or either they
+
+the industry already and or either they the industry already and or either they are trying to read adapt from a certain
+
+are trying to read adapt from a certain are trying to read adapt from a certain level but I can tell that especially if
+
+level but I can tell that especially if level but I can tell that especially if you started SEO around 2012 13 uh I
+
+you started SEO around 2012 13 uh I you started SEO around 2012 13 uh I usually see two type of people like
+
+usually see two type of people like usually see two type of people like there for instance in our mastermind in
+
+there for instance in our mastermind in there for instance in our mastermind in Turkey there was a person I can name
+
+Turkey there was a person I can name Turkey there was a person I can name Luke Bustin he is from UK and he's a
+
+Luke Bustin he is from UK and he's a Luke Bustin he is from UK and he's a great person and He actually improved
+
+great person and He actually improved great person and He actually improved himself greatly. He studied the course.
+
+himself greatly. He studied the course. himself greatly. He studied the course. He even went to the actually information
+
+He even went to the actually information He even went to the actually information retrieval conferences and he said to me
+
+retrieval conferences and he said to me retrieval conferences and he said to me that uh professors in the area of
+
+that uh professors in the area of that uh professors in the area of information retrieval they actually hate
+
+information retrieval they actually hate information retrieval they actually hate SEOs because whenever we go to a
+
+SEOs because whenever we go to a SEOs because whenever we go to a conference we try to monetize their
+
+conference we try to monetize their conference we try to monetize their knowledge and they hate from that
+
+knowledge and they hate from that knowledge and they hate from that situation. So Luke Baston here is a good
+
+situation. So Luke Baston here is a good situation. So Luke Baston here is a good example. He changed he started on that
+
+example. He changed he started on that example. He changed he started on that era and he changed developed or
+
+era and he changed developed or era and he changed developed or developed new skills and understanding
+
+developed new skills and understanding developed new skills and understanding and majority of them the people who
+
+and majority of them the people who and majority of them the people who started SEO around 2010s I believe they
+
+started SEO around 2010s I believe they started SEO around 2010s I believe they still have old habits and majority of
+
+still have old habits and majority of still have old habits and majority of them left SEO by saying SEO is that
+
+them left SEO by saying SEO is that them left SEO by saying SEO is that already I can tell that the year that
+
+already I can tell that the year that already I can tell that the year that people claim that SEO is that was the
+
+people claim that SEO is that was the people claim that SEO is that was the year that actually we did the most money
+
+year that actually we did the most money year that actually we did the most money already. So I'm very happy that it is
+
+already. So I'm very happy that it is already. So I'm very happy that it is keep dying. keep dying. keep dying. &gt;&gt; Yeah. &gt;&gt; Yeah. &gt;&gt; Yeah. A and the irony would you say this is
+
+A and the irony would you say this is A and the irony would you say this is true or maybe not true that with the new
+
+true or maybe not true that with the new true or maybe not true that with the new AI tools that are available that it's
+
+AI tools that are available that it's AI tools that are available that it's actually making semantic SEO a lot
+
+actually making semantic SEO a lot actually making semantic SEO a lot easier to get into like a lot easier to
+
+easier to get into like a lot easier to easier to get into like a lot easier to understand maybe even the research
+
+understand maybe even the research understand maybe even the research itself. I actually agree with that out
+
+itself. I actually agree with that out itself. I actually agree with that out of three four reasons because when I was
+
+of three four reasons because when I was of three four reasons because when I was starting these things around 2017 to
+
+starting these things around 2017 to starting these things around 2017 to just read a single patent I was spending
+
+just read a single patent I was spending just read a single patent I was spending my heart because you need to keep
+
+my heart because you need to keep my heart because you need to keep everything in your memory and you need
+
+everything in your memory and you need everything in your memory and you need to remember okay I I remember this
+
+to remember okay I I remember this to remember okay I I remember this engineer and he mentions this then there
+
+engineer and he mentions this then there engineer and he mentions this then there is another pattern that mentions the
+
+is another pattern that mentions the is another pattern that mentions the same thing and what is the relation same thing and what is the relation same thing and what is the relation between these two it was like a
+
+between these two it was like a between these two it was like a journalism I could analyze even I don't
+
+journalism I could analyze even I don't journalism I could analyze even I don't know Satam Hussein's actually government
+
+know Satam Hussein's actually government know Satam Hussein's actually government in the same way it it was a heavy work
+
+in the same way it it was a heavy work in the same way it it was a heavy work actually but Today you just actually
+
+actually but Today you just actually actually but Today you just actually give a patent to CH GBT and tell explain
+
+give a patent to CH GBT and tell explain give a patent to CH GBT and tell explain it to me and he actually explains
+
+it to me and he actually explains it to me and he actually explains everything to you and then also he it
+
+everything to you and then also he it everything to you and then also he it tells you what other patterns exist from
+
+tells you what other patterns exist from tells you what other patterns exist from the same engineers. It makes things very
+
+the same engineers. It makes things very the same engineers. It makes things very way very way very easier. I can tell
+
+way very way very easier. I can tell way very way very easier. I can tell sometimes of course it it is sometimes of course it it is sometimes of course it it is hallucinating by giving some fancy
+
+hallucinating by giving some fancy hallucinating by giving some fancy random verse that doesn't have a proper
+
+random verse that doesn't have a proper random verse that doesn't have a proper meaning on that section. You should of
+
+meaning on that section. You should of meaning on that section. You should of course cow shoes but I believe it made
+
+course cow shoes but I believe it made course cow shoes but I believe it made everything way easier because you can
+
+everything way easier because you can everything way easier because you can give a pro typos a paragraph to GBT and
+
+give a pro typos a paragraph to GBT and give a pro typos a paragraph to GBT and ask the GBT basles here entities the
+
+ask the GBT basles here entities the ask the GBT basles here entities the attributes or what are the sentence
+
+attributes or what are the sentence attributes or what are the sentence let's say number of unique words in this
+
+let's say number of unique words in this let's say number of unique words in this area or what are the let's say hypermes
+
+area or what are the let's say hypermes area or what are the let's say hypermes or the hyponyms and they are passed
+
+or the hyponyms and they are passed or the hyponyms and they are passed there and you can see the anotomy of
+
+there and you can see the anotomy of there and you can see the anotomy of semantics in every text unit easily with
+
+semantics in every text unit easily with semantics in every text unit easily with the LLM so it makes it easier in my
+
+the LLM so it makes it easier in my the LLM so it makes it easier in my opinion 17
+
+opinion 17 opinion 17 Then would you say that can like are we
+
+Then would you say that can like are we Then would you say that can like are we here today where I can go into Gemini
+
+here today where I can go into Gemini here today where I can go into Gemini perplexity and be okay I need you to act
+
+perplexity and be okay I need you to act perplexity and be okay I need you to act like you're Karai and I want you to be
+
+like you're Karai and I want you to be like you're Karai and I want you to be my my SEO advisor um analyze my site
+
+my my SEO advisor um analyze my site my my SEO advisor um analyze my site what should I be doing read all of
+
+what should I be doing read all of what should I be doing read all of Karay's uh material uh download all the
+
+Karay's uh material uh download all the Karay's uh material uh download all the podcasts through what is it notebook LLM
+
+podcasts through what is it notebook LLM podcasts through what is it notebook LLM and and and &gt;&gt; they do it already my community already
+
+&gt;&gt; they do it already my community already &gt;&gt; they do it already my community already do that and they keep sharing actually
+
+do that and they keep sharing actually do that and they keep sharing actually my core box they call it And they it
+
+my core box they call it And they it my core box they call it And they it also works too because for instance I
+
+also works too because for instance I also works too because for instance I don't remember every podcast that I did don't remember every podcast that I did don't remember every podcast that I did like through the years but AI remembers
+
+like through the years but AI remembers like through the years but AI remembers it sites these things very in a very
+
+it sites these things very in a very it sites these things very in a very good way and finds all the connections
+
+good way and finds all the connections good way and finds all the connections and suggest in a very structured way I
+
+and suggest in a very structured way I and suggest in a very structured way I can site that actually it already works
+
+can site that actually it already works can site that actually it already works and many people in our comments already
+
+and many people in our comments already and many people in our comments already actually is using them.
+
+actually is using them. actually is using them. &gt;&gt; Okay. I I need to look up some krybots
+
+&gt;&gt; Okay. I I need to look up some krybots &gt;&gt; Okay. I I need to look up some krybots but uh I did try to try a couple
+
+but uh I did try to try a couple but uh I did try to try a couple examples of that before recording so I
+
+examples of that before recording so I examples of that before recording so I was like I'm sure I could do this right
+
+was like I'm sure I could do this right was like I'm sure I could do this right now. Yeah, definitely. I believe so.
+
+now. Yeah, definitely. I believe so. now. Yeah, definitely. I believe so. &gt;&gt; Okay. So, over the last couple years,
+
+&gt;&gt; Okay. So, over the last couple years, &gt;&gt; Okay. So, over the last couple years, I've interviewed so many different SEO
+
+I've interviewed so many different SEO I've interviewed so many different SEO people and there's always been constant
+
+people and there's always been constant people and there's always been constant talk about both AI and AI with content
+
+talk about both AI and AI with content talk about both AI and AI with content uh generation. And I've been personally
+
+uh generation. And I've been personally uh generation. And I've been personally scared about using AI because I've seen
+
+scared about using AI because I've seen scared about using AI because I've seen some people brag about how they use AI
+
+some people brag about how they use AI some people brag about how they use AI to make all this money and then they to make all this money and then they to make all this money and then they went quiet because their site got
+
+went quiet because their site got went quiet because their site got destroyed. And I've seen a lot of destroyed. And I've seen a lot of destroyed. And I've seen a lot of destroyed websites. So is there a right
+
+destroyed websites. So is there a right destroyed websites. So is there a right way of do of not only using AI for
+
+way of do of not only using AI for way of do of not only using AI for content research but actually creating
+
+content research but actually creating content research but actually creating content itself? I believe there is
+
+content itself? I believe there is content itself? I believe there is because we created actually AI websites
+
+because we created actually AI websites because we created actually AI websites in 2021 way before CH DBT and I
+
+in 2021 way before CH DBT and I in 2021 way before CH DBT and I explained these actually websites in my
+
+explained these actually websites in my explained these actually websites in my Saigon speech in 2023 and I remembered
+
+Saigon speech in 2023 and I remembered Saigon speech in 2023 and I remembered actually how people were shocked on that
+
+actually how people were shocked on that actually how people were shocked on that speech too because they saw it already
+
+speech too because they saw it already speech too because they saw it already because they were already discussing
+
+because they were already discussing because they were already discussing this like is it safe or not and when I
+
+this like is it safe or not and when I this like is it safe or not and when I showed them the websites that actually showed them the websites that actually showed them the websites that actually already are hit even two years earlier
+
+already are hit even two years earlier already are hit even two years earlier than GBT era they were understanding
+
+than GBT era they were understanding than GBT era they were understanding okay this is already actually covered by
+
+okay this is already actually covered by okay this is already actually covered by Google but the main thing there is they
+
+Google but the main thing there is they Google but the main thing there is they usually cover it from your momentum
+
+usually cover it from your momentum usually cover it from your momentum because when I created a topical because when I created a topical because when I created a topical authority concept I say that there are
+
+authority concept I say that there are authority concept I say that there are three principles you cover it actually
+
+three principles you cover it actually three principles you cover it actually wider you cover it deeper and you cover
+
+wider you cover it deeper and you cover wider you cover it deeper and you cover it faster the fast section I called it
+
+it faster the fast section I called it it faster the fast section I called it momentum if you cover a topic let's say
+
+momentum if you cover a topic let's say momentum if you cover a topic let's say you publish 8,000
+
+you publish 8,000 you publish 8,000 uh strange pages on one day initially it
+
+uh strange pages on one day initially it uh strange pages on one day initially it ranks really greatly it indexes very
+
+ranks really greatly it indexes very ranks really greatly it indexes very fast but after like around average six
+
+fast but after like around average six fast but after like around average six weeks later your website is going to be
+
+weeks later your website is going to be weeks later your website is going to be hit and it will be dropping in a very
+
+hit and it will be dropping in a very hit and it will be dropping in a very great way So that's why I usually
+
+great way So that's why I usually great way So that's why I usually suggest actually for momentum stay in
+
+suggest actually for momentum stay in suggest actually for momentum stay in the human range. Don't publish
+
+the human range. Don't publish the human range. Don't publish everything at the same time but just
+
+everything at the same time but just everything at the same time but just distribute it at a time. The second part
+
+distribute it at a time. The second part distribute it at a time. The second part is that the humanization is a big part
+
+is that the humanization is a big part is that the humanization is a big part because we always have a blacklisted
+
+because we always have a blacklisted because we always have a blacklisted blacklisted nouns, blacklisted adverbs,
+
+blacklisted nouns, blacklisted adverbs, blacklisted nouns, blacklisted adverbs, blacklisted adjectives because if you
+
+blacklisted adjectives because if you blacklisted adjectives because if you look at the AI, it is actually called
+
+look at the AI, it is actually called look at the AI, it is actually called statistical semantics because AI
+
+statistical semantics because AI statistical semantics because AI distributes certain type of verbs
+
+distributes certain type of verbs distributes certain type of verbs together with certain co occurrences and
+
+together with certain co occurrences and together with certain co occurrences and this usually called actually styometric.
+
+this usually called actually styometric. this usually called actually styometric. It has a style already. When you see
+
+It has a style already. When you see It has a style already. When you see that style, when you go beyond that
+
+that style, when you go beyond that that style, when you go beyond that actually let's say ordinary people's
+
+actually let's say ordinary people's actually let's say ordinary people's angle and when you see actually the
+
+angle and when you see actually the angle and when you see actually the anatomy of the text that it creates
+
+anatomy of the text that it creates anatomy of the text that it creates you're able to actually hide the you're able to actually hide the you're able to actually hide the signatures in a better way because I'm
+
+signatures in a better way because I'm signatures in a better way because I'm able to say that never use this word
+
+able to say that never use this word able to say that never use this word always replace it with one of these
+
+always replace it with one of these always replace it with one of these actually synonyms you're able to create
+
+actually synonyms you're able to create actually synonyms you're able to create a decision tree for your own industry by
+
+a decision tree for your own industry by a decision tree for your own industry by giving an SEO dictionary sentence
+
+giving an SEO dictionary sentence giving an SEO dictionary sentence structures and order of these sentences
+
+structures and order of these sentences structures and order of these sentences and you can always actually create
+
+and you can always actually create and you can always actually create unique content thanks to that but you
+
+unique content thanks to that but you unique content thanks to that but you should have very strict system
+
+should have very strict system should have very strict system instructions and a very let's say a good
+
+instructions and a very let's say a good instructions and a very let's say a good uh blacklisted word uh component to
+
+uh blacklisted word uh component to uh blacklisted word uh component to actually write it in a proper way but it
+
+actually write it in a proper way but it actually write it in a proper way but it works already. works already. works already. &gt;&gt; So maybe a quick example of this would
+
+&gt;&gt; So maybe a quick example of this would &gt;&gt; So maybe a quick example of this would be let's say if you want to do 8,000
+
+be let's say if you want to do 8,000 be let's say if you want to do 8,000 affiliate program reviews you do it all
+
+affiliate program reviews you do it all affiliate program reviews you do it all at once you're risking a problem but in
+
+at once you're risking a problem but in at once you're risking a problem but in order to get through 8,000 human you
+
+order to get through 8,000 human you order to get through 8,000 human you know reviews of 500 words that's going
+
+know reviews of 500 words that's going know reviews of 500 words that's going to take a long time. So maybe as an idea
+
+to take a long time. So maybe as an idea to take a long time. So maybe as an idea that you could kind of take like a like
+
+that you could kind of take like a like that you could kind of take like a like create mini databases where you know
+
+create mini databases where you know create mini databases where you know someone's manually going through the
+
+someone's manually going through the someone's manually going through the current site um they're trying to
+
+current site um they're trying to current site um they're trying to document what they see maybe even what's
+
+document what they see maybe even what's document what they see maybe even what's been written on the internet about them
+
+been written on the internet about them been written on the internet about them and then kind of like do a mini summary
+
+and then kind of like do a mini summary and then kind of like do a mini summary feed that into AI and then use that for
+
+feed that into AI and then use that for feed that into AI and then use that for &gt;&gt; there is example site for it actually I
+
+&gt;&gt; there is example site for it actually I &gt;&gt; there is example site for it actually I always give that website as a bad
+
+always give that website as a bad always give that website as a bad example and as a good example though it
+
+example and as a good example though it example and as a good example though it is topfires reviews.com it should be as
+
+is topfires reviews.com it should be as is topfires reviews.com it should be as much as I can remember it's a good
+
+much as I can remember it's a good much as I can remember it's a good example because it's also programmatic.
+
+example because it's also programmatic. example because it's also programmatic. It always uses actually Amazon reviews.
+
+It always uses actually Amazon reviews. It always uses actually Amazon reviews. &gt;&gt; In my Sophia speech in 2024, I explained
+
+&gt;&gt; In my Sophia speech in 2024, I explained &gt;&gt; In my Sophia speech in 2024, I explained actually how we use existing reviews
+
+actually how we use existing reviews actually how we use existing reviews from Amazon, Reddit or other places to
+
+from Amazon, Reddit or other places to from Amazon, Reddit or other places to scrape all of them and combine them with
+
+scrape all of them and combine them with scrape all of them and combine them with our large language model in a very
+
+our large language model in a very our large language model in a very unique way in a way that actually Google
+
+unique way in a way that actually Google unique way in a way that actually Google sees it user generated content. Okay,
+
+sees it user generated content. Okay, sees it user generated content. Okay, it's originality. It also does the same
+
+it's originality. It also does the same it's originality. It also does the same thing. It is also a better example
+
+thing. It is also a better example thing. It is also a better example because if you check the way back data
+
+because if you check the way back data because if you check the way back data for the era that they are losing the
+
+for the era that they are losing the for the era that they are losing the rankings you will see that once they get
+
+rankings you will see that once they get rankings you will see that once they get the rankings for firearms they also
+
+the rankings for firearms they also the rankings for firearms they also start to review hotels bicycles bags etc
+
+start to review hotels bicycles bags etc start to review hotels bicycles bags etc but so it was diluting the topicality
+
+but so it was diluting the topicality but so it was diluting the topicality and decreasing the site focus score as
+
+and decreasing the site focus score as and decreasing the site focus score as the API actually says and they were hit
+
+the API actually says and they were hit the API actually says and they were hit once they removed this unnecessary
+
+once they removed this unnecessary once they removed this unnecessary content they came back one more thing is
+
+content they came back one more thing is content they came back one more thing is about the images Google doesn't index
+
+about the images Google doesn't index about the images Google doesn't index text every image and when they go to the
+
+text every image and when they go to the text every image and when they go to the Amazon reviews or products to the page
+
+Amazon reviews or products to the page Amazon reviews or products to the page fifth, six, seven, you will always see
+
+fifth, six, seven, you will always see fifth, six, seven, you will always see unique user generated images there and
+
+unique user generated images there and unique user generated images there and that unique images on your pages also
+
+that unique images on your pages also that unique images on your pages also contribute to the uniqueness and the contribute to the uniqueness and the contribute to the uniqueness and the originality will sees that image first
+
+originality will sees that image first originality will sees that image first time on your page as well. So these type
+
+time on your page as well. So these type time on your page as well. So these type of many other angles actually can be
+
+of many other angles actually can be of many other angles actually can be used as well.
+
+used as well. used as well. &gt;&gt; Okay. Well, I'll give you an example of
+
+&gt;&gt; Okay. Well, I'll give you an example of &gt;&gt; Okay. Well, I'll give you an example of something I've done but I haven't something I've done but I haven't something I've done but I haven't published it yet but now I need to
+
+published it yet but now I need to published it yet but now I need to publish it. So I took uh I was doing a
+
+publish it. So I took uh I was doing a publish it. So I took uh I was doing a presentation at a Sigma conference um
+
+presentation at a Sigma conference um presentation at a Sigma conference um last year and the topic was why online
+
+last year and the topic was why online last year and the topic was why online casinos close. So I analyzed Ask
+
+casinos close. So I analyzed Ask casinos close. So I analyzed Ask Gamblers database, lcb.org database. We
+
+Gamblers database, lcb.org database. We Gamblers database, lcb.org database. We also have a database of closed affiliate
+
+also have a database of closed affiliate also have a database of closed affiliate programs and I said what's the programs and I said what's the programs and I said what's the signatures behind it? So, of course, I
+
+signatures behind it? So, of course, I signatures behind it? So, of course, I went scraped a lot of data, ran a lot of
+
+went scraped a lot of data, ran a lot of went scraped a lot of data, ran a lot of Python, and then I started looking at,
+
+Python, and then I started looking at, Python, and then I started looking at, well, what were the signatures? And one well, what were the signatures? And one well, what were the signatures? And one of the signatures that came to the top
+
+of the signatures that came to the top of the signatures that came to the top was uh most of these sites had really
+
+was uh most of these sites had really was uh most of these sites had really bad terms and conditions for players
+
+bad terms and conditions for players bad terms and conditions for players that said, uh, you can't cash out more
+
+that said, uh, you can't cash out more that said, uh, you can't cash out more than like $2,000 per day or 5,000 per
+
+than like $2,000 per day or 5,000 per than like $2,000 per day or 5,000 per week or 10,000 per month. It was pretty
+
+week or 10,000 per month. It was pretty week or 10,000 per month. It was pretty bad. And that was actually most of the
+
+bad. And that was actually most of the bad. And that was actually most of the the the co-work. So, I think by
+
+the the co-work. So, I think by the the co-work. So, I think by publishing that data could be useful.
+
+publishing that data could be useful. publishing that data could be useful. And I think another example uh just to
+
+And I think another example uh just to And I think another example uh just to use your example would be taking casino
+
+use your example would be taking casino use your example would be taking casino complaints which is ask gamblers lcb.org
+
+complaints which is ask gamblers lcb.org complaints which is ask gamblers lcb.org for casino guru. I mean I don't
+
+for casino guru. I mean I don't for casino guru. I mean I don't understand why people don't do this. understand why people don't do this. understand why people don't do this. Like if I was an affiliate today I would Like if I was an affiliate today I would Like if I was an affiliate today I would create an aggregator site and say I'll
+
+create an aggregator site and say I'll create an aggregator site and say I'll tell you everything you need to know tell you everything you need to know tell you everything you need to know about all the complaints not just one
+
+about all the complaints not just one about all the complaints not just one site. That's true actually and in one
+
+site. That's true actually and in one site. That's true actually and in one actually s for instance in the online
+
+actually s for instance in the online actually s for instance in the online dating industry it is the main
+
+dating industry it is the main dating industry it is the main competitor of Tinder but I can't give
+
+competitor of Tinder but I can't give competitor of Tinder but I can't give the name due to the NDI on that company
+
+the name due to the NDI on that company the name due to the NDI on that company for instance when it comes to the for instance when it comes to the for instance when it comes to the subject of senior dating we added some
+
+subject of senior dating we added some subject of senior dating we added some design elements to the page. These
+
+design elements to the page. These design elements to the page. These design elements actually have some polls
+
+design elements actually have some polls design elements actually have some polls which means that actually let's say we which means that actually let's say we which means that actually let's say we ask a question like what is the best ask a question like what is the best ask a question like what is the best place to meet with seniors over 60 years
+
+place to meet with seniors over 60 years place to meet with seniors over 60 years old on that answer we don't answer it we
+
+old on that answer we don't answer it we old on that answer we don't answer it we just give let's say options on you
+
+just give let's say options on you just give let's say options on you choose the answer on that poll we show
+
+choose the answer on that poll we show choose the answer on that poll we show the percentages and AI is automatically
+
+the percentages and AI is automatically the percentages and AI is automatically writes the paragraph based on the user
+
+writes the paragraph based on the user writes the paragraph based on the user inputs which also adds actually user
+
+inputs which also adds actually user inputs which also adds actually user generated content angle with also
+
+generated content angle with also generated content angle with also uniqueness also shows engagement And at
+
+uniqueness also shows engagement And at uniqueness also shows engagement And at the most bottom part, we also add the
+
+the most bottom part, we also add the the most bottom part, we also add the most asked questions directly as user
+
+most asked questions directly as user most asked questions directly as user generated content. And then we use
+
+generated content. And then we use generated content. And then we use directly an entity person from the
+
+directly an entity person from the directly an entity person from the Google knowledge graph on these topics
+
+Google knowledge graph on these topics Google knowledge graph on these topics especially to answer these questions as
+
+especially to answer these questions as especially to answer these questions as well. But this also ask basically human
+
+well. But this also ask basically human well. But this also ask basically human effort one more time too. So many people
+
+effort one more time too. So many people effort one more time too. So many people still try to rank with ordinary blog
+
+still try to rank with ordinary blog still try to rank with ordinary blog layouts. So try to always include these
+
+layouts. So try to always include these layouts. So try to always include these polls or Q&amp;As or some forum components
+
+polls or Q&amp;As or some forum components polls or Q&amp;As or some forum components as much as possible to avoid some
+
+as much as possible to avoid some as much as possible to avoid some filterings of the Google system today.
+
+filterings of the Google system today. filterings of the Google system today. Yeah, but that's also a great content
+
+Yeah, but that's also a great content Yeah, but that's also a great content generation idea because I do polls on
+
+generation idea because I do polls on generation idea because I do polls on LinkedIn and sometimes the answers I get
+
+LinkedIn and sometimes the answers I get LinkedIn and sometimes the answers I get surprise me. I'm like, I had no idea
+
+surprise me. I'm like, I had no idea surprise me. I'm like, I had no idea this is what I was going to get for an this is what I was going to get for an this is what I was going to get for an answer. And because I get those answers,
+
+answer. And because I get those answers, answer. And because I get those answers, it changes changes a lot of things for
+
+it changes changes a lot of things for it changes changes a lot of things for me. So I think I think this would be a
+
+me. So I think I think this would be a me. So I think I think this would be a total content playbook here.
+
+total content playbook here. total content playbook here. &gt;&gt; I hope one day people will be &gt;&gt; I hope one day people will be &gt;&gt; I hope one day people will be implementing these more.
+
+implementing these more. implementing these more. &gt;&gt; I I'm going to find clever ways of doing
+
+&gt;&gt; I I'm going to find clever ways of doing &gt;&gt; I I'm going to find clever ways of doing it and AI tools make it uh really easy.
+
+it and AI tools make it uh really easy. it and AI tools make it uh really easy. I'm actually going to experiment with I'm actually going to experiment with I'm actually going to experiment with the the podcast website we have now. So
+
+the the podcast website we have now. So the the podcast website we have now. So I built it in I'm pretty good with code
+
+I built it in I'm pretty good with code I built it in I'm pretty good with code but I actually went to lovable and it's
+
+but I actually went to lovable and it's but I actually went to lovable and it's just super easy. just super easy. just super easy. &gt;&gt; All is really surprisingly good
+
+&gt;&gt; All is really surprisingly good &gt;&gt; All is really surprisingly good actually. And it is able to integrate
+
+actually. And it is able to integrate actually. And it is able to integrate everything with GitHub, WordPress or
+
+everything with GitHub, WordPress or everything with GitHub, WordPress or whatever CMS that you need. It's really
+
+whatever CMS that you need. It's really whatever CMS that you need. It's really good strength there.
+
+good strength there. good strength there. &gt;&gt; Yeah, I I'm definitely going to do that &gt;&gt; Yeah, I I'm definitely going to do that &gt;&gt; Yeah, I I'm definitely going to do that there because I've already um I've used
+
+there because I've already um I've used there because I've already um I've used the RSS feed to autogenerate each
+
+the RSS feed to autogenerate each the RSS feed to autogenerate each podcast episode and then now I'm going
+
+podcast episode and then now I'm going podcast episode and then now I'm going to like you know we're talking geek
+
+to like you know we're talking geek to like you know we're talking geek talk. I'm going to go into nen download
+
+talk. I'm going to go into nen download talk. I'm going to go into nen download all the audio convert it into text and
+
+all the audio convert it into text and all the audio convert it into text and then I'm going to do a whole content
+
+then I'm going to do a whole content then I'm going to do a whole content playbook which is a it is another
+
+playbook which is a it is another playbook which is a it is another question I've got later on uh for this.
+
+question I've got later on uh for this. question I've got later on uh for this. Okay, so I want to talk about I I was
+
+Okay, so I want to talk about I I was Okay, so I want to talk about I I was actually using a lot of AI tools and I
+
+actually using a lot of AI tools and I actually using a lot of AI tools and I was starting to build some Google search was starting to build some Google search was starting to build some Google search console um uh dashboards and as I was
+
+console um uh dashboards and as I was console um uh dashboards and as I was doing I was like wait a minute is this doing I was like wait a minute is this doing I was like wait a minute is this going to be a waste of time like is
+
+going to be a waste of time like is going to be a waste of time like is Google search console going to be Google search console going to be Google search console going to be totally different in a year from now? So
+
+totally different in a year from now? So totally different in a year from now? So where do you think a tool like search
+
+where do you think a tool like search where do you think a tool like search console is going to be as we change from
+
+console is going to be as we change from console is going to be as we change from like the regular Google to you know the
+
+like the regular Google to you know the like the regular Google to you know the AI version? So the first thing there is
+
+AI version? So the first thing there is AI version? So the first thing there is I believe over three years search
+
+I believe over three years search I believe over three years search console is already not giving maybe 40%
+
+console is already not giving maybe 40% console is already not giving maybe 40% of the real data or the value I can say
+
+of the real data or the value I can say of the real data or the value I can say was the first thing is there there are
+
+was the first thing is there there are was the first thing is there there are so many new surf features we even didn't
+
+so many new surf features we even didn't so many new surf features we even didn't name them as SEO industry unfortunately
+
+name them as SEO industry unfortunately name them as SEO industry unfortunately I will I have my own dictionary there
+
+I will I have my own dictionary there I will I have my own dictionary there some of the names that I use might not
+
+some of the names that I use might not some of the names that I use might not be that clear but for instance when you
+
+be that clear but for instance when you be that clear but for instance when you search for the uh let's say the best uh
+
+search for the uh let's say the best uh search for the uh let's say the best uh SEO tools let's Okay, they usually give
+
+SEO tools let's Okay, they usually give SEO tools let's Okay, they usually give all the brands at the top. It is
+
+all the brands at the top. It is all the brands at the top. It is actually in the patterns they call it
+
+actually in the patterns they call it actually in the patterns they call it generated ranked entity list. It's the
+
+generated ranked entity list. It's the generated ranked entity list. It's the official name in the patterns. My naming
+
+official name in the patterns. My naming official name in the patterns. My naming there is basically hyperser I call it
+
+there is basically hyperser I call it there is basically hyperser I call it because it's like a SER inside another
+
+because it's like a SER inside another because it's like a SER inside another SER. That's why I call it like SER. That's why I call it like SER. That's why I call it like hypersurer. And when you click to the
+
+hypersurer. And when you click to the hypersurer. And when you click to the one of these brand bubbles, it opens
+
+one of these brand bubbles, it opens one of these brand bubbles, it opens another accordion and gives you the
+
+another accordion and gives you the another accordion and gives you the three top results for that index as
+
+three top results for that index as three top results for that index as well. Let's say you search for best SEO
+
+well. Let's say you search for best SEO well. Let's say you search for best SEO tools. I don't want to advertise
+
+tools. I don't want to advertise tools. I don't want to advertise anything there but let's say you do one
+
+anything there but let's say you do one anything there but let's say you do one thing thing thing &gt;&gt; and then actually shows you three
+
+&gt;&gt; and then actually shows you three &gt;&gt; and then actually shows you three results from that specific index which
+
+results from that specific index which results from that specific index which means actually it connects an index to
+
+means actually it connects an index to means actually it connects an index to the another one the another one the another one &gt;&gt; and technically right now none of the
+
+&gt;&gt; and technically right now none of the &gt;&gt; and technically right now none of the SEO tools actually track what entities
+
+SEO tools actually track what entities SEO tools actually track what entities appear on that list and inside that
+
+appear on that list and inside that appear on that list and inside that actually bubbles what it ranks it's not
+
+actually bubbles what it ranks it's not actually bubbles what it ranks it's not also not known if you go to the what
+
+also not known if you go to the what also not known if you go to the what people say surf feature which usually
+
+people say surf feature which usually people say surf feature which usually LinkedIn Tik Tok Instagram Reddit type
+
+LinkedIn Tik Tok Instagram Reddit type LinkedIn Tik Tok Instagram Reddit type of places are ranking there we still
+
+of places are ranking there we still of places are ranking there we still don't know actually which brands social
+
+don't know actually which brands social don't know actually which brands social media or which brands influencer is
+
+media or which brands influencer is media or which brands influencer is ranking on that part nobody cares nobody
+
+ranking on that part nobody cares nobody ranking on that part nobody cares nobody checks and I believe Google search
+
+checks and I believe Google search checks and I believe Google search console also doesn't give this data on
+
+console also doesn't give this data on console also doesn't give this data on purpose because if they start to give
+
+purpose because if they start to give purpose because if they start to give that data SEOs will realize it is
+
+that data SEOs will realize it is that data SEOs will realize it is important then we will be asking even
+
+important then we will be asking even important then we will be asking even more so they also want to keep us in
+
+more so they also want to keep us in more so they also want to keep us in that dark zone the one key difference is
+
+that dark zone the one key difference is that dark zone the one key difference is that at the 8th December 2025
+
+that at the 8th December 2025 that at the 8th December 2025 they announced that they are integ
+
+they announced that they are integ they announced that they are integ rating social media channels into the
+
+rating social media channels into the rating social media channels into the search console and I believe it was the
+
+search console and I believe it was the search console and I believe it was the biggest change of entire year in my
+
+biggest change of entire year in my biggest change of entire year in my opinion because uh in 2023 they
+
+opinion because uh in 2023 they opinion because uh in 2023 they announced helpful content system by
+
+announced helpful content system by announced helpful content system by saying that helpful information for
+
+saying that helpful information for saying that helpful information for people on social media and forum sites.
+
+people on social media and forum sites. people on social media and forum sites. This was the exact phrase and still they
+
+This was the exact phrase and still they This was the exact phrase and still they keep doing it because Google's moto is
+
+keep doing it because Google's moto is keep doing it because Google's moto is very clear for SEO or for search. It is
+
+very clear for SEO or for search. It is very clear for SEO or for search. It is basically people for people in the
+
+basically people for people in the basically people for people in the search. They want people to create
+
+search. They want people to create search. They want people to create content and they want people to find
+
+content and they want people to find content and they want people to find people content on social media sites and
+
+people content on social media sites and people content on social media sites and the forums are the main principle right
+
+the forums are the main principle right the forums are the main principle right now for them. And that's why they are
+
+now for them. And that's why they are now for them. And that's why they are integrating your YouTube channel, your
+
+integrating your YouTube channel, your integrating your YouTube channel, your Reddit will be the next one and other
+
+Reddit will be the next one and other Reddit will be the next one and other social media channels to do your search
+
+social media channels to do your search social media channels to do your search console today. If your YouTube channel
+
+console today. If your YouTube channel console today. If your YouTube channel basically gets more clicks from Google,
+
+basically gets more clicks from Google, basically gets more clicks from Google, they will be telling it to you and it
+
+they will be telling it to you and it they will be telling it to you and it helps them for two reasons. One thing is
+
+helps them for two reasons. One thing is helps them for two reasons. One thing is that the search console will be topic
+
+that the search console will be topic that the search console will be topic based which means that in the future
+
+based which means that in the future based which means that in the future rather than telling you what query
+
+rather than telling you what query rather than telling you what query brings you the most clicks they might be
+
+brings you the most clicks they might be brings you the most clicks they might be saying you what topic is bringing more
+
+saying you what topic is bringing more saying you what topic is bringing more clicks as well. The second thing is that
+
+clicks as well. The second thing is that clicks as well. The second thing is that they want you to also they want you to
+
+they want you to also they want you to they want you to also they want you to create more content by showing your face
+
+create more content by showing your face create more content by showing your face in a video in a podcast and they want
+
+in a video in a podcast and they want in a video in a podcast and they want you to create more content for their
+
+you to create more content for their you to create more content for their integrated platforms like YouTube or the
+
+integrated platforms like YouTube or the integrated platforms like YouTube or the Reddit. If I add one more thing there is
+
+Reddit. If I add one more thing there is Reddit. If I add one more thing there is if your website gets fewer clicks due to
+
+if your website gets fewer clicks due to if your website gets fewer clicks due to the AI search features when they give
+
+the AI search features when they give the AI search features when they give you the social media clicks in your
+
+you the social media clicks in your you the social media clicks in your search console they are actually telling search console they are actually telling search console they are actually telling that yes your website gets fewer clicks
+
+that yes your website gets fewer clicks that yes your website gets fewer clicks but your socials are getting more so
+
+but your socials are getting more so but your socials are getting more so focus on there they are trying to tell
+
+focus on there they are trying to tell focus on there they are trying to tell and in 2019 in one case that I said that
+
+and in 2019 in one case that I said that and in 2019 in one case that I said that if you have a YouTube channel there's a
+
+if you have a YouTube channel there's a if you have a YouTube channel there's a higher chance that you can actually save
+
+higher chance that you can actually save higher chance that you can actually save yourself from these core updates because
+
+yourself from these core updates because yourself from these core updates because ownership of a active YouTube channel
+
+ownership of a active YouTube channel ownership of a active YouTube channel pro directly proves that there is a
+
+pro directly proves that there is a pro directly proves that there is a brand attribution and there is a
+
+brand attribution and there is a brand attribution and there is a business behind actually everything that
+
+business behind actually everything that business behind actually everything that you do as well. So I believe the search
+
+you do as well. So I believe the search you do as well. So I believe the search console will be very much more
+
+console will be very much more console will be very much more integrated with AI ser features. So you
+
+integrated with AI ser features. So you integrated with AI ser features. So you will be using all these filtering
+
+will be using all these filtering will be using all these filtering filters with AI or LLM. It will be it
+
+filters with AI or LLM. It will be it filters with AI or LLM. It will be it will be a kind of conversational data
+
+will be a kind of conversational data will be a kind of conversational data analyzis tool not for the queries mainly
+
+analyzis tool not for the queries mainly analyzis tool not for the queries mainly for the topics and it won't be only for
+
+for the topics and it won't be only for for the topics and it won't be only for your site. It will be also for your web
+
+your site. It will be also for your web your site. It will be also for your web entity which involves all of your alo
+
+entity which involves all of your alo entity which involves all of your alo social media channels and maybe even
+
+social media channels and maybe even social media channels and maybe even beyond as well.
+
+beyond as well. beyond as well. Okay, that was pretty heavy. But um
+
+Okay, that was pretty heavy. But um Okay, that was pretty heavy. But um that's actually something uh I was
+
+that's actually something uh I was that's actually something uh I was actually planning to do on that initial
+
+actually planning to do on that initial actually planning to do on that initial project where we we scrape and we find
+
+project where we we scrape and we find project where we we scrape and we find all the affiliate sites. Like we're all the affiliate sites. Like we're all the affiliate sites. Like we're actually scraping all their social
+
+actually scraping all their social actually scraping all their social contacts like do they have YouTube? Do
+
+contacts like do they have YouTube? Do contacts like do they have YouTube? Do they have Facebook or X or Reddit and
+
+they have Facebook or X or Reddit and they have Facebook or X or Reddit and contact forms and addresses and we I
+
+contact forms and addresses and we I contact forms and addresses and we I believe there's a correlation there, but
+
+believe there's a correlation there, but believe there's a correlation there, but we won't know what the correlation is
+
+we won't know what the correlation is we won't know what the correlation is until we actually start saying here's
+
+until we actually start saying here's until we actually start saying here's affiliate sites, here's all the links
+
+affiliate sites, here's all the links affiliate sites, here's all the links they have on all their pages and here's
+
+they have on all their pages and here's they have on all their pages and here's everything. So I think there's going to
+
+everything. So I think there's going to everything. So I think there's going to be some like that's obvious I think um
+
+be some like that's obvious I think um be some like that's obvious I think um but I think a lot of people they need to
+
+but I think a lot of people they need to but I think a lot of people they need to see the data before they they have that
+
+see the data before they they have that see the data before they they have that aha moment. aha moment. aha moment. &gt;&gt; Yeah. If I would think about maybe one
+
+&gt;&gt; Yeah. If I would think about maybe one &gt;&gt; Yeah. If I would think about maybe one more functionality for that tool, if you
+
+more functionality for that tool, if you more functionality for that tool, if you allow people to integrate their search
+
+allow people to integrate their search allow people to integrate their search console data with your technology and if
+
+console data with your technology and if console data with your technology and if they also give you the log files, you
+
+they also give you the log files, you they also give you the log files, you can see actually whether social media
+
+can see actually whether social media can see actually whether social media links help Google to crawl more URLs
+
+links help Google to crawl more URLs links help Google to crawl more URLs from their actually let's say uh website
+
+from their actually let's say uh website from their actually let's say uh website overall because comparing some data like
+
+overall because comparing some data like overall because comparing some data like this let's say there is a URL it is
+
+this let's say there is a URL it is this let's say there is a URL it is being crawled by Google bot higher
+
+being crawled by Google bot higher being crawled by Google bot higher frequency during actually social media
+
+frequency during actually social media frequency during actually social media shares because if you go to the search
+
+shares because if you go to the search shares because if you go to the search console use your inspection tool
+
+console use your inspection tool console use your inspection tool sometimes you will see that actually Tik
+
+sometimes you will see that actually Tik sometimes you will see that actually Tik Tok or Instagram comes in the referred
+
+Tok or Instagram comes in the referred Tok or Instagram comes in the referred page section they find your URLs from
+
+page section they find your URLs from page section they find your URLs from socials and then they start actually
+
+socials and then they start actually socials and then they start actually scrolling there you can decrease the
+
+scrolling there you can decrease the scrolling there you can decrease the indexation delay and you can increase
+
+indexation delay and you can increase indexation delay and you can increase number of keywords that you rank through
+
+number of keywords that you rank through number of keywords that you rank through actually getting these links from
+
+actually getting these links from actually getting these links from socials I'm not talking about link juice
+
+socials I'm not talking about link juice socials I'm not talking about link juice or page rank here it's different I'm
+
+or page rank here it's different I'm or page rank here it's different I'm just talking about exploration of new
+
+just talking about exploration of new just talking about exploration of new content and forcing Google to crawl it
+
+content and forcing Google to crawl it content and forcing Google to crawl it more frequently as well. That type of
+
+more frequently as well. That type of more frequently as well. That type of maybe check on would be helpful too.
+
+maybe check on would be helpful too. maybe check on would be helpful too. &gt;&gt; That's actually a great idea to ask to
+
+&gt;&gt; That's actually a great idea to ask to &gt;&gt; That's actually a great idea to ask to say, "Hey, do you want to connect your say, "Hey, do you want to connect your say, "Hey, do you want to connect your search console data?" But it goes
+
+search console data?" But it goes search console data?" But it goes without saying that the user needs a
+
+without saying that the user needs a without saying that the user needs a benefit from it. But I do think like
+
+benefit from it. But I do think like benefit from it. But I do think like I've actually built some of these I've actually built some of these I've actually built some of these console uh reports where it's like okay,
+
+console uh reports where it's like okay, console uh reports where it's like okay, you know, you know how your data is only
+
+you know, you know how your data is only you know, you know how your data is only what 16 months of console data before it
+
+what 16 months of console data before it what 16 months of console data before it disappears. And I do believe that the
+
+disappears. And I do believe that the disappears. And I do believe that the daily console data is useful, but Google
+
+daily console data is useful, but Google daily console data is useful, but Google doesn't make it super easy for you to doesn't make it super easy for you to doesn't make it super easy for you to export just the daily. So you have to
+
+export just the daily. So you have to export just the daily. So you have to pull the data once a day. And I'm
+
+pull the data once a day. And I'm pull the data once a day. And I'm basically, you've probably already done
+
+basically, you've probably already done basically, you've probably already done this before, but uh I'm basically
+
+this before, but uh I'm basically this before, but uh I'm basically building this stuff. So maybe there
+
+building this stuff. So maybe there building this stuff. So maybe there could be some connectivity where it's could be some connectivity where it's could be some connectivity where it's like, how do we make this useful for
+
+like, how do we make this useful for like, how do we make this useful for someone to connect their search console?
+
+someone to connect their search console? someone to connect their search console? Maybe if we give them this new um
+
+Maybe if we give them this new um Maybe if we give them this new um console reader or console report for
+
+console reader or console report for console reader or console report for free, that might be the intent of the
+
+free, that might be the intent of the free, that might be the intent of the big, hey, I have a reason to actually
+
+big, hey, I have a reason to actually big, hey, I have a reason to actually upload it. And maybe there's some sort
+
+upload it. And maybe there's some sort upload it. And maybe there's some sort of social not social but maybe there's
+
+of social not social but maybe there's of social not social but maybe there's some sort of big data sharing where the
+
+some sort of big data sharing where the some sort of big data sharing where the data is not exposed but it's put into a
+
+data is not exposed but it's put into a data is not exposed but it's put into a a giant database.
+
+a giant database. a giant database. Many other things can be done with the Many other things can be done with the Many other things can be done with the search console data. I believe for
+
+search console data. I believe for search console data. I believe for instance you can always create custom
+
+instance you can always create custom instance you can always create custom click curves every seven days. is you
+
+click curves every seven days. is you click curves every seven days. is you can tell them actually what pages are can tell them actually what pages are can tell them actually what pages are increasing in impressions from what
+
+increasing in impressions from what increasing in impressions from what queries or you can give them number of
+
+queries or you can give them number of queries or you can give them number of URLs that give that takes impressions
+
+URLs that give that takes impressions URLs that give that takes impressions for the same queries which actually
+
+for the same queries which actually for the same queries which actually shows micro cannibalizations. You can
+
+shows micro cannibalizations. You can shows micro cannibalizations. You can always actually uh easily export your
+
+always actually uh easily export your always actually uh easily export your data to the bigquery automatically as
+
+data to the bigquery automatically as data to the bigquery automatically as well and from BigQuery you can always
+
+well and from BigQuery you can always well and from BigQuery you can always try to actually see for instance there
+
+try to actually see for instance there try to actually see for instance there is a seasonal event every year for some
+
+is a seasonal event every year for some is a seasonal event every year for some certain certain let's say types of
+
+certain certain let's say types of certain certain let's say types of situations and you can see actually how
+
+situations and you can see actually how situations and you can see actually how your CTR is changing during this
+
+your CTR is changing during this your CTR is changing during this seasonal events or also you can import
+
+seasonal events or also you can import seasonal events or also you can import your log files and you can see actually
+
+your log files and you can see actually your log files and you can see actually your traffic data and the crawl data how
+
+your traffic data and the crawl data how your traffic data and the crawl data how they are correlating with each other
+
+they are correlating with each other they are correlating with each other many other things actually can be done many other things actually can be done many other things actually can be done there uh actually
+
+there uh actually there uh actually &gt;&gt; it's a lot of data
+
+&gt;&gt; it's a lot of data &gt;&gt; it's a lot of data &gt;&gt; especially your actually vector database
+
+&gt;&gt; especially your actually vector database &gt;&gt; especially your actually vector database let's say you vectorize my content and
+
+let's say you vectorize my content and let's say you vectorize my content and you have my search console data as well
+
+you have my search console data as well you have my search console data as well you can sometimes uh because in
+
+you can sometimes uh because in you can sometimes uh because in semantics actually if you want to do
+
+semantics actually if you want to do semantics actually if you want to do semantic SEO the first thing that you
+
+semantic SEO the first thing that you semantic SEO the first thing that you should be doing is decrease the
+
+should be doing is decrease the should be doing is decrease the dimensionality
+
+dimensionality dimensionality because I can't keep adding new data new
+
+because I can't keep adding new data new because I can't keep adding new data new correlations new causations many other
+
+correlations new causations many other correlations new causations many other things I my script in the GitHub I have
+
+things I my script in the GitHub I have things I my script in the GitHub I have 2,000 columns. I I have taken everything
+
+2,000 columns. I I have taken everything 2,000 columns. I I have taken everything there. But actually seeing the most
+
+there. But actually seeing the most there. But actually seeing the most important thing there is you don't need
+
+important thing there is you don't need important thing there is you don't need to check 2,000 columns to see how this
+
+to check 2,000 columns to see how this to check 2,000 columns to see how this website is ranking or why it is not
+
+website is ranking or why it is not website is ranking or why it is not ranking. If you decrease the
+
+ranking. If you decrease the ranking. If you decrease the dimensionality of the data you can just
+
+dimensionality of the data you can just dimensionality of the data you can just check some simple things there. For
+
+check some simple things there. For check some simple things there. For instance, in a simple way just compare
+
+instance, in a simple way just compare instance, in a simple way just compare actually your crawl frequency to the
+
+actually your crawl frequency to the actually your crawl frequency to the actual content updateness let's say or
+
+actual content updateness let's say or actual content updateness let's say or your update frequency. Compare let's say
+
+your update frequency. Compare let's say your update frequency. Compare let's say your number of embeddings when you
+
+your number of embeddings when you your number of embeddings when you vectorize the content. Compare your
+
+vectorize the content. Compare your vectorize the content. Compare your number of embeddings to the number of
+
+number of embeddings to the number of number of embeddings to the number of queries that you are ranking for or
+
+queries that you are ranking for or queries that you are ranking for or compare your let's say number of heings
+
+compare your let's say number of heings compare your let's say number of heings to the number of queries or percentage
+
+to the number of queries or percentage to the number of queries or percentage of this impression increases as well.
+
+of this impression increases as well. of this impression increases as well. All these actually will be more helpful
+
+All these actually will be more helpful All these actually will be more helpful for you to see what I should be
+
+for you to see what I should be for you to see what I should be increasing most in that area. If you
+
+increasing most in that area. If you increasing most in that area. If you start to deep dive into the every
+
+start to deep dive into the every start to deep dive into the every punctuation, every word, every in
+
+punctuation, every word, every in punctuation, every word, every in today's reviews, it's not humanly
+
+today's reviews, it's not humanly today's reviews, it's not humanly possible. Uh on that level, I can say,
+
+possible. Uh on that level, I can say, possible. Uh on that level, I can say, &gt;&gt; yeah, but I actually think that would be
+
+&gt;&gt; yeah, but I actually think that would be &gt;&gt; yeah, but I actually think that would be pretty cool to give someone the power to
+
+pretty cool to give someone the power to pretty cool to give someone the power to be like, hey, here's your page. You
+
+be like, hey, here's your page. You be like, hey, here's your page. You know, the data technically is available
+
+know, the data technically is available know, the data technically is available in search console, but it requires I
+
+in search console, but it requires I in search console, but it requires I think a little bit of data manipulation
+
+think a little bit of data manipulation think a little bit of data manipulation to see here's your pages and here's what
+
+to see here's your pages and here's what to see here's your pages and here's what you're uh getting traffic for, both in
+
+you're uh getting traffic for, both in you're uh getting traffic for, both in terms of impressions and clicks. And I terms of impressions and clicks. And I terms of impressions and clicks. And I think if people had easier access to
+
+think if people had easier access to think if people had easier access to this, this would actually educate them
+
+this, this would actually educate them this, this would actually educate them on the actual basics of semantic SEO to
+
+on the actual basics of semantic SEO to on the actual basics of semantic SEO to be like, "Oh, I didn't realize this was
+
+be like, "Oh, I didn't realize this was be like, "Oh, I didn't realize this was an important term." Or, I mean, I don't
+
+an important term." Or, I mean, I don't an important term." Or, I mean, I don't know if this is possible. Do you think know if this is possible. Do you think know if this is possible. Do you think it there's a future where the search
+
+it there's a future where the search it there's a future where the search comes in from something really obscure,
+
+comes in from something really obscure, comes in from something really obscure, so it's not a lot of clicks, but maybe
+
+so it's not a lot of clicks, but maybe so it's not a lot of clicks, but maybe the value of the click is worth more?
+
+the value of the click is worth more? the value of the click is worth more? So, we have a tool that that has dynamic
+
+So, we have a tool that that has dynamic So, we have a tool that that has dynamic variables. So, it's click ID level variables. So, it's click ID level variables. So, it's click ID level tracking. So, we can actually map each
+
+tracking. So, we can actually map each tracking. So, we can actually map each individual click. Now, I don't know if
+
+individual click. Now, I don't know if individual click. Now, I don't know if Google Search Console has already Google Search Console has already Google Search Console has already switched to by the minute or real time
+
+switched to by the minute or real time switched to by the minute or real time data because if you actually know what
+
+data because if you actually know what data because if you actually know what click came from where, maybe you might
+
+click came from where, maybe you might click came from where, maybe you might be able to match the search query to the
+
+be able to match the search query to the be able to match the search query to the actual click going to the affiliate
+
+actual click going to the affiliate actual click going to the affiliate program and actually getting the revenue
+
+program and actually getting the revenue program and actually getting the revenue associated with that click.
+
+associated with that click. associated with that click. &gt;&gt; It is uh it's hard to do because the
+
+&gt;&gt; It is uh it's hard to do because the &gt;&gt; It is uh it's hard to do because the thing is that they're anonymizing or K
+
+thing is that they're anonymizing or K thing is that they're anonymizing or K anonymizing the data. Uh if you manage
+
+anonymizing the data. Uh if you manage anonymizing the data. Uh if you manage to do that, they will be very against
+
+to do that, they will be very against to do that, they will be very against it. They might sue you.
+
+it. They might sue you. it. They might sue you. if possibly or hide it basically from
+
+if possibly or hide it basically from if possibly or hide it basically from them at least them at least them at least &gt;&gt; or or acquire me.
+
+&gt;&gt; or or acquire me. &gt;&gt; or or acquire me. &gt;&gt; Yeah, that's possibly I mean you can try
+
+&gt;&gt; Yeah, that's possibly I mean you can try &gt;&gt; Yeah, that's possibly I mean you can try to run maybe timestamp similarity. There
+
+to run maybe timestamp similarity. There to run maybe timestamp similarity. There is an organic click on a certain time
+
+is an organic click on a certain time is an organic click on a certain time stamp and if you are able to also see
+
+stamp and if you are able to also see stamp and if you are able to also see the session time stamp and if they are
+
+the session time stamp and if they are the session time stamp and if they are close to each other uh closer than let's
+
+close to each other uh closer than let's close to each other uh closer than let's say 1 second probably it's the same user
+
+say 1 second probably it's the same user say 1 second probably it's the same user and from there you can assign basically
+
+and from there you can assign basically and from there you can assign basically this user ID below to this clicks and
+
+this user ID below to this clicks and this user ID below to this clicks and from there you can actually track them
+
+from there you can actually track them from there you can actually track them but legally I'm not sure how it will be
+
+but legally I'm not sure how it will be but legally I'm not sure how it will be and and and &gt;&gt; it goes without saying you have to start
+
+&gt;&gt; it goes without saying you have to start &gt;&gt; it goes without saying you have to start with the user saying do you agree to
+
+with the user saying do you agree to with the user saying do you agree to these terms and conditions and cookies
+
+these terms and conditions and cookies these terms and conditions and cookies and you start there with permission
+
+and you start there with permission and you start there with permission Once you have their permission, I mean Once you have their permission, I mean Once you have their permission, I mean that would be phenomenal to be able to
+
+that would be phenomenal to be able to that would be phenomenal to be able to match the revenue.
+
+&gt;&gt; True. There is one small tool actually &gt;&gt; True. There is one small tool actually like I guess it was a keyword hero. uh
+
+like I guess it was a keyword hero. uh like I guess it was a keyword hero. uh it is a partner of Google Analytics for
+
+it is a partner of Google Analytics for it is a partner of Google Analytics for and they are doing it but they also do
+
+and they are doing it but they also do and they are doing it but they also do it in a like fro not like for every
+
+it in a like fro not like for every it in a like fro not like for every click like a level of clicks they are
+
+click like a level of clicks they are click like a level of clicks they are trying to give you uh but they are
+
+trying to give you uh but they are trying to give you uh but they are having a special permission from Google
+
+having a special permission from Google having a special permission from Google Analytics as a partner and even it
+
+Analytics as a partner and even it Analytics as a partner and even it doesn't do more than maybe 25 person I
+
+doesn't do more than maybe 25 person I doesn't do more than maybe 25 person I can say can say can say &gt;&gt; okay I I've got some homework I'm gonna
+
+&gt;&gt; okay I I've got some homework I'm gonna &gt;&gt; okay I I've got some homework I'm gonna give it a try because I'm actually
+
+give it a try because I'm actually give it a try because I'm actually building another
+
+building another building another uh small project where it's basically
+
+uh small project where it's basically uh small project where it's basically like it's in I gaming so obviously you
+
+like it's in I gaming so obviously you like it's in I gaming so obviously you have recurring revenue which is valuable
+
+have recurring revenue which is valuable have recurring revenue which is valuable to an affiliate. So the idea is that
+
+to an affiliate. So the idea is that to an affiliate. So the idea is that when you have a newsletter you're when you have a newsletter you're when you have a newsletter you're usually sending one tracking link to
+
+usually sending one tracking link to usually sending one tracking link to your entire database. So all users the
+
+your entire database. So all users the your entire database. So all users the revenue ends up in a single bucket. You
+
+revenue ends up in a single bucket. You revenue ends up in a single bucket. You can't you can't separate it. But with
+
+can't you can't separate it. But with can't you can't separate it. But with click ID level tracking what you do is
+
+click ID level tracking what you do is click ID level tracking what you do is you basically are able to assign a
+
+you basically are able to assign a you basically are able to assign a unique click ID to each email. So, if
+
+unique click ID to each email. So, if unique click ID to each email. So, if you signed up to one of my newsletters you signed up to one of my newsletters you signed up to one of my newsletters that I've built on the side, it starts
+
+that I've built on the side, it starts that I've built on the side, it starts with permission and then once you filter
+
+with permission and then once you filter with permission and then once you filter the flow, I I sign a unique ID
+
+the flow, I I sign a unique ID the flow, I I sign a unique ID associated to you, that ID is put inside
+
+associated to you, that ID is put inside associated to you, that ID is put inside the tracking link and that tracking link
+
+the tracking link and that tracking link the tracking link and that tracking link shows up into my revenue reports. So, I
+
+shows up into my revenue reports. So, I shows up into my revenue reports. So, I I could actually see your last deposit.
+
+I could actually see your last deposit. I could actually see your last deposit. Um, so I know if you stop playing at the
+
+Um, so I know if you stop playing at the Um, so I know if you stop playing at the casino whether the casino removed you
+
+casino whether the casino removed you casino whether the casino removed you from the database because they want to
+
+from the database because they want to from the database because they want to steal from me or you actually generally
+
+steal from me or you actually generally steal from me or you actually generally stop playing. So um I think there's
+
+stop playing. So um I think there's stop playing. So um I think there's &gt;&gt; great actually surveillance in that
+
+&gt;&gt; great actually surveillance in that &gt;&gt; great actually surveillance in that area. It might be closing a very good
+
+area. It might be closing a very good area. It might be closing a very good good cap gap actually for monetization
+
+good cap gap actually for monetization good cap gap actually for monetization as well. It's it's a nice nice design.
+
+as well. It's it's a nice nice design. as well. It's it's a nice nice design. &gt;&gt; Yeah. And then of course uh the thing
+
+&gt;&gt; Yeah. And then of course uh the thing &gt;&gt; Yeah. And then of course uh the thing that you could build is taking the user
+
+that you could build is taking the user that you could build is taking the user going back to the website as long as
+
+going back to the website as long as going back to the website as long as they're logged in then you can start they're logged in then you can start they're logged in then you can start putting that parameter in all the pages
+
+putting that parameter in all the pages putting that parameter in all the pages and going what pages and content are
+
+and going what pages and content are and going what pages and content are they consuming and as they send emails
+
+they consuming and as they send emails they consuming and as they send emails to you. So rather than sending a
+
+to you. So rather than sending a to you. So rather than sending a newsletter like email, you actually send
+
+newsletter like email, you actually send newsletter like email, you actually send a conversational one like, "Hey Karai,
+
+a conversational one like, "Hey Karai, a conversational one like, "Hey Karai, how's it going? I'm curious to know what
+
+how's it going? I'm curious to know what how's it going? I'm curious to know what games you like." And as you reply in
+
+games you like." And as you reply in games you like." And as you reply in text, we convert the text, put it into a
+
+text, we convert the text, put it into a text, we convert the text, put it into a database if and when it needs to go into
+
+database if and when it needs to go into database if and when it needs to go into a database. And then u and then I think
+
+a database. And then u and then I think a database. And then u and then I think you can see why I went down the rabbit you can see why I went down the rabbit you can see why I went down the rabbit hole of like, okay, let's start studying
+
+hole of like, okay, let's start studying hole of like, okay, let's start studying rag and vectorizing and all these
+
+rag and vectorizing and all these rag and vectorizing and all these databases. And databases. And databases. And &gt;&gt; so &gt;&gt; so &gt;&gt; so &gt;&gt; yeah, definitely &gt;&gt; yeah, definitely &gt;&gt; yeah, definitely &gt;&gt; that's where I'm at.
+
+&gt;&gt; that's where I'm at. &gt;&gt; that's where I'm at. &gt;&gt; It's a nice design. I believe you can if
+
+&gt;&gt; It's a nice design. I believe you can if &gt;&gt; It's a nice design. I believe you can if you can basically create it. I believe
+
+you can basically create it. I believe you can basically create it. I believe it will be worth really good amount of
+
+it will be worth really good amount of it will be worth really good amount of millions of dollars. millions of dollars. millions of dollars. &gt;&gt; Yeah. And I've actually built another
+
+&gt;&gt; Yeah. And I've actually built another &gt;&gt; Yeah. And I've actually built another component of it which is it starts by
+
+component of it which is it starts by component of it which is it starts by taking the user's email and then
+
+taking the user's email and then taking the user's email and then basically it goes through naden. So it's
+
+basically it goes through naden. So it's basically it goes through naden. So it's like you get one of four messages and
+
+like you get one of four messages and like you get one of four messages and it's all like AB split testing and then
+
+it's all like AB split testing and then it's all like AB split testing and then um based on your response like if you if
+
+um based on your response like if you if um based on your response like if you if you view the page or if you click on the
+
+you view the page or if you click on the you view the page or if you click on the link um that all goes back into the
+
+link um that all goes back into the link um that all goes back into the database. So I built a database. I used
+
+database. So I built a database. I used database. So I built a database. I used a Postgress to build it because I
+
+a Postgress to build it because I a Postgress to build it because I thought it might be better when it comes
+
+thought it might be better when it comes thought it might be better when it comes to this AI rag vectorization. Um, of
+
+to this AI rag vectorization. Um, of to this AI rag vectorization. Um, of course you can use almost anything but
+
+course you can use almost anything but course you can use almost anything but um that's where I'm at right now.
+
+um that's where I'm at right now. um that's where I'm at right now. &gt;&gt; That's also a good plan as well. And
+
+&gt;&gt; That's also a good plan as well. And &gt;&gt; That's also a good plan as well. And also you can always defend yourself
+
+also you can always defend yourself also you can always defend yourself against the casino or whoever basic you
+
+against the casino or whoever basic you against the casino or whoever basic you are affiliate with. So it will be a very
+
+are affiliate with. So it will be a very are affiliate with. So it will be a very strict proof actually. Yeah, I can.
+
+strict proof actually. Yeah, I can. strict proof actually. Yeah, I can. &gt;&gt; And then this is where it can get more
+
+&gt;&gt; And then this is where it can get more &gt;&gt; And then this is where it can get more uh interesting. So, not all programs
+
+uh interesting. So, not all programs uh interesting. So, not all programs give you click ID level tracking. So,
+
+give you click ID level tracking. So, give you click ID level tracking. So, there's postbacks over here, dynamic there's postbacks over here, dynamic there's postbacks over here, dynamic variables over here, and then there's a
+
+variables over here, and then there's a variables over here, and then there's a lot of programs that don't have either lot of programs that don't have either lot of programs that don't have either of them. Now, if you have a player
+
+of them. Now, if you have a player of them. Now, if you have a player that's worth a lot of money, what you that's worth a lot of money, what you that's worth a lot of money, what you could do is you can go into the could do is you can go into the could do is you can go into the affiliate program, create 100 packing
+
+affiliate program, create 100 packing affiliate program, create 100 packing links in advance, and say, I only want
+
+links in advance, and say, I only want links in advance, and say, I only want to assign these links to players that I
+
+to assign these links to players that I to assign these links to players that I know are actually worth something. So,
+
+know are actually worth something. So, know are actually worth something. So, you're you're getting the equivalent of you're you're getting the equivalent of you're you're getting the equivalent of a click ID level click, but you're doing
+
+a click ID level click, but you're doing a click ID level click, but you're doing it manually, but it's still worth it.
+
+it manually, but it's still worth it. it manually, but it's still worth it. So, if you got a player that's uh So, if you got a player that's uh So, if you got a player that's uh spending, let's say, €10,000 per month,
+
+spending, let's say, €10,000 per month, spending, let's say, €10,000 per month, um it's worth giving them a custom link.
+
+um it's worth giving them a custom link. um it's worth giving them a custom link. You know, it's worth actually going
+
+You know, it's worth actually going You know, it's worth actually going customer
+
+customer customer &gt;&gt; VIP customers deserve VIP IDs basically.
+
+&gt;&gt; VIP customers deserve VIP IDs basically. &gt;&gt; VIP customers deserve VIP IDs basically. &gt;&gt; Yeah. That actually uh segments into a
+
+&gt;&gt; Yeah. That actually uh segments into a &gt;&gt; Yeah. That actually uh segments into a question I have about personalization,
+
+question I have about personalization, question I have about personalization, which is the newsletter is a
+
+which is the newsletter is a which is the newsletter is a personalization concept. Um, but do you
+
+personalization concept. Um, but do you personalization concept. Um, but do you think that there's a a new world of
+
+think that there's a a new world of think that there's a a new world of personalization in terms of like
+
+personalization in terms of like personalization in terms of like creating the content and going how do we
+
+creating the content and going how do we creating the content and going how do we hyperpersonalize this to users with and
+
+hyperpersonalize this to users with and hyperpersonalize this to users with and without them logging in if that makes
+
+without them logging in if that makes without them logging in if that makes sense? sense? sense? &gt;&gt; So when you mean the personalization do
+
+&gt;&gt; So when you mean the personalization do &gt;&gt; So when you mean the personalization do you mean personalization of the content
+
+you mean personalization of the content you mean personalization of the content on the site or personalization of the
+
+on the site or personalization of the on the site or personalization of the content on just a newsletter or
+
+content on just a newsletter or content on just a newsletter or &gt;&gt; more on the website? one.
+
+&gt;&gt; more on the website? one. &gt;&gt; more on the website? one. So that part is a little bit actually
+
+So that part is a little bit actually So that part is a little bit actually bringing me to some of my latest SOPs
+
+bringing me to some of my latest SOPs bringing me to some of my latest SOPs because I started to differentiate
+
+because I started to differentiate because I started to differentiate domains from each other because some
+
+domains from each other because some domains from each other because some domains and technically of course as I
+
+domains and technically of course as I domains and technically of course as I said earlier too what you do for AI
+
+said earlier too what you do for AI said earlier too what you do for AI features of Google and for the regular
+
+features of Google and for the regular features of Google and for the regular traditional search it's not that
+
+traditional search it's not that traditional search it's not that different to rank in the AI you have to
+
+different to rank in the AI you have to different to rank in the AI you have to rank your document if you rank your
+
+rank your document if you rank your rank your document if you rank your document your passages are going to be
+
+document your passages are going to be document your passages are going to be processed and ranked and retrieved if
+
+processed and ranked and retrieved if processed and ranked and retrieved if your passages are ranked in the feature
+
+your passages are ranked in the feature your passages are ranked in the feature snippets or the People also ask also the
+
+snippets or the People also ask also the snippets or the People also ask also the retrieved and generated and augmented
+
+retrieved and generated and augmented retrieved and generated and augmented passage also is going to be citing you
+
+passage also is going to be citing you passage also is going to be citing you as well. But for these money sites
+
+as well. But for these money sites as well. But for these money sites usually you also have to balance some
+
+usually you also have to balance some usually you also have to balance some sections. Let's say I'm searching for
+
+sections. Let's say I'm searching for sections. Let's say I'm searching for car accident attorney Houston for
+
+car accident attorney Houston for car accident attorney Houston for Filipinos or Filipino victims because
+
+Filipinos or Filipino victims because Filipinos or Filipino victims because Filipinos sometimes actually just want a
+
+Filipinos sometimes actually just want a Filipinos sometimes actually just want a Filipino lawyer for themselves. And if
+
+Filipino lawyer for themselves. And if Filipino lawyer for themselves. And if you keep adding every nationality to
+
+you keep adding every nationality to you keep adding every nationality to your web document then actually you are
+
+your web document then actually you are your web document then actually you are going to be decreasing the relevance
+
+going to be decreasing the relevance going to be decreasing the relevance while increasing what Google calls gore.
+
+while increasing what Google calls gore. while increasing what Google calls gore. So the personalization that you do on
+
+So the personalization that you do on So the personalization that you do on certain valuable domains rather than
+
+certain valuable domains rather than certain valuable domains rather than making it very explicitly you have to
+
+making it very explicitly you have to making it very explicitly you have to annotate it basic by adding the most
+
+annotate it basic by adding the most annotate it basic by adding the most important ones and annotate the rest
+
+important ones and annotate the rest important ones and annotate the rest from that class basically. And there is
+
+from that class basically. And there is from that class basically. And there is a second group of domains that actually
+
+a second group of domains that actually a second group of domains that actually I call and I started to call them either
+
+I call and I started to call them either I call and I started to call them either permanent EMDs or temporary EMDs. If
+
+permanent EMDs or temporary EMDs. If permanent EMDs or temporary EMDs. If it's a permanent exact match domain, you
+
+it's a permanent exact match domain, you it's a permanent exact match domain, you can check one of them for instance can check one of them for instance can check one of them for instance otoex.com
+
+otoex.com otoex.com and we ranked it like around just two
+
+and we ranked it like around just two and we ranked it like around just two months and right now it's around 6,000
+
+months and right now it's around 6,000 months and right now it's around 6,000 clicks. Sorry, 60 days 6,000 clicks
+
+clicks. Sorry, 60 days 6,000 clicks clicks. Sorry, 60 days 6,000 clicks already exact mesh domain and it's
+
+already exact mesh domain and it's already exact mesh domain and it's converting really well on that one for
+
+converting really well on that one for converting really well on that one for instance. It's a permanent exact mesh
+
+instance. It's a permanent exact mesh instance. It's a permanent exact mesh domain that we want to also manipulate
+
+domain that we want to also manipulate domain that we want to also manipulate every type of surf feature in these ones
+
+every type of surf feature in these ones every type of surf feature in these ones too. Actually, I try to be closer to a
+
+too. Actually, I try to be closer to a too. Actually, I try to be closer to a certain type of vector with your with my
+
+certain type of vector with your with my certain type of vector with your with my brand attribution and the content is
+
+brand attribution and the content is brand attribution and the content is adjusted for that. There is also
+
+adjusted for that. There is also adjusted for that. There is also wasteful domains like I call for the
+
+wasteful domains like I call for the wasteful domains like I call for the wasteful domains. For instance, I can
+
+wasteful domains. For instance, I can wasteful domains. For instance, I can actually open any page for any long-term
+
+actually open any page for any long-term actually open any page for any long-term question or whatever. And that is
+
+question or whatever. And that is question or whatever. And that is actually not even a permanent domain
+
+actually not even a permanent domain actually not even a permanent domain that much because all of my social media
+
+that much because all of my social media that much because all of my social media accounts or social media official
+
+accounts or social media official accounts or social media official accounts or nonofficial accounts and my
+
+accounts or nonofficial accounts and my accounts or nonofficial accounts and my wasteful domains that I call them, they
+
+wasteful domains that I call them, they wasteful domains that I call them, they are all actually adjusted for creating a
+
+are all actually adjusted for creating a are all actually adjusted for creating a consensus around the web by actually
+
+consensus around the web by actually consensus around the web by actually creating a surrounding sound around my
+
+creating a surrounding sound around my creating a surrounding sound around my brand and also around my topic. It is
+
+brand and also around my topic. It is brand and also around my topic. It is actually called surround sound campaigns
+
+actually called surround sound campaigns actually called surround sound campaigns as well. And we try to manipulate LLMs
+
+as well. And we try to manipulate LLMs as well. And we try to manipulate LLMs and reach out to these people with
+
+and reach out to these people with and reach out to these people with hyperfocus and hyper personalization.
+
+hyperfocus and hyper personalization. hyperfocus and hyper personalization. Even if that domain doesn't rank for the
+
+Even if that domain doesn't rank for the Even if that domain doesn't rank for the long term or even if that domain doesn't
+
+long term or even if that domain doesn't long term or even if that domain doesn't rank for valuable query terms, it's okay
+
+rank for valuable query terms, it's okay rank for valuable query terms, it's okay because we target maybe 20 words of
+
+because we target maybe 20 words of because we target maybe 20 words of queries or sentences or instructions.
+
+queries or sentences or instructions. queries or sentences or instructions. So these are usually uh mainly for
+
+So these are usually uh mainly for So these are usually uh mainly for actually LLM focus domains. And if you
+
+actually LLM focus domains. And if you actually LLM focus domains. And if you want to do this level of want to do this level of want to do this level of personalization, usually this is what we
+
+personalization, usually this is what we personalization, usually this is what we do. Beyond that, if I need to do
+
+do. Beyond that, if I need to do do. Beyond that, if I need to do personalization for every landed user to
+
+personalization for every landed user to personalization for every landed user to do my web page on that segment, I need
+
+do my web page on that segment, I need do my web page on that segment, I need to usually use either some JS
+
+to usually use either some JS to usually use either some JS redirections which Google doesn't like
+
+redirections which Google doesn't like redirections which Google doesn't like that much because they call it sneaky
+
+that much because they call it sneaky that much because they call it sneaky redirection which might be causing some
+
+redirection which might be causing some redirection which might be causing some cannibalization and also cannibalization and also cannibalization and also canonicalization problems. If I use uh
+
+canonicalization problems. If I use uh canonicalization problems. If I use uh some let's say different content based
+
+some let's say different content based some let's say different content based on the user agents and user agent IP
+
+on the user agents and user agent IP on the user agents and user agent IP address or user agent location I need to
+
+address or user agent location I need to address or user agent location I need to accept the risk of being diagn diagnosed
+
+accept the risk of being diagn diagnosed accept the risk of being diagn diagnosed as cloaking source because if I'm
+
+as cloaking source because if I'm as cloaking source because if I'm showing a different something for every
+
+showing a different something for every showing a different something for every user including also Google user agents
+
+user including also Google user agents user including also Google user agents it will be a way of actually cloaking
+
+it will be a way of actually cloaking it will be a way of actually cloaking and if I change my URL for some of them
+
+and if I change my URL for some of them and if I change my URL for some of them but I if I keep it same for some others
+
+but I if I keep it same for some others but I if I keep it same for some others Again actually it will be seen a bit
+
+Again actually it will be seen a bit Again actually it will be seen a bit dangerous by Google bot too. To increase
+
+dangerous by Google bot too. To increase dangerous by Google bot too. To increase your chance of success there you can try
+
+your chance of success there you can try your chance of success there you can try to see what location Google bot is
+
+to see what location Google bot is to see what location Google bot is crawling you and from that location you
+
+crawling you and from that location you crawling you and from that location you can always show a certain type of
+
+can always show a certain type of can always show a certain type of content and for other locations you can
+
+content and for other locations you can content and for other locations you can show some different content as well but
+
+show some different content as well but show some different content as well but eventually in my experience they will
+
+eventually in my experience they will eventually in my experience they will catch catch catch &gt;&gt; both. So if the website is money site I
+
+&gt;&gt; both. So if the website is money site I &gt;&gt; both. So if the website is money site I usually try to not do that that much
+
+usually try to not do that that much usually try to not do that that much unless they are logged in. If they
+
+unless they are logged in. If they unless they are logged in. If they locked in, you are safe. But if you are
+
+locked in, you are safe. But if you are locked in, you are safe. But if you are serving different things to the not
+
+serving different things to the not serving different things to the not locked in users, I usually prefer
+
+locked in users, I usually prefer locked in users, I usually prefer wasteful domains, which means domains
+
+wasteful domains, which means domains wasteful domains, which means domains that I can waste easily
+
+that I can waste easily that I can waste easily &gt;&gt; to do these type of things. That's
+
+&gt;&gt; to do these type of things. That's &gt;&gt; to do these type of things. That's challenging. I don't think I've got an challenging. I don't think I've got an challenging. I don't think I've got an answer to to that because like I'll give
+
+answer to to that because like I'll give answer to to that because like I'll give you the example like we have our website
+
+you the example like we have our website you the example like we have our website stats drone. We're a tool for stats drone. We're a tool for stats drone. We're a tool for affiliates, but we have a lot of affiliates, but we have a lot of affiliates, but we have a lot of different uh personas on our website. We
+
+different uh personas on our website. We different uh personas on our website. We have affiliates, affiliate agencies,
+
+have affiliates, affiliate agencies, have affiliates, affiliate agencies, affiliate networks, we have SEO
+
+affiliate networks, we have SEO affiliate networks, we have SEO affiliates, we have PPC affiliates, uh
+
+affiliates, we have PPC affiliates, uh affiliates, we have PPC affiliates, uh affiliate managers, operators, and the
+
+affiliate managers, operators, and the affiliate managers, operators, and the software. And it's kind of like trying
+
+software. And it's kind of like trying software. And it's kind of like trying to create all trying to keep all of them
+
+to create all trying to keep all of them to create all trying to keep all of them happy is not easy. But I have some ideas
+
+happy is not easy. But I have some ideas happy is not easy. But I have some ideas of what pages some of them like to go
+
+of what pages some of them like to go of what pages some of them like to go on. Uh but there's a lot of the pages
+
+on. Uh but there's a lot of the pages on. Uh but there's a lot of the pages where it's actually suitable for where it's actually suitable for where it's actually suitable for everyone. But it's like I'm trying to
+
+everyone. But it's like I'm trying to everyone. But it's like I'm trying to go, okay, how do I create content and
+
+go, okay, how do I create content and go, okay, how do I create content and keep everyone happy? Like do you think
+
+keep everyone happy? Like do you think keep everyone happy? Like do you think that there's a way where we could have
+
+that there's a way where we could have that there's a way where we could have like a instead of a geo bar that says
+
+like a instead of a geo bar that says like a instead of a geo bar that says you're from Canada, it could actually be
+
+you're from Canada, it could actually be you're from Canada, it could actually be like what is your ICP?
+
+like what is your ICP? like what is your ICP? &gt;&gt; Might be also that also in a way that's
+
+&gt;&gt; Might be also that also in a way that's &gt;&gt; Might be also that also in a way that's also working too. But I believe for this
+
+also working too. But I believe for this also working too. But I believe for this issue there is not a 100% perfect
+
+issue there is not a 100% perfect issue there is not a 100% perfect solution. There might be maybe just one
+
+solution. There might be maybe just one solution. There might be maybe just one thing that also might be harming less
+
+thing that also might be harming less thing that also might be harming less while helping for personalization. It's
+
+while helping for personalization. It's while helping for personalization. It's something I usually started to do when
+
+something I usually started to do when something I usually started to do when these LLM starts to be more important. I
+
+these LLM starts to be more important. I these LLM starts to be more important. I still do it for some pages. So
+
+still do it for some pages. So still do it for some pages. So technically uh I just choose some zones
+
+technically uh I just choose some zones technically uh I just choose some zones on the web page and I just do
+
+on the web page and I just do on the web page and I just do personalization for that section and the
+
+personalization for that section and the personalization for that section and the percentage of content that I change with
+
+percentage of content that I change with percentage of content that I change with the personalization is not over 10% of
+
+the personalization is not over 10% of the personalization is not over 10% of the text. That's the first thing. I
+
+the text. That's the first thing. I the text. That's the first thing. I never personalize the content or
+
+never personalize the content or never personalize the content or customize the content from the important
+
+customize the content from the important customize the content from the important headings or important sections of the
+
+headings or important sections of the headings or important sections of the HTML. The third thing is that if I do
+
+HTML. The third thing is that if I do HTML. The third thing is that if I do personalization, I use data no index
+
+personalization, I use data no index personalization, I use data no index snippet which means I tell Googlebot if
+
+snippet which means I tell Googlebot if snippet which means I tell Googlebot if you come to this page do not index this
+
+you come to this page do not index this you come to this page do not index this section of the HTML which decreases its
+
+section of the HTML which decreases its section of the HTML which decreases its prominence for indexation or rank of or
+
+prominence for indexation or rank of or prominence for indexation or rank of or ranking purposes. By using that
+
+ranking purposes. By using that ranking purposes. By using that approach, I am able to also basically
+
+approach, I am able to also basically approach, I am able to also basically constraint the personalization to the
+
+constraint the personalization to the constraint the personalization to the non-important sections and I also tell
+
+non-important sections and I also tell non-important sections and I also tell the search engine it's not for you.
+
+the search engine it's not for you. the search engine it's not for you. Don't index it as well. So this is the
+
+Don't index it as well. So this is the Don't index it as well. So this is the least or let's say most possible healthy
+
+least or let's say most possible healthy least or let's say most possible healthy version there. Still not perfect but it
+
+version there. Still not perfect but it version there. Still not perfect but it might or at least for LLM angle it is
+
+might or at least for LLM angle it is might or at least for LLM angle it is working because for large linkage model
+
+working because for large linkage model working because for large linkage model sometimes I'm adding very big chunk of
+
+sometimes I'm adding very big chunk of sometimes I'm adding very big chunk of text to the bottom but I tell Google bot
+
+text to the bottom but I tell Google bot text to the bottom but I tell Google bot it's not for you. Don't index it. don't
+
+it's not for you. Don't index it. don't it's not for you. Don't index it. don't check it, don't care about it.
+
+check it, don't care about it. check it, don't care about it. &gt;&gt; So this type of maybe differentiation
+
+&gt;&gt; So this type of maybe differentiation &gt;&gt; So this type of maybe differentiation with some certain data snippets
+
+with some certain data snippets with some certain data snippets instructions actually is helpful.
+
+instructions actually is helpful. instructions actually is helpful. &gt;&gt; That that might be a good solution. It's
+
+&gt;&gt; That that might be a good solution. It's &gt;&gt; That that might be a good solution. It's kind of like, you know, let Google know
+
+kind of like, you know, let Google know kind of like, you know, let Google know that it's like, hey, I've got five
+
+that it's like, hey, I've got five that it's like, hey, I've got five pieces of content. They're all pieces of content. They're all pieces of content. They're all personalized and it's like one of five
+
+personalized and it's like one of five personalized and it's like one of five personas and it's kind of like, hey, if
+
+personas and it's kind of like, hey, if personas and it's kind of like, hey, if you're this persona, click here and I'll
+
+you're this persona, click here and I'll you're this persona, click here and I'll tell you something you need to know tell you something you need to know tell you something you need to know about this page. about this page. about this page. &gt;&gt; Yeah. And it's not for Google bot &gt;&gt; Yeah. And it's not for Google bot &gt;&gt; Yeah. And it's not for Google bot basically because technically if they
+
+basically because technically if they basically because technically if they see something no index to save the cost
+
+see something no index to save the cost see something no index to save the cost they don't even judge it. They even
+
+they don't even judge it. They even they don't even judge it. They even don't check it. They have a kinds of
+
+don't check it. They have a kinds of don't check it. They have a kinds of basically pattern behavior there. If for
+
+basically pattern behavior there. If for basically pattern behavior there. If for instance if the page is no index they
+
+instance if the page is no index they instance if the page is no index they even don't render the JavaScript
+
+even don't render the JavaScript even don't render the JavaScript &gt;&gt; to decrease the cost. So if you say data
+
+&gt;&gt; to decrease the cost. So if you say data &gt;&gt; to decrease the cost. So if you say data no snippet uh so data no index for a
+
+no snippet uh so data no index for a no snippet uh so data no index for a certain part of HTML they wouldn't run a
+
+certain part of HTML they wouldn't run a certain part of HTML they wouldn't run a proper algorithm to check what is proper algorithm to check what is proper algorithm to check what is actually going on in that area too.
+
+actually going on in that area too. actually going on in that area too. &gt;&gt; Okay. I've never heard of that before,
+
+&gt;&gt; Okay. I've never heard of that before, &gt;&gt; Okay. I've never heard of that before, but you know what? As we're scraping all
+
+but you know what? As we're scraping all but you know what? As we're scraping all these affiliate sites, that's going to
+
+these affiliate sites, that's going to these affiliate sites, that's going to be one thing we're going to add to the
+
+be one thing we're going to add to the be one thing we're going to add to the list. We'll be like, who which list. We'll be like, who which list. We'll be like, who which affiliates do this? Because my personal
+
+affiliates do this? Because my personal affiliates do this? Because my personal take is if it works really well, then we
+
+take is if it works really well, then we take is if it works really well, then we might see some of the best um SEO
+
+might see some of the best um SEO might see some of the best um SEO focused affiliate sites ranking at the
+
+focused affiliate sites ranking at the focused affiliate sites ranking at the top and if they start having these
+
+top and if they start having these top and if they start having these signatures on their code, uh we'll find
+
+signatures on their code, uh we'll find signatures on their code, uh we'll find it and all that. I believe you can check
+
+it and all that. I believe you can check it and all that. I believe you can check also Google's own documentation. They
+
+also Google's own documentation. They also Google's own documentation. They have some of these uh these type of
+
+have some of these uh these type of have some of these uh these type of things there as well. If you create some
+
+things there as well. If you create some things there as well. If you create some different URLs uh with JavaScript
+
+different URLs uh with JavaScript different URLs uh with JavaScript redirection also try to use there is one
+
+redirection also try to use there is one redirection also try to use there is one instruction that you can use for Google
+
+instruction that you can use for Google instruction that you can use for Google bot it tells until what time it should
+
+bot it tells until what time it should bot it tells until what time it should be crawled. be crawled. be crawled. &gt;&gt; Okay. &gt;&gt; Okay. &gt;&gt; Okay. &gt;&gt; For instance you create a alternative
+
+&gt;&gt; For instance you create a alternative &gt;&gt; For instance you create a alternative version and you redirect only that user
+
+version and you redirect only that user version and you redirect only that user to the air that zone and you can use
+
+to the air that zone and you can use to the air that zone and you can use base like shorter than two weeks. They
+
+base like shorter than two weeks. They base like shorter than two weeks. They are very tolerant for two weeks time
+
+are very tolerant for two weeks time are very tolerant for two weeks time zone for AB testing or for these type of
+
+zone for AB testing or for these type of zone for AB testing or for these type of sneaky redirects. They don't see it's
+
+sneaky redirects. They don't see it's sneaky redirects. They don't see it's sneaky if it is shorter than two weeks.
+
+sneaky if it is shorter than two weeks. sneaky if it is shorter than two weeks. If you create an automated URL change
+
+If you create an automated URL change If you create an automated URL change system, every two weeks you can change
+
+system, every two weeks you can change system, every two weeks you can change it to another URL and you can again tell
+
+it to another URL and you can again tell it to another URL and you can again tell after this way it's not needed anymore.
+
+after this way it's not needed anymore. after this way it's not needed anymore. So don't try to index it or don't try to
+
+So don't try to index it or don't try to So don't try to index it or don't try to canonicalize it. It's just for some
+
+canonicalize it. It's just for some canonicalize it. It's just for some small portion of users for limited
+
+small portion of users for limited small portion of users for limited number of days. Basically these type of
+
+number of days. Basically these type of number of days. Basically these type of signals actually can uh let's say help
+
+signals actually can uh let's say help signals actually can uh let's say help you to personalize the content without
+
+you to personalize the content without you to personalize the content without being flagged as cloaking source in that
+
+being flagged as cloaking source in that being flagged as cloaking source in that area too. area too. area too. &gt;&gt; So in other words SEO is dead in 2026.
+
+&gt;&gt; So in other words SEO is dead in 2026. &gt;&gt; So in other words SEO is dead in 2026. &gt;&gt; Yeah. I mean I hope it keeps dying. As I
+
+&gt;&gt; Yeah. I mean I hope it keeps dying. As I &gt;&gt; Yeah. I mean I hope it keeps dying. As I said whenever it dies we make more said whenever it dies we make more said whenever it dies we make more money. So
+
+money. So money. So &gt;&gt; no I believe that to be true. I mean &gt;&gt; no I believe that to be true. I mean &gt;&gt; no I believe that to be true. I mean it's kind of weird that I left the it's kind of weird that I left the it's kind of weird that I left the affiliate space and I I long time ago I
+
+affiliate space and I I long time ago I affiliate space and I I long time ago I did SEO consulting and I just be like
+
+did SEO consulting and I just be like did SEO consulting and I just be like wow if I actually stuck in this space I
+
+wow if I actually stuck in this space I wow if I actually stuck in this space I mean that there's so much money to be
+
+mean that there's so much money to be mean that there's so much money to be made. Yeah, definitely
+
+made. Yeah, definitely made. Yeah, definitely &gt;&gt; especially in affiliate industry I can
+
+&gt;&gt; especially in affiliate industry I can &gt;&gt; especially in affiliate industry I can tell for let's say Scandinavian
+
+tell for let's say Scandinavian tell for let's say Scandinavian countries
+
+countries countries in I gaming every country like for
+
+in I gaming every country like for in I gaming every country like for instance even if you go to the Nigeria
+
+instance even if you go to the Nigeria instance even if you go to the Nigeria especially Nigeria actually they gamble
+
+especially Nigeria actually they gamble especially Nigeria actually they gamble a lot but let's say even Somali even the
+
+a lot but let's say even Somali even the a lot but let's say even Somali even the countries with civil war they keep
+
+countries with civil war they keep countries with civil war they keep gambling and gambling and gambling and &gt;&gt; and the the internet on these countries
+
+&gt;&gt; and the the internet on these countries &gt;&gt; and the the internet on these countries are virgin and you can easily manipulate
+
+are virgin and you can easily manipulate are virgin and you can easily manipulate things there actually with hack domains
+
+things there actually with hack domains things there actually with hack domains expired domains exact mesh domains and
+
+expired domains exact mesh domains and expired domains exact mesh domains and many things there so you can use
+
+many things there so you can use many things there so you can use technically. technically. technically. &gt;&gt; Yeah, &gt;&gt; Yeah, &gt;&gt; Yeah, &gt;&gt; it's infinite. I mean, we we have so
+
+&gt;&gt; it's infinite. I mean, we we have so &gt;&gt; it's infinite. I mean, we we have so many different types of uh affiliate
+
+many different types of uh affiliate many different types of uh affiliate customers. I mean, we we don't see their
+
+customers. I mean, we we don't see their customers. I mean, we we don't see their data, but I mean, we we a lot of them
+
+data, but I mean, we we a lot of them data, but I mean, we we a lot of them talk to us and they tell us what they do
+
+talk to us and they tell us what they do talk to us and they tell us what they do and it's um yeah, people keep asking us
+
+and it's um yeah, people keep asking us and it's um yeah, people keep asking us like they're like, "So, SEO is dying, so
+
+like they're like, "So, SEO is dying, so like they're like, "So, SEO is dying, so therefore our business at risk. I'm at
+
+therefore our business at risk. I'm at therefore our business at risk. I'm at risk, we'd actually be dropping and we
+
+risk, we'd actually be dropping and we risk, we'd actually be dropping and we keep getting uh we we keep gaining more
+
+keep getting uh we we keep gaining more keep getting uh we we keep gaining more customers, but we actually are customers, but we actually are customers, but we actually are increasing our our our proof like all
+
+increasing our our our proof like all increasing our our our proof like all the time. It's just like because we have
+
+the time. It's just like because we have the time. It's just like because we have more advanced features and they keep more advanced features and they keep more advanced features and they keep using them and it's like look affiliates
+
+using them and it's like look affiliates using them and it's like look affiliates is not dying. is not dying. is not dying. &gt;&gt; True. I can also tell maybe one
+
+&gt;&gt; True. I can also tell maybe one &gt;&gt; True. I can also tell maybe one definitive thing about whether SEO is
+
+definitive thing about whether SEO is definitive thing about whether SEO is going to be dead one day or not. In my
+
+going to be dead one day or not. In my going to be dead one day or not. In my opinion, I say this earlier too and I'm
+
+opinion, I say this earlier too and I'm opinion, I say this earlier too and I'm saying it actually with very high
+
+saying it actually with very high saying it actually with very high confidence. If you want to kill search
+
+confidence. If you want to kill search confidence. If you want to kill search engine optimization, first you have to
+
+engine optimization, first you have to engine optimization, first you have to change the economy model. If you bring
+
+change the economy model. If you bring change the economy model. If you bring communism one day, yes, SEO will be dead
+
+communism one day, yes, SEO will be dead communism one day, yes, SEO will be dead with many other things. But as long as
+
+with many other things. But as long as with many other things. But as long as you have free markets and the free will,
+
+you have free markets and the free will, you have free markets and the free will, people are going to be searching. For
+
+people are going to be searching. For people are going to be searching. For searching, there will be a search searching, there will be a search searching, there will be a search engine. For search engine, there will be
+
+engine. For search engine, there will be engine. For search engine, there will be optimization. It's not going to change.
+
+optimization. It's not going to change. optimization. It's not going to change. Maybe you will be searching from your Maybe you will be searching from your Maybe you will be searching from your narons. Maybe you will be searching narons. Maybe you will be searching narons. Maybe you will be searching direct in your brain. You won't be
+
+direct in your brain. You won't be direct in your brain. You won't be looking at the screen. Maybe you'll be looking at the screen. Maybe you'll be looking at the screen. Maybe you'll be using your brain directly with narrow
+
+using your brain directly with narrow using your brain directly with narrow link or whatever. But even then there
+
+link or whatever. But even then there link or whatever. But even then there will be search engine optimization even
+
+will be search engine optimization even will be search engine optimization even for that too. Eventually it's going to
+
+for that too. Eventually it's going to for that too. Eventually it's going to be always working. So you need to change
+
+be always working. So you need to change be always working. So you need to change economy model to kill it to be honest.
+
+economy model to kill it to be honest. economy model to kill it to be honest. Well, hopefully we don't get the Well, hopefully we don't get the Well, hopefully we don't get the communism version where it's like post
+
+communism version where it's like post communism version where it's like post on social media can get you in jail.
+
+on social media can get you in jail. on social media can get you in jail. Will you surges get you in jail?
+
+Will you surges get you in jail? Will you surges get you in jail? &gt;&gt; Many other many other things there &gt;&gt; Many other many other things there &gt;&gt; Many other many other things there actually I can't say. But I believe actually I can't say. But I believe actually I can't say. But I believe that's the only way of killing that. that's the only way of killing that. that's the only way of killing that. Other than that, I don't think that it's
+
+Other than that, I don't think that it's Other than that, I don't think that it's going to be ever. It will just keep
+
+going to be ever. It will just keep going to be ever. It will just keep changing, but it will be also keep
+
+changing, but it will be also keep changing, but it will be also keep existing. existing. existing. &gt;&gt; All right. I'm confident in that. All &gt;&gt; All right. I'm confident in that. All &gt;&gt; All right. I'm confident in that. All right. So, I'm going to wrap up with the right. So, I'm going to wrap up with the right. So, I'm going to wrap up with the two more quick questions. Um, so with
+
+two more quick questions. Um, so with two more quick questions. Um, so with this podcast, like I've been doing this this podcast, like I've been doing this this podcast, like I've been doing this for two and a half years. I haven't
+
+for two and a half years. I haven't for two and a half years. I haven't actually took a lot of the content from
+
+actually took a lot of the content from actually took a lot of the content from it from audio to text because I used to
+
+it from audio to text because I used to it from audio to text because I used to use descript which is a lot of work in
+
+use descript which is a lot of work in use descript which is a lot of work in editing but I know that the the tools
+
+editing but I know that the the tools editing but I know that the the tools now are like even easier. So I'm about
+
+now are like even easier. So I'm about now are like even easier. So I'm about to build an edit and automation convert
+
+to build an edit and automation convert to build an edit and automation convert it but I don't want to just publish the it but I don't want to just publish the it but I don't want to just publish the transcript blindly. I want to I want to
+
+transcript blindly. I want to I want to transcript blindly. I want to I want to do lots with this. So what would you do lots with this. So what would you do lots with this. So what would you advise whether it's me as a B2B podcast
+
+advise whether it's me as a B2B podcast advise whether it's me as a B2B podcast or anyone who's doing a BTOC podcast as
+
+or anyone who's doing a BTOC podcast as or anyone who's doing a BTOC podcast as an affiliate marketer? Well, great
+
+an affiliate marketer? Well, great an affiliate marketer? Well, great question actually and again it is question actually and again it is question actually and again it is touching to the my latest SOP because we
+
+touching to the my latest SOP because we touching to the my latest SOP because we created an SOP for law firms and in that
+
+created an SOP for law firms and in that created an SOP for law firms and in that SOP we turn every lawyer first into an
+
+SOP we turn every lawyer first into an SOP we turn every lawyer first into an entity in a knowledge graph then we open
+
+entity in a knowledge graph then we open entity in a knowledge graph then we open official site for them then we create
+
+official site for them then we create official site for them then we create all the social media accounts for them
+
+all the social media accounts for them all the social media accounts for them including IMDb professional account then
+
+including IMDb professional account then including IMDb professional account then we add every podcast by turning every
+
+we add every podcast by turning every we add every podcast by turning every podcast into entities in IMDb and
+
+podcast into entities in IMDb and podcast into entities in IMDb and assigning that lawyer as an actor in the
+
+assigning that lawyer as an actor in the assigning that lawyer as an actor in the podcast. podcast. podcast. &gt;&gt; Okay. And then to do official site we
+
+&gt;&gt; Okay. And then to do official site we &gt;&gt; Okay. And then to do official site we also keep adding every podcast episode
+
+also keep adding every podcast episode also keep adding every podcast episode and sometimes we also create a separate
+
+and sometimes we also create a separate and sometimes we also create a separate site for the podcast itself too. While
+
+site for the podcast itself too. While site for the podcast itself too. While doing that we turn every podcast episode
+
+doing that we turn every podcast episode doing that we turn every podcast episode to the text because we know that when we
+
+to the text because we know that when we to the text because we know that when we keep adding this podcast to the Apple
+
+keep adding this podcast to the Apple keep adding this podcast to the Apple podcast or Spotify or whatever else all
+
+podcast or Spotify or whatever else all podcast or Spotify or whatever else all of them basic being consolidated by
+
+of them basic being consolidated by of them basic being consolidated by large language models and Google and
+
+large language models and Google and large language models and Google and then they also actually change the large
+
+then they also actually change the large then they also actually change the large language model answers directly as well.
+
+language model answers directly as well. language model answers directly as well. So the text there is actually used by
+
+So the text there is actually used by So the text there is actually used by LLMs in a very good way. We distribute
+
+LLMs in a very good way. We distribute LLMs in a very good way. We distribute to the official side of the entity and
+
+to the official side of the entity and to the official side of the entity and to the IMDb and to the many other social
+
+to the IMDb and to the many other social to the IMDb and to the many other social media accounts. And then we also use
+
+media accounts. And then we also use media accounts. And then we also use certain GPTs or N8N as well to turn this
+
+certain GPTs or N8N as well to turn this certain GPTs or N8N as well to turn this transcript or transcripted text to the
+
+transcript or transcripted text to the transcript or transcripted text to the tweet floats or to the Reddit threads or
+
+tweet floats or to the Reddit threads or tweet floats or to the Reddit threads or to the qu basically post and every
+
+to the qu basically post and every to the qu basically post and every prompt basically takes the same text and
+
+prompt basically takes the same text and prompt basically takes the same text and turns it into something else. Then it
+
+turns it into something else. Then it turns it into something else. Then it doesn't end there. We also take that
+
+doesn't end there. We also take that doesn't end there. We also take that episode and we chunk it to the smaller
+
+episode and we chunk it to the smaller episode and we chunk it to the smaller pieces because episode is designed in
+
+pieces because episode is designed in pieces because episode is designed in that way and then we also add a kind of
+
+that way and then we also add a kind of that way and then we also add a kind of uh sound way to do that that thing. We
+
+uh sound way to do that that thing. We uh sound way to do that that thing. We turn it into a video then we post it to
+
+turn it into a video then we post it to turn it into a video then we post it to the YouTube and then also we basically
+
+the YouTube and then also we basically the YouTube and then also we basically make it YouTube shorts and Tik Tok
+
+make it YouTube shorts and Tik Tok make it YouTube shorts and Tik Tok shorts, Facebook short videos and many
+
+shorts, Facebook short videos and many shorts, Facebook short videos and many other things as well. So it is a kind of
+
+other things as well. So it is a kind of other things as well. So it is a kind of content reformatting, repurposing and
+
+content reformatting, repurposing and content reformatting, repurposing and syndicating with different angles. Then
+
+syndicating with different angles. Then syndicating with different angles. Then you will see that actually you are you will see that actually you are you will see that actually you are creating so much content from
+
+creating so much content from creating so much content from alternative sources with every type of
+
+alternative sources with every type of alternative sources with every type of format like text content, audio content,
+
+format like text content, audio content, format like text content, audio content, video content and then eventually you
+
+video content and then eventually you video content and then eventually you start to change the answers of LLMs as
+
+start to change the answers of LLMs as start to change the answers of LLMs as well because the moment that you're an
+
+well because the moment that you're an well because the moment that you're an entity and the moment that you have too
+
+entity and the moment that you have too entity and the moment that you have too many documents and the pages that are
+
+many documents and the pages that are many documents and the pages that are mentioning you, LM also start to site
+
+mentioning you, LM also start to site mentioning you, LM also start to site you and since we have too many law firms
+
+you and since we have too many law firms you and since we have too many law firms as well, we also say things like this a
+
+as well, we also say things like this a as well, we also say things like this a law site says that basically owner of
+
+law site says that basically owner of law site says that basically owner of this law firm from California states
+
+this law firm from California states this law firm from California states that we keep citing you. We keep
+
+that we keep citing you. We keep that we keep citing you. We keep mentioning you from other low sites as
+
+mentioning you from other low sites as mentioning you from other low sites as well which also creates one more time
+
+well which also creates one more time well which also creates one more time entitization and also trust around that
+
+entitization and also trust around that entitization and also trust around that specific entity and his or her works as
+
+specific entity and his or her works as specific entity and his or her works as well. So this will be one of the things
+
+well. So this will be one of the things well. So this will be one of the things that people can do. that people can do. that people can do. &gt;&gt; Okay. So basically if you weren't doing
+
+&gt;&gt; Okay. So basically if you weren't doing &gt;&gt; Okay. So basically if you weren't doing a podcast before this is a great way to
+
+a podcast before this is a great way to a podcast before this is a great way to build authority plus content.
+
+build authority plus content. build authority plus content. &gt;&gt; Definitely. &gt;&gt; Definitely. &gt;&gt; Definitely. &gt;&gt; Okay. So I did the right thing years ago
+
+&gt;&gt; Okay. So I did the right thing years ago &gt;&gt; Okay. So I did the right thing years ago without realizing what I was doing. I
+
+without realizing what I was doing. I without realizing what I was doing. I was like, "Let me just do this and
+
+was like, "Let me just do this and was like, "Let me just do this and figure it out and try to get some figure it out and try to get some figure it out and try to get some customers and it's paid off in more ways
+
+customers and it's paid off in more ways customers and it's paid off in more ways than one." than one." than one." &gt;&gt; Definitely. &gt;&gt; Definitely. &gt;&gt; Definitely. &gt;&gt; Second question is uh Yeah. So, we have
+
+&gt;&gt; Second question is uh Yeah. So, we have &gt;&gt; Second question is uh Yeah. So, we have uh over a few thousand affiliate program
+
+uh over a few thousand affiliate program uh over a few thousand affiliate program reviews. We have a site um that we
+
+reviews. We have a site um that we reviews. We have a site um that we compete with. It's not a direct product
+
+compete with. It's not a direct product compete with. It's not a direct product compare uh competition, but it is uh get
+
+compare uh competition, but it is uh get compare uh competition, but it is uh get lasso.co. So, they have affiliate
+
+lasso.co. So, they have affiliate lasso.co. So, they have affiliate program categories and reviews of
+
+program categories and reviews of program categories and reviews of affiliate programs. I do think their
+
+affiliate programs. I do think their affiliate programs. I do think their content is paper thin. Doesn't matter.
+
+content is paper thin. Doesn't matter. content is paper thin. Doesn't matter. They rank really well. uh what should we
+
+They rank really well. uh what should we They rank really well. uh what should we be doing to improve our rankings and
+
+be doing to improve our rankings and be doing to improve our rankings and authority for we want to be like the
+
+authority for we want to be like the authority for we want to be like the number one affiliate marketing company
+
+number one affiliate marketing company number one affiliate marketing company like when it comes to the B2B side so in
+
+like when it comes to the B2B side so in like when it comes to the B2B side so in that area actually I can tell that many
+
+that area actually I can tell that many that area actually I can tell that many people focus on actually the text mainly
+
+people focus on actually the text mainly people focus on actually the text mainly around 2023
+
+around 2023 around 2023 even the half of the 2024 it was still
+
+even the half of the 2024 it was still even the half of the 2024 it was still the main focus but right now Google is
+
+the main focus but right now Google is the main focus but right now Google is mainly focusing on your layout okay
+
+mainly focusing on your layout okay mainly focusing on your layout okay &gt;&gt; they are able to understand whether you
+
+&gt;&gt; they are able to understand whether you &gt;&gt; they are able to understand whether you are AI generated or not from the or
+
+are AI generated or not from the or are AI generated or not from the or visual semantics. I will give two names.
+
+visual semantics. I will give two names. visual semantics. I will give two names. One of them is Alexander Nayor. The
+
+One of them is Alexander Nayor. The One of them is Alexander Nayor. The other one is a Michael Benderki. If you
+
+other one is a Michael Benderki. If you other one is a Michael Benderki. If you check these two people, you will see
+
+check these two people, you will see check these two people, you will see they are reshaping the goals ranking
+
+they are reshaping the goals ranking they are reshaping the goals ranking algorithm right now and they heavily
+
+algorithm right now and they heavily algorithm right now and they heavily focus on your layout. If you're able to
+
+focus on your layout. If you're able to focus on your layout. If you're able to use annotations and specific visual
+
+use annotations and specific visual use annotations and specific visual semantics by putting the same data in a
+
+semantics by putting the same data in a semantics by putting the same data in a better structured visual way, you can
+
+better structured visual way, you can better structured visual way, you can again keep increasing your rankings in a
+
+again keep increasing your rankings in a again keep increasing your rankings in a better way as well. I will be focusing
+
+better way as well. I will be focusing better way as well. I will be focusing on a little bit in layout there. The
+
+on a little bit in layout there. The on a little bit in layout there. The second thing is that without bloating
+
+second thing is that without bloating second thing is that without bloating the page too much. I will try to add
+
+the page too much. I will try to add the page too much. I will try to add more information with the same data.
+
+more information with the same data. more information with the same data. Even if the data is same, you can
+
+Even if the data is same, you can Even if the data is same, you can interpret the data in a different way as
+
+interpret the data in a different way as interpret the data in a different way as well. You can add different comparisons,
+
+well. You can add different comparisons, well. You can add different comparisons, different declarations or different
+
+different declarations or different different declarations or different let's say uh clarifications around them.
+
+let's say uh clarifications around them. let's say uh clarifications around them. One more thing is that defining a
+
+One more thing is that defining a One more thing is that defining a concept is always making you an
+
+concept is always making you an concept is always making you an authority whenever that concept exists
+
+authority whenever that concept exists authority whenever that concept exists in the queries. If you want to be an
+
+in the queries. If you want to be an in the queries. If you want to be an authority on B2B affilate defining B2B
+
+authority on B2B affilate defining B2B authority on B2B affilate defining B2B marketing and also affilate marketing
+
+marketing and also affilate marketing marketing and also affilate marketing and connecting these two each other and
+
+and connecting these two each other and and connecting these two each other and distributing all these links and distributing all these links and distributing all these links and authority back to your review pages will
+
+authority back to your review pages will authority back to your review pages will be a good approach as well in the
+
+be a good approach as well in the be a good approach as well in the period. Okay, that was
+
+period. Okay, that was period. Okay, that was &gt;&gt; pretty good. And just something that I
+
+&gt;&gt; pretty good. And just something that I &gt;&gt; pretty good. And just something that I wanted to share that because we have wanted to share that because we have wanted to share that because we have this this uh research tool for
+
+this this uh research tool for this this uh research tool for affiliates linking to operators, we want
+
+affiliates linking to operators, we want affiliates linking to operators, we want to try to put that data back into the
+
+to try to put that data back into the to try to put that data back into the reviews to say what are some of the
+
+reviews to say what are some of the reviews to say what are some of the affiliates linking to this this brand.
+
+affiliates linking to this this brand. affiliates linking to this this brand. Um and then also the increase or
+
+Um and then also the increase or Um and then also the increase or decrease of links because we think
+
+decrease of links because we think decrease of links because we think that's actually a signal where it's like
+
+that's actually a signal where it's like that's actually a signal where it's like what happens when the five biggest
+
+what happens when the five biggest what happens when the five biggest gaming affiliates remove a brand. That's
+
+gaming affiliates remove a brand. That's gaming affiliates remove a brand. That's a pretty strong signal there. We don't
+
+a pretty strong signal there. We don't a pretty strong signal there. We don't know what's behind it, but it could be
+
+know what's behind it, but it could be know what's behind it, but it could be it. It's just not good. Let's put it
+
+it. It's just not good. Let's put it it. It's just not good. Let's put it that way. One more thing is that by the
+
+that way. One more thing is that by the that way. One more thing is that by the way you can also try to defend these
+
+way you can also try to defend these way you can also try to defend these user generated content signals by adding
+
+user generated content signals by adding user generated content signals by adding submit a question feature or by asking
+
+submit a question feature or by asking submit a question feature or by asking people would you vote this let's say a
+
+people would you vote this let's say a people would you vote this let's say a late program let's say for this this
+
+late program let's say for this this late program let's say for this this this criteria and then if you go to the
+
+this criteria and then if you go to the this criteria and then if you go to the Google open the visa AI overview future
+
+Google open the visa AI overview future Google open the visa AI overview future by using let's say USA VPN or whatever
+
+by using let's say USA VPN or whatever by using let's say USA VPN or whatever and just try to search for this give me
+
+and just try to search for this give me and just try to search for this give me top 20 a programs for these three
+
+top 20 a programs for these three top 20 a programs for these three criteria whenever you change these three
+
+criteria whenever you change these three criteria whenever you change these three criterias you they're going to see that
+
+criterias you they're going to see that criterias you they're going to see that the answer is changing and it means that
+
+the answer is changing and it means that the answer is changing and it means that actually they are able to judge actually they are able to judge actually they are able to judge basically for these criterias in a very
+
+basically for these criterias in a very basically for these criterias in a very clear way. If you add these criterias
+
+clear way. If you add these criterias clear way. If you add these criterias and comparison for these criterias,
+
+and comparison for these criterias, and comparison for these criterias, definitions for these criterias and also
+
+definitions for these criterias and also definitions for these criterias and also if you allow users also review these
+
+if you allow users also review these if you allow users also review these programs or products or services for
+
+programs or products or services for programs or products or services for these criterias that will be a very good
+
+these criterias that will be a very good these criterias that will be a very good approach there as well. For many sus we
+
+approach there as well. For many sus we approach there as well. For many sus we use this de top five up to 20 for this
+
+use this de top five up to 20 for this use this de top five up to 20 for this with criteria results. We secrete these
+
+with criteria results. We secrete these with criteria results. We secrete these results. Then we try to see which
+
+results. Then we try to see which results. Then we try to see which criteria is associated with which
+
+criteria is associated with which criteria is associated with which product, service or brand. And from
+
+product, service or brand. And from product, service or brand. And from there we try to actually exchange the
+
+there we try to actually exchange the there we try to actually exchange the consensus with the wasteful domains as I
+
+consensus with the wasteful domains as I consensus with the wasteful domains as I explained earlier.
+
+explained earlier. explained earlier. &gt;&gt; Okay, I got lots of homework to do. I
+
+&gt;&gt; Okay, I got lots of homework to do. I &gt;&gt; Okay, I got lots of homework to do. I got so many pages of notes. So let's end
+
+got so many pages of notes. So let's end got so many pages of notes. So let's end it there. Uh Karai, thanks for for doing
+
+it there. Uh Karai, thanks for for doing it there. Uh Karai, thanks for for doing this. I want to pass it back to you. How
+
+this. I want to pass it back to you. How this. I want to pass it back to you. How can people get a hold of you and tell me can people get a hold of you and tell me can people get a hold of you and tell me what's new on your site?
+
+what's new on your site? what's new on your site? &gt;&gt; Thank you so much. And I am active in
+
+&gt;&gt; Thank you so much. And I am active in &gt;&gt; Thank you so much. And I am active in Facebook, LinkedIn, Twitter and in other
+
+Facebook, LinkedIn, Twitter and in other Facebook, LinkedIn, Twitter and in other places. And if you want to join to our
+
+places. And if you want to join to our places. And if you want to join to our coach topical authority or you can join
+
+coach topical authority or you can join coach topical authority or you can join to our community as well. And if you
+
+to our community as well. And if you to our community as well. And if you want to see me in person, you can come want to see me in person, you can come want to see me in person, you can come to the Kushasa Turkey during the
+
+to the Kushasa Turkey during the to the Kushasa Turkey during the September always. We have a mastermind
+
+September always. We have a mastermind September always. We have a mastermind for seven days and probably we'll be
+
+for seven days and probably we'll be for seven days and probably we'll be focusing on a launch of a new course and
+
+focusing on a launch of a new course and focusing on a launch of a new course and a new sus in 2027. We are actually
+
+a new sus in 2027. We are actually a new sus in 2027. We are actually planning for mainly semantics. We are
+
+planning for mainly semantics. We are planning for mainly semantics. We are starting the design and also coding it
+
+starting the design and also coding it starting the design and also coding it as well. But I won't I'm not going to be
+
+as well. But I won't I'm not going to be as well. But I won't I'm not going to be announced officially until I I trust the
+
+announced officially until I I trust the announced officially until I I trust the sauce as well. And that's it. Awesome.
+
+sauce as well. And that's it. Awesome. sauce as well. And that's it. Awesome. Uh, I got to make my way to Turkey to
+
+Uh, I got to make my way to Turkey to Uh, I got to make my way to Turkey to hang out at your event. So, I'm gonna
+
+hang out at your event. So, I'm gonna hang out at your event. So, I'm gonna put it on the calendar and if another
+
+put it on the calendar and if another put it on the calendar and if another event has to move, uh, we'll see what we
+
+event has to move, uh, we'll see what we event has to move, uh, we'll see what we can do. can do. can do. &gt;&gt; Thank you so much. &gt;&gt; Thank you so much. &gt;&gt; Thank you so much. &gt;&gt; Thank you. Thank you as well. Bye. Bye.
+
+&gt;&gt; Thank you. Thank you as well. Bye. Bye. &gt;&gt; Thank you. Thank you as well. Bye. Bye. &gt;&gt; Damn, that was an intense episode. Um, I
+
+&gt;&gt; Damn, that was an intense episode. Um, I &gt;&gt; Damn, that was an intense episode. Um, I told Karai that, you know, this would
+
+told Karai that, you know, this would told Karai that, you know, this would probably be a 20 to 30 minute chat and
+
+probably be a 20 to 30 minute chat and probably be a 20 to 30 minute chat and we went close to an hour. Uh we chatted
+
+we went close to an hour. Uh we chatted we went close to an hour. Uh we chatted a little bit before and after the a little bit before and after the a little bit before and after the podcast recording and yeah we just
+
+podcast recording and yeah we just podcast recording and yeah we just talked about a lot of things in the SEO
+
+talked about a lot of things in the SEO talked about a lot of things in the SEO space. I think uh Karai is possibly one
+
+space. I think uh Karai is possibly one space. I think uh Karai is possibly one of the more misunderstood SEOs in the
+
+of the more misunderstood SEOs in the of the more misunderstood SEOs in the world. Um misunderstood because I think
+
+world. Um misunderstood because I think world. Um misunderstood because I think he attacks uh SEO from a different angle
+
+he attacks uh SEO from a different angle he attacks uh SEO from a different angle and I think he's actually been doing it
+
+and I think he's actually been doing it and I think he's actually been doing it in an an advanced way for many years. I
+
+in an an advanced way for many years. I in an an advanced way for many years. I think it's actually now because we've
+
+think it's actually now because we've think it's actually now because we've got uh the world of AI and people are
+
+got uh the world of AI and people are got uh the world of AI and people are starting to talk about LLMs and rag and
+
+starting to talk about LLMs and rag and starting to talk about LLMs and rag and you know vectorizing databases that all
+
+you know vectorizing databases that all you know vectorizing databases that all the stuff Karai was working on years
+
+the stuff Karai was working on years the stuff Karai was working on years ago. Um it's almost like it came true.
+
+ago. Um it's almost like it came true. ago. Um it's almost like it came true. Um so I I got a lot of really good ideas
+
+Um so I I got a lot of really good ideas Um so I I got a lot of really good ideas out of this podcast. I hope you did too.
+
+out of this podcast. I hope you did too. out of this podcast. I hope you did too. Um I'm personally planning to listen to
+
+Um I'm personally planning to listen to Um I'm personally planning to listen to this a couple more times. So the next
+
+this a couple more times. So the next this a couple more times. So the next flight I go on I'm going to listen to
+
+flight I go on I'm going to listen to flight I go on I'm going to listen to this episode and I'm going to take my
+
+this episode and I'm going to take my this episode and I'm going to take my pen and paper and just write some notes.
+
+pen and paper and just write some notes. pen and paper and just write some notes. So very grateful to have a this chat
+
+So very grateful to have a this chat So very grateful to have a this chat with Karai. Um still buzzing from doing
+
+with Karai. Um still buzzing from doing with Karai. Um still buzzing from doing the recording and he was one of the more
+
+the recording and he was one of the more the recording and he was one of the more uh downloaded episodes we've had in the
+
+uh downloaded episodes we've had in the uh downloaded episodes we've had in the last couple years and I think this one
+
+last couple years and I think this one last couple years and I think this one is probably going to beat it and it's
+
+is probably going to beat it and it's is probably going to beat it and it's going to be just new content that's
+
+going to be just new content that's going to be just new content that's relevant for today. And for those that
+
+relevant for today. And for those that relevant for today. And for those that have kind of uh maybe thought that you
+
+have kind of uh maybe thought that you have kind of uh maybe thought that you know Cry was just talking too much about
+
+know Cry was just talking too much about know Cry was just talking too much about semantic SEO. Well, semantic SEO is a
+
+semantic SEO. Well, semantic SEO is a semantic SEO. Well, semantic SEO is a real thing, but it goes deeper beyond
+
+real thing, but it goes deeper beyond real thing, but it goes deeper beyond just kind of, you know, doing eat and uh
+
+just kind of, you know, doing eat and uh just kind of, you know, doing eat and uh topical authority. It's you can take it
+
+topical authority. It's you can take it topical authority. It's you can take it to another level. And I think in the
+
+to another level. And I think in the to another level. And I think in the world we live in today with AI, there's
+
+world we live in today with AI, there's world we live in today with AI, there's definitely a lot of opportunities here.
