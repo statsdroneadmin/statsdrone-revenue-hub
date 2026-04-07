@@ -22,6 +22,27 @@
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Revenue Optimization Podcast Analytics",
+    "description": "Podcast analytics dashboard for Revenue Optimization with StatsDrone. Downloads, followers, plays, and demographics across Spotify, Apple Podcasts, and YouTube.",
+    "url": "https://revenueoptimization.io/stats/",
+    "creator": {"@type": "Organization", "name": "StatsDrone", "url": "https://statsdrone.com"},
+    "temporalCoverage": "February 7, 2026"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://revenueoptimization.io/"},
+      {"@type": "ListItem", "position": 2, "name": "Stats"}
+    ]
+  }
+  </script>
 </head>
 <body>
   <div class="stats-page">
@@ -236,129 +257,51 @@
           </div>
         </div>
 
-        <!-- Country Tables -->
-        <div class="stats-tables">
-          <div class="stats-card">
-            <div class="stats-table-header">
-              <h2>Top Countries</h2>
-              <span class="stats-table-label">Spotify Streams</span>
+        <!-- Country Map -->
+        <div class="stats-card">
+          <div class="stats-map-header">
+            <h2>Top Countries</h2>
+            <div class="stats-map-toggle">
+              <button class="stats-toggle-btn active" data-source="spotify">Spotify</button>
+              <button class="stats-toggle-btn" data-source="apple">Apple Podcasts</button>
             </div>
-            <table class="stats-table">
-              <tbody>
-                <tr>
-                  <td class="stats-td-rank">1</td>
-                  <td class="stats-td-name">Malta</td>
-                  <td class="stats-td-value">319</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">2</td>
-                  <td class="stats-td-name">United Kingdom</td>
-                  <td class="stats-td-value">300</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">3</td>
-                  <td class="stats-td-name">United States</td>
-                  <td class="stats-td-value">254</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">4</td>
-                  <td class="stats-td-name">Sweden</td>
-                  <td class="stats-td-value">242</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">5</td>
-                  <td class="stats-td-name">Australia</td>
-                  <td class="stats-td-value">207</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">6</td>
-                  <td class="stats-td-name">Norway</td>
-                  <td class="stats-td-value">95</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">7</td>
-                  <td class="stats-td-name">India</td>
-                  <td class="stats-td-value">94</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">8</td>
-                  <td class="stats-td-name">Spain</td>
-                  <td class="stats-td-value">64</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">9</td>
-                  <td class="stats-td-name">Canada</td>
-                  <td class="stats-td-value">63</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">10</td>
-                  <td class="stats-td-name">Poland</td>
-                  <td class="stats-td-value">56</td>
-                </tr>
-              </tbody>
-            </table>
           </div>
-          <div class="stats-card">
-            <div class="stats-table-header">
-              <h2>Top Countries</h2>
-              <span class="stats-table-label">Apple Listeners</span>
-            </div>
-            <table class="stats-table">
-              <tbody>
-                <tr>
-                  <td class="stats-td-rank">1</td>
-                  <td class="stats-td-name">United States</td>
-                  <td class="stats-td-value">71</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">2</td>
-                  <td class="stats-td-name">United Kingdom</td>
-                  <td class="stats-td-value">27</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">3</td>
-                  <td class="stats-td-name">Sweden</td>
-                  <td class="stats-td-value">26</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">4</td>
-                  <td class="stats-td-name">Canada</td>
-                  <td class="stats-td-value">13</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">5</td>
-                  <td class="stats-td-name">Australia</td>
-                  <td class="stats-td-value">6</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">6</td>
-                  <td class="stats-td-name">Denmark</td>
-                  <td class="stats-td-value">6</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">7</td>
-                  <td class="stats-td-name">India</td>
-                  <td class="stats-td-value">6</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">8</td>
-                  <td class="stats-td-name">Netherlands</td>
-                  <td class="stats-td-value">6</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">9</td>
-                  <td class="stats-td-name">South Africa</td>
-                  <td class="stats-td-value">6</td>
-                </tr>
-                <tr>
-                  <td class="stats-td-rank">10</td>
-                  <td class="stats-td-name">Malta</td>
-                  <td class="stats-td-value">5</td>
-                </tr>
-              </tbody>
-            </table>
+          <div id="country-map"></div>
+          <div class="stats-map-label-row">
+            <span class="stats-map-label" id="map-label">Spotify Streams</span>
           </div>
+          <div id="country-table"></div>
         </div>
+        <script>
+          var __mapData = {
+            spotify: [{"country":"Malta","value":319},{"country":"United Kingdom","value":300},{"country":"United States","value":254},{"country":"Sweden","value":242},{"country":"Australia","value":207},{"country":"Norway","value":95},{"country":"India","value":94},{"country":"Spain","value":64},{"country":"Canada","value":63},{"country":"Poland","value":56},{"country":"Denmark","value":50},{"country":"Ireland","value":46},{"country":"Germany","value":44},{"country":"Netherlands","value":36},{"country":"Brazil","value":32},{"country":"Costa Rica","value":26},{"country":"Cyprus","value":25},{"country":"Romania","value":23},{"country":"Lithuania","value":22},{"country":"Türkiye","value":22},{"country":"Singapore","value":21},{"country":"Czechia","value":20},{"country":"Estonia","value":19},{"country":"Belgium","value":18},{"country":"Nigeria","value":17},{"country":"Serbia","value":14},{"country":"New Zealand","value":14},{"country":"South Africa","value":13},{"country":"Bulgaria","value":11},{"country":"Hungary","value":11},{"country":"Morocco","value":11},{"country":"Ukraine","value":10},{"country":"Latvia","value":10},{"country":"Israel","value":9},{"country":"Finland","value":9},{"country":"Slovakia","value":8},{"country":"Italy","value":8},{"country":"Greece","value":7},{"country":"Indonesia","value":6},{"country":"Portugal","value":5},{"country":"Thailand","value":4},{"country":"Malaysia","value":4},{"country":"Mexico","value":3},{"country":"Philippines","value":3},{"country":"Argentina","value":3},{"country":"Luxembourg","value":3},{"country":"Montenegro","value":2},{"country":"Switzerland","value":2},{"country":"France","value":2},{"country":"Vietnam","value":2},{"country":"Saudi Arabia","value":2},{"country":"Taiwan","value":2},{"country":"Chile","value":2},{"country":"UNKNOWN","value":1},{"country":"Kenya","value":1},{"country":"Croatia","value":1},{"country":"Andorra","value":1},{"country":"Bolivia","value":1},{"country":"North Macedonia","value":1},{"country":"Maldives","value":1},{"country":"Colombia","value":1},{"country":"Nepal","value":1},{"country":"Algeria","value":1},{"country":"Hong Kong SAR China","value":1},{"country":"Austria","value":1},{"country":"Iceland","value":1},{"country":"Paraguay","value":1}],
+            apple: [{"country":"United States","value":71},{"country":"United Kingdom","value":27},{"country":"Sweden","value":26},{"country":"Canada","value":13},{"country":"Australia","value":6},{"country":"Denmark","value":6},{"country":"India","value":6},{"country":"Netherlands","value":6},{"country":"South Africa","value":6},{"country":"Malta","value":5},{"country":"Spain","value":5},{"country":"Türkiye","value":5},{"country":"Ukraine","value":5}]
+          };
+        </script>
+        <script src="/js/world-map.js"></script>
+        <script>
+        (function() {
+          var labels = { spotify: 'streams', apple: 'listeners' };
+          var fullLabels = { spotify: 'Spotify Streams', apple: 'Apple Listeners' };
+          var current = 'spotify';
+
+          function update(source) {
+            current = source;
+            WorldMap.render('country-map', __mapData[source], labels[source]);
+            WorldMap.renderTable('country-table', __mapData[source], labels[source]);
+            document.getElementById('map-label').textContent = fullLabels[source];
+            document.querySelectorAll('.stats-toggle-btn').forEach(function(btn) {
+              btn.classList.toggle('active', btn.dataset.source === source);
+            });
+          }
+
+          document.querySelectorAll('.stats-toggle-btn').forEach(function(btn) {
+            btn.addEventListener('click', function() { update(this.dataset.source); });
+          });
+
+          update('spotify');
+        })();
+        </script>
 
         
         <!-- Cities -->
@@ -528,12 +471,15 @@
           </div>
           <p class="footer-tagline">Optimizing revenue, one episode at a time.</p>
         </div>
-        <div class="col-md-4 mb-3 mb-md-0 text-center">
-          <a href="/" class="footer-link">Home</a>
-          <a href="/episodes/" class="footer-link">Episodes</a>
-          <a href="/stats/" class="footer-link">Stats</a>
-          <a href="/blog/" class="footer-link">Blog</a>
-          <a href="/events/" class="footer-link">Events</a>
+        <div class="col-md-4 mb-3 mb-md-0 text-center text-md-start">
+          <nav class="footer-nav">
+            <a href="/" class="footer-link">Home</a>
+            <a href="/episodes/" class="footer-link">Episodes</a>
+            <a href="/stats/" class="footer-link">Stats</a>
+            <a href="/affiliate-tools/" class="footer-link">Tools</a>
+            <a href="/blog/" class="footer-link">Blog</a>
+            <a href="/events/" class="footer-link">Events</a>
+          </nav>
         </div>
         <div class="col-md-4 text-md-end">
           <p class="footer-copyright mb-0">&copy; 2026 StatsDrone. All rights reserved.</p>
