@@ -1,0 +1,3 @@
+- [YouTube](https://youtu.be/nZXsmtzORzA)
+- [Spotify](https://open.spotify.com/episode/1rKmD3DF0DCrpKzI6G4PGl?si=59f00df4e50b4577)
+- [Apple Podcasts](https://podcasts.apple.com/ca/podcast/why-boring-businesses-win-and-venture-capital-doesnt/id1700893670?i=1000760032037)
