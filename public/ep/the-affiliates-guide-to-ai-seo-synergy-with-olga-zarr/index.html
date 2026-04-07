@@ -52,13 +52,25 @@
     "image": "https://content.castplus.io/uploads/8l18nwr1/a2f24900-e817-11ee-bb50-7bb905c4ffc5/a2f24a60-e817-11ee-abb6-1bf206ff4410.jpg",
     "partOfSeries": {
       "@type": "PodcastSeries",
-      "name": "Affiliate BI Podcast",
+      "name": "Revenue Optimization with StatsDrone",
       "url": "https://revenueoptimization.io"
     },
     "associatedMedia": {
       "@type": "AudioObject",
       "contentUrl": "https://media.castplus.fm/wj032j2w.mp3"
     }
+  }
+  </script>
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://revenueoptimization.io/"},
+      {"@type": "ListItem", "position": 2, "name": "Episodes", "item": "https://revenueoptimization.io/episodes/"},
+      {"@type": "ListItem", "position": 3, "name": "The Affiliate’s Guide to AI-SEO Synergy with Olga Zarr"}
+    ]
   }
   </script>
   
@@ -95,8 +107,23 @@
           <li class="nav-item">
             <a class="nav-link" href="/stats/">Stats</a>
           </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="/affiliate-tools/">Tools</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/affiliate-software/">Affiliate Software Reviews</a></li>
+            </ul>
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="/blog/">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/events/">Events</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="/affiliate-programs/">Affiliate</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="/affiliate-programs/casino/">Casino Affiliate Programs</a></li>
+            </ul>
           </li>
         </ul>
       </div>
@@ -109,32 +136,31 @@
         <!-- Back Button -->
         <a href="/episodes" class="back-link">← Back to Episodes</a>
         
-        <!-- Episode Image -->
-        <div class="episode-image-container">
-          <img src="https://content.castplus.io/uploads/8l18nwr1/a2f24900-e817-11ee-bb50-7bb905c4ffc5/a2f24a60-e817-11ee-abb6-1bf206ff4410.jpg" alt="The Affiliate’s Guide to AI-SEO Synergy with Olga Zarr" class="episode-image" loading="lazy">
+        <!-- Episode Header -->
+        <div class="episode-header">
+          <div class="episode-image-container">
+            <img src="https://content.castplus.io/uploads/8l18nwr1/a2f24900-e817-11ee-bb50-7bb905c4ffc5/a2f24a60-e817-11ee-abb6-1bf206ff4410.jpg" alt="The Affiliate’s Guide to AI-SEO Synergy with Olga Zarr" class="episode-image" loading="lazy">
+          </div>
+          <div class="episode-header-info">
+            <h1 class="episode-title">The Affiliate’s Guide to AI-SEO Synergy with Olga Zarr</h1>
+            <div class="episode-meta">
+              <span class="meta-item">📅 March 22, 2024</span>
+              <span class="meta-item">⏱️ 38:12</span>
+            </div>
+            <div class="episode-actions">
+              <a href="https://media.castplus.fm/wj032j2w.mp3" target="_blank" rel="noopener noreferrer" class="btn btn-primary">▶ Play Episode</a>
+              <a href="https://podcasts.castplus.fm/e/p8lmjpyn-cutting-edge-seo-how-affiliates-can-harness-ai-with-olga-zarr" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">View Details</a>
+            </div>
+          </div>
         </div>
         
-        <!-- Episode Title -->
-        <h1 class="episode-title">The Affiliate’s Guide to AI-SEO Synergy with Olga Zarr</h1>
         
-        <!-- Episode Meta -->
-        <div class="episode-meta">
-          <span class="meta-item">📅 March 22, 2024</span>
-          <span class="meta-item">⏱️ 38:12</span>
-        </div>
-        
-        <!-- Action Buttons -->
-        <div class="episode-actions">
-          <a href="https://media.castplus.fm/wj032j2w.mp3" target="_blank" rel="noopener noreferrer" class="btn btn-primary">▶ Play Episode</a>
-          <a href="https://podcasts.castplus.fm/e/p8lmjpyn-cutting-edge-seo-how-affiliates-can-harness-ai-with-olga-zarr" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">View Details</a>
-        </div>
-        
+
         <!-- Description -->
         <div class="episode-description">
           <h2>About This Episode</h2>
-          <p>Meet Olga Zarr who&#039;s an SEO consultant who is super into using AI for anything SEO related. Despite that, she does believe that you&#039;ll always want and need a human element in your content, in your affiliate sites.
-
-Plus see what she had to say about Craig Campbell to start things off.</p>
+          <p>Meet Olga Zarr who&#039;s an SEO consultant who is super into using AI for anything SEO related. Despite that, she does believe that you&#039;ll always want and need a human element in your content, in your affiliate sites.</p>
+          <p>Plus see what she had to say about Craig Campbell to start things off.</p>
         </div>
 
         
@@ -219,11 +245,15 @@ Plus see what she had to say about Craig Campbell to start things off.</p>
           </div>
           <p class="footer-tagline">Optimizing revenue, one episode at a time.</p>
         </div>
-        <div class="col-md-4 mb-3 mb-md-0 text-center">
-          <a href="/" class="footer-link">Home</a>
-          <a href="/episodes/" class="footer-link">Episodes</a>
-          <a href="/stats/" class="footer-link">Stats</a>
-          <a href="/blog/" class="footer-link">Blog</a>
+        <div class="col-md-4 mb-3 mb-md-0 text-center text-md-start">
+          <nav class="footer-nav">
+            <a href="/" class="footer-link">Home</a>
+            <a href="/episodes/" class="footer-link">Episodes</a>
+            <a href="/stats/" class="footer-link">Stats</a>
+            <a href="/affiliate-tools/" class="footer-link">Tools</a>
+            <a href="/blog/" class="footer-link">Blog</a>
+            <a href="/events/" class="footer-link">Events</a>
+          </nav>
         </div>
         <div class="col-md-4 text-md-end">
           <p class="footer-copyright mb-0">&copy; 2026 StatsDrone. All rights reserved.</p>

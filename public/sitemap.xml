@@ -3,35 +3,119 @@
   <!-- Static Pages -->
   <url>
     <loc>https://revenueoptimization.io/</loc>
-    <lastmod>2026-02-13</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/episodes</loc>
-    <lastmod>2026-02-13</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/stats</loc>
-    <lastmod>2026-02-13</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-tools</loc>
-    <lastmod>2026-02-13</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/made-with-lovable</loc>
-    <lastmod>2026-02-13</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <!-- Episode Pages (127 episodes auto-generated from RSS feed) -->
+  <url>
+    <loc>https://revenueoptimization.io/blog/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/blog/how-i-built-my-podcast-website-in-lovable/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/affiliate-programs/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/affiliate-programs/casino/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/affiliate-software/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/affiliate-software/igsuite/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/events/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/events/next-new-york/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/events/next-focus-affiliate/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Episode Pages (132 episodes auto-generated from RSS feed) -->
+  <url>
+    <loc>https://revenueoptimization.io/ep/why-boring-businesses-win-and-venture-capital-doesnt-with-travis-jamison/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/building-ai-agent-companies-the-future-of-work-with-andrew-ansley/</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/igaming-bi-affiliate-analytics-the-cost-of-bad-data-with-lazar-petrov-igsuite/</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/detecting-when-affiliate-programs-shave/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/is-salesforce-cooked-vibe-coding-your-own-crm-in-4-hours/</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://revenueoptimization.io/ep/affiliate-networks-2-0-why-services-data-and-relationships-matter-with-alessandro-gherardi/</loc>
     <lastmod>2026-02-10</lastmod>

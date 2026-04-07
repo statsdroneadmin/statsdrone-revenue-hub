@@ -1195,7 +1195,7 @@ ${GA_SNIPPET}
     console.log(`✅ Generated: ${sitemapPath} with ${episodes.length} episodes`);
 
     // Inject latest episode info into homepage
-    const homepagePath = path.join(OUTPUT_ROOT, 'index.html');
+    const homepagePath = path.join(OUTPUT_ROOT, 'home', 'index.html');
     if (fs.existsSync(homepagePath) && episodes.length > 0) {
       console.log('\n🏠 Injecting latest episode into homepage...');
       let homepageHtml = fs.readFileSync(homepagePath, 'utf8');
@@ -1246,7 +1246,19 @@ ${GA_SNIPPET}
 
       homepageHtml = homepageHtml.replace('<!-- LATEST_EPISODE_PLACEHOLDER -->', latestEpisodeHtml);
       fs.writeFileSync(homepagePath, homepageHtml, 'utf8');
-      console.log(`✅ Injected latest episode: ${latestEp.title}`);
+      console.log(`✅ Injected latest episode into home/index.html: ${latestEp.title}`);
+
+      // Also inject into root index.html (copied from home/index.html during build)
+      const rootIndexPath = path.join(OUTPUT_ROOT, 'index.html');
+      if (fs.existsSync(rootIndexPath)) {
+        let rootHtml = fs.readFileSync(rootIndexPath, 'utf8');
+        if (rootHtml.includes('<!-- LATEST_EPISODE_PLACEHOLDER -->')) {
+          rootHtml = rootHtml.replace('<!-- LATEST_EPISODE_PLACEHOLDER -->', latestEpisodeHtml);
+          fs.writeFileSync(rootIndexPath, rootHtml, 'utf8');
+          console.log(`✅ Injected latest episode into index.html`);
+        }
+      }
+
       console.log(`✅ Total episodes: ${totalEpisodes}`);
     }
 

@@ -156,7 +156,34 @@
                         <a href="#platforms" class="btn btn-accent btn-lg">Start Listening</a>
                         <a href="/episodes/" class="btn btn-outline-custom btn-lg">Browse Episodes</a>
                     </div>
-                    <!-- LATEST_EPISODE_PLACEHOLDER -->
+                    <div class="latest-episode-banner mt-4">
+                        <div class="episode-count-badge">
+                            <span class="episode-count-number">132</span> episodes <span class="episode-count-sep">&middot;</span> <span class="episode-count-number">107,029</span> downloads
+                        </div>
+                        <a href="/ep/why-boring-businesses-win-and-venture-capital-doesnt-with-travis-jamison/" class="latest-episode-link">
+                            <span class="latest-episode-pulse"></span>
+                            <span class="latest-episode-label">Latest Episode</span>
+                            <span class="latest-episode-title">Why Boring Businesses Win and Venture Capital Doesn’t with Travis Jamison</span>
+                            <span class="latest-episode-time" data-pubdate="2026-04-07T11:21:00.000Z"></span>
+                        </a>
+                    </div>
+                    <script>
+                    (function() {
+                      var el = document.querySelector('.latest-episode-time');
+                      if (!el) return;
+                      var pubDate = new Date(el.getAttribute('data-pubdate'));
+                      var now = new Date();
+                      var diffMs = now - pubDate;
+                      var diffMins = Math.floor(diffMs / 60000);
+                      var diffHours = Math.floor(diffMs / 3600000);
+                      var diffDays = Math.floor(diffMs / 86400000);
+                      var text = '';
+                      if (diffDays > 0) text = diffDays + ' day' + (diffDays !== 1 ? 's' : '') + ' ago';
+                      else if (diffHours > 0) text = diffHours + ' hour' + (diffHours !== 1 ? 's' : '') + ' ago';
+                      else text = diffMins + ' min' + (diffMins !== 1 ? 's' : '') + ' ago';
+                      el.textContent = '\u00B7 ' + text;
+                    })();
+                    </script>
                 </div>
             </div>
         </div>
