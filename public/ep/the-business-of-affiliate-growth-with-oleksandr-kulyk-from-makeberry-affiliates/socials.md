@@ -1,0 +1,2 @@
+- [YouTube](https://youtu.be/ohnQUAuzIXY)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-business-of-affiliate-growth-with-oleksandr/id1700893670?i=1000774735746)
