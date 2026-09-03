@@ -9,6 +9,8 @@
 # Normalize to trailing slashes (301 redirects)
 /ep/:slug       /ep/:slug/       301!
 /episodes       /episodes/       301!
+/guests         /guests/         301!
+/guests/:slug   /guests/:slug/   301!
 /affiliate-tools /affiliate-tools/ 301!
 /made-with-lovable /made-with-lovable/ 301!
 /stats          /stats/          301!
@@ -24,6 +26,8 @@
 # Static HTML rewrites (serve pre-rendered content)
 # Homepage is served directly from dist/index.html (copied during build)
 /episodes/      /episodes/index.html    200
+/guests/        /guests/index.html      200
+/guests/:slug/  /guests/:slug/index.html 200
 /ep/            /ep/index.html          200
 /ep/:slug/      /ep/:slug/index.html    200
 /stats/         /stats/index.html       200
