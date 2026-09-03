@@ -106,6 +106,32 @@ function generateSlug(title) {
     .replace(/^-|-$/g, '');
 }
 
+const NOT_GUESTS = new Set(['ai','ai tools','affiliate track','statsdrone','ppc','seo','geo','claude','chatgpt','tableau','salesforce','igaming']);
+
+function guestFromTitle(title) {
+  if (!title) return null;
+  let m = title.match(/^([A-ZÀ-Ý][\w.'’-]+(?:\s+[A-ZÀ-Ý][\w.'’-]+){1,3})\s+on\s+/);
+  if (m && !NOT_GUESTS.has(m[1].toLowerCase())) return m[1];
+  m = title.match(/['’]s\s+([A-ZÀ-Ý][A-Za-zÀ-ÿ.'’-]+(?:\s+[A-ZÀ-Ý][A-Za-zÀ-ÿ.'’-]+)+)\s+on\b/);
+  if (m) return m[1];
+  const named = [...title.matchAll(/\bwith\s+([A-ZÀ-Ý][A-Za-zÀ-ÿ.'’-]+(?:\s+[A-ZÀ-Ý][A-Za-zÀ-ÿ.'’-]+){0,3})(?:\s*,|\s+from\s+|\s+of\s+|$)/g)];
+  for (let i = named.length - 1; i >= 0; i--) {
+    const name = named[i][1].replace(/[.,\s]+$/, '');
+    if (NOT_GUESTS.has(name.toLowerCase())) continue;
+    if (name.split(/\s+/).length < 2) continue;
+    return name;
+  }
+  m = title.match(/\b(?:from|tips from)\s+([A-ZÀ-Ý][A-Za-zÀ-ÿ.'’-]+(?:\s+[A-ZÀ-Ý][A-Za-zÀ-ÿ.'’-]+)+)\s*$/);
+  if (m && !NOT_GUESTS.has(m[1].toLowerCase())) return m[1];
+  return null;
+}
+
+function guestLine(title) {
+  const g = guestFromTitle(title);
+  if (!g) return '';
+  return `<p class="episode-guest">Guest: <a href="/guests/${generateSlug(g)}/">${escapeHtml(g)}</a></p>`;
+}
+
 // Format date
 function formatDate(dateString) {
   try {
@@ -179,6 +205,9 @@ function siteNavbar(activePage) {
             <a class="nav-link${activePage === 'episodes' ? ' active' : ''}" href="/episodes/">Episodes</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link${activePage === 'guests' ? ' active' : ''}" href="/guests/">Guests</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link${activePage === 'stats' ? ' active' : ''}" href="/stats/">Stats</a>
           </li>
           <li class="nav-item dropdown">
@@ -220,6 +249,7 @@ function siteFooter() {
           <nav class="footer-nav">
             <a href="/" class="footer-link">Home</a>
             <a href="/episodes/" class="footer-link">Episodes</a>
+            <a href="/guests/" class="footer-link">Guests</a>
             <a href="/stats/" class="footer-link">Stats</a>
             <a href="/affiliate-tools/" class="footer-link">Tools</a>
             <a href="/blog/" class="footer-link">Blog</a>
@@ -541,6 +571,7 @@ ${GA_SNIPPET}
           </div>
           <div class="episode-header-info">
             <h1 class="episode-title">${title}</h1>
+            ${guestLine(episode.title)}
             <div class="episode-meta">
               ${episode.pubDate ? `<span class="meta-item">📅 ${formatDate(episode.pubDate)}</span>` : ''}
               ${episode.duration ? `<span class="meta-item">⏱️ ${formatDuration(episode.duration)}</span>` : ''}
@@ -687,6 +718,7 @@ function generateSitemap(episodes) {
   const staticPages = [
     { loc: '/', changefreq: 'weekly', priority: '1.0' },
     { loc: '/episodes', changefreq: 'weekly', priority: '0.9' },
+    { loc: '/guests/', changefreq: 'weekly', priority: '0.9' },
     { loc: '/stats', changefreq: 'weekly', priority: '0.8' },
     { loc: '/affiliate-tools', changefreq: 'monthly', priority: '0.7' },
     { loc: '/made-with-lovable', changefreq: 'monthly', priority: '0.6' },
