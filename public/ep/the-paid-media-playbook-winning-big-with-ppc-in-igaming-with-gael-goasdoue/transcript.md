@@ -1,0 +1,160 @@
+# Transcript
+
+**Show:** Revenue Optimization with StatsDrone
+**Episode:** The Paid Media Playbook: Winning Big with PPC in iGaming with Gael Goasdoue
+**Host:** John Wright
+**Guest:** Gael Goasdoue
+**Published:** Tue, 10 Jun 2025 12:51:00 +0000
+**Duration:** 26:06
+
+Speaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.
+
+---
+
+[00:00:00] John Wright: a fit manager, sometimes they have a lot on their plate and optimizing some of the learning pages, it's not one of their priorities. It's also because it requires some more resources that from tech resources and stuff like that. So that's not really something you can expect from them. Don't get me wrong, it happens. Some of them are face-to-face supportive, but we are, especially in the payhards, we are evolving in a very fast-paced environment. We can't wait for them to read the new learning page, which is going to take days, weeks, sometimes. So the only solution that I have found for this specific program is just to be on top of the data and change my talks, which means the brand I'm promoting on
+
+[00:00:39] John Wright: the top on a daily basis, if not sometimes twice a day.
+
+[00:00:44] Gael Goasdoue: The brand that converts to there is not a brand that converts, yes, that will convert tomorrow, for instance. So I'll constantly updating my talks, which is not changing your own pages, but the same, it gives me the same result. I'm Jon Wright, and you're listening to Affiliate BI, the business intelligence and affiliate marketing podcast brought to you by Staff Store.
+
+[00:01:08] John Wright: And the most important part is the name pronunciation. Gail. That's pretty good. Yeah. Goaz Du?
+
+[00:01:15] Gael Goasdoue: Was welcome to the affiliate BI podcast. Today we're chatting with Gail Goaz Duet, who is the COO and co-founder of RedCorp, which is the PPC consultant agency in iGaming for operators and affiliates. He was previously head of sales at Blue Window Limited and Tech4S Group. And he knows a few things about paid media and the commercial side of the industry. Gail, welcome to the show.
+
+[00:01:38] John Wright: Thank you, Jon. Thank you. Got to be here actually. I know you're becoming already a big G online, so it's an honor to be here.
+
+[00:01:46] Gael Goasdoue: Awesome. Thank you. Actually, ironically enough, I've been wanting to chat for a while because I think PPC is becoming one of the more important parts of affiliate marketing. I think it always has been, but anytime I meet someone at PPC, they're never not successful. They're only not successful if they tried some maybe black hat campaign and it didn't work out. But I think the mentality of PPC is it's the right mindset to apply to SEO. Like you must be watching these SEO people going, because you have an SEO background, you must be watching all this chaos going, guys, I don't think it's this difficult. What are you guys doing wrong here?
+
+[00:02:20] John Wright: You're right. I would say that I wouldn't say it's easy to make one in PPC, but if you have the right recipe and you should put the right amount of efforts and resources, it always works differently. You were mentioning SEO because you're right. I'm a part of the background in SEO. I was just thinking to myself recently, why I didn't start PPC before. That's something I should have done much before, especially back in the early days, Gee, right. See if the price cost per acquisition was so much lower than now. So much cheaper. Yeah.
+
+[00:02:52] Gael Goasdoue: That's the myth on this one. Right. So it's never too late to start. Yeah. I actually had a friend ask me a question. He was asking for a budget. I think I introduced you to him and it was like, how much should we spend? And I think one of the first things you replied was that if you don't have a good CRM in place, you're just going to be lighting money on fire. So do you think there's a lot of operators and affiliates that walk into this thinking they can just come in without care, but they're not really looking at the mechanics of their business, especially from the operator side.
+
+[00:03:19] Gael Goasdoue: So when it comes to budgets, it's a tough question based because it really depends on your strategy. And when I say strategy, as I was telling you, your friend actually the other day is, do you want to read our investment within the next few months or how you here for the long term run? And are you here to build a proper database that will be used to sustain the operations for years? So I would say that if you start PPC, especially in the high gaming industry, you need a decent amount of money, which is at least in my opinion, 10K. To run some campaigns, Gable to acquire enough data and most importantly to analyze this data and optimize it.
+
+[00:03:57] John Wright: Then once you have understood how it works for your specific audience, for your specific brand, then you can just increase the budget and despite this, there's absolutely no limit. It can go up to millions a month.
+
+[00:04:10] John Wright: Now, is this a game that only the big affiliates can play? Let's talk about the affiliate side of the business where it goes without saying the casino.orgs, the better collective, they negotiate pretty high deals. I don't know what their CPEs are, but it's probably big. Now they have arbitrage. So if they are going to pay a high price for a cost for acquiring a player, does this, does PPC benefit them at the expense of everyone else?
+
+[00:04:35] John Wright: You were the first question was, does that work on it with big affiliates? And I will start with this part, basically. You should think about it. But 10 years ago, I think you should especially in the high game industry was mostly individual, small teams that were operating in a small office sometimes from their sofa. And it was just working for everyone. Recently, more recently, everything has changed. The high game industry has much more professional, which means that there's more competition, there's more regulations or so in place and the price of acquisition in journals has increased. So I believe that you need the proper organization in the sense that you
+
+[00:05:13] John Wright: need some maybe investors, but it's a good funding behind the operation. And you also need some resources to be able to optimize all this data and this traffic that you're acquiring.
+
+[00:05:25] Gael Goasdoue: So would you say, let's say for the SEO affiliate, how can they get into the paid media space? And I'm pretty sure the answer is should they? So if we agree it's they should, then what is this, what does the roadmap look like for them?
+
+[00:05:37] John Wright: I'm not sure to say whether they should or they should not, but I can tell you pretty much what the roadmap to paid media is. I would say first of all, you need a good understanding of the regulation of your market because that will define your ability to run instance, just enable campaigns to be stable. Basically. So that's the first thing. And for that you need some good contacts, some insiders. And I would say that even at Google, at Google, we had some managers there.
+
+[00:06:06] Gael Goasdoue: Sometimes even at Google, they don't have the right answers for you. So it's really a real fight to find the right information and also information that you can trust. So that's the first thing. Now the second point in my opinion is back in any other business, you need a good strategy. You need to be able to understand what are, what will be the CPCs, what will be the CPA's, the volumes that you are facing, the conversion rates, and you need to put that in perspective with the days that you will be able to negotiate with your partners. That's the second thing. And the third one is probably budget management.
+
+[00:06:43] Gael Goasdoue: If you're running some, some campaigns, it happens sometimes that one campaign becomes successful very quickly. And by that I mean, it starts spending like crazy. Within the space of few hours, you need to be able to anticipate this in the sense that you need to answer the question before her, if that happens, we'll let the company run. And in that case, I need to have the budget in place. The money needs to be ready to be spent on Google. Or do I cut the campaign with all the consequences that he might have using this part of traffic? Cause when you're raising the campaigns, the traffic might have been attributed to someone else, for instance. So you're not, you are starting from scratch again, when it comes to optimization and everything.
+
+[00:07:23] Gael Goasdoue: Okay. So it goes to saying probably conversion rate optimization is a major component of PPC, you have so many things that you're working with, like you're dealing with the cost of acquiring, you're dealing with the ROI. So you need the tools to understand what that ROI is. And then it's the ad format. So if the ad is text or image or SMS, whatever, it's like, you need to know what that is and going, Hey, what can we change on it?
+
+[00:07:47] John Wright: So you're right. You have the commercial rate, for instance. 0.1% difference on the kick to the deposit will have crazy impact on the final ROI. So there are tools available on the market to monitor that. I'm thinking of one sense of optimizer, which is a tool that bigger or some areas where you will sleep here or sleep is increases above a certain threshold. So that's definitely a good tool that you can use to monitor your campaigns, for instance. Yeah. Do you ever think there's going to be a point in time where, just to give you a short story, I've asked many Philly managers going, do you know the conversion rate of all the landing pages you have in your inventory?
+
+[00:08:27] John Wright: And they say, yes. And then I say, would you like an audit of them? And then they're like, yes. I'm like, one of those, I should only be getting one, yes, not two. Because if you know the conversion rate, you wouldn't ask for an audit. And I've actually done a couple of case studies where I've actually had my own data and I said, here's two of the same offers, two different landing pages. Same offer. One converted five times better. I said, is this the same across all of your other affiliates? That affiliate manager said, I don't know. I'm like, if you don't know, you should know. So I'm wondering if there's like a whole bunch more money that could be unlocked. If like you're going, you're relying on that operator to give you the best landing page or the, it's not even the best operates, the best landing
+
+[00:09:06] John Wright: page that can convert, do you think there's an opportunity for unlocking more value where maybe you have more programs to work with because it's, if your costs exceeds the revenue, you have a problem, but if they can optimize the landing page, maybe we can actually start to see some profit.
+
+[00:09:22] Gael Goasdoue: You're right. But I don't think that's how it works exactly. That would be the perfect scenario. Unfortunately, as you say, affiliate managers, sometimes they are a lot on their plate and optimizing some landing pages. It's not one of their priorities. It's also because it requires some more resources that from fake resources and stuff like that. So that's not really something you can expect from them. Don't get me wrong. It happens. Some of them are based. supportive, but we are especially in the pay heads. We are evolving in a very fast paced environment. We can't wait for them to read the new landing page, which is going to take days, weeks, sometimes.
+
+[00:09:59] Gael Goasdoue: So the only solution that I have found for this specific program is just to be on top of the data and change my talks, which means the brand I'm promoting on the top on a daily basis, if not sometimes twice a day.
+
+[00:10:13] John Wright: The brand that converts today is not a brand that converts. Yes. That we can get tomorrow, for instance. So I'll constantly updating my talks, which is not changing your own pages, but the semi gives me the sunraiser.
+
+[00:10:26] Gael Goasdoue: Okay. So it goes with that saying it's extremely important for you to know that if a brand for whatever reason, we don't know the reason, but they, the conversion rate has dropped, it goes to the saying you need to know this because you need to turn off that traffic that is costing you this. Yeah, absolutely. And again, some affiliate managers, we already played that game where they are essentially updating you with what's going on in the operations within the brand and some of them just want to completely ignore it. And you find out if you're not on top of your data again, you will find out hours later or days later that you've been sending traffic to a brand that just doesn't convert.
+
+[00:11:04] John Wright: Yeah. I'm thinking about this, this issue, that something happens.
+
+[00:11:09] Gael Goasdoue: That was my next question. Okay. Sorry. Go ahead. No, it was perfect. Cause I was like, what are the reasons that these things could drop? I think the payment issues is one, like they lose their number one payment gateway in Canada. You're going to lose your retain players and your new players coming in are just going to be like, Hey, this sucks. I'm out of here.
+
+[00:11:26] Gael Goasdoue: No, you're right. That's the things are the most common issue. So when one of the brands, one of our partners who is their case bill, one of their PSPs, this has immediately a huge impact on our contains and obviously on our return investment. So that's also something I mentioned pretty much at the time. Please keep me posted. Let me know if something goes on. I will just post the campaign on your brand. That doesn't mean that you won't get your position back once you're back on top in action, but let me know. Cause otherwise you jump right on board.
+
+[00:11:59] John Wright: Okay. I want to talk about what are the tools of the trade for operators cause I was a field manager like 15 years ago. I don't even remember dealing with PPC affiliates. They were all SEO affiliates to me and traffic was just traffic. So what do operators have to deal with in terms of tools is there's maybe two things. What would it look like if they do this themselves or if you do consulting, like how do you help them with a dashboard? What's this look like?
+
+[00:12:23] John Wright: Yeah. So there are plenty of tools around here. Some of them are like all in one solutions. They do reporting, they do tracking, they do underizing. So I call for you mentioned one of them. And especially because as you said, this is not something that's used to be in the market around us like you're back in the days. So I break up with developed our own solutions on the way. I remember trying borrowing for instance, this is a very good tool, but the prime is for us when we tried one, I think it was like a couple of years ago. We are the automotive limited resources and we couldn't really spend much time
+
+[00:13:01] John Wright: setting up the tool, which was a bit complicated and understanding how it works. We took a shortcut and developed our own tool.
+
+[00:13:09] John Wright: That being said, there are also some great tools like Ember.
+
+[00:13:13] John Wright: Ember.ai that helps you keep an eye on basically the market, your competitors that if you rate of value or what's going on the paid huts, so that's definitely a mess going in our opinion.
+
+[00:13:25] John Wright: Okay. It seems like there's actually a lot of these paid analytics tools on the market. Like I'm just running into more of them. It's, I think it's pretty cool because for the longest time you and I have been working with them rush, Ahrefs. So that's the SEO side, but I think we're seeing a major movement towards paid where it's if open AI with chat GPT and Google AI overviews and PMACs being pushed over to pay.
+
+[00:13:48] Gael Goasdoue: Yes. Yes. And you're right. There are, this one is for a in-locker. The consequences to this one is more tools, more first, more hacktos that are trying to get some piece of the cake. They thank you. There are some great tools. Again, I'll apply the SEO, some of them are sticking out of the crowd, but again, it really depends on your needs at a special time and the resources you can you can dedicate to setting up those tools, understanding how they work and making sure that they fit, they match your need. Okay. And then tools for affiliates. Do you do this as well where red corpus and all in one suite?
+
+[00:14:26] John Wright: Yes. First of all, mine, so we'll probably pay it to you, but I would definitely say when, and that was not anticipated. But again, when it comes to affiliation, most of the time you have thousands hundreds of partners runs through which you're sending traffic, thousands of campaigns, depending on the verticals, the markets, your acquisition channels as well. And one of the biggest challenge for me, even back in the days when I was working at Blue Window was to be able to gather all this data in one place.
+
+[00:15:02] John Wright: And get a little overview of what was going on on our network. And again, today, the only way for me to do that is to use that role. So it's easy to set up. You can segment everything. There is a great team behind it to support you if you have any issue. I've heard. So yeah, that's fair. No, that's something you can't go, you can't go affiliation about those.
+
+[00:15:24] Gael Goasdoue: Yeah. And what we like, not to be like self-plugging, but we're integrating with like, Volume, Kaitaro, like our head of product, Joe Hatch, he built a Pretty Links hack. So it's, if you want to stay on the WordPress ecosystem, he's basically built a click ID injector inside Pretty Links. So all these tools can basically be done for click IDs. And we've already got a post back listener. So we have everything covered. We know we're not the only tool on the market that does this. priority is a pretty good competitor, but I think it's exciting. There's more of these tools hitting the market. And I think it's the next challenge will be to make this easier for people to walk into. I think we've seen how intimidating some of the advanced stuff looks like.
+
+[00:16:04] Gael Goasdoue: I remember the first time looking at volume going, Oh no, I need a weekend to learn this. It's just not that much, you know, that's, there's no doubt the tour is amazing. It's great. Super, it's been for me for sure. But it was like, too much going on at the same time. And as you said, while you're focusing on the business, you can't really focus on something else. And that's what I like about that run. It's strange to the point, easy to use. And yeah, that makes a difference for us.
+
+[00:16:30] John Wright: I want to go take a step back again, talking about operators, because I think operators for a long time, they've been super reliant on affiliates. Like you launch an affiliate program, you launch a casino, you get affiliates. You don't even need SEO or paid media, but I think that's completely changed today, where if the SEO affiliates are struggling and we see a lot more of the bigger affiliates acquiring smaller affiliates, you have to pay more flat fees and CPA. It's almost paid me has become part of affiliation. So what do you think operators need to do in both SEO and paid media? Cause I actually believe SEO is a good opportunity where Google might be giving a bit more power from the affiliate to the operator.
+
+[00:17:09] Gael Goasdoue: Yeah. That's a good point. First of all, I don't think this was a trend that was initiated by the, by the operators, if you take SEO for instance, and yeah, you can do a quick test, if you look for online schedule on Google at the moment, you will mostly find brands coming at the top of the result. While if you had done the same test by 10 years ago, it was mostly affiliates. So I think there is an opportunity for the operators to leverage this courage in the algorithms and benefit from it. So that's the first thing when it comes to paid ads, it's slightly different, I would say.
+
+[00:17:45] Gael Goasdoue: Yeah, they can probably use the branding to the advantage, you know, even though we also know that affiliates and competitors can also write on those kinds of keywords, but the main advantage for each and every operator is the data. I think they know the audience better than anything else. So they can set up campaigns and entire acquisition winners that will really grow to serve the purpose and retarget the right audience for the difference.
+
+[00:18:13] John Wright: And affiliates and operators, can you do paid media without real time data? And can you also do this without a click ID level tracking or postback? Do you think this is still possible? Impossible, no. Okay. Oh, yeah. I was telling you about the fast based environment. I was saying here that when we work for some of our, or some of our partners, clients, we change things many times a day, sometimes even monitor on a hourly basis and we bought postback or click ID. That's not something you can do different notes.
+
+[00:18:45] John Wright: Okay. And what about the problems and situations where we're testing out some postbacks from some of the platforms and we see the return of the data and it's between one and six hours. It's just this, the way it is. Or do you think over the next one or two years that this time will actually shorten and become closer to real time or in some cases it is real time for some programs, but it's not real time across the board.
+
+[00:19:10] Gael Goasdoue: I would say it's already close for most of the partners we've been promoting. It's already close to be a real time data. Don't worry, believe that everyone is pushing towards this direction. Cause again, there's so much money in government to this that you can't afford like wasting time and this capacity of analyzing on the instant. So yeah, this is the trial we've seen in the last few years, months, and it will definitely be a strong little feature.
+
+[00:19:37] John Wright: Yeah. I think we're getting towards a point where there might be streaming of data coming from affiliate programs where that is the dream. It's pure real time. It's there. I just think companies, they're not ready to ingest real time data yet.
+
+[00:19:52] John Wright: What do you think?
+
+[00:19:54] Gael Goasdoue: When it's real time, it's basically it's streaming like as soon as the click comes in, it's like, you've got it. When the FTD comes in and you have it, like all of the transactions are fed instantly. So you could get a post back for it in theory, but if you're pulling the data through an API, you could be getting, you could be receiving it at the same time. So it almost might eliminate the need for a post back where the post back was like, well, we don't have streaming of data. You get your data in our platform every 24 hours, but the post back was meant to be here's your real time signal. Now it's the Philly program platforms. They're starting to become hourly and some of them are now real time.
+
+[00:20:29] Gael Goasdoue: Yes. Which is rare.
+
+[00:20:31] Gael Goasdoue: Yeah. So your question was, will that be the user of the post back in the future? Yeah, that was part of the question, but what are your thoughts on the future of this space will it become more real time and do you think post backs could disappear?
+
+[00:20:47] John Wright: I don't think this will replace the post back in the future for one of the results or so was back to the result transparency.
+
+[00:20:55] John Wright: I'm going to talk about something this is, which is maybe not, I mean, everyone knows about it. Let's hear it.
+
+[00:21:01] Gael Goasdoue: Let's hear it. Yeah. And everyone knows about it, but that time can be manipulated, right? So if the data is our first of four process in the actually platform,
+
+[00:21:12] John Wright: there is this lack of transparency. I want to believe that all the partners are work with both.
+
+[00:21:17] John Wright: All transparent and willing to be better and honest, but experience of through unless was not always the case.
+
+[00:21:24] Gael Goasdoue: So when you use a post back, you will eliminate this doubt at least. And that's the reason why I believe at least for now that was back. We kept being used in the prostitute shop.
+
+[00:21:35] John Wright: Yeah. There's definitely more of a chat we can have off the record, but I appreciate you doing that because we've been talking about a feature we built called change log where when we scrape the data from API or the back ends with credentials, we're re scraping that time or that data, and we're going back as far as like one, two months. And building a comparison to go, what is the difference between the data that was scraped at the time of scraping versus today, and we're actually finding a lot of changes and the changes are a bit shocking. So it's like, we're seeing players being moved from one campaign to another. And you're like, why would that happen? And in some situations, the campaign is not the same on the, the deal's
+
+[00:22:14] John Wright: not the same on the second campaign. So you're like, why would this ever happen? But we're seeing some interesting stuff there, but I think you've got a good point that is transparency is the most important thing here.
+
+[00:22:25] John Wright: Yeah, exactly. Yeah.
+
+[00:22:27] Gael Goasdoue: And last question is what do you see is of the future of affiliate marketing as it intersects with business intelligence?
+
+[00:22:34] John Wright: The answer is pretty simple. There's no future for marketing if there's no obvious intelligence. I was telling you about the increase of the acquisition cost. I was telling you about how it was important to get real data and optimize it as soon as you get it.
+
+[00:22:51] John Wright: If you think about it again, not so long ago, marketing and also from an operator's perspective, it was all about volume. You would just get any traffic. The price was more than like September and everyone was making money. And that was fine. Nowadays, it's not the case anymore. You will get regulations to increase of competitions. We've got a good business intelligence in place.
+
+[00:23:17] Gael Goasdoue: Obviously some good reporting and data analyzing. There's no future for affiliate marketing. You need to be on top of your data and you need to be taking data driven decisions. You need to understand the future trends. You need to optimize constantly. You can't take anything for granted.
+
+[00:23:37] John Wright: I agree. Converge rate optimization is probably my favorite topic within affiliate marketing, within SEO. Paid media has always scared me and never touched it. Other than now being a SaaS company, we're looking at doing some paid ads, but it's not as consequential as like you said, million dollar budgets on the player side. I was going to say, John, you're lucky because of this concert dance you've all paid had. So if you need anything, any audit, any research, reach out. We will chat. I've researched a lot, but there's research is one thing. And then putting that research in action is another thing. And I know we're going to need to help on not just the paid ads themselves,
+
+[00:24:14] John Wright: but the attribution, because I think the attribution on the SaaS side is probably a bit more wild than it is on the player side, but, but we know those things are in similar territory.
+
+[00:24:25] John Wright: Okay. There's also one thing that needs to be taken in consideration. I believe in the same patterns. This is also the expense. So there's no one that thoughts paid hats and is immediately successful. You're going to lose someone yet something. And this is also why it's important to ask questions, get tips and also support than people that have been in the industry or running hats for some time, because that will help you escape that discovering phase where you're frustrated, you're losing money. And basically where this is just not working.
+
+[00:25:01] Gael Goasdoue: Yeah, I agree. It's fail fast. That's the real, that's the real answer.
+
+[00:25:07] John Wright: Gail, how can people get ahold of you?
+
+[00:25:10] Gael Goasdoue: I think because this is where on LinkedIn, you can contact me via email Gail at redcopagency.com.
+
+[00:25:18] John Wright: And I think that's a good start. Okay.
+
+[00:25:21] John Wright: And yeah, we'll include that at the website of the C or redcopagency.com.
+
+[00:25:26] John Wright: Okay.
+
+[00:25:27] John Wright: Awesome. We will include that in the show notes. Gail, this has been a pleasure. I know I need to dig deeper into paid media. So really appreciate the call and probably going to need to have you on at another point and we'll chat offline. Thank you so much for doing this. Thank you, John. Thank you for your time and speak soon.
