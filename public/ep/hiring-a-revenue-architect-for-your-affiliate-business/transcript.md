@@ -1,0 +1,25 @@
+# Transcript
+
+**Show:** Revenue Optimization with StatsDrone
+**Episode:** Hiring a Revenue Architect for your Affiliate Business
+**Host:** John Wright
+**Published:** Fri, 24 Oct 2025 18:18:00 +0000
+**Duration:** 3:35
+
+Speaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.
+
+---
+
+[00:00:01] John Wright: And welcome to revenue optimization with Stastro. It is the new name we're looking to start using with the podcasts and I think maybe some people have seen the rebrand and I'm pretty excited at the couple changes that we're gonna make to this show.
+
+[00:00:17] John Wright: The topic at hand today is commercial managers for affiliates. It's kind of like what do you call them? Do you call them account managers, affiliate managers? But if you use the word affiliate managers, people think about affiliate managers for the affiliate programs. So I wanna talk about this concept of account managers and how affiliates can negotiate their own deals and why they should do that. And I remember having a dinner with one of our customers who's a very big affiliate in the iGaming space and they said, why don't you guys have like a commercial manager where, you know, us as a SaaS company, we could take advantage of it. And this guy shared with me that it was one of the biggest transformations they've had
+
+[00:00:56] John Wright: in their company was turning this on. So I'm sure they had people in their company that were doing commercial deals, but I think probably what changed was they put more emphasis on it and they structured it and they did all those things. So fast forward today, we're now looking at that from our own point of view as a SaaS company and going, what are the things that we could do that can help our revenue beyond just kind of getting SaaS revenue? Because let's face it in our position, if we get more revenue, then we can grow as a company. And, you know, we've taken on investment money and that's helped us grow to a certain point, but we also want to maybe not take on as much more investment in the future
+
+[00:01:35] John Wright: and not be reliant on that money. So we are looking at hiring for this type of position and it's made me reflect that, you know, a lot of the people that I respect in affiliate marketing that do these sorts of jobs, I actually think they're becoming almost more critical. Like they're useful for an affiliate network and they're useful for an affiliate. And I think it's the difference between,
+
+[00:01:58] John Wright: I don't know if I wanna say surviving and thriving, but close enough. I mean, we ran our affiliate site many years ago. I know this is something we didn't put enough emphasis on. And one way we could have solved this is if we went to an affiliate network and said, hey, can you manage our deals for us? All we need in return is a better rev share and CPA, maybe with a flat fee. I think if we structured things that way, that company that we were running, I think it would have actually done a lot more revenue. So looking forward to today, I think this is now becoming a must have job that not enough people are doing. They don't have experience doing, they don't know what's possible for deals, they don't know how to structure the deals
+
+[00:02:37] John Wright: to protect themselves. But, you know, of course you can create your own inventory like, oh, here's the top list on the homepage. I think it's a great start. But I think it requires a lot more intent. And, you know, a friend said to me, like revenue architecture was the keyword or phrase that he wanted to use. So we're looking at doing these things. It goes without saying, I think most of the listeners we have on the podcast, they come from like companies that are doing pretty well and they have these people in place. But we also have other listeners that are just wanting to get started in affiliate marketing, as well as others that are kind of like, they're humming along, they're getting like five to 10K a month, but they don't realize that the possibility
+
+[00:03:17] John Wright: of doing a 2X on their revenue is just around the corner and requires either the right expertise or the right planning. So let me know what you think about this type of revenue optimization where we're optimizing your deals and being a bit more intentful in working on those.
