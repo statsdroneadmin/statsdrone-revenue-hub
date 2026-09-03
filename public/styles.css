@@ -2689,3 +2689,10 @@ img.top10-logo {
     justify-content: center;
   }
 }
+
+.episode-guest { margin: 0.35rem 0 0.75rem; font-size: 1.05rem; color: var(--muted, #9ca3af); }
+.episode-guest a { color: var(--accent-orange, #f97316); text-decoration: none; font-weight: 600; }
+.episode-guest a:hover { text-decoration: underline; }
+.guest-meta { color: var(--muted, #9ca3af); margin-bottom: 0.5rem; }
+.guest-links { list-style: none; padding: 0; margin: 0 0 1.5rem; }
+.guest-links li { margin-bottom: 0.35rem; }
