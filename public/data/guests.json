@@ -1,0 +1,1547 @@
+{
+  "show": "Revenue Optimization with StatsDrone",
+  "site": "https://revenueoptimization.io",
+  "generated_at": "2026-09-03T21:40:50Z",
+  "count": 94,
+  "guests": [
+    {
+      "name": "Adam Rowley",
+      "slug": "adam-rowley",
+      "url": "https://revenueoptimization.io/guests/adam-rowley/",
+      "bio": "Adam Rowley joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Understanding retention & player value data with Adam Rowley",
+          "slug": "understanding-retention-player-value-data-with-adam-rowley",
+          "url": "https://revenueoptimization.io/ep/understanding-retention-player-value-data-with-adam-rowley/",
+          "pubDate": "Thu, 05 Sep 2024 10:52:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Alessandro Gherardi",
+      "slug": "alessandro-gherardi",
+      "url": "https://revenueoptimization.io/guests/alessandro-gherardi/",
+      "bio": "Alessandro Gherardi joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate Networks 2.0: Why Services, Data and Relationships Matter with Alessandro Gherardi",
+          "slug": "affiliate-networks-2-0-why-services-data-and-relationships-matter-with-alessandro-gherardi",
+          "url": "https://revenueoptimization.io/ep/affiliate-networks-2-0-why-services-data-and-relationships-matter-with-alessandro-gherardi/",
+          "pubDate": "Tue, 10 Feb 2026 01:51:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Alex Pratt",
+      "slug": "alex-pratt",
+      "url": "https://revenueoptimization.io/guests/alex-pratt/",
+      "bio": "Alex Pratt joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "The Future of iGaming with Alex Pratt from Clarion Events",
+          "slug": "the-future-of-igaming-with-alex-pratt-from-clarion-events",
+          "url": "https://revenueoptimization.io/ep/the-future-of-igaming-with-alex-pratt-from-clarion-events/",
+          "pubDate": "Tue, 28 Jan 2025 10:41:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Allan Stone",
+      "slug": "allan-stone",
+      "url": "https://revenueoptimization.io/guests/allan-stone/",
+      "bio": "Allan Stone joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Advanced tracking and analytics with Allan Stone of Intelitics",
+          "slug": "advanced-tracking-and-analytics-with-allan-stone-of-intelitics",
+          "url": "https://revenueoptimization.io/ep/advanced-tracking-and-analytics-with-allan-stone-of-intelitics/",
+          "pubDate": "Thu, 03 Aug 2023 15:33:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Ansley",
+      "slug": "andrew-ansley",
+      "url": "https://revenueoptimization.io/guests/andrew-ansley/",
+      "bio": "Andrew Ansley joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Building AI Agent Companies: The Future of Work with Andrew Ansley",
+          "slug": "building-ai-agent-companies-the-future-of-work-with-andrew-ansley",
+          "url": "https://revenueoptimization.io/ep/building-ai-agent-companies-the-future-of-work-with-andrew-ansley/",
+          "pubDate": "Tue, 17 Mar 2026 11:55:00 +0000"
+        },
+        {
+          "title": "Is AI Content good for SEO? with Andrew Ansley of ContentSprout",
+          "slug": "is-ai-content-good-for-seo-with-andrew-ansley-of-contentsprout",
+          "url": "https://revenueoptimization.io/ep/is-ai-content-good-for-seo-with-andrew-ansley-of-contentsprout/",
+          "pubDate": "Fri, 12 Apr 2024 10:12:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Artem Butov",
+      "slug": "artem-butov",
+      "url": "https://revenueoptimization.io/guests/artem-butov/",
+      "bio": "Artem Butov joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why API Tracking Is Taking Over Affiliate Marketing with Artem Butov",
+          "slug": "why-api-tracking-is-taking-over-affiliate-marketing-with-artem-butov",
+          "url": "https://revenueoptimization.io/ep/why-api-tracking-is-taking-over-affiliate-marketing-with-artem-butov/",
+          "pubDate": "Fri, 15 May 2026 20:02:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Ben Austen",
+      "slug": "ben-austen",
+      "url": "https://revenueoptimization.io/guests/ben-austen/",
+      "bio": "Ben Austen joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "RevOps in affiliate marketing with Ben Austen",
+          "slug": "revops-in-affiliate-marketing-with-ben-austen",
+          "url": "https://revenueoptimization.io/ep/revops-in-affiliate-marketing-with-ben-austen/",
+          "pubDate": "Mon, 19 Aug 2024 11:40:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Bob Burg",
+      "slug": "bob-burg",
+      "url": "https://revenueoptimization.io/guests/bob-burg/",
+      "bio": "Bob Burg joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why affiliate sites must give value with Bob Burg",
+          "slug": "why-affiliate-sites-must-give-value-with-bob-burg",
+          "url": "https://revenueoptimization.io/ep/why-affiliate-sites-must-give-value-with-bob-burg/",
+          "pubDate": "Tue, 22 Oct 2024 10:07:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Chris Walker",
+      "slug": "chris-walker",
+      "url": "https://revenueoptimization.io/guests/chris-walker/",
+      "bio": "Chris Walker joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Capturing demand in affiliate marketing with Chris Walker from Refine Labs",
+          "slug": "capturing-demand-in-affiliate-marketing-with-chris-walker-from-refine-labs",
+          "url": "https://revenueoptimization.io/ep/capturing-demand-in-affiliate-marketing-with-chris-walker-from-refine-labs/",
+          "pubDate": "Wed, 04 Oct 2023 09:36:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Clemence Dujardin",
+      "slug": "clemence-dujardin",
+      "url": "https://revenueoptimization.io/guests/clemence-dujardin/",
+      "bio": "Clemence Dujardin joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate Management Tracking & Tools Podcast with Clemence Dujardin",
+          "slug": "affiliate-management-tracking-tools-podcast-with-clemence-dujardin",
+          "url": "https://revenueoptimization.io/ep/affiliate-management-tracking-tools-podcast-with-clemence-dujardin/",
+          "pubDate": "Wed, 15 Nov 2023 06:35:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Cordelia Morgan Cooper",
+      "slug": "cordelia-morgan-cooper",
+      "url": "https://revenueoptimization.io/guests/cordelia-morgan-cooper/",
+      "bio": "Today we're chatting with Cordelia Morgan Cooper.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "How affiliates can benefit from HR & recruitment help with Cordelia Morgan - Cooper",
+          "slug": "how-affiliates-can-benefit-from-hr-recruitment-help-with-cordelia-morgan-cooper",
+          "url": "https://revenueoptimization.io/ep/how-affiliates-can-benefit-from-hr-recruitment-help-with-cordelia-morgan-cooper/",
+          "pubDate": "Wed, 22 May 2024 06:14:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Craig Campbell",
+      "slug": "craig-campbell",
+      "url": "https://revenueoptimization.io/guests/craig-campbell/",
+      "bio": "Craig Campbell joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Using Video For SEO with Craig Campbell",
+          "slug": "using-video-for-seo-with-craig-campbell",
+          "url": "https://revenueoptimization.io/ep/using-video-for-seo-with-craig-campbell/",
+          "pubDate": "Fri, 09 Feb 2024 08:05:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Cristian Ionescu",
+      "slug": "cristian-ionescu",
+      "url": "https://revenueoptimization.io/guests/cristian-ionescu/",
+      "bio": "Cristian Ionescu joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Advanced Analytics in Affiliate Marketing with Cristian Ionescu from Witanalytica",
+          "slug": "advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica",
+          "url": "https://revenueoptimization.io/ep/advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica/",
+          "pubDate": "Thu, 15 Aug 2024 10:02:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "David Shapiro",
+      "slug": "david-shapiro",
+      "url": "https://revenueoptimization.io/guests/david-shapiro/",
+      "bio": "David Shapiro joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "B2B Affiliate Marketing with David Shapiro",
+          "slug": "b2b-affiliate-marketing-with-david-shapiro",
+          "url": "https://revenueoptimization.io/ep/b2b-affiliate-marketing-with-david-shapiro/",
+          "pubDate": "Tue, 18 Feb 2025 03:16:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Dirk Schembri",
+      "slug": "dirk-schembri",
+      "url": "https://revenueoptimization.io/guests/dirk-schembri/",
+      "bio": "Dirk Schembri joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "SEO training with Dirk Schembri",
+          "slug": "seo-training-with-dirk-schembri",
+          "url": "https://revenueoptimization.io/ep/seo-training-with-dirk-schembri/",
+          "pubDate": "Tue, 04 Mar 2025 03:07:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Dragan Berak",
+      "slug": "dragan-berak",
+      "url": "https://revenueoptimization.io/guests/dragan-berak/",
+      "bio": "Today we're chatting with Dragan Berak, who is the head of SEO at Gen2 Media.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Casino SEO Strategies for AskGamblers with Dragan Berak",
+          "slug": "casino-seo-strategies-for-askgamblers-with-dragan-berak",
+          "url": "https://revenueoptimization.io/ep/casino-seo-strategies-for-askgamblers-with-dragan-berak/",
+          "pubDate": "Thu, 03 Oct 2024 20:37:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Dustin Howes",
+      "slug": "dustin-howes",
+      "url": "https://revenueoptimization.io/guests/dustin-howes/",
+      "bio": "Dustin Howes joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate Manager Training & Tools with Dustin Howes",
+          "slug": "affiliate-manager-training-tools-with-dustin-howes",
+          "url": "https://revenueoptimization.io/ep/affiliate-manager-training-tools-with-dustin-howes/",
+          "pubDate": "Fri, 23 Feb 2024 10:51:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Eli Schwartz",
+      "slug": "eli-schwartz",
+      "url": "https://revenueoptimization.io/guests/eli-schwartz/",
+      "bio": "Eli Schwartz joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Applying Product-Led SEO Strategies in Affiliate Marketing with Eli Schwartz",
+          "slug": "applying-product-led-seo-strategies-in-affiliate-marketing-with-eli-schwartz",
+          "url": "https://revenueoptimization.io/ep/applying-product-led-seo-strategies-in-affiliate-marketing-with-eli-schwartz/",
+          "pubDate": "Fri, 16 Feb 2024 02:05:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Emilio Takas",
+      "slug": "emilio-takas",
+      "url": "https://revenueoptimization.io/guests/emilio-takas/",
+      "bio": "Emilio Takas joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "What Most Affiliates Get Wrong About SEO — Insights from Gentoo Media's Emilio Takas",
+          "slug": "what-most-affiliates-get-wrong-about-seo-insights-from-gentoo-medias-emilio-takas",
+          "url": "https://revenueoptimization.io/ep/what-most-affiliates-get-wrong-about-seo-insights-from-gentoo-medias-emilio-takas/",
+          "pubDate": "Tue, 03 Jun 2025 04:57:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Eric Siu",
+      "slug": "eric-siu",
+      "url": "https://revenueoptimization.io/guests/eric-siu/",
+      "bio": "Eric Siu joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Eric Siu on Programmatic SEO, podcasting and affiliates",
+          "slug": "eric-siu-on-programmatic-seo-podcasting-and-affiliates",
+          "url": "https://revenueoptimization.io/ep/eric-siu-on-programmatic-seo-podcasting-and-affiliates/",
+          "pubDate": "Thu, 06 Jun 2024 01:58:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Fery Kaszoni",
+      "slug": "fery-kaszoni",
+      "url": "https://revenueoptimization.io/guests/fery-kaszoni/",
+      "bio": "Fery Kaszoni joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "How This Digital PR Link Building Agency Helps Affiliates with Fery Kaszoni",
+          "slug": "how-this-digital-pr-link-building-agency-helps-affiliates-with-fery-kaszoni",
+          "url": "https://revenueoptimization.io/ep/how-this-digital-pr-link-building-agency-helps-affiliates-with-fery-kaszoni/",
+          "pubDate": "Wed, 13 Dec 2023 10:47:00 +0000"
+        },
+        {
+          "title": "Digital PR Link Building Strategies for Google SGE with Fery Kaszoni",
+          "slug": "digital-pr-link-building-strategies-for-google-sge-with-fery-kaszoni",
+          "url": "https://revenueoptimization.io/ep/digital-pr-link-building-strategies-for-google-sge-with-fery-kaszoni/",
+          "pubDate": "Fri, 21 Jun 2024 02:44:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Fintan Costello",
+      "slug": "fintan-costello",
+      "url": "https://revenueoptimization.io/guests/fintan-costello/",
+      "bio": "Today we're chatting with Fintan Castello, who is the co-host of the, the gambling files podcast.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "M&A, investing & affiliates, a conversation with Fintan Costello",
+          "slug": "ma-investing-affiliates-a-conversation-with-fintan-costello",
+          "url": "https://revenueoptimization.io/ep/ma-investing-affiliates-a-conversation-with-fintan-costello/",
+          "pubDate": "Fri, 08 Mar 2024 07:25:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Gabriela Covay",
+      "slug": "gabriela-covay",
+      "url": "https://revenueoptimization.io/guests/gabriela-covay/",
+      "bio": "Gabriela Covay joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Brand Building with Digital PR with Gabriela Covay",
+          "slug": "brand-building-with-digital-pr-with-gabriela-covay",
+          "url": "https://revenueoptimization.io/ep/brand-building-with-digital-pr-with-gabriela-covay/",
+          "pubDate": "Thu, 21 Dec 2023 16:22:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Gael Goasdoue",
+      "slug": "gael-goasdoue",
+      "url": "https://revenueoptimization.io/guests/gael-goasdoue/",
+      "bio": "Gael Goasdoue joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "The Paid Media Playbook: Winning Big with PPC in iGaming with Gael Goasdoue",
+          "slug": "the-paid-media-playbook-winning-big-with-ppc-in-igaming-with-gael-goasdoue",
+          "url": "https://revenueoptimization.io/ep/the-paid-media-playbook-winning-big-with-ppc-in-igaming-with-gael-goasdoue/",
+          "pubDate": "Tue, 10 Jun 2025 12:51:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Gali Hartuv",
+      "slug": "gali-hartuv",
+      "url": "https://revenueoptimization.io/guests/gali-hartuv/",
+      "bio": "Gali Hartuv joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "VIP Strategy in iGaming with Gali Hartuv",
+          "slug": "vip-strategy-in-igaming-with-gali-hartuv",
+          "url": "https://revenueoptimization.io/ep/vip-strategy-in-igaming-with-gali-hartuv/",
+          "pubDate": "Thu, 19 Sep 2024 09:45:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Ian Sims",
+      "slug": "ian-sims",
+      "url": "https://revenueoptimization.io/guests/ian-sims/",
+      "bio": "Ian Sims joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Solving compliance in affiliate marketing with Ian Sims of Rightlander",
+          "slug": "solving-compliance-in-affiliate-marketing-with-ian-sims-of-rightlander",
+          "url": "https://revenueoptimization.io/ep/solving-compliance-in-affiliate-marketing-with-ian-sims-of-rightlander/",
+          "pubDate": "Thu, 07 Sep 2023 09:29:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jabez Reuben",
+      "slug": "jabez-reuben",
+      "url": "https://revenueoptimization.io/guests/jabez-reuben/",
+      "bio": "Today we're chatting with Jabez Rubin, who is the founder of the blueprints, linkvalidator.io and Vistavo.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "The Best Easy Link Building Strategies with Jabez Reuben",
+          "slug": "the-best-easy-link-building-strategies-with-jabez-reuben",
+          "url": "https://revenueoptimization.io/ep/the-best-easy-link-building-strategies-with-jabez-reuben/",
+          "pubDate": "Fri, 09 Aug 2024 00:50:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "James Dooley",
+      "slug": "james-dooley",
+      "url": "https://revenueoptimization.io/guests/james-dooley/",
+      "bio": "James Dooley joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Mastermind Groups with James Dooley",
+          "slug": "mastermind-groups-with-james-dooley",
+          "url": "https://revenueoptimization.io/ep/mastermind-groups-with-james-dooley/",
+          "pubDate": "Fri, 26 Jan 2024 10:42:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "James Oliver",
+      "slug": "james-oliver",
+      "url": "https://revenueoptimization.io/guests/james-oliver/",
+      "bio": "James Oliver joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Parasite SEO Strategy & Tools with James Oliver",
+          "slug": "parasite-seo-strategy-tools-with-james-oliver",
+          "url": "https://revenueoptimization.io/ep/parasite-seo-strategy-tools-with-james-oliver/",
+          "pubDate": "Thu, 12 Sep 2024 01:05:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jamie I.F",
+      "slug": "jamie-i-f",
+      "url": "https://revenueoptimization.io/guests/jamie-i-f/",
+      "bio": "Jamie I.F joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "B2B SEO with Jamie I.F. from Endorsely",
+          "slug": "b2b-seo-with-jamie-i-f-from-endorsely",
+          "url": "https://revenueoptimization.io/ep/b2b-seo-with-jamie-i-f-from-endorsely/",
+          "pubDate": "Tue, 21 Jan 2025 07:33:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jason Attard",
+      "slug": "jason-attard",
+      "url": "https://revenueoptimization.io/guests/jason-attard/",
+      "bio": "Jason Attard joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Designing for Agents with Jason Attard. UX, CX & the Future of Affiliate Sites",
+          "slug": "designing-for-agents-with-jason-attard-ux-cx-the-future-of-affiliate-sites",
+          "url": "https://revenueoptimization.io/ep/designing-for-agents-with-jason-attard-ux-cx-the-future-of-affiliate-sites/",
+          "pubDate": "Mon, 12 Jan 2026 03:47:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jason Barnard",
+      "slug": "jason-barnard",
+      "url": "https://revenueoptimization.io/guests/jason-barnard/",
+      "bio": "Today, we're chatting with Jason Barnard.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Google Knowledge Panels & Personal Branding with Jason Barnard",
+          "slug": "google-knowledge-panels-personal-branding-with-jason-barnard",
+          "url": "https://revenueoptimization.io/ep/google-knowledge-panels-personal-branding-with-jason-barnard/",
+          "pubDate": "Thu, 02 May 2024 13:27:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Michel Azzopardi",
+      "slug": "jean-michel-azzopardi",
+      "url": "https://revenueoptimization.io/guests/jean-michel-azzopardi/",
+      "bio": "Jean-Michel Azzopardi joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Blockchain & KYC in affiliate marketing with Jean-Michel Azzopardi",
+          "slug": "blockchain-kyc-in-affiliate-marketing-with-jean-michel-azzopardi",
+          "url": "https://revenueoptimization.io/ep/blockchain-kyc-in-affiliate-marketing-with-jean-michel-azzopardi/",
+          "pubDate": "Thu, 19 Oct 2023 21:32:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jesse Ringer",
+      "slug": "jesse-ringer",
+      "url": "https://revenueoptimization.io/guests/jesse-ringer/",
+      "bio": "Jesse Ringer joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why conversion rate optimization matters in SEO with Jesse Ringer",
+          "slug": "why-conversion-rate-optimization-matters-in-seo-with-jesse-ringer",
+          "url": "https://revenueoptimization.io/ep/why-conversion-rate-optimization-matters-in-seo-with-jesse-ringer/",
+          "pubDate": "Tue, 11 Feb 2025 10:47:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Joe Hatch",
+      "slug": "joe-hatch",
+      "url": "https://revenueoptimization.io/guests/joe-hatch/",
+      "bio": "Today we're chatting with Joe Hatch, who's the head of products at Statstrom.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate CRM, Dynamic Variables & the Future of Tracking with Joe Hatch",
+          "slug": "affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch",
+          "url": "https://revenueoptimization.io/ep/affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch/",
+          "pubDate": "Tue, 05 Aug 2025 12:12:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Jon Bruford",
+      "slug": "jon-bruford",
+      "url": "https://revenueoptimization.io/guests/jon-bruford/",
+      "bio": "Jon Bruford joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Mastering Content Creation: Insights from Jon Bruford",
+          "slug": "mastering-content-creation-insights-from-jon-bruford",
+          "url": "https://revenueoptimization.io/ep/mastering-content-creation-insights-from-jon-bruford/",
+          "pubDate": "Fri, 05 Apr 2024 10:09:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Joran Hofman",
+      "slug": "joran-hofman",
+      "url": "https://revenueoptimization.io/guests/joran-hofman/",
+      "bio": "Joran Hofman joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "B2B SaaS Software & Affiliate Marketing Tips with Joran Hofman",
+          "slug": "b2b-saas-software-affiliate-marketing-tips-with-joran-hofman",
+          "url": "https://revenueoptimization.io/ep/b2b-saas-software-affiliate-marketing-tips-with-joran-hofman/",
+          "pubDate": "Wed, 13 Sep 2023 01:47:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Julia Draghici",
+      "slug": "julia-draghici",
+      "url": "https://revenueoptimization.io/guests/julia-draghici/",
+      "bio": "Julia Draghici joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate data with Julia Draghici from CPV Lab & CPV ONE",
+          "slug": "affiliate-data-with-julia-draghici-from-cpv-lab-cpv-one",
+          "url": "https://revenueoptimization.io/ep/affiliate-data-with-julia-draghici-from-cpv-lab-cpv-one/",
+          "pubDate": "Tue, 29 Oct 2024 11:22:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Julian Goldie",
+      "slug": "julian-goldie",
+      "url": "https://revenueoptimization.io/guests/julian-goldie/",
+      "bio": "Julian Goldie joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "How to Get Started with AI Powered SEO with Julian Goldie",
+          "slug": "how-to-get-started-with-ai-powered-seo-with-julian-goldie",
+          "url": "https://revenueoptimization.io/ep/how-to-get-started-with-ai-powered-seo-with-julian-goldie/",
+          "pubDate": "Thu, 09 May 2024 09:35:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Julian Juenemann",
+      "slug": "julian-juenemann",
+      "url": "https://revenueoptimization.io/guests/julian-juenemann/",
+      "bio": "Julian Juenemann joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Mastering Google Tag Manager with Julian Juenemann of MeasureSchool",
+          "slug": "mastering-google-tag-manager-with-julian-juenemann-of-measureschool",
+          "url": "https://revenueoptimization.io/ep/mastering-google-tag-manager-with-julian-juenemann-of-measureschool/",
+          "pubDate": "Wed, 16 Aug 2023 02:20:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Karl Hudson",
+      "slug": "karl-hudson",
+      "url": "https://revenueoptimization.io/guests/karl-hudson/",
+      "bio": "Karl Hudson joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Deep Dive into Google Search Console (GSC) with Karl Hudson",
+          "slug": "deep-dive-into-google-search-console-gsc-with-karl-hudson",
+          "url": "https://revenueoptimization.io/ep/deep-dive-into-google-search-console-gsc-with-karl-hudson/",
+          "pubDate": "Fri, 31 May 2024 09:16:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Kasra Dash",
+      "slug": "kasra-dash",
+      "url": "https://revenueoptimization.io/guests/kasra-dash/",
+      "bio": "Kasra Dash joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Kasra Dash on Why Lazy SEO Is Dead and Brands Win",
+          "slug": "kasra-dash-on-why-lazy-seo-is-dead-and-brands-win",
+          "url": "https://revenueoptimization.io/ep/kasra-dash-on-why-lazy-seo-is-dead-and-brands-win/",
+          "pubDate": "Tue, 09 Sep 2025 01:50:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Hartman",
+      "slug": "kevin-hartman",
+      "url": "https://revenueoptimization.io/guests/kevin-hartman/",
+      "bio": "Kevin Hartman joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Data meets affiliate marketing with Kevin Hartman author of Digital Marketing Analytics",
+          "slug": "data-meets-affiliate-marketing-with-kevin-hartman-author-of-digital-marketing-analytics",
+          "url": "https://revenueoptimization.io/ep/data-meets-affiliate-marketing-with-kevin-hartman-author-of-digital-marketing-analytics/",
+          "pubDate": "Thu, 03 Aug 2023 12:29:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Kira Khoroshilova",
+      "slug": "kira-khoroshilova",
+      "url": "https://revenueoptimization.io/guests/kira-khoroshilova/",
+      "bio": "Kira Khoroshilova joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "International SEO with Kira Khoroshilova",
+          "slug": "international-seo-with-kira-khoroshilova",
+          "url": "https://revenueoptimization.io/ep/international-seo-with-kira-khoroshilova/",
+          "pubDate": "Thu, 13 Jun 2024 13:21:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Koray Tugberk GÜBÜR",
+      "slug": "koray-tugberk-gubur",
+      "url": "https://revenueoptimization.io/guests/koray-tugberk-gubur/",
+      "bio": "Koray Tugberk GÜBÜR joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Semantic SEO in the AI Era with Koray Tugberk GÜBÜR",
+          "slug": "semantic-seo-in-the-ai-era-with-koray-tugberk-gubur",
+          "url": "https://revenueoptimization.io/ep/semantic-seo-in-the-ai-era-with-koray-tugberk-gubur/",
+          "pubDate": "Wed, 14 Jan 2026 04:05:00 +0000"
+        },
+        {
+          "title": "Topical Authority and Semantic SEO Course 2024 with Koray Tuğberk Gübür",
+          "slug": "topical-authority-and-semantic-seo-course-2024-with-koray-tugberk-gubur",
+          "url": "https://revenueoptimization.io/ep/topical-authority-and-semantic-seo-course-2024-with-koray-tugberk-gubur/",
+          "pubDate": "Thu, 04 Jan 2024 10:38:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Kyle Roof",
+      "slug": "kyle-roof",
+      "url": "https://revenueoptimization.io/guests/kyle-roof/",
+      "bio": "Kyle Roof joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "SEO dashboards with Kyle Roof",
+          "slug": "seo-dashboards-with-kyle-roof",
+          "url": "https://revenueoptimization.io/ep/seo-dashboards-with-kyle-roof/",
+          "pubDate": "Wed, 23 Aug 2023 08:00:00 +0000"
+        },
+        {
+          "title": "The Truth About AI Content, SEO, and What Actually Ranks in 2026 with Kyle Roof",
+          "slug": "the-truth-about-ai-content-seo-and-what-actually-ranks-in-2026-with-kyle-roof",
+          "url": "https://revenueoptimization.io/ep/the-truth-about-ai-content-seo-and-what-actually-ranks-in-2026-with-kyle-roof/",
+          "pubDate": "Thu, 30 Apr 2026 11:22:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Lashay Lewis",
+      "slug": "lashay-lewis",
+      "url": "https://revenueoptimization.io/guests/lashay-lewis/",
+      "bio": "Lashay Lewis joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "How to Create Content for Affiliate Sites with Lashay Lewis",
+          "slug": "how-to-create-content-for-affiliate-sites-with-lashay-lewis",
+          "url": "https://revenueoptimization.io/ep/how-to-create-content-for-affiliate-sites-with-lashay-lewis/",
+          "pubDate": "Wed, 01 Nov 2023 18:50:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Lazar Petrov",
+      "slug": "lazar-petrov",
+      "url": "https://revenueoptimization.io/guests/lazar-petrov/",
+      "bio": "Lazar Petrov joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "iGaming BI, Affiliate Analytics & the Cost of Bad Data with Lazar Petrov, iGsuite",
+          "slug": "igaming-bi-affiliate-analytics-the-cost-of-bad-data-with-lazar-petrov-igsuite",
+          "url": "https://revenueoptimization.io/ep/igaming-bi-affiliate-analytics-the-cost-of-bad-data-with-lazar-petrov-igsuite/",
+          "pubDate": "Tue, 03 Mar 2026 02:04:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Lily Ray",
+      "slug": "lily-ray",
+      "url": "https://revenueoptimization.io/guests/lily-ray/",
+      "bio": "Lily Ray joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Lily Ray: Growing affiliate sites beyond Google algorithm updates",
+          "slug": "lily-ray-growing-affiliate-sites-beyond-google-algorithm-updates",
+          "url": "https://revenueoptimization.io/ep/lily-ray-growing-affiliate-sites-beyond-google-algorithm-updates/",
+          "pubDate": "Thu, 29 Aug 2024 01:16:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Lou Viveros",
+      "slug": "lou-viveros",
+      "url": "https://revenueoptimization.io/guests/lou-viveros/",
+      "bio": "Lou Viveros joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Advisory for affiliates & startups with Lou Viveros",
+          "slug": "advisory-for-affiliates-startups-with-lou-viveros",
+          "url": "https://revenueoptimization.io/ep/advisory-for-affiliates-startups-with-lou-viveros/",
+          "pubDate": "Tue, 15 Oct 2024 01:43:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Louis Grenier",
+      "slug": "louis-grenier",
+      "url": "https://revenueoptimization.io/guests/louis-grenier/",
+      "bio": "Louis Grenier joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Marketing That Stands the F*ck Out: Louis Grenier on Positioning",
+          "slug": "marketing-that-stands-the-fck-out-louis-grenier-on-positioning",
+          "url": "https://revenueoptimization.io/ep/marketing-that-stands-the-fck-out-louis-grenier-on-positioning/",
+          "pubDate": "Tue, 01 Apr 2025 01:48:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Lukasz Zelezny",
+      "slug": "lukasz-zelezny",
+      "url": "https://revenueoptimization.io/guests/lukasz-zelezny/",
+      "bio": "Lukasz Zelezny joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "SEO Login & Google Smashing Affiliate Sites with Lukasz Zelezny",
+          "slug": "seo-login-google-smashing-affiliate-sites-with-lukasz-zelezny",
+          "url": "https://revenueoptimization.io/ep/seo-login-google-smashing-affiliate-sites-with-lukasz-zelezny/",
+          "pubDate": "Wed, 24 Apr 2024 16:53:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Mads Singers",
+      "slug": "mads-singers",
+      "url": "https://revenueoptimization.io/guests/mads-singers/",
+      "bio": "Mads Singers joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Delegation & People Management with Mads Singers",
+          "slug": "delegation-people-management-with-mads-singers",
+          "url": "https://revenueoptimization.io/ep/delegation-people-management-with-mads-singers/",
+          "pubDate": "Thu, 18 Jan 2024 11:11:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Maja Jovančević",
+      "slug": "maja-jovancevic",
+      "url": "https://revenueoptimization.io/guests/maja-jovancevic/",
+      "bio": "Maja Jovančević joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why Crawl Stats and Server Logs Are the Hidden Gems of SEO with Maja Jovančević",
+          "slug": "why-crawl-stats-and-server-logs-are-the-hidden-gems-of-seo-with-maja-jovancevic",
+          "url": "https://revenueoptimization.io/ep/why-crawl-stats-and-server-logs-are-the-hidden-gems-of-seo-with-maja-jovancevic/",
+          "pubDate": "Tue, 29 Apr 2025 03:04:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Marcin Kumięga",
+      "slug": "marcin-kumiega",
+      "url": "https://revenueoptimization.io/guests/marcin-kumiega/",
+      "bio": "Marcin, welcome to the show.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Postback & Voluum's advanced ad tracker with Marcin Kumięga",
+          "slug": "postback-voluums-advanced-ad-tracker-with-marcin-kumiega",
+          "url": "https://revenueoptimization.io/ep/postback-voluums-advanced-ad-tracker-with-marcin-kumiega/",
+          "pubDate": "Wed, 24 Jul 2024 00:36:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Marco Braun",
+      "slug": "marco-braun",
+      "url": "https://revenueoptimization.io/guests/marco-braun/",
+      "bio": "Marco Braun joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate coaching for MyTopSlot with Marco Braun",
+          "slug": "affiliate-coaching-for-mytopslot-with-marco-braun",
+          "url": "https://revenueoptimization.io/ep/affiliate-coaching-for-mytopslot-with-marco-braun/",
+          "pubDate": "Tue, 05 Nov 2024 08:38:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Mark Preston",
+      "slug": "mark-preston",
+      "url": "https://revenueoptimization.io/guests/mark-preston/",
+      "bio": "Mark Preston joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why Most Affiliate Sites Fail, SEO tips with Mark Preston",
+          "slug": "why-most-affiliate-sites-fail-seo-tips-with-mark-preston",
+          "url": "https://revenueoptimization.io/ep/why-most-affiliate-sites-fail-seo-tips-with-mark-preston/",
+          "pubDate": "Tue, 25 Mar 2025 01:43:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Mark Wright",
+      "slug": "mark-wright",
+      "url": "https://revenueoptimization.io/guests/mark-wright/",
+      "bio": "I think a lot of consulting I do now or coaching work I do with SEO or digital marketing agencies is I say to them, you are great at what you do.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "How To Sell SEO with The Apprentice Winner Mark Wright",
+          "slug": "how-to-sell-seo-with-the-apprentice-winner-mark-wright",
+          "url": "https://revenueoptimization.io/ep/how-to-sell-seo-with-the-apprentice-winner-mark-wright/",
+          "pubDate": "Fri, 01 Mar 2024 02:13:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Martin Calvert",
+      "slug": "martin-calvert",
+      "url": "https://revenueoptimization.io/guests/martin-calvert/",
+      "bio": "Martin Calvert joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate SEO in 2025: Data, Brand, and Doing the Work with Martin Calvert",
+          "slug": "affiliate-seo-in-2025-data-brand-and-doing-the-work-with-martin-calvert",
+          "url": "https://revenueoptimization.io/ep/affiliate-seo-in-2025-data-brand-and-doing-the-work-with-martin-calvert/",
+          "pubDate": "Tue, 22 Jul 2025 01:50:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Matt Diggity",
+      "slug": "matt-diggity",
+      "url": "https://revenueoptimization.io/guests/matt-diggity/",
+      "bio": "Matt Diggity joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate SEO Secrets: Dive Deep with Matt Diggity",
+          "slug": "affiliate-seo-secrets-dive-deep-with-matt-diggity",
+          "url": "https://revenueoptimization.io/ep/affiliate-seo-secrets-dive-deep-with-matt-diggity/",
+          "pubDate": "Wed, 27 Sep 2023 00:48:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Michael Filletti",
+      "slug": "michael-filletti",
+      "url": "https://revenueoptimization.io/guests/michael-filletti/",
+      "bio": "Today we're chatting with Michael Felitti, who is the co-founder of Routy or rather Routy.app and he's held previous eye roles at Chiliz and was also BI analyst at Katana Media.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Data literacy in affiliate marketing with Michael Filletti",
+          "slug": "data-literacy-in-affiliate-marketing-with-michael-filletti",
+          "url": "https://revenueoptimization.io/ep/data-literacy-in-affiliate-marketing-with-michael-filletti/",
+          "pubDate": "Wed, 15 May 2024 05:38:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Michał Suski",
+      "slug": "micha-suski",
+      "url": "https://revenueoptimization.io/guests/micha-suski/",
+      "bio": "Michał Suski joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why AI content is here to stay with Michał Suski from Surfer SEO",
+          "slug": "why-ai-content-is-here-to-stay-with-micha-suski-from-surfer-seo",
+          "url": "https://revenueoptimization.io/ep/why-ai-content-is-here-to-stay-with-micha-suski-from-surfer-seo/",
+          "pubDate": "Thu, 12 Oct 2023 09:19:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Mikael Dia",
+      "slug": "mikael-dia",
+      "url": "https://revenueoptimization.io/guests/mikael-dia/",
+      "bio": "Mikael Dia joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why Attribution Is Broken and What SaaS and Affiliates Should Do Instead with Mikael Dia",
+          "slug": "why-attribution-is-broken-and-what-saas-and-affiliates-should-do-instead-with-mikael-dia",
+          "url": "https://revenueoptimization.io/ep/why-attribution-is-broken-and-what-saas-and-affiliates-should-do-instead-with-mikael-dia/",
+          "pubDate": "Tue, 17 Jun 2025 11:52:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Neil Walker",
+      "slug": "neil-walker",
+      "url": "https://revenueoptimization.io/guests/neil-walker/",
+      "bio": "Neil Walker joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Live dealer product affiliate niche with Neil Walker",
+          "slug": "live-dealer-product-affiliate-niche-with-neil-walker",
+          "url": "https://revenueoptimization.io/ep/live-dealer-product-affiliate-niche-with-neil-walker/",
+          "pubDate": "Thu, 26 Sep 2024 07:27:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Niels Zee",
+      "slug": "niels-zee",
+      "url": "https://revenueoptimization.io/guests/niels-zee/",
+      "bio": "Niels Zee joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate CRM with Niels Zee",
+          "slug": "affiliate-crm-with-niels-zee",
+          "url": "https://revenueoptimization.io/ep/affiliate-crm-with-niels-zee/",
+          "pubDate": "Tue, 22 Apr 2025 02:14:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Noelle Spagna",
+      "slug": "noelle-spagna",
+      "url": "https://revenueoptimization.io/guests/noelle-spagna/",
+      "bio": "Today we're chatting with Noelle Spagnu, who is the affiliate program manager at The Motley Fool and she's held similar roles at Partner Centric and Pepper Jam.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Finance affiliates & The Motley Fool with Noelle Spagna",
+          "slug": "finance-affiliates-the-motley-fool-with-noelle-spagna",
+          "url": "https://revenueoptimization.io/ep/finance-affiliates-the-motley-fool-with-noelle-spagna/",
+          "pubDate": "Tue, 07 Jan 2025 10:41:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Oleksandr Kulyk",
+      "slug": "oleksandr-kulyk",
+      "url": "https://revenueoptimization.io/guests/oleksandr-kulyk/",
+      "bio": "Oleksandr Kulyk is VP of Affiliate & Business Development at Makeberry Affiliates.",
+      "role": "VP of Affiliate & Business Development at Makeberry Affiliates",
+      "links": [],
+      "episodes": [
+        {
+          "title": "The Business of Affiliate Growth with Oleksandr Kulyk from Makeberry Affiliates",
+          "slug": "the-business-of-affiliate-growth-with-oleksandr-kulyk-from-makeberry-affiliates",
+          "url": "https://revenueoptimization.io/ep/the-business-of-affiliate-growth-with-oleksandr-kulyk-from-makeberry-affiliates/",
+          "pubDate": "Mon, 29 Jun 2026 17:21:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Olga Zarr",
+      "slug": "olga-zarr",
+      "url": "https://revenueoptimization.io/guests/olga-zarr/",
+      "bio": "Olga Zarr joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "The Affiliate’s Guide to AI-SEO Synergy with Olga Zarr",
+          "slug": "the-affiliates-guide-to-ai-seo-synergy-with-olga-zarr",
+          "url": "https://revenueoptimization.io/ep/the-affiliates-guide-to-ai-seo-synergy-with-olga-zarr/",
+          "pubDate": "Fri, 22 Mar 2024 06:43:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Oliver Kenyon",
+      "slug": "oliver-kenyon",
+      "url": "https://revenueoptimization.io/guests/oliver-kenyon/",
+      "bio": "Oliver Kenyon joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Conversion Rate Optimization in Affiliate Marketing with Oliver Kenyon",
+          "slug": "conversion-rate-optimization-in-affiliate-marketing-with-oliver-kenyon",
+          "url": "https://revenueoptimization.io/ep/conversion-rate-optimization-in-affiliate-marketing-with-oliver-kenyon/",
+          "pubDate": "Wed, 25 Oct 2023 09:22:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Peter Loving",
+      "slug": "peter-loving",
+      "url": "https://revenueoptimization.io/guests/peter-loving/",
+      "bio": "Peter Loving joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Product Design & UX/UI in Affiliate Sites with Peter Loving",
+          "slug": "product-design-uxui-in-affiliate-sites-with-peter-loving",
+          "url": "https://revenueoptimization.io/ep/product-design-uxui-in-affiliate-sites-with-peter-loving/",
+          "pubDate": "Thu, 09 Nov 2023 10:59:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Phil Fraser",
+      "slug": "phil-fraser",
+      "url": "https://revenueoptimization.io/guests/phil-fraser/",
+      "bio": "I haven't got I'm John right and you're listening to affiliate be I the business intelligence and affiliate marketing podcast brought to you by Statstron They never write the next chapter What do you do next some people go back to the start of the book other people go I'm gonna play golf and for me I wanted to stay working, but I didn't need a job I didn't particularly people want the stress of doing launch again going all the way back to square one so somebody said to me why don't you be a when you do some business mentoring and Parked it and then for various people Kate's me was saying oh Phil you've done this business friends We've got businesses and contacts And I started giving them advice and they seem to simply benefiting from it And then when kovid hit over in the UK, we had glorious sunshine for two months Which obviously is a rare which is a rarity and I was sat in the garden I thought right okay, I'll put a business plan together and actually do this",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Business Coach & Mentorship with Phil Fraser",
+          "slug": "business-coach-mentorship-with-phil-fraser",
+          "url": "https://revenueoptimization.io/ep/business-coach-mentorship-with-phil-fraser/",
+          "pubDate": "Fri, 29 Mar 2024 10:26:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Richard Dennys",
+      "slug": "richard-dennys",
+      "url": "https://revenueoptimization.io/guests/richard-dennys/",
+      "bio": "Richard Dennys joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Leadership in iGaming with Richard Dennys of Game Lounge",
+          "slug": "leadership-in-igaming-with-richard-dennys-of-game-lounge",
+          "url": "https://revenueoptimization.io/ep/leadership-in-igaming-with-richard-dennys-of-game-lounge/",
+          "pubDate": "Tue, 19 Nov 2024 11:13:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Robbie Strazynski",
+      "slug": "robbie-strazynski",
+      "url": "https://revenueoptimization.io/guests/robbie-strazynski/",
+      "bio": "Robbie Strazynski joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Poker, People, and Pageviews: Navigating SEO Turbulence with Robbie Strazynski",
+          "slug": "poker-people-and-pageviews-navigating-seo-turbulence-with-robbie-strazynski",
+          "url": "https://revenueoptimization.io/ep/poker-people-and-pageviews-navigating-seo-turbulence-with-robbie-strazynski/",
+          "pubDate": "Tue, 06 May 2025 09:28:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Rowan Ellis",
+      "slug": "rowan-ellis",
+      "url": "https://revenueoptimization.io/guests/rowan-ellis/",
+      "bio": "Rowan Ellis joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Fractional CFO for affiliates with Rowan Ellis",
+          "slug": "fractional-cfo-for-affiliates-with-rowan-ellis",
+          "url": "https://revenueoptimization.io/ep/fractional-cfo-for-affiliates-with-rowan-ellis/",
+          "pubDate": "Thu, 10 Oct 2024 09:51:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Sam McKay",
+      "slug": "sam-mckay",
+      "url": "https://revenueoptimization.io/guests/sam-mckay/",
+      "bio": "Sam McKay joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Data skills and courses with Sam McKay from Enterprise DNA",
+          "slug": "data-skills-and-courses-with-sam-mckay-from-enterprise-dna",
+          "url": "https://revenueoptimization.io/ep/data-skills-and-courses-with-sam-mckay-from-enterprise-dna/",
+          "pubDate": "Fri, 04 Aug 2023 01:13:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Sami Kurvinen",
+      "slug": "sami-kurvinen",
+      "url": "https://revenueoptimization.io/guests/sami-kurvinen/",
+      "bio": "Sami Kurvinen joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate Manager Insights with Sami Kurvinen",
+          "slug": "affiliate-manager-insights-with-sami-kurvinen",
+          "url": "https://revenueoptimization.io/ep/affiliate-manager-insights-with-sami-kurvinen/",
+          "pubDate": "Thu, 23 Nov 2023 12:01:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Sean Bianco",
+      "slug": "sean-bianco",
+      "url": "https://revenueoptimization.io/guests/sean-bianco/",
+      "bio": "Sean Bianco joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "iGaming SEO with Sean Bianco from GainChanger",
+          "slug": "igaming-seo-with-sean-bianco-from-gainchanger",
+          "url": "https://revenueoptimization.io/ep/igaming-seo-with-sean-bianco-from-gainchanger/",
+          "pubDate": "Thu, 11 Jul 2024 09:57:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Sean Chaudhary",
+      "slug": "sean-chaudhary",
+      "url": "https://revenueoptimization.io/guests/sean-chaudhary/",
+      "bio": "Sean Chaudhary joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Creating Offers in Affiliate Marketing with Sean Chaudhary",
+          "slug": "creating-offers-in-affiliate-marketing-with-sean-chaudhary",
+          "url": "https://revenueoptimization.io/ep/creating-offers-in-affiliate-marketing-with-sean-chaudhary/",
+          "pubDate": "Fri, 29 Dec 2023 11:53:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Shahar Attias",
+      "slug": "shahar-attias",
+      "url": "https://revenueoptimization.io/guests/shahar-attias/",
+      "bio": "Today we're chatting with Shahar Otias.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "CRM & Gamification in iGaming with Shahar Attias",
+          "slug": "crm-gamification-in-igaming-with-shahar-attias",
+          "url": "https://revenueoptimization.io/ep/crm-gamification-in-igaming-with-shahar-attias/",
+          "pubDate": "Tue, 14 Jan 2025 11:16:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Shaurya Jain",
+      "slug": "shaurya-jain",
+      "url": "https://revenueoptimization.io/guests/shaurya-jain/",
+      "bio": "Shaurya Jain joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [
+        {
+          "label": "Honest HVAC Marketing",
+          "url": "https://www.honesthvacmarketing.agency/"
+        }
+      ],
+      "episodes": [
+        {
+          "title": "Beyond DR: Smarter SEO Signals You’re Not Using Yet with Shaurya Jain",
+          "slug": "beyond-dr-smarter-seo-signals-youre-not-using-yet-with-shaurya-jain",
+          "url": "https://revenueoptimization.io/ep/beyond-dr-smarter-seo-signals-youre-not-using-yet-with-shaurya-jain/",
+          "pubDate": "Tue, 08 Apr 2025 12:45:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Simon Dunne",
+      "slug": "simon-dunne",
+      "url": "https://revenueoptimization.io/guests/simon-dunne/",
+      "bio": "Simon Dunne joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Performance Marketing insights that affiliate managers should know with Simon Dunne",
+          "slug": "performance-marketing-insights-that-affiliate-managers-should-know-with-simon-dunne",
+          "url": "https://revenueoptimization.io/ep/performance-marketing-insights-that-affiliate-managers-should-know-with-simon-dunne/",
+          "pubDate": "Fri, 08 Dec 2023 12:11:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Stefan Muehlbauer",
+      "slug": "stefan-muehlbauer",
+      "url": "https://revenueoptimization.io/guests/stefan-muehlbauer/",
+      "bio": "Stefan Muehlbauer joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate Manager Training from Affpal with Stefan Muehlbauer",
+          "slug": "affiliate-manager-training-from-affpal-with-stefan-muehlbauer",
+          "url": "https://revenueoptimization.io/ep/affiliate-manager-training-from-affpal-with-stefan-muehlbauer/",
+          "pubDate": "Tue, 12 Nov 2024 06:05:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Steve Anderson",
+      "slug": "steve-anderson",
+      "url": "https://revenueoptimization.io/guests/steve-anderson/",
+      "bio": "Steve Anderson joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "The Bezos Letters with Steve Anderson",
+          "slug": "the-bezos-letters-with-steve-anderson",
+          "url": "https://revenueoptimization.io/ep/the-bezos-letters-with-steve-anderson/",
+          "pubDate": "Tue, 04 Feb 2025 11:26:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Steve Toth",
+      "slug": "steve-toth",
+      "url": "https://revenueoptimization.io/guests/steve-toth/",
+      "bio": "Today we're chatting with Steve Toph, who is the founder of SEO notebook, uh, which I'm a big fan of.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Inside SEO Notebook: SEO Newsletter Tips with Steve Toth",
+          "slug": "inside-seo-notebook-seo-newsletter-tips-with-steve-toth",
+          "url": "https://revenueoptimization.io/ep/inside-seo-notebook-seo-newsletter-tips-with-steve-toth/",
+          "pubDate": "Thu, 01 Aug 2024 10:00:00 +0000"
+        },
+        {
+          "title": "Optimizing pages for AI Search with GEO, tips from Steve Toth",
+          "slug": "optimizing-pages-for-ai-search-with-geo-tips-from-steve-toth",
+          "url": "https://revenueoptimization.io/ep/optimizing-pages-for-ai-search-with-geo-tips-from-steve-toth/",
+          "pubDate": "Sun, 16 Nov 2025 15:06:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Steven Khanna",
+      "slug": "steven-khanna",
+      "url": "https://revenueoptimization.io/guests/steven-khanna/",
+      "bio": "Steven Khanna joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Evergreen Content Marketing with Steven Khanna of WhitePress",
+          "slug": "evergreen-content-marketing-with-steven-khanna-of-whitepress",
+          "url": "https://revenueoptimization.io/ep/evergreen-content-marketing-with-steven-khanna-of-whitepress/",
+          "pubDate": "Thu, 14 Mar 2024 07:23:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Sue Dawson",
+      "slug": "sue-dawson",
+      "url": "https://revenueoptimization.io/guests/sue-dawson/",
+      "bio": "Sue Dawson joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "The online bingo industry with Sue Dawson",
+          "slug": "the-online-bingo-industry-with-sue-dawson",
+          "url": "https://revenueoptimization.io/ep/the-online-bingo-industry-with-sue-dawson/",
+          "pubDate": "Tue, 10 Dec 2024 10:49:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Tom Hunt",
+      "slug": "tom-hunt",
+      "url": "https://revenueoptimization.io/guests/tom-hunt/",
+      "bio": "Tom Hunt joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Podcasting For Affiliate Marketing with Tom Hunt",
+          "slug": "podcasting-for-affiliate-marketing-with-tom-hunt",
+          "url": "https://revenueoptimization.io/ep/podcasting-for-affiliate-marketing-with-tom-hunt/",
+          "pubDate": "Fri, 02 Feb 2024 10:24:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Travis Jamison",
+      "slug": "travis-jamison",
+      "url": "https://revenueoptimization.io/guests/travis-jamison/",
+      "bio": "Travis Jamison joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Why Boring Businesses Win and Venture Capital Doesn’t with Travis Jamison",
+          "slug": "why-boring-businesses-win-and-venture-capital-doesnt-with-travis-jamison",
+          "url": "https://revenueoptimization.io/ep/why-boring-businesses-win-and-venture-capital-doesnt-with-travis-jamison/",
+          "pubDate": "Tue, 07 Apr 2026 11:21:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Umar Faizan",
+      "slug": "umar-faizan",
+      "url": "https://revenueoptimization.io/guests/umar-faizan/",
+      "bio": "Umar Faizan joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "5 Ways to Find Your Target Audience for SEO with Umar Faizan",
+          "slug": "5-ways-to-find-your-target-audience-for-seo-with-umar-faizan",
+          "url": "https://revenueoptimization.io/ep/5-ways-to-find-your-target-audience-for-seo-with-umar-faizan/",
+          "pubDate": "Fri, 21 Jun 2024 02:04:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Valentina Diaco",
+      "slug": "valentina-diaco",
+      "url": "https://revenueoptimization.io/guests/valentina-diaco/",
+      "bio": "Valentina Diaco joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Building Affiliate Sites for the AI Era: Branding, Data & Community First with Valentina Diaco",
+          "slug": "building-affiliate-sites-for-the-ai-era-branding-data-community-first-with-valentina-diaco",
+          "url": "https://revenueoptimization.io/ep/building-affiliate-sites-for-the-ai-era-branding-data-community-first-with-valentina-diaco/",
+          "pubDate": "Tue, 15 Apr 2025 02:39:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Victor Karpenko",
+      "slug": "victor-karpenko",
+      "url": "https://revenueoptimization.io/guests/victor-karpenko/",
+      "bio": "Victor Karpenko joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Data Driven SEO with Victor Karpenko of SeoProfy",
+          "slug": "data-driven-seo-with-victor-karpenko-of-seoprofy",
+          "url": "https://revenueoptimization.io/ep/data-driven-seo-with-victor-karpenko-of-seoprofy/",
+          "pubDate": "Wed, 20 Sep 2023 11:25:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Vlad Ghilien",
+      "slug": "vlad-ghilien",
+      "url": "https://revenueoptimization.io/guests/vlad-ghilien/",
+      "bio": "Vlad Ghilien joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Strategic Communications for Affiliate Success with Vlad Ghilien",
+          "slug": "strategic-communications-for-affiliate-success-with-vlad-ghilien",
+          "url": "https://revenueoptimization.io/ep/strategic-communications-for-affiliate-success-with-vlad-ghilien/",
+          "pubDate": "Tue, 12 Aug 2025 02:23:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Zach Measures",
+      "slug": "zach-measures",
+      "url": "https://revenueoptimization.io/guests/zach-measures/",
+      "bio": "Zach Measures joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "Affiliate Manager Challenges with Zach Measures from Everflow",
+          "slug": "affiliate-manager-challenges-with-zach-measures-from-everflow",
+          "url": "https://revenueoptimization.io/ep/affiliate-manager-challenges-with-zach-measures-from-everflow/",
+          "pubDate": "Thu, 04 Jul 2024 10:26:00 +0000"
+        }
+      ]
+    },
+    {
+      "name": "Zak Ali",
+      "slug": "zak-ali",
+      "url": "https://revenueoptimization.io/guests/zak-ali/",
+      "bio": "Zak Ali joined John Wright on Revenue Optimization.",
+      "role": null,
+      "links": [],
+      "episodes": [
+        {
+          "title": "From SEO to Orchestration: Finder’s Zak Ali on AI, Marketing & Moats",
+          "slug": "from-seo-to-orchestration-finders-zak-ali-on-ai-marketing-moats",
+          "url": "https://revenueoptimization.io/ep/from-seo-to-orchestration-finders-zak-ali-on-ai-marketing-moats/",
+          "pubDate": "Thu, 16 Apr 2026 20:14:00 +0000"
+        }
+      ]
+    }
+  ]
+}
