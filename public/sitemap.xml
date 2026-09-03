@@ -3,89 +3,113 @@
   <!-- Static Pages -->
   <url>
     <loc>https://revenueoptimization.io/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/episodes</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/stats</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-tools</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/made-with-lovable</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/blog/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/blog/how-i-built-my-podcast-website-in-lovable/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-programs/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-programs/casino/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-software/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/affiliate-software/igsuite/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/events/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/events/next-new-york/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://revenueoptimization.io/events/next-focus-affiliate/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <!-- Episode Pages (132 episodes auto-generated from RSS feed) -->
+  <!-- Episode Pages (136 episodes auto-generated from RSS feed) -->
+  <url>
+    <loc>https://revenueoptimization.io/ep/the-business-of-affiliate-growth-with-oleksandr-kulyk-from-makeberry-affiliates/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/why-api-tracking-is-taking-over-affiliate-marketing-with-artem-butov/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/the-truth-about-ai-content-seo-and-what-actually-ranks-in-2026-with-kyle-roof/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://revenueoptimization.io/ep/from-seo-to-orchestration-finders-zak-ali-on-ai-marketing-moats/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://revenueoptimization.io/ep/why-boring-businesses-win-and-venture-capital-doesnt-with-travis-jamison/</loc>
     <lastmod>2026-04-07</lastmod>
