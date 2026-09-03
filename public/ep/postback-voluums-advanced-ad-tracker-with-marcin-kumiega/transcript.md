@@ -1,0 +1,403 @@
+# Transcript
+
+**Show:** Revenue Optimization with StatsDrone
+**Episode:** Postback & Voluum's advanced ad tracker with Marcin Kumięga
+**Host:** John Wright
+**Published:** Wed, 24 Jul 2024 00:36:00 +0000
+**Duration:** 56:02
+
+Speaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.
+
+---
+
+[00:00:00] John Wright: In paid media, there's a different question, not how much more money you can make, but how much money you are burning.
+
+[00:00:07] John Wright: I'm John Wright, and you're listening to Affiliate BI, the business intelligence and affiliate marketing podcast brought to you by Stats Advanced Link Tracking Tool. Marcin, welcome to the show.
+
+[00:00:32] John Wright: Hello, everyone. And hello, John. Thank you for having me here. All right. I had a whole bunch of questions, but let's just go very basic. Tell us what is volume for people that don't know about it.
+
+[00:00:45] John Wright: We are a tracker, but of course not only that.
+
+[00:00:50] John Wright: So from the iGaming perspective, we are an advanced platform, tracking platform for paid media campaigns. We help operators and affiliates to optimize their user acquisition, predominantly by paid media channels, but we also have some projects on SEO organic track.
+
+[00:01:13] John Wright: So my elevator pitch about volume for iGaming is that we are like income access, net refer, my affiliates, affiliate, commercial experts, but different. So we are complementary to them. Yeah, I would say advanced is an understatement. So let's go into the core elements of like one of the strong USPs of volume and tell us what is an S2S postback and why should any iGaming affiliates care about this?
+
+[00:01:43] John Wright: Thank you. Very important question. Maybe the most important. So we start from the, from the most important part, right? So server to server postback or webhook or callback. There are different names for this technology globally in the art tech industry in the traditional affiliate marketing from where our platform volume originates called server to server postback.
+
+[00:02:10] John Wright: It's a method of tracking conversion, which is cookie-less, very reliable
+
+[00:02:19] John Wright: and very advanced.
+
+[00:02:21] John Wright: So this is the solution for a huge problem we observed in the iGaming industry, which is the lack of proper data, tracking, transparency between affiliates and operators.
+
+[00:02:38] John Wright: So I got a question then, since you have a very broad understanding of affiliate marketing in general, how advanced are all the other industries outside of iGaming? I already know the answer, but I want to ask you to get a little deeper insight on that.
+
+[00:02:55] John Wright: So I would start from defining what is an affiliate marketing because it's a broad term and I'm here in the company for six years in the industry, out of the industry for quite, quite longer.
+
+[00:03:08] John Wright: But when I joined volume, it was completely well, unknown territory for me, right? Affiliate marketing.
+
+[00:03:15] John Wright: So as we understand the affiliate marketing in volume, this is like multi-vertical affiliate marketing. We call it traditional affiliate marketing based on affiliate network, clickbank, DigiStore. These are important affiliate network.
+
+[00:03:30] John Wright: And well, the history of this affiliate, this type of affiliate marketing, as there is another segment of it, which is more commerce media, which is like A-Win, other e-commerce brands, oriented networks.
+
+[00:03:46] John Wright: But for this traditional affiliate marketing, it is multi-vertical. So the main focus is on software applications, BES companies. So video as a service, right? And mobile bust.
+
+[00:04:01] John Wright: There is dating, neutral, adult, some e-commerce, sweepstakes. So this is all of this, like 10 years ago, this was super or 15 years ago, it was super new and super lucrative.
+
+[00:04:14] John Wright: When pop advertising or push advertising was bearing on the market, same for the native ads.
+
+[00:04:23] John Wright: And from that environment, our tool volume originated.
+
+[00:04:29] John Wright: And in that area, volume has like, here, here, there were a problem. I don't remember exactly how old are we. We are not good in anniversaries here, but we have like, I think 10 years globally, right? Because the starting point of the company is another history where a private tool and then we went public as a product. So in this traditional multi-vertical affiliate marketing, server to server post-back technology is from day one, right? It's based on server to server post-back.
+
+[00:05:00] John Wright: In iGaming, I would say that this industry is much older compared to multi-vertical affiliate marketing, traditional affiliate marketing.
+
+[00:05:13] John Wright: So here we see some gap. And it was shocking to us when we first started, well, taking a deep look at iGaming industry, it was shocking for us this perspective. But what's great that in the last four or five years, so I'm connected by Gaming Industries since 2020, since famous IGB pre-pandemic, right? Memorable for many people. So in that space, the industry, iGaming Industries is catching up quite fast with the technology.
+
+[00:05:46] John Wright: And you mentioned that volume is like a cookie-less tracking tech. And obviously there's been a lot of chatter with Google wanting to deprecate cookies and it seems like they just talk about it and now it's starting to happen.
+
+[00:05:59] John Wright: How would you say volume kind of comes in to fill that gap and maybe just explain it to people of like why S2S tracking is important in that regard?
+
+[00:06:12] John Wright: Sure. So, and by the way, feel free to cut me in because I'm quite a talkative person, so feel free to be interactive for the best use of our listener. Yes. But first of all, volume is not only cookie-less. We do, we track it on two methods. So we have pixels. This is one setup option and server to server post-book.
+
+[00:06:35] John Wright: We recommend post-book by pixels are also possible. They were okay. And years ago, it was quite, quite easy to go with pixels. Pixels are first party and third party. So it may go a bit complicated. By the way, we have a very great blog post about it. So maybe if that's okay for you, we can put it in this text because this explain everything about what I'm trying now to summarize quickly. So the thing is that there is a global, we all know it, right? Not even people from the after industry, but globally there's the, well, global discussion about big tech and about tracking privacy.
+
+[00:07:14] John Wright: GDPR, we are European company, so we are, well, super familiar with GDPR, but it's not only now in Europe, it's global, I would say.
+
+[00:07:23] John Wright: So it's all about data privacy and security and some regulations. So server to server post-book and cookie-less tracking by server to server post-book. It's a solution to that problem, which so far, to my understanding, is the only, the best response to the market for that. Google is trying to solve this problem. There is this privacy sandbox, right? And they are pushing it year after year. I think initially it was about to be like last fall. It should be in place. Now the data is for the fall 2025.
+
+[00:07:55] John Wright: And it's not convenient for them, right? Because they live on us, right? They stay. They...
+
+[00:08:02] John Wright: Not true. Yeah. But I believe sooner or later it needs to happen, right? So the industry needs to catch up with that.
+
+[00:08:10] John Wright: Okay. And then tell us what you think affiliates need to do or need to think about when it comes to first party data. And my assumption is that, you know, we're talking about going, okay, we have our tracking links, we're sending traffic from our audience to an operator getting a commission, but do you think there's a smart way in which affiliates need to say, you know what, maybe I could capture some of this audience along the way. Maybe I can capture their email address. Like it's just not even getting a newsletter. Maybe there's some sort of intermediary landing page that says, hey, before you go to where we're going to send you to, can we just learn a little bit about you?
+
+[00:08:48] John Wright: And maybe that becomes part of a smart flow where you're saying now that you filled out this info, you actually want this product over here.
+
+[00:08:57] John Wright: Yeah. I, in iGaming industry, it's very popular compared with different verticals volume used to work with that there are comparison sites. So for affiliate, very popular product is a comparison site.
+
+[00:09:11] John Wright: We all know as gamblers, which is a great platform, right?
+
+[00:09:15] John Wright: It's not advertisement, by the way, it's just the remark. So, and this is, this is a great value for players, for people who use the gambling entertainment, entertainment. So, and this all comes with this providing value for the end user by affiliate. So in one of your podcasts, there was Zach from Everflow. Hello, Zach, by the way, a colleague of mine. And he had, I recommend to everyone to listen to this podcast. He mentioned a lot about this value, affiliates making value to not only link tracking and not only, well, sending the offer to, to users, but providing
+
+[00:09:54] John Wright: value and education content. So for sure, there's a lot of these aspects that could be done. There's great technology, like landing page, the generators or email marketing platforms, email sending platforms. And these platforms, they are entering iGaming industry as well, because the industry, from my, to my perspective is catching up with this technological.
+
+[00:10:15] John Wright: Well, deficit, right? It's not even a deficit. It's about the technological improvements in software as a service in software industry, software industry is quite new, right? iGaming was before this, this, this eruption of software industry, I would say.
+
+[00:10:32] John Wright: So, but the main problem I would say in iGaming from the affiliate perspective, but also from the operator perspective, it's not even the cookie-less tracking, not even some providing other value to the extra value to the player, tracking itself.
+
+[00:10:45] John Wright: So there are many cases where operate where affiliates cannot track and optimize the paid media channels. In SEO, it's not a big problem, but in paid media, imagine you're running 100K or 50K ads, a budget per day.
+
+[00:11:02] John Wright: You need to know real time what works and what doesn't, because otherwise you are not profitable. It's all about numbers. It's all about maths.
+
+[00:11:11] John Wright: I think I'm going to ask another question that I, yeah, I'm basically setting you up to talk about, you know, why volume is in the right place at the right time, but do you think, um, more performance marketing is going to become a bigger chunk of the affiliate marketing space where paid ads, paid media and S2S is going to just become maybe more native?
+
+[00:11:33] John Wright: To my knowledge, and I was last year, I was attending a very great conference, Sargent Performance Conference for brands and e-commerce media in Charleston in the United States, which was not related to this multi-vertical affiliate marketing, not related with iGaming. There were brands, US banks and so on.
+
+[00:11:53] John Wright: For them, performance marketing and paid media channels, Google, Facebook, the ESPs, it's the main channel of marketing. So SEO is important, but SEO is more for branding. Performance is there in paid media programmatic, you can call it, right?
+
+[00:12:11] John Wright: In multi-vertical affiliate marketing, this is also present, but there are different traffic platforms. So to someone, for someone who is new to paid media campaigns and paid media channels, beyond Google and Facebook, there are thousands of great platforms where you can take one and be super profitable with your business as an affiliate. So in iGaming, SEO is the essence, but I believe and I observe it slowly that this global eruption of programmatic paid media campaigns is entering this industry. It's also connected with licensing.
+
+[00:12:50] John Wright: So the licensing is getting more places regulated, more market, right? So it opens the doors.
+
+[00:12:59] John Wright: I'm going to ask what I consider for my point of view a dumb question, but it's a chance to, like I said, to always pick your brain. So I've been an affiliate in the past and I had a newsletter and I had SEO traffic, so I'm driving traffic to these operators.
+
+[00:13:14] John Wright: I'm pretty sure there's a marketplace where what if I wanted to sell my traffic to someone else? What does that look like? And what are these traffic networks look like where I can be on the other side? Does this make sense to do? And what is life? Yeah, that's so if I understood you correctly, the cases that you are an affiliate, you have your own product, SEO product, and you want to monetize it.
+
+[00:13:37] John Wright: Yeah. And then even got a newsletter, for example, I've got traffic. How can I direct it and still make a payment? You're a publisher. You're a publisher. A publisher. The purpose is you are not an affiliate. You might be an affiliate and have a direct relationship with the brands, with the in iGaming industry. It's pretty direct. There's a brand or an operator with a couple of brands. They have their own affiliate program. They're affiliate, right? Sometimes they're master affiliate.
+
+[00:14:02] John Wright: But in this traditional multi-vertical affiliate marketing and say in this commerce media, let's call it mainstream, right?
+
+[00:14:09] John Wright: Affiliate marketing with networks like A-Win, for instance, there are 5, 10, 15 middlemen in the channel and everyone makes money and it's still profitable. So there is, you are a publisher besides working directly with the operator. You can sell your traffic to program, depending on the Kite to DSP, like trade desk, Lyft, or maybe you can sell it to propeller ads, Adstera, Clickadoo, Adcash, right? So we call it traffic sources. They are called DSPs, but they are programmatic. They are great for cross-hour MGA license operators.
+
+[00:14:45] John Wright: And yeah, this is another opportunity for you. It's being sold on real-time bidding. So even it's possible to monetize the traffic, which is not initially converting for you, for the operator perspective, and there's technology doing it for you.
+
+[00:15:01] John Wright: Okay.
+
+[00:15:02] John Wright: I want to pivot now and talk about what I think is a big pain point in all of affiliate marketing. So I use Ahrefs as an SEO tool and it gives me a lot of insights on everything. And I'm always finding brands that are offline, out of business, or maybe they've got broken tracking links because they switched from one affiliate program software to another. And I just see a giant amount of space junk of tracking links going to nowhere.
+
+[00:15:31] John Wright: Yeah. Well, it's not even 404. It's like, let's use the best example. FTX, a famous cryptocurrency exchange went out of business nearly two years ago. And to this day, there are still active affiliate sites linking to FTX with the traffic link, which basically takes you to the Department of Justice. Um, how, how big of a problem do you see this and what do you think are some of the ways that we, like anyone can solve this?
+
+[00:15:58] John Wright: Well, so this is the problem for an affiliate, right? Because if for SEO it's okay, you don't buy the traffic. There was an investment. There's a product you could use displacement decides differently, but it doesn't cost you. But imagine you're running out, you're paying on the daily basis for this, for every single visit and goes to nowhere. Right.
+
+[00:16:21] John Wright: 404 is a great example from our perspective that it means that something is a 404 error or a broader, it means that your traffic link is broken. If you have a redirect tracking, which is standard for this, uh, this programmatic network, uh, and it's super straightforward as post bug oriented. It means that the traffic could, if their link is broken, for instance, the platform tracking platform like volume has downtime. You're losing money. We don't have down times. We have very solid infrastructure is the, the SS for us. So the thing is how to solve it for the affiliate perspective.
+
+[00:16:56] John Wright: Well, if you're running hundreds, thousands of campaigns, dozens, hundreds of partners, operators, right?
+
+[00:17:04] John Wright: You need to have some technology to like one place to rule them all.
+
+[00:17:10] John Wright: If someone likes Lord of the Rings, that's the yeah, nice quote. So you cannot work on spreadsheets only because it's, it's not scalable.
+
+[00:17:18] John Wright: If you aren't precious, that's the case of you guys in Todron, right? This is the same with different problem, but for, for affiliates, uh, affiliate more working with operators, right? For affiliate platforms. I've heard stories from my clients not using tool like yours. So here will be small advertisement, but that's the gentle one promote each other. Yeah. But the thing is that, yeah, I've heard the stories that officially rapture that there was a partner not active from like three, two years ago, but there are still some revenue generating from rapture. But the, the affiliate is not checking it, right? They forgot about it. So if they forgot about that, the operator is happy, right? They don't need to pay for it, but here it starts. It's wrong. We juggle it and throws you.
+
+[00:17:57] John Wright: We are everything in one place. So same as for, for the link tracking technology, tell you where's the problem? Real time, right? You see red flag that you're losing money here and there. If there's 404 error or from any, any reason that your landing page could be broken.
+
+[00:18:14] John Wright: I think there's a whole collection of signals that exist, but it's almost like I can't think of a one solution fits all. So for example, you said 404. I mean, that's, you need to kind of set, look at how you're sending traffic to a brand and monitoring. Like what is, can we take a screenshot of the page? Uh, are we understanding what all geo targeted angles are like if we're sending traffic from all over the world and from our side and the eye gaming space, we've got a database of we're almost at a thousand gambling affiliate programs that have closed representing around 2000 brands, those they're just offline. And then again, I go to Ahrefs.
+
+[00:18:52] John Wright: I look at those brands and I see active websites that have real traffic still sending traffic there. So I think there's a lot of ways in which we can kind of monitor this, but it's very rare that I only hear maybe from large affiliates that have actually built infrastructure to monitor these 404 pages to know that something's gone offline, whether it's the tracking tech from the affiliate program or it's on their side or the brand is offline or, you know, of course the most perfect examples when the, the, the traffic is ending to the landing page, but the, the data coming back to you is like no clicks, which is, that's a panic.
+
+[00:19:31] John Wright: Yeah. Or, you know, in our case, from our experience, we don't have down times and does a public and real information. We used to have, when we started like 10 years ago or so, we had like two minutes downtime there historically. So there's like history history years ago, but sometimes it happens that we have front end update. So yeah, it happened. We are, we are very complex platform and you, there might, it might happen that the affiliate doesn't see the audio operator traffic real time. So they are thinking something is wrong, but we have double or even triple layers of protection, right? So the traffic is still there in 20 minutes, 30 minutes.
+
+[00:20:10] John Wright: We updates, we update all the data historically. This is important here. Of course we message customers on many channels, but you know how to do it. We are all over communicated. So when it happens, believe me, paid media affiliates and operators, advertisers, because we are not only an affiliate tool. We have a couple of great operators working with that.
+
+[00:20:28] John Wright: They react in real time, right? Imagine something happens is usually Friday evening. So like my time here now, and it happens on Skype we had a, or Slack or telegram or, or not any, any channel. We have a massive communication, but we have process for that. Right. And no date data is lost. So these guys, they, and they, if someone is advancing affiliate tracking, paid media tracking and technology, they can realize it real time. And that that's their, well, the most important thing for them.
+
+[00:21:01] John Wright: You mentioned before about like, okay, what is volume useful for? Is it only PPC or is it for SEO affiliates? I'm assuming you've been working with some on the SEO side. So I want to ask what, why would an SEO affiliate want to use this? Is this more, do you think because of trust?
+
+[00:21:19] John Wright: Also.
+
+[00:21:21] John Wright: So we originated in paid media environment and paid media space. So that's the, the most integrations are for it and the vast majority of the clients, but as we are entering guy gaming industry, and this is our priority industry now, because we think that there is a huge, huge gap, which we, which we saw and we bring value to this industry, we are getting any purely SEO clients soon. We are speaking in the middle, mid, mid July. So in a couple of weeks from now, we will have a nice case study about one of this project, purely SEO, affiliate side comparison side.
+
+[00:21:59] John Wright: We, uh, with SEO and we are still researching it. We are trying to understand what's the exact value for the customer. So, uh, this is an ongoing project in volume, but it seems a trust be detailed tracking for keywords for placements for segments of the website. It could be done with Google analytics as well, but Google analytics are very powerful tool.
+
+[00:22:25] John Wright: Difficult to set up difficult to navigate. And it's not always a hundred percent reliable.
+
+[00:22:33] John Wright: Plus it doesn't connect with conversions and we have post back, right? With operators.
+
+[00:22:38] John Wright: That's a interesting insight. It's basically kind of going, can we, can we put more of an attribution on the pages that we know are ranking for keywords and you're kind of assigning a monetary value, because I think a lot of affiliates, especially in eye gaming, it is like, they usually like putting postbacks aside when they have a single tracking link, they're using it all across their channels. They use the same link for the newsletter, for the homepage, for the blog posts, for the review, for the comparison page, and they end up with no insights as to what's driving the value. And I think when it comes to keywords, it's kind of like, well, Hey, what is the keyword I'm ranking for?
+
+[00:23:15] John Wright: Can we put a, not just a cost to it, but can we put a revenue amount to that?
+
+[00:23:21] John Wright: So imagine now you're on the CO affiliate.
+
+[00:23:25] John Wright: You have links, separate links from every partner you drive and reporting on keyword sites of the page. If you use integration with Google Tag Manager, you see where, how far someone went with reading the page, right? How long they stayed on this page. It all real time. So not only for conversions, but on visit, unique visits, you see where the people are from, drill down to states, cities.
+
+[00:23:54] John Wright: That makes sense.
+
+[00:23:56] John Wright: Now talking about it from the operator's perspective, this is my opinion. And I kind of want to ask for your take on it. Um, you mentioned that operators, they've got lots of channels in which they can get traffic from, they can get SEO affiliates, they can get PPC. They can get PPC if they do it themselves. So they've got all these different channels, but I kind of wonder if the, um,
+
+[00:24:18] John Wright: it's only the top operators that have a business intelligence team. They actually look at this and they understand the value. They understand the costs associated with it because I was talking with an affiliate and he's frustrated that when he deals with his affiliate managers, that they don't understand the value that they bring beyond just here's the revenue and here's the FTD count. It's like, they just think that if they just get more of it, think good, but they're not even understanding like the impact that has outside of it from branding or, um, to even understand, it's like, I think most affiliate managers don't understand who's going to be the new player in one year from now based on simply put data.
+
+[00:25:00] John Wright: You're right. And affiliate managers, they, they are the, well, the soil of this industry, I would say, right? Because these are the people who would redistribute the budgets, right? From the, from the operators to affiliate.
+
+[00:25:15] John Wright: So they are very important and they are sales guys. Basically affiliate manager is a sales rep for, for the industry.
+
+[00:25:22] John Wright: Uh, I would say, and my background is I'm, I'm from sales. So I, I, I, you know, the thing that that saves people, they are not always text AB and in this industry with the tracking we see working with affiliates. We see the biggest gap on the affiliate manager level. We even have some projects ongoing with income access, a net refer, a, or a field card, because they are, they see the same, the same gap.
+
+[00:25:50] John Wright: So even if the operator, they have a server to server, uh, tracking technology.
+
+[00:25:56] John Wright: If you operate or has this technology, sometimes their affiliate team are not educated how to use it. What, what it means there is, we still hear this thing, like a server to server pixel, which is impossible. There's either pixel or server, server tracking, server to server. So the most important takeaway from this, from this podcast, there is no server to server pixel pixel is cookies, very favorite mode, right? Great thing is that, uh, when I was on the IGB couple of years ago, it was like a standard thing. I was not even correcting people. And now I don't hear it.
+
+[00:26:30] John Wright: Almost don't hear it, right? But the main thing for the industry is educating the industry, affiliate managers on, on this technology and why it's important and because for, for an affiliate, this is crucial.
+
+[00:26:44] John Wright: You can have the best product operator, great revenue, uh, structure, right? Commission structure.
+
+[00:26:52] John Wright: But at some point when you are paid media affiliate and you don't see your conversions and you are risking your budgets and you're just running blind with your campaign, there might be a decision to go with the other operator, not a great product, not as great commission structure, not so friendly affiliate manager, but with the data as it's safer for you.
+
+[00:27:12] John Wright: So, yeah, that makes sense. Cause it's a, like, I know we had these conversations in the background, which is a field manager approaches a, an affiliate and they know they make a lot of money, but they're PPC and that affiliate says, I can't work with you unless you have a quote back solution. So they take that affiliate manager and their company to you as basically a new client and they're just kind of like, I don't know what this looks like. I just know we need a postback solution. And I think this has been the nature of how you've been integrating more operators in the last year, if that's correct. Yeah.
+
+[00:27:48] John Wright: But I would say from our perspective, it's a bit different because when you work with operators, we work with their media buying team.
+
+[00:27:55] John Wright: So you said that operators, they have different revenue streams. User acquisition streams, they're happy in-house SEO, right? For branding and of course performance, they have affiliate driven acquisition, but more and more of them, they have their own paid media PPC teams.
+
+[00:28:12] John Wright: So they're, instead of outsourcing it to the affiliate only, they bring this competence in sometimes this is great.
+
+[00:28:22] John Wright: In some affiliate companies, we noticed that they built the programmatic team, paid media programmatic team around and former multi-vertical affiliate. Very often it is from dating or adult industry. If it's cross our MGA project, there's a lot of synergy, right? But this is happening also for the operator.
+
+[00:28:42] John Wright: So this aspect, like having server-server postback technology is more than by a field castle expert, network firm, my affiliate, income access and the other great platforms. Or there is random, right?
+
+[00:29:00] John Wright: Okay. And the backend, because there's also a problem on the bug office level. So the question is if it's well, B2B backends, right? Or if it's an in-house backends and if they are, if the backend is able to send server-server postback, there's a lot of integrations going on.
+
+[00:29:16] John Wright: But yeah, there's, there's still an educational gap. If we want to have the accurate data tracking and without it, we are wasting money. So imagine dollars being eternal. Okay.
+
+[00:29:30] John Wright: Wouldn't you say that a lot of operators, they don't really have a paid media department. It's like it starts first by getting affiliates saying, I can't work with you until I have postback, so they get a postback solution set up. Is this like the start of their paid media and what does this look like? Cause I'm assuming it's more white hat operators, they're, they're playing in the space because, you know, licensing and different media laws. And I'm kind of wondering, it's like, is the gray market just basically only reliant on gray market PPC affiliates?
+
+[00:30:07] John Wright: It depends. This is the best, best answer.
+
+[00:30:10] John Wright: So, and there are a couple of aspects here. So first of all, in the US, I've attended, we are a European company. We are going to all the European shows. So let's say the most important shows, but there's also some, some, so there are some changes happening in the US. I was on SPC this year in New Jersey, and I was on G2E last year. The first two gaming shows there. And I noticed that in the United States, the technology server. And so this is interesting because in US from one hand, the paid media in the
+
+[00:30:46] John Wright: society, in the art tech industry globally, multi-vertical are super dominant.
+
+[00:30:51] John Wright: For instance, most of it, Google and Facebook are from there and they're great in, well, in running campaigns and advertisements from the United States. But the iGaming site and technology sites, there are less advanced.
+
+[00:31:04] John Wright: Caesars, Draftkings, Funduol and other great companies, they have problems with tracking, post-bac.
+
+[00:31:12] John Wright: In gray markets, probably because it's more difficult, more competitive. They cannot go with Google and Facebook in many cases.
+
+[00:31:20] John Wright: They need to go with these other sources. So the gap between this multi-vertical appeared marketing, operating the server-server post-bac and iGaming industry, emerging market is smaller.
+
+[00:31:36] John Wright: But it's changing.
+
+[00:31:38] John Wright: Okay. That makes sense. I think that could be a whole other topic on its own. I mean, the whole PPC, grade market, affiliates, operators, but we'll save that for another day. Oh, sure. What are you seeing from your side of what you do and what volume does in terms of,
+
+[00:31:56] John Wright: I look at this as going, okay, what is affiliate marketing today? I think we've been very reliant on SEO, but paid media and performance marketing is taking a bigger chunk. And so it's almost like I think users are getting a bit dull with both emails because email, your emails are saturated. So it's all these alternative channels that are kind of coming up and becoming more prominent. Are you, are you noticing this with some of your customers that are coming through the door that it's not just the standard, here's my tracking link on my website or here's my link in the newsletter, everything else? Yeah.
+
+[00:32:31] John Wright: It's well, advertisement in iGaming and affiliate marketing in iGaming,
+
+[00:32:41] John Wright: it's getting more mature, more advanced, I would say. Complex. Complex as well. Right. But more, it's not so, so of course you can have great results with email marketing and with pop ads, pop campaigns. But these are not the days when you are spamming the visitors, right? With, with a dull content, you need to provide some value. So one of the solutions and it's not, sometimes it's not even SEO or paid media, the mixed, it's a sophisticated platform. We are a Polish company and there's a great affiliate project from Poland,
+
+[00:33:16] John Wright: educational, like sports betting, educational product, providing the
+
+[00:33:22] John Wright: competition within the platform for, for affiliate, right? So gamification, which is doing great. Providing education for, well, for people who play with, with sports betting and fun and entertainment. And it is monetized the, the, if they're not affiliate project, right? And they use different channels. They're scouting for other markets. So this is the response, right? But on the other hand, we still have successful projects on pop campaigns, especially on emerging markets. So in Africa, we're traffic super cheap or Brazil, Brazil was a great example. It's also changing now, especially the year with the licensing.
+
+[00:33:59] John Wright: But yeah, so it depends, right? There are more opportunities. There are more opportunities for sure. So it's not that only SEO, right? There could be push notification. You can buy apps and send push and they're great. Pushnami is one of the examples, but there are other companies with push notification, a platform which we can monetize. There's so many channels that just never runs. I mean, just think, even think about like Telegram as one concept. It's Telegram, Discord, streaming. Or affiliate sites, like, deep stairs, right? So imagine it's because there's influence marketing.
+
+[00:34:35] John Wright: So if someone has their, their Telegram channel and then they promote this Telegram channel through Google, Facebook, if they do it well, they can do it with no problems and they provide some value for the players.
+
+[00:34:47] John Wright: And then they monetize it with any type of license operators because the link, I find the link is on Telegram.
+
+[00:34:55] John Wright: What is it, right? SEO, content marketing, page media, but for sure it makes a degree.
+
+[00:35:03] John Wright: I have another question and maybe it's more of a conversational back and forth where I look at a lot of affiliate networks and my personal opinion, and I could be wrong, maybe there's other networks that exist out there, but a lot of them I think are not optimized on a lot of levels. Like how many affiliate networks have like S2S tracking or how many of them have deep business intelligence understanding their actual affiliates. So, you know, let's just assume that they're using, you know, any platform out there, like it could be trackier, it could be Everflow.
+
+[00:35:34] John Wright: So they're using these platforms and I just look at this going. I think there's so much opportunity for optimizing, like take an affiliate network, for example, even in the iGaming space, that when I sign up, I get access to a hundred different brands. I've got the bonuses and all that, which is great, but I get one tracking link, one campaign. It's kind of like, wait a minute. What if they gave me multiple campaigns to reverse engineer where my data's coming from or to take it to another level? What if it also included, you know, pixel or postback where I could get a deeper understanding, both for myself as an affiliate, but I think also for the network. Do you think there's a lot of either missed opportunity or a lot of
+
+[00:36:13] John Wright: optimization potential?
+
+[00:36:16] John Wright: Hundred percent smart links, the buzzwords here. Yeah. And Zahn, I mentioned that from Everflow. He told a bit, he explained it a lot, so I won't be repeating it, but smart links, one of the great ways of optimization, but I would even take a step back here. So we originate from this multi-vertical affiliate network oriented, affiliate marketing.
+
+[00:36:41] John Wright: So the affiliate networks are the main middlemen. So the standard years ago, standard setup with volume, there was there was that there was a propeller ads, let's say. So traffic platform, buying traffic from multiple publishers. Then there was volume in the middle of the main command center. There was affiliate network. Clickbank couldn't be right.
+
+[00:37:01] John Wright: There were the advertisers, right? That's the basic fact. So there are affiliate networks. They are our our advertisers. Let's call it that. In iGaming, we don't see many affiliate networks. There are affiliate programs. So I would start from creating affiliate networks in iGaming.
+
+[00:37:18] John Wright: Yeah.
+
+[00:37:20] John Wright: It seems like, yeah, it seems like that's on my side being in iGaming. It almost seems like there's more than enough iGaming affiliate networks, but I look at the ones that are on the market. I'm like, there's so much opportunity to grow. So your opinion is there's not enough of them compared to what you're seeing outside iGaming? If you go to the conference, this like affiliate world conference or affiliate summits, this great affiliate conferences, the main ones,
+
+[00:37:46] John Wright: you see affiliate network, you see more affiliate networks than advertisers. Definitely.
+
+[00:37:54] John Wright: If you go to IGB, Sigma, SBC, there are operators.
+
+[00:38:00] John Wright: So of course there are differences. There's different budget because operators and advertisers sometimes it's better not to have middlemen, right? Because you need to pay the commission and so on and so on. So there's a lot of factors. Yeah. But to answer your question, definitely in other verticals, there are much more affiliate networks than the advertisers, right?
+
+[00:38:21] John Wright: In iGaming, it's different. Yeah. So taking that concept a bit further, do you think there's like, I can't think of a company that does this and I'm sure there are ones that do this. But think about a company that does consultancy where they take your data either as an affiliate or maybe you're an affiliate network or maybe you're an operator and they just say, okay, we're going to try to find not just revenue leak where you're leaking money, but ways of optimizing your revenue. Can you think of any companies that do this? Or I'm just thinking this as a concept would double the affiliate industry for night.
+
+[00:39:02] John Wright: Yes.
+
+[00:39:04] John Wright: I don't have anything in particular besides the recommendation aspect here.
+
+[00:39:11] John Wright: But yes, there are some consultancy agencies, but in iGaming it's more about licensing. So it's more about starting your business. Yeah. And I guess it's a huge thing. If in the different like neutral e-commerce, which takes, right? Let's take e-commerce, the very basic thing. You open a dropshipping or even alleged funnel sales for Shopify. You don't need any license there, right? You just register a company and in iGaming you need to have. So probably the consultancy business is focusing on something else. There is a lot of services for SEO.
+
+[00:39:49] John Wright: Some of them they do consultancy, but in terms of this end to end optimization, optimization of the, of the, well, your revenue channel, I would say from our
+
+[00:39:59] John Wright: perspective, I think I've actually maybe heard one example where someone told me that they did this as a, as for one affiliate, they basically built a BI channel.
+
+[00:40:08] John Wright: Okay. So it might exist, but it seems rare because in the SEO space, this is everything we'll audit you, we'll do consulting, we'll optimize. I mean, it's the name search engine, optimize eight. We don't have affiliate optimize eight. I just think it's a bit crazy.
+
+[00:40:25] John Wright: But because the thing is one thing to build your tabs or dashboard, right? One thing to generate data chart, which might be great. But another thing is to have this business development perspective to see where are the gaps where you can extra monetize and so on.
+
+[00:40:43] John Wright: And something we have to work on. Yeah. I mean, we need time. So the time is the, the best medicine in many cases. And if we understand, if we define the pain point as lack of the media buying experience and knowledge in iGaming industry, which is gap, then the time and presence of companies like ours, but also they're different great platforms. I will tell again, whether or not exactly traffic junk, you add stereo click, I do and so on, and so on, and so on right there. And many more, even though, and I could name and name others, of course, they are the publishers, right?
+
+[00:41:21] John Wright: But they also have some, some perspective.
+
+[00:41:26] John Wright: I just think there's a lot of future business to be had in this space on the data side. So pretty exciting where, where we sit. So I want to pivot, you touched upon this earlier, but what do you think is missing in the world of affiliate marketing today, whether it's tools or knowledge? And it goes without saying, I'm definitely going to be linking to a couple of articles from volume. I've, I've read some of those articles on postbacks and all that. There's some good stuff there.
+
+[00:41:53] John Wright: Thank you.
+
+[00:41:54] John Wright: So yeah, education and technology. So first, not everyone has the technology.
+
+[00:42:03] John Wright: And if they have the technology, not always, it is, there's always, you know, this adaptation, right? The adaptation of technology. So that's the, that's the, that's the main challenge. And I think, well, and besides of that, for sure, there's a space. So if someone is in less than a software company and wants to start a startup,
+
+[00:42:26] John Wright: there might be a huge gaps, which software technology could solve in iGaming industry. I don't have any idea. Server SEO, right? And similar companies. I've heard their friends from Poland. They, they last year, they got an award for the best scaling startup, very small startup.
+
+[00:42:42] John Wright: And in the US, not only in iGaming, they are very well known, right? And they put a good company.
+
+[00:42:52] John Wright: I wouldn't call them a small startup anymore. They are. I mean, from the perspective of our startup environments, they got the award for, for like the rookie, I mean, there's a, there is a meetup for, for startups, and like for those small startups, let's, let's call it. And yeah, because we have in Poland, we have a very interesting startup environments for globally for software.
+
+[00:43:14] John Wright: Okay. I've got two more questions. And one, I didn't put in the notes, you know, just going back, but can you think of a time that you've been with volume where you've seen like a, a case study or a data report that just kind of blew your mind as to like, wow, this was so insightful. Um, you know, whether it's like, this is how much money that's missing on the industry or something like that. I'm trying to come up with a case study here.
+
+[00:43:43] John Wright: Of the clients.
+
+[00:43:47] John Wright: Because they could be anything, but yeah, but something that you're allowed to share without obviously giving away a confidential.
+
+[00:43:53] John Wright: We are, we volume, we are very, the sacred thing is the client privacy and we are very serious about it.
+
+[00:44:03] John Wright: So no chance I would even split some, some, you know, things, but there's one thing it's not, it's not a single case, right? But let's take for great market, especially there's pop push, this day advertising, adult traffic, right? And it's cheap depending on the quality, right? It was adult. It's quite cheap. It's not great quality. It doesn't match Facebook. We will know, know, not at all, but it's cheap and well-optimized, especially on CPM, it's super profitable.
+
+[00:44:36] John Wright: And when I'm attending guy gaming conferences, I hear from some time to time from a field, mostly from affiliates, sometimes from operators. Yeah, it doesn't work. I tried. It doesn't work. It's crap. It doesn't make sense. And then I checked the, I work with, I have a consultancy call and my clients shows me the, his account. I see they are doing this exactly campaigns in iGaming and they are super profitable.
+
+[00:44:57] John Wright: So this, this blows my mind, right? Because like you are, you know, in between, right? It's like a funny situation when someone is telling you like the, the, the white is black and black is white, right?
+
+[00:45:09] John Wright: Yeah.
+
+[00:45:11] John Wright: That's that the case. But again, it all comes down to optimization to know how to do it. Because if you're on Facebook and Google, simple, it sounds difficult when you, when you start, but it's super simple compared to compared to optimization or on programmatic, where you need to allocate your budgets very precisely in real time.
+
+[00:45:29] John Wright: And it's almost all the same for CPM. Right.
+
+[00:45:33] John Wright: So I like that answer because it's like, I know there are countless stories of people that when you hear these at conferences, you're like, I want to start asking these questions on the podcast, just to kind of get these stories out to make people go, wow, like I'll give you my, my own personal story where, um, I took a course on data views two years ago, had no idea what I was doing. I was like, let's just do this because I need to, I need to build up my skillset. So I learned Tableau and I took data from my own affiliate account. Again, I had, I had no idea what I was doing. I was just like, I'm put this data in here. I'm going to keep messing around until something happens.
+
+[00:46:09] John Wright: And sure enough, I generated like 10 different pages of data views. They're all very insightful, but one made me think about affiliate marketing in a different way. So I took one account and I had all these campaigns and the brands. So I plotted every campaign, uh, revenue by click. So you have this little chart here and you have, it's a plot chart and everything should be grouped in a relatively straight line, except for one of them was way off in the corner. And I said, Oh no, one of them is really good. And one of them is really bad. And I don't know which. So I isolated two campaign. Both campaign were the same offer different landing pay.
+
+[00:46:47] John Wright: One converted five times better than the other one. So I looked at that underperforming campaign and going, wow, this brutal. And I asked that affiliate manager, I won't name the program, but I said, are you like, can you, uh, collaborate that you're seeing this on your site? And he didn't even know how to look at the data. I'm like, okay, this is terrible. It's like you have all this data, but he couldn't even do an SQL lookup or anything just to be able to understand that. And I said, here's what I've got. And I'm a small sample. Are you seeing this across your entire platform? Because if that's true, you should be able to take all of your under optimized pages and optimize them.
+
+[00:47:24] John Wright: And I believe one concept, like how much more money can we make an affiliate market up? We just took every landing page and said, okay, can we get 10%? I think it's more than 10% increase in paid media. There's a different question, not how more, how much more money you can make, but how much money you are burning. Yeah. And you know, from, from psychology that the loss more painful than the, than the gain, right? And because in paid media, this is their, this is the famous saying, uh, the quotes that have of the money spent on marketing is lost wasted. You don't know which one, right? Which hub.
+
+[00:47:59] John Wright: And that's the, then this is the technology, right? Technology companies. And I don't expect operator does it, right? They can be a B.A. team, of course. But why don't they outsource it? Why don't there, there are consultancy companies understanding data, auditing data, right? And I same like we outdid licensing.
+
+[00:48:16] John Wright: So there is a huge, another business idea for someone, right? So it's given tabular power BI and other platform, or even the simple thing. You can have great data, but there's a huge kill set of visualization of this data. There's this great book storytelling, uh, by numbers. I feel I don't remember the name, but there's there's. The Kevin Hartman.
+
+[00:48:38] John Wright: Yeah, I think so. Yeah.
+
+[00:48:40] John Wright: So the first guess of this podcast too.
+
+[00:48:44] John Wright: That's the course I took his course.
+
+[00:48:47] John Wright: So yeah, so that's the thing, right? So there's a lot of same in sales. Let's take a step back. Feed it manager.
+
+[00:48:55] John Wright: Very important person on this in this industry and the sales training, right? So how much more revenue they can do. He can do for himself. He's on commission, right?
+
+[00:49:05] John Wright: If there's a proper sales consultant for gaming.
+
+[00:49:08] John Wright: For operators and affiliate, right? Affiliate they also have sales B2B sales.
+
+[00:49:13] John Wright: So I'm going to share a quick opinion, which is I think the people that have more experience in performance marketing, they care about these things. So they are going to look at the data to optimize landing pages and tracking link. I think this is going to be the part of affiliate marketing in the next five years, that's going to push the entire industry for, what do you think about that?
+
+[00:49:32] John Wright: Definitely. I would say, and so for affiliate companies, I don't know what's matter about operators who still have more relationship with affiliate than the operators.
+
+[00:49:44] John Wright: But definitely I see that small, but also the main, the public company, affiliate companies, they bring talents from different industries, from different backgrounds and these talents, they are helping them with, so sometimes we have this problem to volume competitors are Google analytics in some sense, Tableau power BI, we are complimentary. There's a different viewscape, but if someone has a great tableau oriented dashboard, we may not fill it up because his gap is quite small, right?
+
+[00:50:16] John Wright: We can still provide some value, but that, that, okay. So, so that's why we are collaborating, embedding some Tableau solutions in volume and so on. They'll see that's their response, right?
+
+[00:50:27] John Wright: So yeah, definitely. And there's also the AI topic, right? So when I was on SBC, New Jersey, there was a lot of technology companies. There was AI, there was like technology for, especially for regulated markets, RG AI based responsible gaming solution.
+
+[00:50:44] John Wright: There will be a lot of tension, noise and disruption, right? Yeah. Distruptive times.
+
+[00:50:52] John Wright: It'll be fun. Well, thank God we got the AI mention in there. We spent most of the whole show without talking about AI.
+
+[00:51:01] John Wright: Without that it won't be valid. That's true. So with or without AI, putting that aside, last question is what do you see with the future of affiliate marketing as it intersects with business intelligence?
+
+[00:51:15] John Wright: I need to use another, it's a job, but another buzzword metaverse, right? There's also a metaverse to mention, unfortunately not, but being serious.
+
+[00:51:23] John Wright: Well, in terms of the relationship of affiliate managing and affiliate industry and BI, right?
+
+[00:51:31] John Wright: So I would say in AI gaming, there was affiliate marketing with no BI.
+
+[00:51:38] John Wright: And now we're slowly, slowly starting having some.
+
+[00:51:42] John Wright: The gap is still there. We don't expect it to be solved over rights, but it will be more, I expect that the compresses, there will be more panels. We for certain want to do some educational efforts, some efforts here, but there will be more content, more awareness in terms of tracking BI data. And so because data driven decisions are everything.
+
+[00:52:15] John Wright: I agree.
+
+[00:52:17] John Wright: That's so true. I mean, since COVID all of us B2B companies are now becoming more exciting and interesting, like I'm sure you've seen this in a short period of four years where it's like, okay, it's the tool we need. And now it's like, they want to talk to you and they want to ask you questions.
+
+[00:52:34] John Wright: I mean, the thing is you guys hear the type of very important perspectives.
+
+[00:52:38] John Wright: AI gaming is still a huge landline.
+
+[00:52:45] John Wright: Especially in the US. So there is this tension between AI gaming, not AI gaming, right? Yeah. I'm sorry.
+
+[00:52:54] John Wright: Land based gaming. Land based gaming, right? I see no end sports, but so this is still bricks and mortar business everywhere. Right. But in many, many countries or some hybrid online and offline activities.
+
+[00:53:10] John Wright: So there is different perspective. If you are bricks and mortar business, there is different, we call it BI. Not a BI, but there is different technology in your sports machines. There is also not best technology.
+
+[00:53:22] John Wright: But there's, yeah, this is, this is a huge difference compared to this
+
+[00:53:28] John Wright: 100% online traditional affiliate marketing. Like e-commerce cannot be offline, right? Autology.
+
+[00:53:37] John Wright: This was a great chat. I've always enjoyed chatting in the background and seeing all the things we can do together. So I want to pass it back to you. How can people get ahold of you?
+
+[00:53:47] John Wright: Yeah. So LinkedIn, I'm on LinkedIn, Marching, Komega. You see, you can just copy paste it. I think LinkedIn is the best channel.
+
+[00:53:56] John Wright: Or if you own aprovedvolume.com, also here, I see it here.
+
+[00:54:01] John Wright: Then you can chat with, well, you can just send an email and I want to have a call with Marching. And we have a great team and they will connect with, they will get a pick at the next day or two days you have a chat.
+
+[00:54:13] John Wright: I mean, for those that don't know volume, it's a pretty intense tool, but it's very impressive. It's really cool. When I first went through a demo, I was like, wow. You think, you know a lot about affiliate marketing and you're like, there's more to learn.
+
+[00:54:27] John Wright: You're right. We have a huge project in terms of let's say simplifying the UI and making it more intuitive because we are very advanced platform.
+
+[00:54:37] John Wright: And sometimes there is this steep learning curve. So we put in a lot of recently. We have a very nice feature. We are still upgrading it. The quick start guide, right? And we are making a whole wizard and user journey because that's the case when we used to work with multiventric affiliate marketers, they would disguise that they can code themselves. They are literally that they can build their own. Con scripts and technology by nine gaming, which is leaks and mortar, difference, bug, different, different story here. We need to make it more intuitive. We need to make our platform more accessible and more practical.
+
+[00:55:15] John Wright: And at least they're coming to you for the reasons where they're like, if we don't do this now, it's, we are going to be a step behind. So it's, it's changing. Yeah.
+
+[00:55:27] John Wright: Thank you so much for doing this. Thank you, John. It was great, great fun. I hope there was also some value for, for the listeners. If I were one of them, I would have some nice business ideas out of the spot. Maybe. Yeah.

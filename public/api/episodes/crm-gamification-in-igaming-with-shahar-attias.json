@@ -1,0 +1,642 @@
+{
+  "id": "crm-gamification-in-igaming-with-shahar-attias",
+  "slug": "crm-gamification-in-igaming-with-shahar-attias",
+  "show": "Revenue Optimization with StatsDrone",
+  "host": "John Wright",
+  "title": "CRM & Gamification in iGaming with Shahar Attias",
+  "guest": "Shahar Attias",
+  "url": "https://revenueoptimization.io/ep/crm-gamification-in-igaming-with-shahar-attias/",
+  "pubDate": "Tue, 14 Jan 2025 11:16:00 +0000",
+  "duration": "42:25",
+  "audio": "https://media.castplus.fm/8py7xy4w.MP3",
+  "guid": "p0kpnjm1",
+  "description": "Meet Shahar Attias who's the founder of Hybrid Interaction which they are CRM and gamification experts. \n\nI came to this convo expecting more chat on the CRM side but realized gamification is where I think iGaming and affiliate marketing can make bigger strides for growth and revenue.",
+  "has_transcript": true,
+  "socials": {},
+  "transcript_url": "https://revenueoptimization.io/api/episodes/crm-gamification-in-igaming-with-shahar-attias.json",
+  "transcript_md_url": "https://revenueoptimization.io/ep/crm-gamification-in-igaming-with-shahar-attias/transcript.md",
+  "transcript_markdown": "# Transcript\n\n**Show:** Revenue Optimization with StatsDrone\n**Episode:** CRM & Gamification in iGaming with Shahar Attias\n**Host:** John Wright\n**Guest:** Shahar Attias\n**Published:** Tue, 14 Jan 2025 11:16:00 +0000\n**Duration:** 42:25\n\nSpeaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.\n\n---\n\n[00:00:00] John Wright: One thing that is very easy to miss and it actually sits on the border between acquisition and retention is conversion. So if you do not focus at a client that enters your store, walk to your cashier with all the items in the hands, put it on the shelf and just cannot find the pocket with the wallet, you're doing something or with such solution you can detect, count, automate, trigger a solution, offer a bonus, start a chatbot, do as long as you do anything.\n\n[00:00:35] John Wright: Now, again, to tell you that this will double your conversion rate, no it won't. But imagine having 10% more within the first 10 minutes, that's a lot of thing. I'm John Wright and you're listening to Affiliate BI, the Business Intelligence and Affiliate Marketing podcast brought to you by Snapshot. Welcome to the Affiliate BI podcast. Today we're chatting with Shahar Otias. We're just practicing a pronunciation of his name. He is the founder of it's Hybrid Interaction Limited, which he has an amazing t-shirt that I personally want.\n\n[00:01:13] John Wright: Shahar, welcome to the show. Thank you so much for having me with me. Okay, so we have almost no agenda here. I know you as the CRM guy. So we're going to talk a lot about CRM, but we just had a couple chats before recording. And it seems like there's a bit of maybe confusion of what CRM tools are on the market or what CRM is. So I basically said, I think CRM tools on the market are like OptiMove and FastTrack. And you said, not quite. So I just wanted to know if you can dive in a little deeper. Tell us what the space is and what are we missing today? So, CRM, customer relationship management, yes.\n\n[00:01:50] John Wright: But this term is being so widely used, it could cover pretty much anything that has to do with managing clients in a way. CRM could be a tactic, a strategy CRM could be a tool, a technology. When we are discussing the platforms of the world, then a classic CRM would be a Salesforce. It's a technological solution that is geared to manage your customers and also follow only\n\n[00:02:23] John Wright: and ensure that the one on one bay of customer support and whatever other units that speak directly with your clients can follow on the notes. They can plan ahead, they can write call summaries and all of that. These functionalities being delivered in vast majority of the cases in our industry by what we call platforms or the PAM, Player Account Management.\n\n[00:02:59] John Wright: OK, these would be the softwares of the world, the large B2B that has the biggest boots across all the conferences. So the gig would be an excellent example. OK, it's a standalone B2B solution that once you sign a deal with them, they provide you with all kind of bricks that all together establish your iGaming offering. One of them is the backup where your players reside. So players are the accounts that are being made by this solution.\n\n[00:03:35] John Wright: There are there's a new market that grows rapidly in our industry. It would be the marketing, let's call it automation solution. OK, some of the biggest names would be the Smartico of the world, Optimal, Jens Solitix, the Fastrack, Xtreme Push. There are some non-gaming first solutions that are also being good. They are also quite popular like Custom stereo, like braids, like MERSIS.\n\n[00:04:06] John Wright: OK, all of these provide an additional layer that offers some form of marketing automation, some kind of a brain that sits behind everything and is connected. It reads data from the games, from the back office, from the wallet, from the website and can project or trigger messages that will be sent out across our communication channels. Email, SMS, pop-up, push notification, doves. OK, so everything that's possible.\n\n[00:04:42] John Wright: And you can create some sort of an illustrated user journey and tackle scenarios with desired response. That's what we do actually in hybrid interaction. We operate these solutions for clients. OK, so we are considered to be the power users of all of these solutions. All of them are good friends. We are certified across all of these technologies and we keep close contact and they talk with us about the visuals beforehand, all kind of development.\n\n[00:05:18] John Wright: And we operate it for clients. So any operator would be crazy not to use any of those solutions that sit on top of the PAMs. It's not being crazy. It's being actually in today's market. If you don't use these capabilities, you are stuck with the revenue stream that is suitable for the early 2000s. You cannot upsell opportunities on the floor if you don't use such capabilities. I'm not saying that you need to use any of the names I've said.\n\n[00:05:57] John Wright: I'm not saying that one of these names is better than another. I'm saying that the opportunities exist. These delicious provide excellent countermeasures to deal with. I'll give a very simple scenario. A player that has deposit on last week, last month and hasn't logged in yet. Why didn't you know? So instead of going for all the list of players daily, you can simply set a trigger and automate them a message.\n\n[00:06:30] John Wright: Or if it's a large enough player, automate a little bit, that somebody should go and knock on the door. A question I have that I don't know if you'd have the answer to. How many casinos do you think don't have these solutions? Because what I'm trying to get an understanding is what is the whole market today? Like we have a database of close to 4000 brands that exist. And we know there's tens of thousands, if not more. Like all these getting a white label is pretty easy these days. So it's just I don't know, is it 50% of the market? Could the entire industry be doubled over in revenue if we were to just click these add-ons and say,\n\n[00:07:07] John Wright: hey, we're going to now finally optimize this poor user journey? I'm not too sure that I wish I could promise my clients to double the revenue. Level of understanding CRM has grown dramatically over the past decade or so. In today's world, we are optimizing. Now, optimizing means a lot of money. But it's not that big. We're just making sure that as little opportunities as possible are left on the floor without being touched. So what we bring to the table is best practices when it comes to tackling this,\n\n[00:07:47] John Wright: providing our clients with what we know have proven to be working solutions to such scenarios.\n\n[00:07:59] John Wright: How many casinos do not use it? I would actually say that the most do not use it. With some of the platforms, they provide their own tools and they refuse to integrate additional ones. So you're stuck anyway. With the others, there is an entry level cost. Some of these solutions are expensive, some are more expensive. There is a threshold that you need to pass. Not every little casino can afford it. And don't forget that this doesn't go as far out of your HDR or profit.\n\n[00:08:38] John Wright: It goes from bottom line cash. And that's, of course, an issue. I would think that within regulated markets, probably we're looking at about high outside of regulated markets. I would be surprised if it's 25, 20%. I'm referring to what I believe are the, again, gaming-first marketing automation solutions that are standalone. Some of the bigger voice, some like Red Rectix 5, for example, they are using a standalone solution.\n\n[00:09:17] John Wright: I'm not mistaken, that's all. But companies like Fandules and Dintaine, they have so many divisions. And I don't think you can say that they are using a specific tool. And in some cases, they have their own solution that they have developed internally. Is it as good as a standalone tech? It can never be, because these guys, that's what they do for a living. So they keep updating it and they're making it better and more sophisticated and offering additional functionalities. But can it cover 20% of the cost, 80% of the salam? Yes, of course.\n\n[00:09:56] John Wright: But that would make me think that if I'm Bet365 or if I'm Fandule, I'd want to look at any of these companies and go, which ones could I hypothetically buy? They're probably not going to be cheap to acquire, but there's no reason not to do this. If you're Fandule and you do this in-house, that's one thing. But if you service a lot of customers, it's going to you as a consultant, because you get to work on so many different projects, you become a bigger expert from your experience. Thank you. Yes, buying one of these companies could be very expensive to me, but I'm not an affiliate like you.\n\n[00:10:32] John Wright: I assume that one of the bigger boys, they can buy any of them, all of them together if they want to. The question is, is that part of the business model? Do they want to do only? And by the end of the day, if you buy a company that lives out of perfecting a wide area of companies, you will actually kill the creativity by putting them under one client, by buying the tech and doing just that.\n\n[00:11:08] John Wright: Then again, also I can fully respect the fact that any of these companies, since when you work with marketing and commercial solutions, usually you pay by the active players per month. Then if your last name is 365, then that's a lot of money to pay every month. Probably the company will every month for something like that. I don't know how to resolve the financial angle.\n\n[00:11:41] John Wright: I can also respect the fact that they've reached these status by not having any of these solutions or having me as their consultant. So they are probably doing something right. I'll try to be a bit modest. Let's continue. I'll throw the cheap comment out there. There's a lot of companies that think they're the hottest thing ever created. No, we don't need your help. We're the best. You're like, okay, stay that way. Correct.\n\n[00:12:15] John Wright: So there are these as well, but again, there's probably a good justified list that can say that and still be correct. Yeah. Okay, so I got a question. I don't know if you can answer it properly, but with some of the clients that you've taken on and you've onboarded any of these solutions, what's some of the best, the biggest wins you've seen for improvement? We have tools that can help with the acquisition and retention. Have you seen like player values? I don't know, double? Like what are some of the things that you typically see as a selling point to be like, hey, if you're not using these tools, this is what you can look forward to.\n\n[00:12:54] Shahar Attias: One thing that is very easy to miss and it actually sits on the border between acquisition and retention is conversion. Not too many people, but roughly 50% of the conversion happened within five to eight minutes. Okay. So what that means is that if you see on your website, somebody who is still logged in after, let's say, seven minutes, if you do not proactively assist this player to deposit, to make the first deposit, you're kicking the customer out of your store.\n\n[00:13:33] Shahar Attias: That's the only way to look at it.\n\n[00:13:35] John Wright: Yes.\n\n[00:13:37] John Wright: Some, all in all, it's going to be about 70, 75% for the first 24 hours, and then another 10, maybe 15% the following day. And the rest is just a very long, unimportant day. So if you do not focus at a client that enters your store, walk to your cashier with all the items in the hands, put it on the shelf and just cannot find the pocket with the wallet. You're doing something with such solution.\n\n[00:14:11] John Wright: You can detect, count, automate, trigger a solution, offer a bonus, start a chatbot, do it. As long as you do anything, okay, you can't have the pay. Hey, today only we have whatever. There you go. Now, again, to tell you that this will double your conversion rate, no, it won't. But imagine having 10% more within the first 10 minutes.\n\n[00:14:41] John Wright: That's a lot of thing. That's a lot of money. Like, regardless of who you are, that's a lot of money.\n\n[00:14:49] Shahar Attias: Yeah, I agree. What do you think about tools like Greco for bonus abuse? Like there's, like we mentioned some of the CRM ones. I know there's other ones that like you either are saving money or stopping to lose money or gaining money or optimizing, improving revenue. I know there's other companies like ThrillTech that add jackpots and they help player values. What do you see on the market that you think people should be aware of? I think Greco has a very interesting niche. Good people, no wonder first of all, so heavily involved with them because it makes sense. They bring something that adults don't. So, good for them.\n\n[00:15:28] Shahar Attias: I coming from the guy who spread money to players, I'm way more focused on gamification and additional solutions that allow to increase short term gratification. Okay. So, will that build your brand loyalty? No, it won't. Okay. Will that win back players? Okay. Potentially.\n\n[00:16:02] Shahar Attias: Could you extend the current gaming session by another 10 spins? Very much likely, yes. Okay. Now, does this make sense for you to invest in a gamification solution? Okay, like the engine that Smartico brings to the table? Absolutely. Okay. Absolutely.\n\n[00:16:25] John Wright: And there are others as well. We happen to work with several of their clients and the results that we see are the pick up rate on players interested in missions and the rest of the functionalities. Absolutely.\n\n[00:16:43] Shahar Attias: It's actually too good to be with the numbers that are like...\n\n[00:16:49] John Wright: What the hell have we done two months ago before we had it?\n\n[00:16:53] John Wright: Were we even doing the conducting the same level of work? No, it's completely different. A highly recommended gamification is definitely having its way back to the industry after it used to be limping several years ago, but now the technology allows it to be what we always fantasize it to be.\n\n[00:17:18] John Wright: Yeah. Now, we'll definitely touch upon that. I had a question about how do some of these CRM tools handle VIPs? I'm assuming that you have to treat them very different and you got to be...\n\n[00:17:30] John Wright: I don't know. Is it ultra careful how you deal with them? And then I got a second part question, which is what if this VIP player wants to chat with some random chat tool? They don't like email, they don't like phone calls, but they're like only Telegram.\n\n[00:17:46] Shahar Attias: Okay. Let's assume that you are a VIP.\n\n[00:17:50] John Wright: So what's your favorite communication tool?\n\n[00:17:54] Shahar Attias: I don't care. I use it.\n\n[00:17:58] John Wright: There are two things. First of all, with VIPs, same as with other segments, such for marketing automation solutions allow you to not leave unattended scenarios on the floor. Okay. So yes, the value of each player is different and they're such you want to be way more precise. You want to be way more cautious because if a VIP has deposited in a month, go walk. But if a regular player has deposited in a week, then hey, what's up? If a VIP has deposited for a week, then we need to have some serious talk. It's different.\n\n[00:18:36] Shahar Attias: You need to address every scenario differently. Okay. But by the end of the day, because we are talking about a segment then in we internally, we have a very aggressive way of segmenting VIP on a dynamic level. Retreat the portion that delivers half the revenue. Okay. Is our VIPs. Usually we are ending with between half a percentage to let's say two and a half percentage of the active database. Okay. So that's not a lot of players, but these players, you know, you cannot lose them.\n\n[00:19:16] Shahar Attias: We'll have the assigned account manager will have very constant daily review of activity. We will try to strike direct communication, although in some cases they don't want to. And that's of course their decision. But if they do and they prefer to use the Skype, which is equivalent to facts. I hate Skype. Affiliates like Skype. I know that. I know that. That's true. I hate it. It's just not a very good tool. The problem is, for example, with WhatsApp B2B, you cannot use it in gambling operations. Okay.\n\n[00:19:53] Shahar Attias: There are engines that allow some form of using telegram or signal or whatever.\n\n[00:20:00] John Wright: It's not that important. Whatever tool that you use as long as everything is being monitored and tracked\n\n[00:20:07] John Wright: be into the what, how do I make my next decision regarding this specific player? In many cases, it's not that dramatic. Okay. It's the list of instant communication tools is very, is very limited.\n\n[00:20:24] Shahar Attias: Okay. It makes sense.\n\n[00:20:27] John Wright: So I got it. I'm getting a lot of ideas of what I can apply from your experience into what we do as a SaaS company. When I've studied gamification, I think there's a lot of documentation that says the video game space has done gamification very well. It's almost like that's where it was perfected. What other industries do you think do it well? And if it's no one else other than video games, what are some of the things that you think are interesting that are either being copied over into iGaming or what's cool that people should know that exists today? I believe that one of the most engaging gamification that I'm aware of is gaming. I'm okay.\n\n[00:21:06] John Wright: I'm addicted to it.\n\n[00:21:08] John Wright: But this slogan of beat yesterday is exactly that. And that's what makes me get up that proportional ass of mine and just take it outside and move pretty much daily because I need to meet a certain target and I need to earn that badge. And I don't know how they do it, but they do it very well.\n\n[00:21:32] Shahar Attias: The classic airline, AirMiles model, it's not that relevant to gambling. I'll explain because we have a lot of time. The problem with especially with online casinos is what we call bragging.\n\n[00:21:51] John Wright: Do you play poker?\n\n[00:21:53] John Wright: I used to. That's okay. If you've played once, probably you're better than me. I'm a horrible poker player, but not bad. I just told you more poker.\n\n[00:22:03] John Wright: I can say for a fact that poker is a game of skill. And if you're a good player, then if we play one hand, yes, maybe I'll get lucky. And I'll have good car. If we play for an hour, probably I'll leave with you wearing that shirt. Okay. In poker bragging has a lot is embedded within the type of the game. And also it's very male dominant, which we know what we are less small.\n\n[00:22:32] Shahar Attias: Sorry, not sorry.\n\n[00:22:34] John Wright: In poker having an hierarchy, okay, of I'm at that level. That means that I'm nearly different and better than you because you're at that level. Okay. Allows me to brag a lot and I want that tournament. If I want the tournament on that website, they've sent me a present. I can show it very and brag about it because the website doesn't care with them. Just like I just won the tournament on their website. So that sent me something, but they don't care because they don't have money off me. They don't money for the gay. Okay.\n\n[00:23:12] Shahar Attias: Say with you casinos, exactly the opposite. I'm playing one because you know, I don't care how many more players are playing wallet. If I'm losing the casino, not to them blackjack slot and the slot. Okay. It's me. It's one on one. Also, if I'm, if I'm bragging about being a large casino player, I could be missing the fact that perhaps I'm also losing a lot of money. There are less bragging rights in this regard. Meaning going and saying that I'm platinum on casino. John might deliver the wrong message.\n\n[00:23:50] Shahar Attias: Now it could be that indeed I just won a lot of money and I turn it over again and again. And as such, I'm very large player. Okay. But let's just say that you wouldn't have opened casino. John because of players like that having a status to strive for it debatable. Okay. Plus there are so many, there are so many different rewarding mechanism that I can give to different tiers. So as such, if I want to make it really count, then I can do level eight and then\n\n[00:24:28] Shahar Attias: level B can be better and level C is significantly better. And I'm stuck like that's it. I don't have a lot more to give publicly. Okay. Lost with if I'm trying to adapt the airline model as it is, I'm stunned. There are ways to resolve that. We introduced some sort of hybrid interaction models.\n\n[00:24:54] John Wright: There are ways to resolve it. And also gamification helps a lot because with gamification, I don't focus right now in this approach. Okay. As we speak at the moment, I don't focus on what status you're going to get by mid year. I'm focusing again, your next 10 speeds. Okay.\n\n[00:25:17] Shahar Attias: That's interesting. It's, I think we have gamification everywhere, but you must see it everywhere you go. Like you just highlighted a couple of examples. I was like, oh yeah, like I've got a Fitbit. So it's, it's totally gamified how I look at not just time, but it's my steps in sleep and everything it's there's a lot of really good examples. And I never even thought about it as the reverse. That was a good example. Poker versus casino. One you're bragging. The other one it's you got to take the brag element out of it and say, maybe you're getting a cashback or maybe you have a VIP manager. That's your customization.\n\n[00:25:52] John Wright: And that's a huge discover. Most of my tools.\n\n[00:25:56] Shahar Attias: Awesome.\n\n[00:25:58] Shahar Attias: Okay. Then obviously we haven't shouted too much about chat bots, but like these must come into play, like you've got the potential for any casino to get thousands of players per day, and then sometimes you're going to get the really high quality one. What are we doing about this? Are we doing chat bots with AI? Are we doing fake chat bots that are looking like real people and talking to you, but are still AI? Do people want more real people? Like where are we at? There are some good solutions. You must remember that unlike e-commerce or any, let's say, info, like governmental\n\n[00:26:36] Shahar Attias: sites or whatever, the customer value in casinos is much like a bank. Very large. How much are you willing to invest in the potential loss of a lead? Okay. That's the question. And, and in some cases, the answer is no, I don't. So I'm an advocate of utilizing AI for processes. Okay. Like a solution for the beginning of a chat when it comes to proactive measures, post\n\n[00:27:11] Shahar Attias: registration, ensuring that, that they have everything I need for compliance and for such. But when it comes to marketing, even though most of the question, the our inside job is that players have only two questions is, where's my money?\n\n[00:27:30] John Wright: Where's my money? Can I get more money?\n\n[00:27:34] Shahar Attias: Even though most of the question will repeat themselves again, you put a salesperson to answer this and the verse, the nature of the discussion and do something else.\n\n[00:27:49] John Wright: I keep saying that in most of the companies, the best salesperson will go to affiliate account management management. Why? Because that's traffic. You want to ensure to retain the better affiliates. You want to make good impression on the, on the listings and be positioned higher and all of them.\n\n[00:28:07] John Wright: I think that the best salesperson in the company should be the VIP manager.\n\n[00:28:12] John Wright: And that when the CEO enters the office in the morning, they should go to the VIP management room, thank them for existing and ask, what can I do for you today? Because that's the person that deals with the dozens of players that inject half the revenue of what went through the, the casino profit today. Acquisition is of course, I can say it's equally important because you cannot have one without the other. Okay. I'm just thinking that with affiliates, the level of sales and negotiation is just\n\n[00:28:46] John Wright: different versus how can I detect the loop in which I can get and increase my percentage of wallager with this whale of a player. So I got another keyword, like I'm writing down all these keywords and I'm like, okay, we got gamification. We didn't talk about personalization, but we touched upon it. We got chat bots, uh, CRM obviously. And then one, because I'm in the SaaS space is I don't hear the word customer success quite often, but is customer success just like a collection of all these best practices done, right? What's customer success for CRM? Right. As a B2B company. Yes, we do have our own customer success.\n\n[00:29:26] John Wright: That's why we have our training processes as long as, as the list of expectations of anybody else.\n\n[00:29:36] Shahar Attias: When we have our project managers starting to handle the clients, okay, they are already after managing behind the scenes, double digit number of\n\n[00:29:51] Shahar Attias: clients. We're supporting senior project managers. That's a lot of time. That's a lot of efforts, but we, again, we're a very small boutique agency. We cannot have clients not being happy with us. So we must ensure that they control all the tools and they know how to trade an account.\n\n[00:30:11] John Wright: That's our customer success.\n\n[00:30:13] Shahar Attias: When it comes to what is it customer success for a casino in front of the play, I would say it's, it's satisfaction based on the fact that although they are losing money, they're enjoying the experience. And by the end of the day, if we like to believe that players are rational human beings, the, the house edge or the margin is in beat within every casino games. That's mathematics. You cannot find it. Okay. I stand one said that the only way to win in roulette is to never step before the neck of the end because again, the mathematics are very clear.\n\n[00:30:53] Shahar Attias: It's very obvious, but why do players play some of the feedback that we got is that I've had a horrible day at work. I hate my boss. I'm now on the two. I want to, I have 40 minutes. I want to see a lot of new lights and hear funny music. And that's it. I don't want to think now. This is my way to escape some for the rush or maybe winning. Okay. And those are different types of players. Like ones, you would like to win something small every few minutes. Few would say, I don't care. I can lose for months, but when I win, I want the general. Okay. Some do that because it's betting. Okay.\n\n[00:31:32] Shahar Attias: Not cause in the, so they bet in favor of the team never against Boston subjects. Why are you making my life so hard? And so there are many reasons, but by the end of the day, engaging in this activity means that most likely you're going to lose your money. If you end the day and somebody will wear your cap, wear your T-shirt, have your mouse pad and say, yeah, I love casino John because I'm being treated in a fun manner because I know I can get these perks because whenever I'm low on funds, does bold guy who gives me some money and the\n\n[00:32:11] Shahar Attias: end of the month or whatever. Okay. But if end the day with them loving you, yeah, that's customer success. That's not easy in our industry.\n\n[00:32:24] John Wright: So for this year and beyond, do you think we're going to have more operators or better operators or we're still going to have better, but we're still going to have more operators are becoming better. Could never believe that the goal I think that's a given.\n\n[00:32:42] Shahar Attias: I actually think that we are not that far from when AI will allow multiplication of the number of brands that we see to a point that is beyond what we can conceive in this point.\n\n[00:32:59] Shahar Attias: So we will see and likely in 2025, but definitely before 2030, we'll see way more brands to a personalized level. Okay. Because the technology will allow it. Does it mean that they're all going to be auto because they will like if a certain powerhouse operates now instead of four mediocre brands, they will offer, they will operate 4,000 mediocre brands.\n\n[00:33:27] John Wright: It's a good question, but I do want that client. Yeah.\n\n[00:33:32] Shahar Attias: That's interesting. The way to think about it. I wasn't actually thinking that there could be or would be more, but I think you're actually right. I think there's going to be software solutions that are going to make it. So it's a one click to get thousands or hundreds and go, why are we doing this? Let's try it and see what works. And when you have data, it's you run with it.\n\n[00:33:53] John Wright: Like why not thousands of casinos for micro influencers or even influencers? That's one example. It's all that if you walk the floor at any conference and people will know what kind of traffic you have, then probably you'll get a very enticing suggestion on the table. Come and open a casino with us. Why could you have your company? Yes. And I first operating casino comes with luggage. Okay. You need somebody to operate everything else that you don't know how to do.\n\n[00:34:24] Shahar Attias: And in most cases, it doesn't end up too well. It could be a good, nice run.\n\n[00:34:30] John Wright: But again, think about it. As you said, by the click of a button, then you'll have a good run even for weeks.\n\n[00:34:36] John Wright: Nice. You have some extra dozens of cases in your pocket.\n\n[00:34:42] Shahar Attias: True.\n\n[00:34:44] John Wright: True. That's interesting way to see it. It's almost like you're being an affiliate. If you want to be a white label, what's the difference?\n\n[00:34:53] John Wright: At the end of the day, if you have traffic and if you've got traffic, there's a deal that could be made.\n\n[00:34:58] Shahar Attias: Yep. And again, if you move the barrier, the threshold that prevents people to enter this\n\n[00:35:04] John Wright: status, the prestigious status, but status of Gesunde Brande Dornau. And last question, what do you see the future of affiliate marketing as it intersects with business intelligence? Dead.\n\n[00:35:17] Shahar Attias: I wish to have access to more data.\n\n[00:35:21] John Wright: The bridge between affiliate marketing and CRM or retention marketing is still not complete. Okay. Access to what happened before a reliance on sources, fully understanding the nature of the traffic, um, is still a laggy in most cases and vice versa. I'm certain that if affiliates would know more about how we know our players of the players that they've sent us, if they wouldn't know it to that level, they will be able to perfect their job and do it and replicate it and do it in an optimal manner.\n\n[00:36:00] Shahar Attias: There's always that history, perspective of casino owners that affiliates. Yes, there are partners, but they're there. We are here.\n\n[00:36:12] Shahar Attias: We, we do not share with them everything. If we'll share, then we'll steal the data and do something horrible to us. And it's back down. I'm not saying that it came out of nowhere, but most of this perspective is driven from the wild west of the early 2000s.\n\n[00:36:32] John Wright: I'm not sure what's going on in this moment.\n\n[00:36:35] Shahar Attias: I'm enjoying war. The affiliate, the biggest community, I'm not dead to the depth of how you guys. Yeah. Wait, do I'll give you a comment that made me think based on what you said. So if operators don't always want to share the data saying, Hey, you sent us this player. Here's their email. What I think is actually happening right now is two things. First is that there are tools like we have some of these tools and we're not the only ones that you can actually do click ID level and get reports back that come back in the back end and say, this click you sent is actually this player.\n\n[00:37:12] Shahar Attias: So you can actually see their activity, but you don't get their email. Where I think this is going to change is, and this is changing. We had to chat about Google and being super disruptive for SCO affiliates. We've been getting more customers that they have their own betting tips app or they're just app environments. So what they want is they already have their email and then once they have the click ID, that click ID is already mapped back. So I think this transparency is happening. It's going to happen without any intention. It wasn't intended to be built to give back the email, but you'll, you will actually have the same thing. And who knows? Maybe there's actually a future where there is a collaboration.\n\n[00:37:52] Shahar Attias: It's, Hey, you as an affiliate could send a message to the player, but the operator could send a message to the player. Now is it optimal to send it at the same time or what happens if the player stops just responding to the operator? Could the affiliate actually trigger an action? I think when there's going to be less information affiliate sites and more apps or communities, I think that's when we're going to see this hybrid interaction of affiliates and operators. Okay. Thanks for the yes.\n\n[00:38:21] Shahar Attias: Within communities, I can definitely see also the value in, Hey, you've sent me to debt because you know, here's what I think about them. Thank you for that.\n\n[00:38:31] John Wright: Never send me this, this cousin because I've had this horrible experience, but within communities, there is value in sharing information in.\n\n[00:38:43] Shahar Attias: We're going back to branding guides. Okay.\n\n[00:38:48] John Wright: Sound cause you know, there's not most wish to remain anonymous. They are not part of what they're doing and they don't even want to get gifts by the way, or what to stand up champagne for new years. They said, no, can I get $50 as a bonus?\n\n[00:39:05] Shahar Attias: I'll take the keys. I'll give you my address. Yeah. So the, the thing we still need to go for some leap of thought in order for this to change. If it doesn't enough, there are enough changes in, in product that will lead us into something that is different because in the industry is not going to look the same in two years. That's for certain. We have with so many changes recently starting with the ancient one, three or four years ago,\n\n[00:39:40] Shahar Attias: crazy times or evolution, then crash games, then gamification, all of that will probably\n\n[00:39:47] Shahar Attias: lead us into an involvement that perhaps we'll end up in something that is more social, something that is more communicating, something that is perhaps with lower margins, but still allowing a community to go around it.\n\n[00:40:04] John Wright: Maybe also skills management, such as Eastport, whatever.\n\n[00:40:12] Shahar Attias: It's just speculation.\n\n[00:40:14] John Wright: I'm definitely going to stand behind my statement that it's not going to look the same into you because I've been in this industry for a long time and there were never two years that were the same. So that still going to happen. But how is it going to look exactly?\n\n[00:40:35] Shahar Attias: Yeah, maybe we will end up in that personalization or if the anonymous person wants to be anonymous, they're going to find their communities or they're going to find their product. And if the person wants a forum, they're going to find the forum. If they want casino and poker, they're going to find that. And if they want crash games, they're going to end up where they want to be. I think maybe what's going to happen is there's going to be just better tools on the operator side. I actually think it's one of the missing links in the operation spaces, the CRM tools, the gamification to go, hey, if all this traffic is hitting these operator sites coming from affiliates, from SEO, I still believe the industry could double over just from optimization\n\n[00:41:15] Shahar Attias: of handling players the right way. And we haven't even said crypto. Look at that. Oh, no.\n\n[00:41:21] Shahar Attias: And we didn't really touch too much on AI, which is okay. AI has become so normal that it's almost, of course it has AI, right?\n\n[00:41:30] John Wright: Shahar, this was awesome. I want to pass it back to you to ask, how can people get a hold of you?\n\n[00:41:38] Shahar Attias: Our website, havenintervection.com, and every conference that is built enough, not the shitty ones.\n\n[00:41:45] Shahar Attias: And I'm very happy to engage also with you guys.\n\n[00:41:50] John Wright: By the way, when you say they are, that's affiliate intelligence.\n\n[00:41:53] John Wright: Yes.\n\n[00:41:54] Shahar Attias: Yes. Okay.\n\n[00:41:55] Shahar Attias: Other than that, yeah.\n\n[00:41:58] John Wright: Awesome. That will be included in the show notes. Shahar, thank you so much for doing this.\n\n[00:42:03] Shahar Attias: Thank you very much for your time. It's been a pleasure. Had fun.\n",
+  "turns": [
+    {
+      "t": "00:00:00",
+      "speaker": "John Wright",
+      "text": "One thing that is very easy to miss and it actually sits on the border between acquisition and retention is conversion. So if you do not focus at a client that enters your store, walk to your cashier with all the items in the hands, put it on the shelf and just cannot find the pocket with the wallet, you're doing something or with such solution you can detect, count, automate, trigger a solution, offer a bonus, start a chatbot, do as long as you do anything."
+    },
+    {
+      "t": "00:00:35",
+      "speaker": "John Wright",
+      "text": "Now, again, to tell you that this will double your conversion rate, no it won't. But imagine having 10% more within the first 10 minutes, that's a lot of thing. I'm John Wright and you're listening to Affiliate BI, the Business Intelligence and Affiliate Marketing podcast brought to you by Snapshot. Welcome to the Affiliate BI podcast. Today we're chatting with Shahar Otias. We're just practicing a pronunciation of his name. He is the founder of it's Hybrid Interaction Limited, which he has an amazing t-shirt that I personally want."
+    },
+    {
+      "t": "00:01:13",
+      "speaker": "John Wright",
+      "text": "Shahar, welcome to the show. Thank you so much for having me with me. Okay, so we have almost no agenda here. I know you as the CRM guy. So we're going to talk a lot about CRM, but we just had a couple chats before recording. And it seems like there's a bit of maybe confusion of what CRM tools are on the market or what CRM is. So I basically said, I think CRM tools on the market are like OptiMove and FastTrack. And you said, not quite. So I just wanted to know if you can dive in a little deeper. Tell us what the space is and what are we missing today? So, CRM, customer relationship management, yes."
+    },
+    {
+      "t": "00:01:50",
+      "speaker": "John Wright",
+      "text": "But this term is being so widely used, it could cover pretty much anything that has to do with managing clients in a way. CRM could be a tactic, a strategy CRM could be a tool, a technology. When we are discussing the platforms of the world, then a classic CRM would be a Salesforce. It's a technological solution that is geared to manage your customers and also follow only"
+    },
+    {
+      "t": "00:02:23",
+      "speaker": "John Wright",
+      "text": "and ensure that the one on one bay of customer support and whatever other units that speak directly with your clients can follow on the notes. They can plan ahead, they can write call summaries and all of that. These functionalities being delivered in vast majority of the cases in our industry by what we call platforms or the PAM, Player Account Management."
+    },
+    {
+      "t": "00:02:59",
+      "speaker": "John Wright",
+      "text": "OK, these would be the softwares of the world, the large B2B that has the biggest boots across all the conferences. So the gig would be an excellent example. OK, it's a standalone B2B solution that once you sign a deal with them, they provide you with all kind of bricks that all together establish your iGaming offering. One of them is the backup where your players reside. So players are the accounts that are being made by this solution."
+    },
+    {
+      "t": "00:03:35",
+      "speaker": "John Wright",
+      "text": "There are there's a new market that grows rapidly in our industry. It would be the marketing, let's call it automation solution. OK, some of the biggest names would be the Smartico of the world, Optimal, Jens Solitix, the Fastrack, Xtreme Push. There are some non-gaming first solutions that are also being good. They are also quite popular like Custom stereo, like braids, like MERSIS."
+    },
+    {
+      "t": "00:04:06",
+      "speaker": "John Wright",
+      "text": "OK, all of these provide an additional layer that offers some form of marketing automation, some kind of a brain that sits behind everything and is connected. It reads data from the games, from the back office, from the wallet, from the website and can project or trigger messages that will be sent out across our communication channels. Email, SMS, pop-up, push notification, doves. OK, so everything that's possible."
+    },
+    {
+      "t": "00:04:42",
+      "speaker": "John Wright",
+      "text": "And you can create some sort of an illustrated user journey and tackle scenarios with desired response. That's what we do actually in hybrid interaction. We operate these solutions for clients. OK, so we are considered to be the power users of all of these solutions. All of them are good friends. We are certified across all of these technologies and we keep close contact and they talk with us about the visuals beforehand, all kind of development."
+    },
+    {
+      "t": "00:05:18",
+      "speaker": "John Wright",
+      "text": "And we operate it for clients. So any operator would be crazy not to use any of those solutions that sit on top of the PAMs. It's not being crazy. It's being actually in today's market. If you don't use these capabilities, you are stuck with the revenue stream that is suitable for the early 2000s. You cannot upsell opportunities on the floor if you don't use such capabilities. I'm not saying that you need to use any of the names I've said."
+    },
+    {
+      "t": "00:05:57",
+      "speaker": "John Wright",
+      "text": "I'm not saying that one of these names is better than another. I'm saying that the opportunities exist. These delicious provide excellent countermeasures to deal with. I'll give a very simple scenario. A player that has deposit on last week, last month and hasn't logged in yet. Why didn't you know? So instead of going for all the list of players daily, you can simply set a trigger and automate them a message."
+    },
+    {
+      "t": "00:06:30",
+      "speaker": "John Wright",
+      "text": "Or if it's a large enough player, automate a little bit, that somebody should go and knock on the door. A question I have that I don't know if you'd have the answer to. How many casinos do you think don't have these solutions? Because what I'm trying to get an understanding is what is the whole market today? Like we have a database of close to 4000 brands that exist. And we know there's tens of thousands, if not more. Like all these getting a white label is pretty easy these days. So it's just I don't know, is it 50% of the market? Could the entire industry be doubled over in revenue if we were to just click these add-ons and say,"
+    },
+    {
+      "t": "00:07:07",
+      "speaker": "John Wright",
+      "text": "hey, we're going to now finally optimize this poor user journey? I'm not too sure that I wish I could promise my clients to double the revenue. Level of understanding CRM has grown dramatically over the past decade or so. In today's world, we are optimizing. Now, optimizing means a lot of money. But it's not that big. We're just making sure that as little opportunities as possible are left on the floor without being touched. So what we bring to the table is best practices when it comes to tackling this,"
+    },
+    {
+      "t": "00:07:47",
+      "speaker": "John Wright",
+      "text": "providing our clients with what we know have proven to be working solutions to such scenarios."
+    },
+    {
+      "t": "00:07:59",
+      "speaker": "John Wright",
+      "text": "How many casinos do not use it? I would actually say that the most do not use it. With some of the platforms, they provide their own tools and they refuse to integrate additional ones. So you're stuck anyway. With the others, there is an entry level cost. Some of these solutions are expensive, some are more expensive. There is a threshold that you need to pass. Not every little casino can afford it. And don't forget that this doesn't go as far out of your HDR or profit."
+    },
+    {
+      "t": "00:08:38",
+      "speaker": "John Wright",
+      "text": "It goes from bottom line cash. And that's, of course, an issue. I would think that within regulated markets, probably we're looking at about high outside of regulated markets. I would be surprised if it's 25, 20%. I'm referring to what I believe are the, again, gaming-first marketing automation solutions that are standalone. Some of the bigger voice, some like Red Rectix 5, for example, they are using a standalone solution."
+    },
+    {
+      "t": "00:09:17",
+      "speaker": "John Wright",
+      "text": "I'm not mistaken, that's all. But companies like Fandules and Dintaine, they have so many divisions. And I don't think you can say that they are using a specific tool. And in some cases, they have their own solution that they have developed internally. Is it as good as a standalone tech? It can never be, because these guys, that's what they do for a living. So they keep updating it and they're making it better and more sophisticated and offering additional functionalities. But can it cover 20% of the cost, 80% of the salam? Yes, of course."
+    },
+    {
+      "t": "00:09:56",
+      "speaker": "John Wright",
+      "text": "But that would make me think that if I'm Bet365 or if I'm Fandule, I'd want to look at any of these companies and go, which ones could I hypothetically buy? They're probably not going to be cheap to acquire, but there's no reason not to do this. If you're Fandule and you do this in-house, that's one thing. But if you service a lot of customers, it's going to you as a consultant, because you get to work on so many different projects, you become a bigger expert from your experience. Thank you. Yes, buying one of these companies could be very expensive to me, but I'm not an affiliate like you."
+    },
+    {
+      "t": "00:10:32",
+      "speaker": "John Wright",
+      "text": "I assume that one of the bigger boys, they can buy any of them, all of them together if they want to. The question is, is that part of the business model? Do they want to do only? And by the end of the day, if you buy a company that lives out of perfecting a wide area of companies, you will actually kill the creativity by putting them under one client, by buying the tech and doing just that."
+    },
+    {
+      "t": "00:11:08",
+      "speaker": "John Wright",
+      "text": "Then again, also I can fully respect the fact that any of these companies, since when you work with marketing and commercial solutions, usually you pay by the active players per month. Then if your last name is 365, then that's a lot of money to pay every month. Probably the company will every month for something like that. I don't know how to resolve the financial angle."
+    },
+    {
+      "t": "00:11:41",
+      "speaker": "John Wright",
+      "text": "I can also respect the fact that they've reached these status by not having any of these solutions or having me as their consultant. So they are probably doing something right. I'll try to be a bit modest. Let's continue. I'll throw the cheap comment out there. There's a lot of companies that think they're the hottest thing ever created. No, we don't need your help. We're the best. You're like, okay, stay that way. Correct."
+    },
+    {
+      "t": "00:12:15",
+      "speaker": "John Wright",
+      "text": "So there are these as well, but again, there's probably a good justified list that can say that and still be correct. Yeah. Okay, so I got a question. I don't know if you can answer it properly, but with some of the clients that you've taken on and you've onboarded any of these solutions, what's some of the best, the biggest wins you've seen for improvement? We have tools that can help with the acquisition and retention. Have you seen like player values? I don't know, double? Like what are some of the things that you typically see as a selling point to be like, hey, if you're not using these tools, this is what you can look forward to."
+    },
+    {
+      "t": "00:12:54",
+      "speaker": "Shahar Attias",
+      "text": "One thing that is very easy to miss and it actually sits on the border between acquisition and retention is conversion. Not too many people, but roughly 50% of the conversion happened within five to eight minutes. Okay. So what that means is that if you see on your website, somebody who is still logged in after, let's say, seven minutes, if you do not proactively assist this player to deposit, to make the first deposit, you're kicking the customer out of your store."
+    },
+    {
+      "t": "00:13:33",
+      "speaker": "Shahar Attias",
+      "text": "That's the only way to look at it."
+    },
+    {
+      "t": "00:13:35",
+      "speaker": "John Wright",
+      "text": "Yes."
+    },
+    {
+      "t": "00:13:37",
+      "speaker": "John Wright",
+      "text": "Some, all in all, it's going to be about 70, 75% for the first 24 hours, and then another 10, maybe 15% the following day. And the rest is just a very long, unimportant day. So if you do not focus at a client that enters your store, walk to your cashier with all the items in the hands, put it on the shelf and just cannot find the pocket with the wallet. You're doing something with such solution."
+    },
+    {
+      "t": "00:14:11",
+      "speaker": "John Wright",
+      "text": "You can detect, count, automate, trigger a solution, offer a bonus, start a chatbot, do it. As long as you do anything, okay, you can't have the pay. Hey, today only we have whatever. There you go. Now, again, to tell you that this will double your conversion rate, no, it won't. But imagine having 10% more within the first 10 minutes."
+    },
+    {
+      "t": "00:14:41",
+      "speaker": "John Wright",
+      "text": "That's a lot of thing. That's a lot of money. Like, regardless of who you are, that's a lot of money."
+    },
+    {
+      "t": "00:14:49",
+      "speaker": "Shahar Attias",
+      "text": "Yeah, I agree. What do you think about tools like Greco for bonus abuse? Like there's, like we mentioned some of the CRM ones. I know there's other ones that like you either are saving money or stopping to lose money or gaining money or optimizing, improving revenue. I know there's other companies like ThrillTech that add jackpots and they help player values. What do you see on the market that you think people should be aware of? I think Greco has a very interesting niche. Good people, no wonder first of all, so heavily involved with them because it makes sense. They bring something that adults don't. So, good for them."
+    },
+    {
+      "t": "00:15:28",
+      "speaker": "Shahar Attias",
+      "text": "I coming from the guy who spread money to players, I'm way more focused on gamification and additional solutions that allow to increase short term gratification. Okay. So, will that build your brand loyalty? No, it won't. Okay. Will that win back players? Okay. Potentially."
+    },
+    {
+      "t": "00:16:02",
+      "speaker": "Shahar Attias",
+      "text": "Could you extend the current gaming session by another 10 spins? Very much likely, yes. Okay. Now, does this make sense for you to invest in a gamification solution? Okay, like the engine that Smartico brings to the table? Absolutely. Okay. Absolutely."
+    },
+    {
+      "t": "00:16:25",
+      "speaker": "John Wright",
+      "text": "And there are others as well. We happen to work with several of their clients and the results that we see are the pick up rate on players interested in missions and the rest of the functionalities. Absolutely."
+    },
+    {
+      "t": "00:16:43",
+      "speaker": "Shahar Attias",
+      "text": "It's actually too good to be with the numbers that are like..."
+    },
+    {
+      "t": "00:16:49",
+      "speaker": "John Wright",
+      "text": "What the hell have we done two months ago before we had it?"
+    },
+    {
+      "t": "00:16:53",
+      "speaker": "John Wright",
+      "text": "Were we even doing the conducting the same level of work? No, it's completely different. A highly recommended gamification is definitely having its way back to the industry after it used to be limping several years ago, but now the technology allows it to be what we always fantasize it to be."
+    },
+    {
+      "t": "00:17:18",
+      "speaker": "John Wright",
+      "text": "Yeah. Now, we'll definitely touch upon that. I had a question about how do some of these CRM tools handle VIPs? I'm assuming that you have to treat them very different and you got to be..."
+    },
+    {
+      "t": "00:17:30",
+      "speaker": "John Wright",
+      "text": "I don't know. Is it ultra careful how you deal with them? And then I got a second part question, which is what if this VIP player wants to chat with some random chat tool? They don't like email, they don't like phone calls, but they're like only Telegram."
+    },
+    {
+      "t": "00:17:46",
+      "speaker": "Shahar Attias",
+      "text": "Okay. Let's assume that you are a VIP."
+    },
+    {
+      "t": "00:17:50",
+      "speaker": "John Wright",
+      "text": "So what's your favorite communication tool?"
+    },
+    {
+      "t": "00:17:54",
+      "speaker": "Shahar Attias",
+      "text": "I don't care. I use it."
+    },
+    {
+      "t": "00:17:58",
+      "speaker": "John Wright",
+      "text": "There are two things. First of all, with VIPs, same as with other segments, such for marketing automation solutions allow you to not leave unattended scenarios on the floor. Okay. So yes, the value of each player is different and they're such you want to be way more precise. You want to be way more cautious because if a VIP has deposited in a month, go walk. But if a regular player has deposited in a week, then hey, what's up? If a VIP has deposited for a week, then we need to have some serious talk. It's different."
+    },
+    {
+      "t": "00:18:36",
+      "speaker": "Shahar Attias",
+      "text": "You need to address every scenario differently. Okay. But by the end of the day, because we are talking about a segment then in we internally, we have a very aggressive way of segmenting VIP on a dynamic level. Retreat the portion that delivers half the revenue. Okay. Is our VIPs. Usually we are ending with between half a percentage to let's say two and a half percentage of the active database. Okay. So that's not a lot of players, but these players, you know, you cannot lose them."
+    },
+    {
+      "t": "00:19:16",
+      "speaker": "Shahar Attias",
+      "text": "We'll have the assigned account manager will have very constant daily review of activity. We will try to strike direct communication, although in some cases they don't want to. And that's of course their decision. But if they do and they prefer to use the Skype, which is equivalent to facts. I hate Skype. Affiliates like Skype. I know that. I know that. That's true. I hate it. It's just not a very good tool. The problem is, for example, with WhatsApp B2B, you cannot use it in gambling operations. Okay."
+    },
+    {
+      "t": "00:19:53",
+      "speaker": "Shahar Attias",
+      "text": "There are engines that allow some form of using telegram or signal or whatever."
+    },
+    {
+      "t": "00:20:00",
+      "speaker": "John Wright",
+      "text": "It's not that important. Whatever tool that you use as long as everything is being monitored and tracked"
+    },
+    {
+      "t": "00:20:07",
+      "speaker": "John Wright",
+      "text": "be into the what, how do I make my next decision regarding this specific player? In many cases, it's not that dramatic. Okay. It's the list of instant communication tools is very, is very limited."
+    },
+    {
+      "t": "00:20:24",
+      "speaker": "Shahar Attias",
+      "text": "Okay. It makes sense."
+    },
+    {
+      "t": "00:20:27",
+      "speaker": "John Wright",
+      "text": "So I got it. I'm getting a lot of ideas of what I can apply from your experience into what we do as a SaaS company. When I've studied gamification, I think there's a lot of documentation that says the video game space has done gamification very well. It's almost like that's where it was perfected. What other industries do you think do it well? And if it's no one else other than video games, what are some of the things that you think are interesting that are either being copied over into iGaming or what's cool that people should know that exists today? I believe that one of the most engaging gamification that I'm aware of is gaming. I'm okay."
+    },
+    {
+      "t": "00:21:06",
+      "speaker": "John Wright",
+      "text": "I'm addicted to it."
+    },
+    {
+      "t": "00:21:08",
+      "speaker": "John Wright",
+      "text": "But this slogan of beat yesterday is exactly that. And that's what makes me get up that proportional ass of mine and just take it outside and move pretty much daily because I need to meet a certain target and I need to earn that badge. And I don't know how they do it, but they do it very well."
+    },
+    {
+      "t": "00:21:32",
+      "speaker": "Shahar Attias",
+      "text": "The classic airline, AirMiles model, it's not that relevant to gambling. I'll explain because we have a lot of time. The problem with especially with online casinos is what we call bragging."
+    },
+    {
+      "t": "00:21:51",
+      "speaker": "John Wright",
+      "text": "Do you play poker?"
+    },
+    {
+      "t": "00:21:53",
+      "speaker": "John Wright",
+      "text": "I used to. That's okay. If you've played once, probably you're better than me. I'm a horrible poker player, but not bad. I just told you more poker."
+    },
+    {
+      "t": "00:22:03",
+      "speaker": "John Wright",
+      "text": "I can say for a fact that poker is a game of skill. And if you're a good player, then if we play one hand, yes, maybe I'll get lucky. And I'll have good car. If we play for an hour, probably I'll leave with you wearing that shirt. Okay. In poker bragging has a lot is embedded within the type of the game. And also it's very male dominant, which we know what we are less small."
+    },
+    {
+      "t": "00:22:32",
+      "speaker": "Shahar Attias",
+      "text": "Sorry, not sorry."
+    },
+    {
+      "t": "00:22:34",
+      "speaker": "John Wright",
+      "text": "In poker having an hierarchy, okay, of I'm at that level. That means that I'm nearly different and better than you because you're at that level. Okay. Allows me to brag a lot and I want that tournament. If I want the tournament on that website, they've sent me a present. I can show it very and brag about it because the website doesn't care with them. Just like I just won the tournament on their website. So that sent me something, but they don't care because they don't have money off me. They don't money for the gay. Okay."
+    },
+    {
+      "t": "00:23:12",
+      "speaker": "Shahar Attias",
+      "text": "Say with you casinos, exactly the opposite. I'm playing one because you know, I don't care how many more players are playing wallet. If I'm losing the casino, not to them blackjack slot and the slot. Okay. It's me. It's one on one. Also, if I'm, if I'm bragging about being a large casino player, I could be missing the fact that perhaps I'm also losing a lot of money. There are less bragging rights in this regard. Meaning going and saying that I'm platinum on casino. John might deliver the wrong message."
+    },
+    {
+      "t": "00:23:50",
+      "speaker": "Shahar Attias",
+      "text": "Now it could be that indeed I just won a lot of money and I turn it over again and again. And as such, I'm very large player. Okay. But let's just say that you wouldn't have opened casino. John because of players like that having a status to strive for it debatable. Okay. Plus there are so many, there are so many different rewarding mechanism that I can give to different tiers. So as such, if I want to make it really count, then I can do level eight and then"
+    },
+    {
+      "t": "00:24:28",
+      "speaker": "Shahar Attias",
+      "text": "level B can be better and level C is significantly better. And I'm stuck like that's it. I don't have a lot more to give publicly. Okay. Lost with if I'm trying to adapt the airline model as it is, I'm stunned. There are ways to resolve that. We introduced some sort of hybrid interaction models."
+    },
+    {
+      "t": "00:24:54",
+      "speaker": "John Wright",
+      "text": "There are ways to resolve it. And also gamification helps a lot because with gamification, I don't focus right now in this approach. Okay. As we speak at the moment, I don't focus on what status you're going to get by mid year. I'm focusing again, your next 10 speeds. Okay."
+    },
+    {
+      "t": "00:25:17",
+      "speaker": "Shahar Attias",
+      "text": "That's interesting. It's, I think we have gamification everywhere, but you must see it everywhere you go. Like you just highlighted a couple of examples. I was like, oh yeah, like I've got a Fitbit. So it's, it's totally gamified how I look at not just time, but it's my steps in sleep and everything it's there's a lot of really good examples. And I never even thought about it as the reverse. That was a good example. Poker versus casino. One you're bragging. The other one it's you got to take the brag element out of it and say, maybe you're getting a cashback or maybe you have a VIP manager. That's your customization."
+    },
+    {
+      "t": "00:25:52",
+      "speaker": "John Wright",
+      "text": "And that's a huge discover. Most of my tools."
+    },
+    {
+      "t": "00:25:56",
+      "speaker": "Shahar Attias",
+      "text": "Awesome."
+    },
+    {
+      "t": "00:25:58",
+      "speaker": "Shahar Attias",
+      "text": "Okay. Then obviously we haven't shouted too much about chat bots, but like these must come into play, like you've got the potential for any casino to get thousands of players per day, and then sometimes you're going to get the really high quality one. What are we doing about this? Are we doing chat bots with AI? Are we doing fake chat bots that are looking like real people and talking to you, but are still AI? Do people want more real people? Like where are we at? There are some good solutions. You must remember that unlike e-commerce or any, let's say, info, like governmental"
+    },
+    {
+      "t": "00:26:36",
+      "speaker": "Shahar Attias",
+      "text": "sites or whatever, the customer value in casinos is much like a bank. Very large. How much are you willing to invest in the potential loss of a lead? Okay. That's the question. And, and in some cases, the answer is no, I don't. So I'm an advocate of utilizing AI for processes. Okay. Like a solution for the beginning of a chat when it comes to proactive measures, post"
+    },
+    {
+      "t": "00:27:11",
+      "speaker": "Shahar Attias",
+      "text": "registration, ensuring that, that they have everything I need for compliance and for such. But when it comes to marketing, even though most of the question, the our inside job is that players have only two questions is, where's my money?"
+    },
+    {
+      "t": "00:27:30",
+      "speaker": "John Wright",
+      "text": "Where's my money? Can I get more money?"
+    },
+    {
+      "t": "00:27:34",
+      "speaker": "Shahar Attias",
+      "text": "Even though most of the question will repeat themselves again, you put a salesperson to answer this and the verse, the nature of the discussion and do something else."
+    },
+    {
+      "t": "00:27:49",
+      "speaker": "John Wright",
+      "text": "I keep saying that in most of the companies, the best salesperson will go to affiliate account management management. Why? Because that's traffic. You want to ensure to retain the better affiliates. You want to make good impression on the, on the listings and be positioned higher and all of them."
+    },
+    {
+      "t": "00:28:07",
+      "speaker": "John Wright",
+      "text": "I think that the best salesperson in the company should be the VIP manager."
+    },
+    {
+      "t": "00:28:12",
+      "speaker": "John Wright",
+      "text": "And that when the CEO enters the office in the morning, they should go to the VIP management room, thank them for existing and ask, what can I do for you today? Because that's the person that deals with the dozens of players that inject half the revenue of what went through the, the casino profit today. Acquisition is of course, I can say it's equally important because you cannot have one without the other. Okay. I'm just thinking that with affiliates, the level of sales and negotiation is just"
+    },
+    {
+      "t": "00:28:46",
+      "speaker": "John Wright",
+      "text": "different versus how can I detect the loop in which I can get and increase my percentage of wallager with this whale of a player. So I got another keyword, like I'm writing down all these keywords and I'm like, okay, we got gamification. We didn't talk about personalization, but we touched upon it. We got chat bots, uh, CRM obviously. And then one, because I'm in the SaaS space is I don't hear the word customer success quite often, but is customer success just like a collection of all these best practices done, right? What's customer success for CRM? Right. As a B2B company. Yes, we do have our own customer success."
+    },
+    {
+      "t": "00:29:26",
+      "speaker": "John Wright",
+      "text": "That's why we have our training processes as long as, as the list of expectations of anybody else."
+    },
+    {
+      "t": "00:29:36",
+      "speaker": "Shahar Attias",
+      "text": "When we have our project managers starting to handle the clients, okay, they are already after managing behind the scenes, double digit number of"
+    },
+    {
+      "t": "00:29:51",
+      "speaker": "Shahar Attias",
+      "text": "clients. We're supporting senior project managers. That's a lot of time. That's a lot of efforts, but we, again, we're a very small boutique agency. We cannot have clients not being happy with us. So we must ensure that they control all the tools and they know how to trade an account."
+    },
+    {
+      "t": "00:30:11",
+      "speaker": "John Wright",
+      "text": "That's our customer success."
+    },
+    {
+      "t": "00:30:13",
+      "speaker": "Shahar Attias",
+      "text": "When it comes to what is it customer success for a casino in front of the play, I would say it's, it's satisfaction based on the fact that although they are losing money, they're enjoying the experience. And by the end of the day, if we like to believe that players are rational human beings, the, the house edge or the margin is in beat within every casino games. That's mathematics. You cannot find it. Okay. I stand one said that the only way to win in roulette is to never step before the neck of the end because again, the mathematics are very clear."
+    },
+    {
+      "t": "00:30:53",
+      "speaker": "Shahar Attias",
+      "text": "It's very obvious, but why do players play some of the feedback that we got is that I've had a horrible day at work. I hate my boss. I'm now on the two. I want to, I have 40 minutes. I want to see a lot of new lights and hear funny music. And that's it. I don't want to think now. This is my way to escape some for the rush or maybe winning. Okay. And those are different types of players. Like ones, you would like to win something small every few minutes. Few would say, I don't care. I can lose for months, but when I win, I want the general. Okay. Some do that because it's betting. Okay."
+    },
+    {
+      "t": "00:31:32",
+      "speaker": "Shahar Attias",
+      "text": "Not cause in the, so they bet in favor of the team never against Boston subjects. Why are you making my life so hard? And so there are many reasons, but by the end of the day, engaging in this activity means that most likely you're going to lose your money. If you end the day and somebody will wear your cap, wear your T-shirt, have your mouse pad and say, yeah, I love casino John because I'm being treated in a fun manner because I know I can get these perks because whenever I'm low on funds, does bold guy who gives me some money and the"
+    },
+    {
+      "t": "00:32:11",
+      "speaker": "Shahar Attias",
+      "text": "end of the month or whatever. Okay. But if end the day with them loving you, yeah, that's customer success. That's not easy in our industry."
+    },
+    {
+      "t": "00:32:24",
+      "speaker": "John Wright",
+      "text": "So for this year and beyond, do you think we're going to have more operators or better operators or we're still going to have better, but we're still going to have more operators are becoming better. Could never believe that the goal I think that's a given."
+    },
+    {
+      "t": "00:32:42",
+      "speaker": "Shahar Attias",
+      "text": "I actually think that we are not that far from when AI will allow multiplication of the number of brands that we see to a point that is beyond what we can conceive in this point."
+    },
+    {
+      "t": "00:32:59",
+      "speaker": "Shahar Attias",
+      "text": "So we will see and likely in 2025, but definitely before 2030, we'll see way more brands to a personalized level. Okay. Because the technology will allow it. Does it mean that they're all going to be auto because they will like if a certain powerhouse operates now instead of four mediocre brands, they will offer, they will operate 4,000 mediocre brands."
+    },
+    {
+      "t": "00:33:27",
+      "speaker": "John Wright",
+      "text": "It's a good question, but I do want that client. Yeah."
+    },
+    {
+      "t": "00:33:32",
+      "speaker": "Shahar Attias",
+      "text": "That's interesting. The way to think about it. I wasn't actually thinking that there could be or would be more, but I think you're actually right. I think there's going to be software solutions that are going to make it. So it's a one click to get thousands or hundreds and go, why are we doing this? Let's try it and see what works. And when you have data, it's you run with it."
+    },
+    {
+      "t": "00:33:53",
+      "speaker": "John Wright",
+      "text": "Like why not thousands of casinos for micro influencers or even influencers? That's one example. It's all that if you walk the floor at any conference and people will know what kind of traffic you have, then probably you'll get a very enticing suggestion on the table. Come and open a casino with us. Why could you have your company? Yes. And I first operating casino comes with luggage. Okay. You need somebody to operate everything else that you don't know how to do."
+    },
+    {
+      "t": "00:34:24",
+      "speaker": "Shahar Attias",
+      "text": "And in most cases, it doesn't end up too well. It could be a good, nice run."
+    },
+    {
+      "t": "00:34:30",
+      "speaker": "John Wright",
+      "text": "But again, think about it. As you said, by the click of a button, then you'll have a good run even for weeks."
+    },
+    {
+      "t": "00:34:36",
+      "speaker": "John Wright",
+      "text": "Nice. You have some extra dozens of cases in your pocket."
+    },
+    {
+      "t": "00:34:42",
+      "speaker": "Shahar Attias",
+      "text": "True."
+    },
+    {
+      "t": "00:34:44",
+      "speaker": "John Wright",
+      "text": "True. That's interesting way to see it. It's almost like you're being an affiliate. If you want to be a white label, what's the difference?"
+    },
+    {
+      "t": "00:34:53",
+      "speaker": "John Wright",
+      "text": "At the end of the day, if you have traffic and if you've got traffic, there's a deal that could be made."
+    },
+    {
+      "t": "00:34:58",
+      "speaker": "Shahar Attias",
+      "text": "Yep. And again, if you move the barrier, the threshold that prevents people to enter this"
+    },
+    {
+      "t": "00:35:04",
+      "speaker": "John Wright",
+      "text": "status, the prestigious status, but status of Gesunde Brande Dornau. And last question, what do you see the future of affiliate marketing as it intersects with business intelligence? Dead."
+    },
+    {
+      "t": "00:35:17",
+      "speaker": "Shahar Attias",
+      "text": "I wish to have access to more data."
+    },
+    {
+      "t": "00:35:21",
+      "speaker": "John Wright",
+      "text": "The bridge between affiliate marketing and CRM or retention marketing is still not complete. Okay. Access to what happened before a reliance on sources, fully understanding the nature of the traffic, um, is still a laggy in most cases and vice versa. I'm certain that if affiliates would know more about how we know our players of the players that they've sent us, if they wouldn't know it to that level, they will be able to perfect their job and do it and replicate it and do it in an optimal manner."
+    },
+    {
+      "t": "00:36:00",
+      "speaker": "Shahar Attias",
+      "text": "There's always that history, perspective of casino owners that affiliates. Yes, there are partners, but they're there. We are here."
+    },
+    {
+      "t": "00:36:12",
+      "speaker": "Shahar Attias",
+      "text": "We, we do not share with them everything. If we'll share, then we'll steal the data and do something horrible to us. And it's back down. I'm not saying that it came out of nowhere, but most of this perspective is driven from the wild west of the early 2000s."
+    },
+    {
+      "t": "00:36:32",
+      "speaker": "John Wright",
+      "text": "I'm not sure what's going on in this moment."
+    },
+    {
+      "t": "00:36:35",
+      "speaker": "Shahar Attias",
+      "text": "I'm enjoying war. The affiliate, the biggest community, I'm not dead to the depth of how you guys. Yeah. Wait, do I'll give you a comment that made me think based on what you said. So if operators don't always want to share the data saying, Hey, you sent us this player. Here's their email. What I think is actually happening right now is two things. First is that there are tools like we have some of these tools and we're not the only ones that you can actually do click ID level and get reports back that come back in the back end and say, this click you sent is actually this player."
+    },
+    {
+      "t": "00:37:12",
+      "speaker": "Shahar Attias",
+      "text": "So you can actually see their activity, but you don't get their email. Where I think this is going to change is, and this is changing. We had to chat about Google and being super disruptive for SCO affiliates. We've been getting more customers that they have their own betting tips app or they're just app environments. So what they want is they already have their email and then once they have the click ID, that click ID is already mapped back. So I think this transparency is happening. It's going to happen without any intention. It wasn't intended to be built to give back the email, but you'll, you will actually have the same thing. And who knows? Maybe there's actually a future where there is a collaboration."
+    },
+    {
+      "t": "00:37:52",
+      "speaker": "Shahar Attias",
+      "text": "It's, Hey, you as an affiliate could send a message to the player, but the operator could send a message to the player. Now is it optimal to send it at the same time or what happens if the player stops just responding to the operator? Could the affiliate actually trigger an action? I think when there's going to be less information affiliate sites and more apps or communities, I think that's when we're going to see this hybrid interaction of affiliates and operators. Okay. Thanks for the yes."
+    },
+    {
+      "t": "00:38:21",
+      "speaker": "Shahar Attias",
+      "text": "Within communities, I can definitely see also the value in, Hey, you've sent me to debt because you know, here's what I think about them. Thank you for that."
+    },
+    {
+      "t": "00:38:31",
+      "speaker": "John Wright",
+      "text": "Never send me this, this cousin because I've had this horrible experience, but within communities, there is value in sharing information in."
+    },
+    {
+      "t": "00:38:43",
+      "speaker": "Shahar Attias",
+      "text": "We're going back to branding guides. Okay."
+    },
+    {
+      "t": "00:38:48",
+      "speaker": "John Wright",
+      "text": "Sound cause you know, there's not most wish to remain anonymous. They are not part of what they're doing and they don't even want to get gifts by the way, or what to stand up champagne for new years. They said, no, can I get $50 as a bonus?"
+    },
+    {
+      "t": "00:39:05",
+      "speaker": "Shahar Attias",
+      "text": "I'll take the keys. I'll give you my address. Yeah. So the, the thing we still need to go for some leap of thought in order for this to change. If it doesn't enough, there are enough changes in, in product that will lead us into something that is different because in the industry is not going to look the same in two years. That's for certain. We have with so many changes recently starting with the ancient one, three or four years ago,"
+    },
+    {
+      "t": "00:39:40",
+      "speaker": "Shahar Attias",
+      "text": "crazy times or evolution, then crash games, then gamification, all of that will probably"
+    },
+    {
+      "t": "00:39:47",
+      "speaker": "Shahar Attias",
+      "text": "lead us into an involvement that perhaps we'll end up in something that is more social, something that is more communicating, something that is perhaps with lower margins, but still allowing a community to go around it."
+    },
+    {
+      "t": "00:40:04",
+      "speaker": "John Wright",
+      "text": "Maybe also skills management, such as Eastport, whatever."
+    },
+    {
+      "t": "00:40:12",
+      "speaker": "Shahar Attias",
+      "text": "It's just speculation."
+    },
+    {
+      "t": "00:40:14",
+      "speaker": "John Wright",
+      "text": "I'm definitely going to stand behind my statement that it's not going to look the same into you because I've been in this industry for a long time and there were never two years that were the same. So that still going to happen. But how is it going to look exactly?"
+    },
+    {
+      "t": "00:40:35",
+      "speaker": "Shahar Attias",
+      "text": "Yeah, maybe we will end up in that personalization or if the anonymous person wants to be anonymous, they're going to find their communities or they're going to find their product. And if the person wants a forum, they're going to find the forum. If they want casino and poker, they're going to find that. And if they want crash games, they're going to end up where they want to be. I think maybe what's going to happen is there's going to be just better tools on the operator side. I actually think it's one of the missing links in the operation spaces, the CRM tools, the gamification to go, hey, if all this traffic is hitting these operator sites coming from affiliates, from SEO, I still believe the industry could double over just from optimization"
+    },
+    {
+      "t": "00:41:15",
+      "speaker": "Shahar Attias",
+      "text": "of handling players the right way. And we haven't even said crypto. Look at that. Oh, no."
+    },
+    {
+      "t": "00:41:21",
+      "speaker": "Shahar Attias",
+      "text": "And we didn't really touch too much on AI, which is okay. AI has become so normal that it's almost, of course it has AI, right?"
+    },
+    {
+      "t": "00:41:30",
+      "speaker": "John Wright",
+      "text": "Shahar, this was awesome. I want to pass it back to you to ask, how can people get a hold of you?"
+    },
+    {
+      "t": "00:41:38",
+      "speaker": "Shahar Attias",
+      "text": "Our website, havenintervection.com, and every conference that is built enough, not the shitty ones."
+    },
+    {
+      "t": "00:41:45",
+      "speaker": "Shahar Attias",
+      "text": "And I'm very happy to engage also with you guys."
+    },
+    {
+      "t": "00:41:50",
+      "speaker": "John Wright",
+      "text": "By the way, when you say they are, that's affiliate intelligence."
+    },
+    {
+      "t": "00:41:53",
+      "speaker": "John Wright",
+      "text": "Yes."
+    },
+    {
+      "t": "00:41:54",
+      "speaker": "Shahar Attias",
+      "text": "Yes. Okay."
+    },
+    {
+      "t": "00:41:55",
+      "speaker": "Shahar Attias",
+      "text": "Other than that, yeah."
+    },
+    {
+      "t": "00:41:58",
+      "speaker": "John Wright",
+      "text": "Awesome. That will be included in the show notes. Shahar, thank you so much for doing this."
+    },
+    {
+      "t": "00:42:03",
+      "speaker": "Shahar Attias",
+      "text": "Thank you very much for your time. It's been a pleasure. Had fun."
+    }
+  ],
+  "turn_count": 124
+}
