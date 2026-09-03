@@ -1,0 +1,35 @@
+# Transcript
+
+**Show:** Revenue Optimization with StatsDrone
+**Episode:** Affiliate Data, Reporting & Standards
+**Host:** John Wright
+**Published:** Tue, 24 Jun 2025 14:51:00 +0000
+**Duration:** 6:06
+
+Speaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.
+
+---
+
+[00:00:00] John Wright: Welcome to the affiliate BI podcast. Today, I'm just going to talk about standards in affiliate marketing. And when I talk about standards, I'm talking about affiliate data standards. I think for the longest time, we haven't really had any set of guidelines on what does data look like in affiliate marketing. Is there a right or wrong way of doing it? What are the things we can do to make affiliate marketing better?
+
+[00:00:26] John Wright: So I have these conversations that come up and I know that, you know, companies like Netrefer have tried to champion this in the past with the affiliate standard reporting, affiliate standards reporting, I think it is. And there was a bunch of big affiliates that wanted to participate. I think was RakeTech, Game Lounge, Better Collective, and Katenna Media. It was, I think, a good initiative, but I think, you know, where that ASR kind of falls flat, and I'm just going to go out and say it, is I think it's standards that are supporting only one platform, which is Netrefer. And I think Netrefer does have a decent system. It's been around for quite some time.
+
+[00:01:04] John Wright: But when you say it's your way, it's kind of like you're trying to control the narrative. So I'm not going to say that we are the standards. I think we've done a great job as a company to actually standardize as much of the data as we can see across like probably a hundred plus different platforms. Like we've integrated data from, I mean, it's everyone. My affiliates, Aphesi, Everflow, Raventrack, Referon, it doesn't end. And as we do that, we kind of learn the nuances of how software companies work. And what I like about my job is we get to see some of the new innovations coming around the corner.
+
+[00:01:43] John Wright: So when you start creating a set of framework that says it only has to fit in this box, you're kind of blocking things from an innovation point of view. I think what we need is we need experimentation. We need to test. We need companies to try things where sometimes these things are going to be total failures and other times they are going to change the industry. And I think we need to focus on changing the industry. And here's my take on how I think affiliate standards could look. And it's not my only idea. I mean, I've heard this idea mentioned by many people. I mean, you know, people from like, you know, our
+
+[00:02:20] John Wright: head of product Joe Hatch, Clemence Dujardin from My Affiliates,
+
+[00:02:24] John Wright: you know, Adam Rowley from Raventrack, David Harris from Referon, it doesn't end. I think everyone's got a lot of really good ideas to bring to the table. And it all starts with allowing people just to do things and try things. And I think where everything's being held up is people walking into the space, having different jobs, whether it's being an affiliate or being an affiliate manager, and not really knowing the difference between FTD and NBC. And it starts with the naming conventions. And then it starts with like the really gritty details of like, well, wait a minute, how do I get my data from these affiliate programs? So of course, as a company, we try to help people get their
+
+[00:03:04] John Wright: data, but this is just not standardized. It's not standardized in the sense that we're learning weird things as we go where it's like, okay, we can find this report, but I need all the data. And as we try to capture all the data, these things can time out. So I think a lot of these platforms maybe aren't fully built for everyone to ask for their data, both at the same time or even just to do it at all. I think a lot of these companies have built the reporting based on well, you're going to look at a report, you're going to get it, and then you're just going to be like, okay, I got my answers. But it goes beyond that. It's like I need a copy of my data
+
+[00:03:40] John Wright: so I can reproduce the report for any reason. And I think a lot of the really good reasons are if affiliate programs go out of business, I mean, you've lost all your data.
+
+[00:03:50] John Wright: Sometimes data changes in the back end and you want to keep historical records of it. That's totally valid. We never know when a program is going to switch from one software to another, which happens way too often. And then the historical data is lost because it's not able to be formatted for the new platform that it's being migrated to. So yeah, when it comes to standards, it's like, I think we need to think outside the box. And this goes beyond just like, okay, what are the columns and data points we're going to use? It needs to go beyond it to go, well, what are the pain points for both affiliate managers, operators, and on the affiliate side, like just to give you a couple examples. I mean,
+
+[00:04:28] John Wright: if we can have a standard for tracking payments, that would make life amazing for everyone, including affiliate managers, where it's like you don't have to go through reports and go, have I been paid? Because simply put, just trying to track who's paid you is like, that's a pain in the ass. Security, another one, who's logged into my account? Who's accessing my API? Can I limit who is able to access the API data? I mean, I think once we get into this new era of affiliate data standards, I think that's where I'm going to see a lot of changes. But personally, I think this is going to take a couple years. I think it takes a lot of conversations, and I kind of believe it doesn't
+
+[00:05:07] John Wright: need to be championed by just a single person or a single company. So as much as I'd love to like, you know, say like, hey, StaffShroom's done a great job of aggregating this data and making it into our standard, it's not the only standard. And basically, I think this is up for both debate, and I think it's also up for more companies participating. So if this idea's rent resonated with you, you know how to get ahold of me, find me on LinkedIn, send me an email, john at staffshroom.com. And yeah, I think this summer we're going to be working on a couple things where we start slow, but I think this needs to be a collaborative effort. And I think this is how
+
+[00:05:47] John Wright: we can actually make affiliate marketing not just more transparent, but we can actually move things and make things better where we get into this automation, we stop revenue leak, we help people with automations and revenue optimization. I mean, at the end of the day, for all making more money, this is what it should be about, right?
