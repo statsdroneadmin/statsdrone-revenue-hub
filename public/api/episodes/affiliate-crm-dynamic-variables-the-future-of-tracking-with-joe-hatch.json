@@ -1,0 +1,337 @@
+{
+  "id": "affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch",
+  "slug": "affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch",
+  "show": "Revenue Optimization with StatsDrone",
+  "host": "John Wright",
+  "title": "Affiliate CRM, Dynamic Variables & the Future of Tracking with Joe Hatch",
+  "guest": "Joe Hatch",
+  "url": "https://revenueoptimization.io/ep/affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch/",
+  "pubDate": "Tue, 05 Aug 2025 12:12:00 +0000",
+  "duration": "27:35",
+  "audio": "https://media.castplus.fm/8k47yq9w.MP3",
+  "guid": "v07vymk1",
+  "description": "In this episode of Affiliate BI, John Wright sits down with Joe Hatch, Head of Product at StatsDrone, to pull back the curtain on the complexities of affiliate marketing infrastructure, automation, and data reliability. From building in-house stats tools to integrating dynamic variables, Joe gives a deeply informed take on what it really takes to run a successful affiliate operation at scale.\n\nThey kick off by discussing the illusion that building your own stats platform is easy. Joe details the real challenges — from managing over 1,900 affiliate programs across 90+ software types to maintaining reliable data through inconsistent APIs, scraping, and authentication hurdles. He challenges the belief that AI agents alone can solve these problems, pointing out the edge cases and standardization issues that AI still struggles with.\n\nThe episode explores practical tools and innovations Joe has been building, including WordPress plugins for Pretty Links and Thirsty Affiliates that simplify dynamic variable tracking. Joe explains how proper click ID management enables deeper analytics and real attribution, turning affiliate sites into powerful CRMs — capable of identifying individual users, tracking their behaviour post-click, and even retaining or reactivating them with targeted offers.\n\nThe conversation also dives into hot-button issues like shaving and data transparency. Joe explains the importance of change detection and communication between affiliates and operators, while emphasizing that not all data changes are nefarious.\n\nFor tech-savvy affiliates, Joe lays out integration possibilities using tools like Airtable, Looker Studio, Tableau, and the versatile n8n automation platform. They wrap with a discussion on the future of affiliate marketing as it converges with business intelligence — plus a fun mention of Joe’s satirical project, the iGaming Bullshit Generator.",
+  "has_transcript": true,
+  "socials": {},
+  "transcript_url": "https://revenueoptimization.io/api/episodes/affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch.json",
+  "transcript_md_url": "https://revenueoptimization.io/ep/affiliate-crm-dynamic-variables-the-future-of-tracking-with-joe-hatch/transcript.md",
+  "transcript_markdown": "# Transcript\n\n**Show:** Revenue Optimization with StatsDrone\n**Episode:** Affiliate CRM, Dynamic Variables & the Future of Tracking with Joe Hatch\n**Host:** John Wright\n**Guest:** Joe Hatch\n**Published:** Tue, 05 Aug 2025 12:12:00 +0000\n**Duration:** 27:35\n\nSpeaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.\n\n---\n\n[00:00:00] John Wright: It's kind of a hot potato popping, right? So I think there's always people that are going to defend lack of transparency. And there's always going to be people that are pushing for transparency. And there's definitely a balance that needs to be struck because it's about building long-term relationships, whether you're an operator or an affiliate, right, is about making sure that your working relationship is beneficial to both of you, otherwise there's no point investing more time and resources into them. So when it comes to shaving. And particularly transparency, I think there's a lot more that we can do as an industry to be more transparent and to make sure that the, you know, the,\n\n[00:00:37] John Wright: the level of communication that we have is a bit better. And obviously that starts with data accessibility. So, you know, with IGB and with the shaving detection product that we recently did, it's about when data changes in and operate the backend that has maybe not been communicated or it's things that are changing without notice. So, you know, understanding why data has changed and it's not always necessarily a bad thing. It's not always shaving to, you know, steal from an affiliate. It could be for legitimate reasons as well. It could be fraud and chargebacks or, you know, any, any kind of behavior\n\n[00:01:14] John Wright: that the operator is within their rights to adjust the data. It's just making sure that each party is aware of what these changes are and why they've happened.\n\n[00:01:25] Joe Hatch: You're listening to affiliate BI, business intelligence and affiliate marketing podcast brought to you by Statstrom.\n\n[00:01:33] John Wright: Welcome to the affiliate BI podcast. Today we're chatting with Joe Hatch, who's the head of products at Statstrom. Welcome to the show. Thank you very much, John. So we were talking about, like, I mean, you know, we talk about a lot of the things on our side of the business. And one of them was realizing that some customers, you know, one reason why they actually say, okay, we're not going to use Statstrom. We're going to build the stats app in house. So I wanted to ask you this pretty brutal question right off the bat, which is if you had to do this as your own project, let's say you're with a big company.\n\n[00:02:07] John Wright: What would this look like? How many people would you need? Um, you know, not to say like, why would you not do it? But what do you think you would expect knowing that? I think you've actually been on that side of the fence a couple of times with a few of the companies you worked for. And then it goes without saying, you're not on the Statstrom side where you see what we do day in and day out.\n\n[00:02:27] Joe Hatch: Yeah. Um, so, I mean, I've been at a few companies where at varying levels of success building this in house. Um, there is a lot more that goes into it, I think then people realize. So it's not just building a stat scraper or an aggregator. Um, and then you're done. I mean, it's not insanely difficult for you to build a tool that logs into a program and fetches your data. The complexities really come from the lack of standards and how much work baked into maintaining, um, a stats tool like Statstrom because, you know,\n\n[00:03:03] Joe Hatch: we're currently at 1900, uh, affiliate programs. It's around 4,000 brands. Now between those brands, we've got upwards of 90 plus different software. So once you get into realizing that the standardization, even the field namings, the type of reports, and even the, um, you know, the levels of authentication to get into them, whether it's API, whether it's scraping, whether you've got session authentication, two factor authentication, things like that, it does become a much more complex beast to not just to build, but to manage as well, and to make sure that it's accurate and pulling in the data reliably that you can then make an informed decision as a business.\n\n[00:03:43] John Wright: And I had someone that left a comment on the LinkedIn post that basically said he thinks that in less than a year, it's going to be possible for someone to build like an agent, an AI agent that's just going to log into the programs and get everything, uh, what's your response to that? Like, do you think that like, one, is that a good way of doing it? Or do you see a still a lot of problems with that, that project?\n\n[00:04:07] Joe Hatch: Yeah. I mean, having an AI agent isn't going to necessarily be the solution to the problem, and it might help in terms of accessing or making that data slightly more accessible, uh, in terms of whether or not that data is accurate or reliable or what you're looking for in the first place, I think would be a bit, bit trickier for people to understand, you know, there might be sometimes where you've got FTDs or NDCs or NRCs or, you know, however different programs call it. So you would actually need this agent to be fairly sophisticated in not only\n\n[00:04:45] Joe Hatch: being able to get the data, but to make sure that that data is right before you're pulling it into any other systems. Yeah. I think that's probably the biggest misunderstanding that like people don't realize the inaccuracy issues that come about. I mean, we do a lot of work to make sure that the data is accurate for our customers, but a lot of it's just kind of like trial and error. It's like a case study where, you know, it'll be inaccurate for one customer and you're like, why? And then you kind of go down a rabbit hole and sometimes you realize that that customer actually has a feature enabled for them that most customers don't see. And it's like the first time we see it. So I think a lot of people just take it for granted. They're like, it's just data, right? Like how difficult could this be?\n\n[00:05:25] John Wright: Is it, I think it's more than that though.\n\n[00:05:29] Joe Hatch: Yeah. Um, there's plenty of different edge cases for different software is how they handle data. Um, you know, for example, we're still seeing programs that are heavily reliant on spreadsheets and sending data manually. Obviously that's not something that could easily be automated. We've got, you know, many different reports that we often have to, it's not just one report that we're collecting data from. We're actually oftentimes going to many different reports. We've got payload reports, customer activity, registration, earnings, dynamic reports. Um, and obviously these are all different by, uh, by software as well.\n\n[00:06:05] Joe Hatch: So not only is it that the program software will offer different reports, but oftentimes the brands themselves inside an affiliate program will also have different reports available to different levels of customers. So, you know, super affiliates with a really strong relationship might get out there to say, you know, play a level reporting. Um, whereas other affiliates that are maybe smaller, they might not even get access to reports that have got that data broken down by commission type, you know, by revenue share or by CPA.\n\n[00:06:33] John Wright: And what is the difference between postbacks and dynamic variables? It's a good question. Um, so the main difference is that they're fundamentally different, uh, software's right. So a dynamic variables, these are things that the affiliate controls their parameters that you append inside tracking links, um, almost like your click level tracking, so click IDs, but you can also append, um, kind of user agent data, you can, you know, do geo device landing page, their parameters that the affiliate will send to an affiliate program to be reported and recorded and stored inside those reports.\n\n[00:07:10] John Wright: Whereas a postback is more like a confirmation of an action taking place. So it's something that's controlled by the program, by the brand or by the software, um, and it will post back information saying that an action has taken place. So you might want to have that on, let's say registration for a audit or qualified, uh, CPA, disqualified CPA, NGR change, for example. Um, and it's essentially like how I've described it before is almost like a read receipt on, on an email. So they send, uh, you send the text or sorry, you send an email and then you\n\n[00:07:47] John Wright: get a notification saying that, Hey, this person has opened the email. It's kind of more complex version of not where it's telling you an action has taken place, this person that you sent us as registered or they've deposited or they've converted. Okay. And so, uh, another topic that's kind of come about since, you know, we got a, an IGB award and you know, some of the work you've done on change logs. Um, what do you think about shaving and data transparency? Are we going to naturally just move into a place where data becomes more transparent or is this something that affiliates are always going to have to stay on top of?\n\n[00:08:23] John Wright: Uh, yeah, I mean, it's kind of a hot potato topic, right? So I think there's always people that are going to defend lack of transparency and there's always going to be people that are pushing for transparency and there's definitely a balance that needs to be struck because it's about building long-term relationships, whether you're an operator or an affiliate, right? It's about making sure that your working relationship is beneficial to both of you. Otherwise there's no point investing more time and resources into them. So when it comes to shaving and particularly transparency, I think there's a lot more that we can do as an industry to be more transparent and to\n\n[00:08:59] John Wright: make sure that the, you know, the, the level of communication that we have is a bit better and obviously that starts with data accessibility. So, you know, with IGB and with the shaving detection product that we recently did, it's about when data changes in an operate backend that has maybe not been communicated or it's things that are changing without notice. So, you know, understanding why data has changed and it's not always necessarily a bad thing. It's not always shaving to, you know, steal from an affiliate. It could be for legitimate reasons as well. It could be fraud and chargebacks or, you know, any, any kind of behavior that the\n\n[00:09:39] John Wright: operator is within their rights to adjust the data, it's just making sure that each party is aware of what these changes are and why they've happened. So, why do you think it's challenging for affiliates to get started with dynamic variables? And I kind of already know part of the answer, which is, I mean, you know, half a year ago, you built like a demo affiliate site and you, you basically use Stadstral dynamic variables with Google Tag Manager. And I think it was maybe pretty links and something else.\n\n[00:10:09] John Wright: What's stopping people from getting started with this? Is it, is it, they need a done for you service, better tools that do more of it for you, education, or is it all of it?\n\n[00:10:19] John Wright: Yeah.\n\n[00:10:20] Joe Hatch: Yes. Good question. The biggest challenge I think is almost it depends answer. So implementing dynamic variables on paper can be quite straightforward.\n\n[00:10:35] John Wright: However, you would need to know which parameters different softwares are looking for in order to send parameters that stored. You'd also need to be able to make sure that you're able to use a tool or build your own tool that's extendable so that it can generate something like a click ID, so that would need to be action. Every single click would need a, let's say a unique click ID so that it can be separated from the rest of the tracking links in the same campaign. Um, but yeah, I mean, first of all, the lack of standardization, you've got many different softwares that use many different parameters. If we were to just go through a few examples, there's, um, you know,\n\n[00:11:12] John Wright: AFP parameters, you've got payload parameters, you've got C parameters. There one there to sub ID, click ID. So every different software has different naming conventions. Um, having that mapping makes it slightly easier to send the parameters. Um, but then the tooling as well. So if you're using something like volume or Kitaro, um, you might have already set these up. They might be historically running traffic to campaigns, or maybe you're using WordPress plugins and again, your approach varies by, uh, your current technology stack, but that's the biggest hurdle I would say to getting into this is understanding the fundamental concepts enough and\n\n[00:11:51] John Wright: then applying them to your unique situation as an affiliate. Okay. And not long ago you built some, I don't know if you call them plugins or add-ons for both pretty links and Thursday affiliates. Uh, can you explain what you've done with those tools? And my understanding is that you've done a lot of the mapping for the affiliate, which I think to do it on their own would have been a lot of work. So now all those parameters that you just mentioned, how they're not standardized, you've made built those standardizations into a plugin that connects to both pretty links and Thursday affiliates.\n\n[00:12:23] Joe Hatch: Yes. Yeah. So essentially they're, they're plug-ins they're available on my GitHub repository for anyone who take a look. Um, the simpler explanation of how they work is they hook into the respective plugins, so they're an extension of the existing plugins, so pretty links and firstly affiliates, they're both, uh, available for, uh, installation. They do pretty links, you know, redirection, making sure that your links are rounded. Uh, and what my plug-ins do is essentially it hooks into the core of those plugins and intercepts the redirection. Uh, and it will do the click ID generation, which is a cryptographic\n\n[00:13:01] Joe Hatch: me secure kind of ID so that it's unique within, uh, you know, not for it not to be duplicated, um, and it will append that into a parameter that each software can, can receive. Now the additional step that needs to happen is obviously, instead of setting up your link as normal, you would need to then select which software that link belongs to, which is then adding a meta box inside of WordPress. So yeah, the, the very quick high level answer to that is it basically extended that by giving you the option to select a software based on the software you pick, it will use the correct variables you send a parameter. It will generate that parameter and make sure that it's carried across through the redirect.\n\n[00:13:41] Joe Hatch: Okay. And if people are using Kitaro or volume, which are, you know, their advanced link tracking tools, those are typically set up mostly for post backs, if I'm understanding right. Um, and if they've set up the system properly for dynamic variables, what would that look like? So what's the difference between not having a set up rate versus accidentally setting up right where stats from can retroactively grab all the dynamic variable data without the affiliate even knowing they had it.\n\n[00:14:09] John Wright: It can, excuse me. Yeah. So if you've set this up for a post back, uh, again, it depends on how it's been set up, if you've set this up in a way that is using that correct mapping, so the, the parameters that are being stored by the software, then we can proactively get it because it's already being stored by the affiliate program in their software. Um, so our dynamic variables integration, as I said before, it will go through all of those reports that have the dynamic parameters enabled. So customer activity, registration, dynamic reports, media reports, click lists, commissions, where these, um, are being stored.\n\n[00:14:47] John Wright: We are able to actually fetch them and say, this was the variable that was sent and time that it was sent. So we can historically go back and fetch that if it's configured in a way that is maybe a bigger proposed back, but without the, let's call it custom parameters, so not a click ID or sub ID parameter that's being stored by the program, then we wouldn't be able to see it because it doesn't exist in those reports. Okay. And then pivoting if, if Stassel were to change a couple of things, um, what would it look like to say that Stassel is like an affiliate CRM?\n\n[00:15:24] Joe Hatch: Uh, yes. So we've had a few conversations with customers and I think the affiliate CRM, um, kind of player account management for affiliates is something that's come up quite a few times. So again, depends on your current setup, what we can do at a dynamic variable level with Stassel is we're able to fetch, uh, click level data. So we would be able to see which click led to a deposit in an action. And we can separate out the revenue metrics and the KPIs based on an individual click now, if we were to extend that outside, you've got everything that happens pre-click. So on your website and then everything that happens, let's say post, post\n\n[00:16:02] Joe Hatch: click, which is your player engagement or your player activity. Um, so for a, let's say a really advanced affiliate who has first party data, they've got a user system, logins, email addresses on their site. Users are, uh, identifiable individually. Uh, you would be able to say, send an ID, but not just a click ID. It would be an ID that is identifiable to that person. You could send that across in an anonymized way. So you're not sending personal identifiable information, but you're able to identify it back to a user from your sites. Um, you've got the click ID.\n\n[00:16:38] Joe Hatch: So you know, the context of that click happening, the conversion. And then if you would also add to the player engagement from the operator side, which would be their player ID and that positive behavior, and maybe their bonuses, you've then got full funnel attribution of, you know, a single person, what their behavior is on your site, what offers they've converted for what their behavior is afterwards. So they then down the line stop playing and you see those deposits go to zero. You would actually be able to reach out and say, Hey, um, I saw that you're no longer playing with this, this brand, or you're no longer depositing with this brand, and one of two things will happen.\n\n[00:17:16] Joe Hatch: Ivy can reactivate them with an offer that's, you know, retention offer, or you can re target them and give them a different offer for a different brand and re-manipose them in a different brand in case they said they didn't want to play there because of whatever reasons they have. Or they tell you that they're still playing and they've actually lost $20,000 recently and they're like, what are you talking about?\n\n[00:17:37] John Wright: Or you could do that. Yes. Which would be the, uh, what you would see that behavior in our change log as well going to zero. So that is with a click ID and an identify, you're able to start seeing which players is dropping out of the system.\n\n[00:17:50] Joe Hatch: I want to talk about integrations as an idea of like how you can connect staff shown to like different things. I mean, you've already done quite a bit where it's like, uh, like as a team, we've exported a lot of the data into Tableau, Looker Studio, Power BI. Um, I know you've done some work with like N8N. Um, I know you've been talking about also, uh, building like parts of the CRM using air table, um, talk about some integrations that you think, uh, affiliates should be thinking about.\n\n[00:18:21] John Wright: Yeah. Um, I mean, it's kind of a choose your own adventure, isn't it? So the, the main thing that powers all of these integrations is our, our data export from, from Statstrone. We have an API that allows you to get data out of our app. So that's quite, um, a simple API. It's in Jason, you get your account brand campaign, dynamic variables, information, you get it broken down by day. Um, there are many different kinds of integration options that I have done. And I have seen both as a customer and now working with Statstrone.\n\n[00:18:57] John Wright: Um, one kind of quite good example of that was we, we were running an affiliate operation, we had multiple sub affiliates and streamers underneath us. Um, and we wanted to give each of them daily stacks on their performance. So obviously we created a campaign for each of the sub affiliate sources and they were tagged inside of Statstrone. So we were able to see which, um, sub affiliate was doing which numbers. And, you know, we, we wanted to give them all a dashboard. So they were able to see that.\n\n[00:19:30] Joe Hatch: With that API, we managed to build out initially, we built out a Google sheet that every day would update their statistics for the previous day. And they were able to see how many clicks, deposits, signups that they had. Um, and then also that went into more of a visual dashboard where you had graphs and charts, and they were quite happy to see that in terms of only for their information.\n\n[00:19:52] John Wright: Um, and then we've done things on the opposite side, which is, yeah, pull everything out into data, this tools, little studio. And that's again, from the API into another database that's then used out of the connections to also it gets updated every time the account sings with new data for, for the visualizations.\n\n[00:20:10] John Wright: Do you think, uh, the tool and eight N could actually be, you know, maybe should be become one of the most used integrations. I mean, every time you show me what you can do with N8N, I'm like, this just doesn't end. It's infinite. Yes. Yeah. It's, um, yeah, definitely powerful. Um, obviously it's an alternative to things like Xamppia. So it's very, or made or made or made. Yeah. I mean, the, if then that style workflow is, is very good, but you've also got the ability to run the custom code modules inside that as well. So N8N I use a lot for kind of very high level prototyping or quick MVP\n\n[00:20:48] John Wright: is to make sure that something is, um, it's possible before building it out with maybe a tech team. So it's definitely something that should be utilized for workflows, especially when you're looking at possible projects that you don't want to maybe invest huge resources in from the beginning to validate that it works. Okay. Now I've got a, maybe a couple last questions. Uh, one is how would you solve this problem where you've already built a plugins for like pretty links and thirsty affiliates. And we already know about the other tools like redirection. So we have on our side databases of closed brands, closed affiliate programs and closed brands.\n\n[00:21:25] John Wright: Now, one thing I, I envision is that we're going to be hopefully in the next one to two years, um, all these link tracking tools are going to find smart redirects. How would you start building, whether it's one tool at a time or multiple, how would you start doing these smart redirects such that when these things happen, when the brand is completely closed, we know you're never going to get a single commission. Uh, what's a clever way that you would solve that problem?\n\n[00:21:50] Joe Hatch: It's a good question. Um, there are probably a few layers and a few phases I would, I would approach it. And so obviously the first one would be making sure that the links healthy. So the first, the first level check would be monitoring my redirections to make sure that I'm getting, you know, a three and two response that it's redirected. And then I would end up on a page with say a 200, which is fine or whatever that would look like in that scenario. So if a brand was to go offline, are they, have they closed the website? Are the links still working? So in many cases, the links would go offline and you should be alerted of them.\n\n[00:22:28] Joe Hatch: And that would be kind of level one is making sure my links are not broken. Um, the next level on top of that would be obviously part of the brand database. So what is the status of these brands? Now you might have brands that are open or closed or potentially they've even migrated software. So you've then got, are they open? Is it the right software? You get the right tracking link. If I have a brand that's moved from software A to software B, but I have an update in my links, I could still be sending traffic, but not getting paid for it because it's no longer being registered in the correct system, regardless of what we direction happen on the, on the brand side. Um, that would be the second layer.\n\n[00:23:07] Joe Hatch: And then the third layer would obviously be, um, yeah, making sure that you're also testing the full journey. So whether you do kind of manual testing, signing up and making sure that not only is the signup process working or any postbacks that you have set up working and variables, but also checking it first hand to make sure things like your effective revenue share is accurate. I'm on a 70% rev share deal. Um, I deposit 10 euros and you know, in the end I get 50 cents out of it. Then I know that something broken along that calculation as well. So a lot of these find fall into that revenue leak kind of category we speak a lot about. Um, there's not a one size fits all. Aren't there?\n\n[00:23:46] Joe Hatch: There's a few different ways of approaching, but those would be the main key things that I would look for. Okay. And I'm, I'm thinking out loud that, I mean, let's just pretend we're dealing with redirection. It's like probably the easiest way to solve the problem would be if we know the link is closed, have like an API that comes from us that points to it. And it's like, if we know this is closed, then what we want to do is, uh, swap the link and the link becomes maybe like a pop-up and the pop-up is like, this is close and we're going to recommend three random tracking links. It's like, it's just going to be anchor texts and it's just going to be. Your L is like pretty basic. I'm assuming that would probably be one of the fastest ways of just deploying this and making it so it's effective.\n\n[00:24:27] Joe Hatch: Yeah.\n\n[00:24:28] Joe Hatch: Yeah. It wouldn't work. Um, obviously there would need to be considerations just for things like.\n\n[00:24:35] John Wright: Are we still complying in the way that we're sending traffic, especially if you're working in regulated markets? Um, but overall, yes, if it's closed based on the metadata that you should have around the brand in terms of their license, their geos, where they accept players, their payment members, having that metadata will help you do these redirects to something that is.\n\n[00:24:55] Joe Hatch: Similar to where you're originally redirecting them, or you could even have it so that there's almost, um, you know, certain affiliate websites. They weren't even let you click the link if it's gone offline. Um, and instead they won't show you that tracking link. They'll show you alternative offers in that. So you're not then sending traffic somewhere that can't be accepted.\n\n[00:25:14] John Wright: And what do you see of the future of affiliate marketing as it intersects with business intelligence?\n\n[00:25:20] Joe Hatch: Um, well, um, I personally think that we will see more of the affiliation. CRM project popping up for the, it's owning their data more. So becoming more advanced in the data that they're collecting and the, you know, the way that they choose being transferred between parties. Um, yeah, I feel it's owning their data. Definitely. So not only are you blindly sending flicks and hoping that they'll invert, you're actually personalizing that journey, sending, you know, identifiable players to sources based on real recommendations and behaviors.\n\n[00:25:57] Joe Hatch: Um, but you're also able to monetize that multiple times with retention or with, you know, rebalting if they change different brands. Um, but also the data back to us from operators I see will start changing. So there's a lot more book around real time dates and having more available dates and data touch points. I think it's slowly, slowly starting to get a bit more transparent and it definitely has stepped in the right direction. And is the eye gaming bullshit generator also in real time?\n\n[00:26:27] John Wright: Uh, actually, yes, it is. Um, if you go to I gaming bullshit, generated.com and you start generating bullshit, you'll see the numbers go up.\n\n[00:26:36] John Wright: Surprisingly after a few months, it's still got some function.\n\n[00:26:40] John Wright: And are people using this to put the text on their booths? Because when I read it, it's like, I think I've seen where this, this came from.\n\n[00:26:49] Joe Hatch: I can't speak for boobs. I'm, I'm fairly convinced that they're ending up in my involves definitely before the shows.\n\n[00:26:58] John Wright: Awesome. How can people get ahold of you?\n\n[00:27:00] John Wright: Uh, so Joe hatch on a LinkedIn and Joe at stats drone.com and we'll include I gaming bullshit, generated.com as well.\n\n[00:27:09] John Wright: Absolutely. You've got my LinkedIn there as well. Awesome. Thanks a lot, Joe. Super. Thank you, John. To the affiliate BI podcast. I'd like to take this time to ask for small favor.\n\n[00:27:28] Joe Hatch: That helps us expand our reach to rank higher in podcast directories. And reach more listeners.\n",
+  "turns": [
+    {
+      "t": "00:00:00",
+      "speaker": "John Wright",
+      "text": "It's kind of a hot potato popping, right? So I think there's always people that are going to defend lack of transparency. And there's always going to be people that are pushing for transparency. And there's definitely a balance that needs to be struck because it's about building long-term relationships, whether you're an operator or an affiliate, right, is about making sure that your working relationship is beneficial to both of you, otherwise there's no point investing more time and resources into them. So when it comes to shaving. And particularly transparency, I think there's a lot more that we can do as an industry to be more transparent and to make sure that the, you know, the,"
+    },
+    {
+      "t": "00:00:37",
+      "speaker": "John Wright",
+      "text": "the level of communication that we have is a bit better. And obviously that starts with data accessibility. So, you know, with IGB and with the shaving detection product that we recently did, it's about when data changes in and operate the backend that has maybe not been communicated or it's things that are changing without notice. So, you know, understanding why data has changed and it's not always necessarily a bad thing. It's not always shaving to, you know, steal from an affiliate. It could be for legitimate reasons as well. It could be fraud and chargebacks or, you know, any, any kind of behavior"
+    },
+    {
+      "t": "00:01:14",
+      "speaker": "John Wright",
+      "text": "that the operator is within their rights to adjust the data. It's just making sure that each party is aware of what these changes are and why they've happened."
+    },
+    {
+      "t": "00:01:25",
+      "speaker": "Joe Hatch",
+      "text": "You're listening to affiliate BI, business intelligence and affiliate marketing podcast brought to you by Statstrom."
+    },
+    {
+      "t": "00:01:33",
+      "speaker": "John Wright",
+      "text": "Welcome to the affiliate BI podcast. Today we're chatting with Joe Hatch, who's the head of products at Statstrom. Welcome to the show. Thank you very much, John. So we were talking about, like, I mean, you know, we talk about a lot of the things on our side of the business. And one of them was realizing that some customers, you know, one reason why they actually say, okay, we're not going to use Statstrom. We're going to build the stats app in house. So I wanted to ask you this pretty brutal question right off the bat, which is if you had to do this as your own project, let's say you're with a big company."
+    },
+    {
+      "t": "00:02:07",
+      "speaker": "John Wright",
+      "text": "What would this look like? How many people would you need? Um, you know, not to say like, why would you not do it? But what do you think you would expect knowing that? I think you've actually been on that side of the fence a couple of times with a few of the companies you worked for. And then it goes without saying, you're not on the Statstrom side where you see what we do day in and day out."
+    },
+    {
+      "t": "00:02:27",
+      "speaker": "Joe Hatch",
+      "text": "Yeah. Um, so, I mean, I've been at a few companies where at varying levels of success building this in house. Um, there is a lot more that goes into it, I think then people realize. So it's not just building a stat scraper or an aggregator. Um, and then you're done. I mean, it's not insanely difficult for you to build a tool that logs into a program and fetches your data. The complexities really come from the lack of standards and how much work baked into maintaining, um, a stats tool like Statstrom because, you know,"
+    },
+    {
+      "t": "00:03:03",
+      "speaker": "Joe Hatch",
+      "text": "we're currently at 1900, uh, affiliate programs. It's around 4,000 brands. Now between those brands, we've got upwards of 90 plus different software. So once you get into realizing that the standardization, even the field namings, the type of reports, and even the, um, you know, the levels of authentication to get into them, whether it's API, whether it's scraping, whether you've got session authentication, two factor authentication, things like that, it does become a much more complex beast to not just to build, but to manage as well, and to make sure that it's accurate and pulling in the data reliably that you can then make an informed decision as a business."
+    },
+    {
+      "t": "00:03:43",
+      "speaker": "John Wright",
+      "text": "And I had someone that left a comment on the LinkedIn post that basically said he thinks that in less than a year, it's going to be possible for someone to build like an agent, an AI agent that's just going to log into the programs and get everything, uh, what's your response to that? Like, do you think that like, one, is that a good way of doing it? Or do you see a still a lot of problems with that, that project?"
+    },
+    {
+      "t": "00:04:07",
+      "speaker": "Joe Hatch",
+      "text": "Yeah. I mean, having an AI agent isn't going to necessarily be the solution to the problem, and it might help in terms of accessing or making that data slightly more accessible, uh, in terms of whether or not that data is accurate or reliable or what you're looking for in the first place, I think would be a bit, bit trickier for people to understand, you know, there might be sometimes where you've got FTDs or NDCs or NRCs or, you know, however different programs call it. So you would actually need this agent to be fairly sophisticated in not only"
+    },
+    {
+      "t": "00:04:45",
+      "speaker": "Joe Hatch",
+      "text": "being able to get the data, but to make sure that that data is right before you're pulling it into any other systems. Yeah. I think that's probably the biggest misunderstanding that like people don't realize the inaccuracy issues that come about. I mean, we do a lot of work to make sure that the data is accurate for our customers, but a lot of it's just kind of like trial and error. It's like a case study where, you know, it'll be inaccurate for one customer and you're like, why? And then you kind of go down a rabbit hole and sometimes you realize that that customer actually has a feature enabled for them that most customers don't see. And it's like the first time we see it. So I think a lot of people just take it for granted. They're like, it's just data, right? Like how difficult could this be?"
+    },
+    {
+      "t": "00:05:25",
+      "speaker": "John Wright",
+      "text": "Is it, I think it's more than that though."
+    },
+    {
+      "t": "00:05:29",
+      "speaker": "Joe Hatch",
+      "text": "Yeah. Um, there's plenty of different edge cases for different software is how they handle data. Um, you know, for example, we're still seeing programs that are heavily reliant on spreadsheets and sending data manually. Obviously that's not something that could easily be automated. We've got, you know, many different reports that we often have to, it's not just one report that we're collecting data from. We're actually oftentimes going to many different reports. We've got payload reports, customer activity, registration, earnings, dynamic reports. Um, and obviously these are all different by, uh, by software as well."
+    },
+    {
+      "t": "00:06:05",
+      "speaker": "Joe Hatch",
+      "text": "So not only is it that the program software will offer different reports, but oftentimes the brands themselves inside an affiliate program will also have different reports available to different levels of customers. So, you know, super affiliates with a really strong relationship might get out there to say, you know, play a level reporting. Um, whereas other affiliates that are maybe smaller, they might not even get access to reports that have got that data broken down by commission type, you know, by revenue share or by CPA."
+    },
+    {
+      "t": "00:06:33",
+      "speaker": "John Wright",
+      "text": "And what is the difference between postbacks and dynamic variables? It's a good question. Um, so the main difference is that they're fundamentally different, uh, software's right. So a dynamic variables, these are things that the affiliate controls their parameters that you append inside tracking links, um, almost like your click level tracking, so click IDs, but you can also append, um, kind of user agent data, you can, you know, do geo device landing page, their parameters that the affiliate will send to an affiliate program to be reported and recorded and stored inside those reports."
+    },
+    {
+      "t": "00:07:10",
+      "speaker": "John Wright",
+      "text": "Whereas a postback is more like a confirmation of an action taking place. So it's something that's controlled by the program, by the brand or by the software, um, and it will post back information saying that an action has taken place. So you might want to have that on, let's say registration for a audit or qualified, uh, CPA, disqualified CPA, NGR change, for example. Um, and it's essentially like how I've described it before is almost like a read receipt on, on an email. So they send, uh, you send the text or sorry, you send an email and then you"
+    },
+    {
+      "t": "00:07:47",
+      "speaker": "John Wright",
+      "text": "get a notification saying that, Hey, this person has opened the email. It's kind of more complex version of not where it's telling you an action has taken place, this person that you sent us as registered or they've deposited or they've converted. Okay. And so, uh, another topic that's kind of come about since, you know, we got a, an IGB award and you know, some of the work you've done on change logs. Um, what do you think about shaving and data transparency? Are we going to naturally just move into a place where data becomes more transparent or is this something that affiliates are always going to have to stay on top of?"
+    },
+    {
+      "t": "00:08:23",
+      "speaker": "John Wright",
+      "text": "Uh, yeah, I mean, it's kind of a hot potato topic, right? So I think there's always people that are going to defend lack of transparency and there's always going to be people that are pushing for transparency and there's definitely a balance that needs to be struck because it's about building long-term relationships, whether you're an operator or an affiliate, right? It's about making sure that your working relationship is beneficial to both of you. Otherwise there's no point investing more time and resources into them. So when it comes to shaving and particularly transparency, I think there's a lot more that we can do as an industry to be more transparent and to"
+    },
+    {
+      "t": "00:08:59",
+      "speaker": "John Wright",
+      "text": "make sure that the, you know, the, the level of communication that we have is a bit better and obviously that starts with data accessibility. So, you know, with IGB and with the shaving detection product that we recently did, it's about when data changes in an operate backend that has maybe not been communicated or it's things that are changing without notice. So, you know, understanding why data has changed and it's not always necessarily a bad thing. It's not always shaving to, you know, steal from an affiliate. It could be for legitimate reasons as well. It could be fraud and chargebacks or, you know, any, any kind of behavior that the"
+    },
+    {
+      "t": "00:09:39",
+      "speaker": "John Wright",
+      "text": "operator is within their rights to adjust the data, it's just making sure that each party is aware of what these changes are and why they've happened. So, why do you think it's challenging for affiliates to get started with dynamic variables? And I kind of already know part of the answer, which is, I mean, you know, half a year ago, you built like a demo affiliate site and you, you basically use Stadstral dynamic variables with Google Tag Manager. And I think it was maybe pretty links and something else."
+    },
+    {
+      "t": "00:10:09",
+      "speaker": "John Wright",
+      "text": "What's stopping people from getting started with this? Is it, is it, they need a done for you service, better tools that do more of it for you, education, or is it all of it?"
+    },
+    {
+      "t": "00:10:19",
+      "speaker": "John Wright",
+      "text": "Yeah."
+    },
+    {
+      "t": "00:10:20",
+      "speaker": "Joe Hatch",
+      "text": "Yes. Good question. The biggest challenge I think is almost it depends answer. So implementing dynamic variables on paper can be quite straightforward."
+    },
+    {
+      "t": "00:10:35",
+      "speaker": "John Wright",
+      "text": "However, you would need to know which parameters different softwares are looking for in order to send parameters that stored. You'd also need to be able to make sure that you're able to use a tool or build your own tool that's extendable so that it can generate something like a click ID, so that would need to be action. Every single click would need a, let's say a unique click ID so that it can be separated from the rest of the tracking links in the same campaign. Um, but yeah, I mean, first of all, the lack of standardization, you've got many different softwares that use many different parameters. If we were to just go through a few examples, there's, um, you know,"
+    },
+    {
+      "t": "00:11:12",
+      "speaker": "John Wright",
+      "text": "AFP parameters, you've got payload parameters, you've got C parameters. There one there to sub ID, click ID. So every different software has different naming conventions. Um, having that mapping makes it slightly easier to send the parameters. Um, but then the tooling as well. So if you're using something like volume or Kitaro, um, you might have already set these up. They might be historically running traffic to campaigns, or maybe you're using WordPress plugins and again, your approach varies by, uh, your current technology stack, but that's the biggest hurdle I would say to getting into this is understanding the fundamental concepts enough and"
+    },
+    {
+      "t": "00:11:51",
+      "speaker": "John Wright",
+      "text": "then applying them to your unique situation as an affiliate. Okay. And not long ago you built some, I don't know if you call them plugins or add-ons for both pretty links and Thursday affiliates. Uh, can you explain what you've done with those tools? And my understanding is that you've done a lot of the mapping for the affiliate, which I think to do it on their own would have been a lot of work. So now all those parameters that you just mentioned, how they're not standardized, you've made built those standardizations into a plugin that connects to both pretty links and Thursday affiliates."
+    },
+    {
+      "t": "00:12:23",
+      "speaker": "Joe Hatch",
+      "text": "Yes. Yeah. So essentially they're, they're plug-ins they're available on my GitHub repository for anyone who take a look. Um, the simpler explanation of how they work is they hook into the respective plugins, so they're an extension of the existing plugins, so pretty links and firstly affiliates, they're both, uh, available for, uh, installation. They do pretty links, you know, redirection, making sure that your links are rounded. Uh, and what my plug-ins do is essentially it hooks into the core of those plugins and intercepts the redirection. Uh, and it will do the click ID generation, which is a cryptographic"
+    },
+    {
+      "t": "00:13:01",
+      "speaker": "Joe Hatch",
+      "text": "me secure kind of ID so that it's unique within, uh, you know, not for it not to be duplicated, um, and it will append that into a parameter that each software can, can receive. Now the additional step that needs to happen is obviously, instead of setting up your link as normal, you would need to then select which software that link belongs to, which is then adding a meta box inside of WordPress. So yeah, the, the very quick high level answer to that is it basically extended that by giving you the option to select a software based on the software you pick, it will use the correct variables you send a parameter. It will generate that parameter and make sure that it's carried across through the redirect."
+    },
+    {
+      "t": "00:13:41",
+      "speaker": "Joe Hatch",
+      "text": "Okay. And if people are using Kitaro or volume, which are, you know, their advanced link tracking tools, those are typically set up mostly for post backs, if I'm understanding right. Um, and if they've set up the system properly for dynamic variables, what would that look like? So what's the difference between not having a set up rate versus accidentally setting up right where stats from can retroactively grab all the dynamic variable data without the affiliate even knowing they had it."
+    },
+    {
+      "t": "00:14:09",
+      "speaker": "John Wright",
+      "text": "It can, excuse me. Yeah. So if you've set this up for a post back, uh, again, it depends on how it's been set up, if you've set this up in a way that is using that correct mapping, so the, the parameters that are being stored by the software, then we can proactively get it because it's already being stored by the affiliate program in their software. Um, so our dynamic variables integration, as I said before, it will go through all of those reports that have the dynamic parameters enabled. So customer activity, registration, dynamic reports, media reports, click lists, commissions, where these, um, are being stored."
+    },
+    {
+      "t": "00:14:47",
+      "speaker": "John Wright",
+      "text": "We are able to actually fetch them and say, this was the variable that was sent and time that it was sent. So we can historically go back and fetch that if it's configured in a way that is maybe a bigger proposed back, but without the, let's call it custom parameters, so not a click ID or sub ID parameter that's being stored by the program, then we wouldn't be able to see it because it doesn't exist in those reports. Okay. And then pivoting if, if Stassel were to change a couple of things, um, what would it look like to say that Stassel is like an affiliate CRM?"
+    },
+    {
+      "t": "00:15:24",
+      "speaker": "Joe Hatch",
+      "text": "Uh, yes. So we've had a few conversations with customers and I think the affiliate CRM, um, kind of player account management for affiliates is something that's come up quite a few times. So again, depends on your current setup, what we can do at a dynamic variable level with Stassel is we're able to fetch, uh, click level data. So we would be able to see which click led to a deposit in an action. And we can separate out the revenue metrics and the KPIs based on an individual click now, if we were to extend that outside, you've got everything that happens pre-click. So on your website and then everything that happens, let's say post, post"
+    },
+    {
+      "t": "00:16:02",
+      "speaker": "Joe Hatch",
+      "text": "click, which is your player engagement or your player activity. Um, so for a, let's say a really advanced affiliate who has first party data, they've got a user system, logins, email addresses on their site. Users are, uh, identifiable individually. Uh, you would be able to say, send an ID, but not just a click ID. It would be an ID that is identifiable to that person. You could send that across in an anonymized way. So you're not sending personal identifiable information, but you're able to identify it back to a user from your sites. Um, you've got the click ID."
+    },
+    {
+      "t": "00:16:38",
+      "speaker": "Joe Hatch",
+      "text": "So you know, the context of that click happening, the conversion. And then if you would also add to the player engagement from the operator side, which would be their player ID and that positive behavior, and maybe their bonuses, you've then got full funnel attribution of, you know, a single person, what their behavior is on your site, what offers they've converted for what their behavior is afterwards. So they then down the line stop playing and you see those deposits go to zero. You would actually be able to reach out and say, Hey, um, I saw that you're no longer playing with this, this brand, or you're no longer depositing with this brand, and one of two things will happen."
+    },
+    {
+      "t": "00:17:16",
+      "speaker": "Joe Hatch",
+      "text": "Ivy can reactivate them with an offer that's, you know, retention offer, or you can re target them and give them a different offer for a different brand and re-manipose them in a different brand in case they said they didn't want to play there because of whatever reasons they have. Or they tell you that they're still playing and they've actually lost $20,000 recently and they're like, what are you talking about?"
+    },
+    {
+      "t": "00:17:37",
+      "speaker": "John Wright",
+      "text": "Or you could do that. Yes. Which would be the, uh, what you would see that behavior in our change log as well going to zero. So that is with a click ID and an identify, you're able to start seeing which players is dropping out of the system."
+    },
+    {
+      "t": "00:17:50",
+      "speaker": "Joe Hatch",
+      "text": "I want to talk about integrations as an idea of like how you can connect staff shown to like different things. I mean, you've already done quite a bit where it's like, uh, like as a team, we've exported a lot of the data into Tableau, Looker Studio, Power BI. Um, I know you've done some work with like N8N. Um, I know you've been talking about also, uh, building like parts of the CRM using air table, um, talk about some integrations that you think, uh, affiliates should be thinking about."
+    },
+    {
+      "t": "00:18:21",
+      "speaker": "John Wright",
+      "text": "Yeah. Um, I mean, it's kind of a choose your own adventure, isn't it? So the, the main thing that powers all of these integrations is our, our data export from, from Statstrone. We have an API that allows you to get data out of our app. So that's quite, um, a simple API. It's in Jason, you get your account brand campaign, dynamic variables, information, you get it broken down by day. Um, there are many different kinds of integration options that I have done. And I have seen both as a customer and now working with Statstrone."
+    },
+    {
+      "t": "00:18:57",
+      "speaker": "John Wright",
+      "text": "Um, one kind of quite good example of that was we, we were running an affiliate operation, we had multiple sub affiliates and streamers underneath us. Um, and we wanted to give each of them daily stacks on their performance. So obviously we created a campaign for each of the sub affiliate sources and they were tagged inside of Statstrone. So we were able to see which, um, sub affiliate was doing which numbers. And, you know, we, we wanted to give them all a dashboard. So they were able to see that."
+    },
+    {
+      "t": "00:19:30",
+      "speaker": "Joe Hatch",
+      "text": "With that API, we managed to build out initially, we built out a Google sheet that every day would update their statistics for the previous day. And they were able to see how many clicks, deposits, signups that they had. Um, and then also that went into more of a visual dashboard where you had graphs and charts, and they were quite happy to see that in terms of only for their information."
+    },
+    {
+      "t": "00:19:52",
+      "speaker": "John Wright",
+      "text": "Um, and then we've done things on the opposite side, which is, yeah, pull everything out into data, this tools, little studio. And that's again, from the API into another database that's then used out of the connections to also it gets updated every time the account sings with new data for, for the visualizations."
+    },
+    {
+      "t": "00:20:10",
+      "speaker": "John Wright",
+      "text": "Do you think, uh, the tool and eight N could actually be, you know, maybe should be become one of the most used integrations. I mean, every time you show me what you can do with N8N, I'm like, this just doesn't end. It's infinite. Yes. Yeah. It's, um, yeah, definitely powerful. Um, obviously it's an alternative to things like Xamppia. So it's very, or made or made or made. Yeah. I mean, the, if then that style workflow is, is very good, but you've also got the ability to run the custom code modules inside that as well. So N8N I use a lot for kind of very high level prototyping or quick MVP"
+    },
+    {
+      "t": "00:20:48",
+      "speaker": "John Wright",
+      "text": "is to make sure that something is, um, it's possible before building it out with maybe a tech team. So it's definitely something that should be utilized for workflows, especially when you're looking at possible projects that you don't want to maybe invest huge resources in from the beginning to validate that it works. Okay. Now I've got a, maybe a couple last questions. Uh, one is how would you solve this problem where you've already built a plugins for like pretty links and thirsty affiliates. And we already know about the other tools like redirection. So we have on our side databases of closed brands, closed affiliate programs and closed brands."
+    },
+    {
+      "t": "00:21:25",
+      "speaker": "John Wright",
+      "text": "Now, one thing I, I envision is that we're going to be hopefully in the next one to two years, um, all these link tracking tools are going to find smart redirects. How would you start building, whether it's one tool at a time or multiple, how would you start doing these smart redirects such that when these things happen, when the brand is completely closed, we know you're never going to get a single commission. Uh, what's a clever way that you would solve that problem?"
+    },
+    {
+      "t": "00:21:50",
+      "speaker": "Joe Hatch",
+      "text": "It's a good question. Um, there are probably a few layers and a few phases I would, I would approach it. And so obviously the first one would be making sure that the links healthy. So the first, the first level check would be monitoring my redirections to make sure that I'm getting, you know, a three and two response that it's redirected. And then I would end up on a page with say a 200, which is fine or whatever that would look like in that scenario. So if a brand was to go offline, are they, have they closed the website? Are the links still working? So in many cases, the links would go offline and you should be alerted of them."
+    },
+    {
+      "t": "00:22:28",
+      "speaker": "Joe Hatch",
+      "text": "And that would be kind of level one is making sure my links are not broken. Um, the next level on top of that would be obviously part of the brand database. So what is the status of these brands? Now you might have brands that are open or closed or potentially they've even migrated software. So you've then got, are they open? Is it the right software? You get the right tracking link. If I have a brand that's moved from software A to software B, but I have an update in my links, I could still be sending traffic, but not getting paid for it because it's no longer being registered in the correct system, regardless of what we direction happen on the, on the brand side. Um, that would be the second layer."
+    },
+    {
+      "t": "00:23:07",
+      "speaker": "Joe Hatch",
+      "text": "And then the third layer would obviously be, um, yeah, making sure that you're also testing the full journey. So whether you do kind of manual testing, signing up and making sure that not only is the signup process working or any postbacks that you have set up working and variables, but also checking it first hand to make sure things like your effective revenue share is accurate. I'm on a 70% rev share deal. Um, I deposit 10 euros and you know, in the end I get 50 cents out of it. Then I know that something broken along that calculation as well. So a lot of these find fall into that revenue leak kind of category we speak a lot about. Um, there's not a one size fits all. Aren't there?"
+    },
+    {
+      "t": "00:23:46",
+      "speaker": "Joe Hatch",
+      "text": "There's a few different ways of approaching, but those would be the main key things that I would look for. Okay. And I'm, I'm thinking out loud that, I mean, let's just pretend we're dealing with redirection. It's like probably the easiest way to solve the problem would be if we know the link is closed, have like an API that comes from us that points to it. And it's like, if we know this is closed, then what we want to do is, uh, swap the link and the link becomes maybe like a pop-up and the pop-up is like, this is close and we're going to recommend three random tracking links. It's like, it's just going to be anchor texts and it's just going to be. Your L is like pretty basic. I'm assuming that would probably be one of the fastest ways of just deploying this and making it so it's effective."
+    },
+    {
+      "t": "00:24:27",
+      "speaker": "Joe Hatch",
+      "text": "Yeah."
+    },
+    {
+      "t": "00:24:28",
+      "speaker": "Joe Hatch",
+      "text": "Yeah. It wouldn't work. Um, obviously there would need to be considerations just for things like."
+    },
+    {
+      "t": "00:24:35",
+      "speaker": "John Wright",
+      "text": "Are we still complying in the way that we're sending traffic, especially if you're working in regulated markets? Um, but overall, yes, if it's closed based on the metadata that you should have around the brand in terms of their license, their geos, where they accept players, their payment members, having that metadata will help you do these redirects to something that is."
+    },
+    {
+      "t": "00:24:55",
+      "speaker": "Joe Hatch",
+      "text": "Similar to where you're originally redirecting them, or you could even have it so that there's almost, um, you know, certain affiliate websites. They weren't even let you click the link if it's gone offline. Um, and instead they won't show you that tracking link. They'll show you alternative offers in that. So you're not then sending traffic somewhere that can't be accepted."
+    },
+    {
+      "t": "00:25:14",
+      "speaker": "John Wright",
+      "text": "And what do you see of the future of affiliate marketing as it intersects with business intelligence?"
+    },
+    {
+      "t": "00:25:20",
+      "speaker": "Joe Hatch",
+      "text": "Um, well, um, I personally think that we will see more of the affiliation. CRM project popping up for the, it's owning their data more. So becoming more advanced in the data that they're collecting and the, you know, the way that they choose being transferred between parties. Um, yeah, I feel it's owning their data. Definitely. So not only are you blindly sending flicks and hoping that they'll invert, you're actually personalizing that journey, sending, you know, identifiable players to sources based on real recommendations and behaviors."
+    },
+    {
+      "t": "00:25:57",
+      "speaker": "Joe Hatch",
+      "text": "Um, but you're also able to monetize that multiple times with retention or with, you know, rebalting if they change different brands. Um, but also the data back to us from operators I see will start changing. So there's a lot more book around real time dates and having more available dates and data touch points. I think it's slowly, slowly starting to get a bit more transparent and it definitely has stepped in the right direction. And is the eye gaming bullshit generator also in real time?"
+    },
+    {
+      "t": "00:26:27",
+      "speaker": "John Wright",
+      "text": "Uh, actually, yes, it is. Um, if you go to I gaming bullshit, generated.com and you start generating bullshit, you'll see the numbers go up."
+    },
+    {
+      "t": "00:26:36",
+      "speaker": "John Wright",
+      "text": "Surprisingly after a few months, it's still got some function."
+    },
+    {
+      "t": "00:26:40",
+      "speaker": "John Wright",
+      "text": "And are people using this to put the text on their booths? Because when I read it, it's like, I think I've seen where this, this came from."
+    },
+    {
+      "t": "00:26:49",
+      "speaker": "Joe Hatch",
+      "text": "I can't speak for boobs. I'm, I'm fairly convinced that they're ending up in my involves definitely before the shows."
+    },
+    {
+      "t": "00:26:58",
+      "speaker": "John Wright",
+      "text": "Awesome. How can people get ahold of you?"
+    },
+    {
+      "t": "00:27:00",
+      "speaker": "John Wright",
+      "text": "Uh, so Joe hatch on a LinkedIn and Joe at stats drone.com and we'll include I gaming bullshit, generated.com as well."
+    },
+    {
+      "t": "00:27:09",
+      "speaker": "John Wright",
+      "text": "Absolutely. You've got my LinkedIn there as well. Awesome. Thanks a lot, Joe. Super. Thank you, John. To the affiliate BI podcast. I'd like to take this time to ask for small favor."
+    },
+    {
+      "t": "00:27:28",
+      "speaker": "Joe Hatch",
+      "text": "That helps us expand our reach to rank higher in podcast directories. And reach more listeners."
+    }
+  ],
+  "turn_count": 63
+}

@@ -1,0 +1,572 @@
+{
+  "id": "advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica",
+  "slug": "advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica",
+  "show": "Revenue Optimization with StatsDrone",
+  "host": "John Wright",
+  "title": "Advanced Analytics in Affiliate Marketing with Cristian Ionescu from Witanalytica",
+  "guest": "Cristian Ionescu",
+  "url": "https://revenueoptimization.io/ep/advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica/",
+  "pubDate": "Thu, 15 Aug 2024 10:02:00 +0000",
+  "duration": "49:26",
+  "audio": "https://media.castplus.fm/wrj767nw.MP3",
+  "guid": "x1ln7m91",
+  "description": "Meet Cristian Ionescu who's the co-founder of Witanalytica and one of the analytics experts at his company.\n\nCristian thinks that affiliate marketing as an industry can be doubled over and that we've not even scratched the surface in terms of what we are capable of achieving given that Business Intelligence in affiliate marketing is fairly new.",
+  "has_transcript": true,
+  "socials": {},
+  "transcript_url": "https://revenueoptimization.io/api/episodes/advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica.json",
+  "transcript_md_url": "https://revenueoptimization.io/ep/advanced-analytics-in-affiliate-marketing-with-cristian-ionescu-from-witanalytica/transcript.md",
+  "transcript_markdown": "# Transcript\n\n**Show:** Revenue Optimization with StatsDrone\n**Episode:** Advanced Analytics in Affiliate Marketing with Cristian Ionescu from Witanalytica\n**Host:** John Wright\n**Guest:** Cristian Ionescu\n**Published:** Thu, 15 Aug 2024 10:02:00 +0000\n**Duration:** 49:26\n\nSpeaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.\n\n---\n\n[00:00:00] John Wright: When I think business intelligence, on one hand, and automation, they should definitely be supporting tools to the industry. And I don't think they're leveraged enough right now. For the future of the industry, as I also said, it will benefit a lot from\n\n[00:00:21] Cristian Ionescu: sharing and pulling in resources and efforts, integrate, build APIs and build data standards and interfaces so they can exchange data fast in a very productive and secure way.\n\n[00:00:41] John Wright: But overall, I'm very optimistic about the future of the industry.\n\n[00:00:58] Cristian Ionescu: Welcome to the affiliate BI podcast. Today, we're chatting with Christian Ionescu, who is the co-founder of Wita Analytica, which does tailored analytics solutions in industries like manufacturing, transportation, retail, and of course, affiliate marketing. Christian, welcome to the show. Thank you very much, John. And thank you for having me. I very much enjoyed when I found your podcast and what you're doing for the affiliate marketing industry. So I'm glad to be here. Yeah. And it's pretty cool because when sometimes people ask me, like, what is the reason why you have the podcast? And it's literally for these opportunities.\n\n[00:01:38] Cristian Ionescu: So sometimes we have really interesting conversations about business intelligence, analytics, and data behind the scenes at conferences. And I felt these weren't being recorded or written down as an article. So I wanted to do more of these. So I either wanted to\n\n[00:01:53] Cristian Ionescu: invite those people on or eventually get to meet them by creating this audience. And I'm glad it's worked because when you reached out to me on LinkedIn, you showed me some of your reports. And I said, these are the people I definitely want to talk to. I got excited with the reports you showed me because I built a report two years ago and I said, wow, this is never ending work of analysis that you can do. Yeah, it is. It is. And the opportunity is out there. And I think that for the moment, there are lots of cool stuff being worked on in the industry. However,\n\n[00:02:29] John Wright: it's not that visible yet at conferences and events and it's not being presented in case studies and articles yet. So I think we should do a collective better job in presenting these findings and these opportunities and what's possible. I have more questions on that, but let's go right to the beginning. So tell us about the name of the company. What is Witte Analytica and tell us about the work you do. So with Analytica, it's coming from a combination\n\n[00:03:03] John Wright: of Witte and analytics that comes from data analytics. And my purpose when I founded the company was to gather the smartest people I could find and helping companies adopt data analytics in a very effective and efficient manner because there's lots of resources and time and money out there being wasted. And there are lots of, I think we may all know about failed\n\n[00:03:36] John Wright: digital transformation initiatives and projects. And I think there should be a simple and effective way to adopt data analytics. I agree. So I got maybe like a question or comment. So I'm going to struggle to word it properly. So I was listening to a podcast days ago. It's the Revenue Vitals podcast by Chris Walker. And on that episode, he was talking about how there's a lot of people in marketing and in sales that they don't really have a good understanding of the finance part of the business. Like what are the business objectives? And as he was explaining this, it kind of made sense\n\n[00:04:13] John Wright: in the parallels of what I see in affiliate marketing. Because we have a lot of these people that they have an opportunity to transform the business. But when we look at it, I don't see these people having a background in finance. Like I don't have a background in finance. I do have a background in data. And it's kind of like, well, how do we expect these people to move forward? So maybe do you think this is part of the reason why we're not seeing these companies like ours being super prominent at affiliate marketing conferences? Like it's the most interesting part of the business of increasing revenue. But it's almost like we're still behind the scene.\n\n[00:04:48] Cristian Ionescu: Yes, we are. And now that you mentioned it, we are just in the middle of a type of a paradigm shift. I mean, there's less breaking down here because there are a couple of different aspects here. Firstly, companies have been and still are quite silos. And there are companies split into different departments with different roles and responsibilities. And it's only natural that everybody is looking at the process and that the business from their own lens and with their own expertise. And that's natural. We have had for a very long time, IT, it has been seemed like a\n\n[00:05:27] Cristian Ionescu: support type of function where it provides and makes sure that the email addresses of the companies work and that nobody has issues with the internet connection. However, now we're seeing a paradigm shift, especially with data analytics that is part of IT, where IT should provide the supporting pillars and the backbone to very key processes. Where coming up, you can no longer run efficiently run important processes. And I'm referring here maybe to some other industries as well. But let's look at supply chain. You can no longer run an efficient and effective supply chain without data\n\n[00:06:04] Cristian Ionescu: and analytics. We cannot just talk about lowering the working capital of a company and making sure we're not freezing up to essential money in inventory without having very robust systems that\n\n[00:06:20] John Wright: monitor and alert us every time something goes wrong. So we're seeing this shift where IT should no longer be a support, but should provide the very necessary technology that will allow people to make decisions faster and act faster and understand what's happening in the company and have them measure the key processes and the key issues. So this shift is happening and should be happening in any company. That's point number two. And the third one is we still need to\n\n[00:06:58] John Wright: learn collectively how to communicate. And what I mean by this is we need lots of flexibility within the companies for people to talk about their work and understand what the other departments are doing and kind of become aware of the way they are impacting the processes and the work and the well-functioning of the company. Because when we do this, it's when we discover these automation opportunities, where we discover all these inefficiencies. And this is how we also ensure\n\n[00:07:34] John Wright: that whenever we're investing in a project or an automation or a dashboard or a report or a database or whatever it is, we are confident that we are working on the right initiatives and that we are attacking the biggest problem that will generate the most visible impact.\n\n[00:07:55] Cristian Ionescu: Right. Now, would you say, like, I think you've got a master's in economics and, you know, I don't want to go back to school to get one of these degrees, but it seems like there's a lot of universities and colleges and even companies that they offer courses. Do you think this is at least a good start to say, hey, you don't need to go for four years for a degree in either finance or analytics, but there's plenty of these courses that are low hanging fruit that can get you started where maybe in six months from now you can be proficient?\n\n[00:08:27] John Wright: I don't think you definitely don't need a master's degree in economics. You will still, at a certain point in time, need a better understanding of, for instance, database structures or at least how to structure or data so that data works with you not against you. Right. And these are kind of best practices that you need to be aware of. However, what I found most important is that you need exposure to processes. You need exposures and having had the experience of being in cross-function\n\n[00:09:02] John Wright: meetings. Here, everybody's perspective, maybe job shadow and observe processes as they happen because that's where you start to understand and make connections about the way business run and what each party and department is interested in, what they're looking for, and how collectively as a company it is looking, looking at these types of initiatives. That makes sense and, a lot. So I guess maybe another way to look at this whole paradigm shift is that like if you're a successful company\n\n[00:09:37] John Wright: that has growing revenue year after year, it's almost like you have a board or maybe like founders or CEO that cares about these important metrics. And it seems like not all companies have these things. Like they don't have a seriousness about it. And I'm just kind of wondering if you think that this is the difference between surviving and thriving. I think it's somewhere in the middle. We're not talking about surviving, no longer surviving without data analytics. But\n\n[00:10:12] John Wright: when I'm looking at data analytics, there are some perspectives, especially of data analytics professionals, that the company can no longer do without them. And the truth of the matter is that that company has been functioning and has been generating revenue for a very long time, even before they were on board. And that's true. However, the way I like to look at data analytics\n\n[00:10:38] Cristian Ionescu: right now is let's compare a normal car to a Formula F1 race car. So as long as you have four wheels and the wheel, you're getting somewhere. But to have a Formula 1 car, you need top-notch performance. And this is what data analytics brings you. It helps you\n\n[00:11:04] John Wright: without identifying those inefficiencies. So that means, for instance, if you're operating in a\n\n[00:11:11] Cristian Ionescu: not that very competitive industry, you can still survive. However, as competition increases and you need to find more and more creative ways, either of increasing your revenue or in the cost,\n\n[00:11:25] John Wright: you will not be able to survive without data analytics.\n\n[00:11:30] Cristian Ionescu: Right. So here's what I've observed. And I kind of want to ask you, because I think you have a lot more experience in different industries. Like I'm more siloed to the SEO space and affiliate marketing. So there's obviously the BI space, which are your tools, like the Domo, Tableau, Power BI, Looker Studio. So we got the collection of BI tools over here. I believe that the SEO industry has been advanced from the early days, like Google Analytics, Search Console, Ahrefs, SEMrush, and Screaming Frog, super really deep tools. What other spaces do you think are\n\n[00:12:06] Cristian Ionescu: maybe the opposite, where they are weak, that when you look at them, you're like, wow, not only do these industries need these tools, but there's so much opportunity that's there.\n\n[00:12:17] John Wright: Ah, just to name a few, we could talk a lot about logistics, transportation, and manufacturing.\n\n[00:12:29] Cristian Ionescu: These industries have traditionally worked and got their software from huge companies, that you would partner with, for instance, you would need an ERP system, right? And you would partner with a very large name in the industry to have your ERP implementing them. That would be like a very large effort. They would come in, send hundreds of consultants, and help you set up that system, and then train you on how to use it. However, what they have not been providing for a\n\n[00:13:03] Cristian Ionescu: very long time is customization and access to that data. Because think of it, the way I'm looking at it, we all operate with lots of platforms, be it like Google Analytics, or an SEO tool, or Hrefs, or an ERP, or a planning type of software. Most often than not, they do offer the type of report and access to the data that we are interested in. However, there are times where you need your own customization. Let's just look at Google Analytics. You can do your own type of tagging, and then you're going to need your own way of untaxing the data and looking at it to support\n\n[00:13:42] Cristian Ionescu: whatever it is that you want to do there, your project and your initiative, right? And this industry that I started with, and the partners that supported them have not traditionally been very open with their customers' data, right? They would not provide like open API interfaces that the developers could use to keep on building stuff and features and integrations on top of what the software was already offering. That makes sense. I mean, that's common in affiliate marketing. I mean, not all affiliate programs have APIs, and there's some that they build their\n\n[00:14:19] Cristian Ionescu: entire platform. The affiliate program, it's all built, it looks amazing, great passports, zero API.\n\n[00:14:25] Cristian Ionescu: Yes, you're on a 24. We really don't have APIs.\n\n[00:14:29] John Wright: Yes, you touched on a very important point right there. And I think there needs to be a more open change in collaboration in terms of integrations and data between the players in the industry, between advertisers, affiliates, and the affiliate marketing networks. And I think we can make like a different step of the topic out of that. Yeah, I mean, we could probably spend all day talking about it because I mean, on your side, you do a lot of the BI dashboards and analytics. And on our side, we do a lot of the integrations. Like we're literally an hour ago, we had a call with\n\n[00:15:06] Cristian Ionescu: a few people on our team, and we're just talking about going, we need to take our API that comes in our app, and have it so it can easily export into Looker Studio, Power BI, Tableau, N8N,\n\n[00:15:19] Cristian Ionescu: whatever you want. We're actually doing that work to make their life easier because people, what we discover is that they want these things, but then they have to start from scratch. Like, oh, there's no integration ready to go for our app with Tableau. So we have to build that integration. And sometimes even working with software like N8N, you're basically building that integration into N8N so you can integrate with that next platform. Yes, yes. And that's something that's, these customers are keen for integrations and customization is something to be continuously\n\n[00:15:57] Cristian Ionescu: expected. I've had the surprise of working with massive platforms that did not offer an API. And\n\n[00:16:03] Cristian Ionescu: from my point of view nowadays, 2024, you cannot, you can't do that.\n\n[00:16:10] John Wright: So I want to take a step back because you talked about how you believe that a lot of industries or even customers, like they almost kind of at some point need their own customization or dashboard. It's, yes, it's nice to have the one size fits all, but in my experience, it's very difficult to put all of our affiliate customers into a single silo and say, this is all the databases you need. So when would you say, let's say, let's use affiliate marketing as an example. At what size of an affiliate would they want to come to you to say, hey, this could actually make a big difference in our company. Like I think if you make 5,000 per month, that's not easy to justify.\n\n[00:16:49] John Wright: Hey, we're going to build a custom dashboard. It's like wait until you get to 50K per month or something. There are different stages in the very beginning, no matter how small the affiliate is or the network is. It is at least worth having a conversation because it can help you correctly design the data structure and the systems that you will need to use two years down the line. So I've seen this too many times. What they do is they start with data collection, any type of data collection, be it right or wrong. And then they discover three or three years down the line that the way they collect the data, the granularity or the\n\n[00:17:28] John Wright: frequency will not support doing machine learning over that data. And most often than not, one hour to a couple of hours conversation with the consultant can at least guide them on the correct structuring of the way data should be collected and what we expect in the future.\n\n[00:17:47] Cristian Ionescu: As the affiliate matures, when I have a very simple definition, let's just keep it simple, when you can no longer cope with Google Sheets. So when you have your entire company run by Google Sheet referencing other Google Sheets from other departments and when some departments and teams start to have their own version of the data, that's a very clear indicator that you need to,\n\n[00:18:19] John Wright: you start feeling the need for a central depository. And what I mean by that, imagine that your account managers may have an own version and categorization of the customers,\n\n[00:18:29] John Wright: while the operations department will have some other dictionary and version and the accounting team will have some other version and grouping. And then you start seeing that the reports no longer match because of all these mismatched versions. That's when you need to know, you need to stop and start laying the foundation of a central depository.\n\n[00:18:53] Cristian Ionescu: Okay. And another question I have has to do with the total valuation today of affiliate marketing. And I've read a lot of reports, I think it was Statistica. I think they said in maybe 2023 that the industry is worth around 20 to 22 billion or somewhere around there. And they predict that by 2030, it should get to like 36.9 billion as an industry. And what I like asking these types of questions to you and other people that work in analytics is what is your opinion of how much this could be amplified? Because I'm not personally convinced that a lot of these projections have business intelligence and analytics factored into this.\n\n[00:19:34] John Wright: Could very well be, but let's look, we need to firstly look at the button to taba top to button. There's like a direction the economy is heading to. And it is something we can very difficultly influence, right? So we can only hope that we are still going to see lots of collaboration in the economy doing well. So because that's way also the industry will be able to grow. However, what is clear to me is that the industry can do a better job in terms of becoming a very attractive way of doing advertising. And what I mean by this, I've seen that the industry is very\n\n[00:20:13] Cristian Ionescu: reliant on personal relationships, which is great. It's amazing. You cannot do business without personal relationships, but we need more automation and integrations and data exchanges. So the relationship can still be there, but the exchange of creatives, of standards, of integrations, of running and setting up a campaign can be way more automated. And I like to look, for instance, at ad networks, you know, the type of networks where they do automated building. I think that is the way, that is the direction the industry should go to.\n\n[00:20:51] John Wright: I agree. We're trying to work on a couple of those things, but I mean, we definitely can't do everything. And I think we have collectively as an industry in affiliate marketing, a big pain point of kind of going, well, who's going to be the first one to standardize things? And I mean, it was only like what, a month or two ago that Google said, oh, we're going to change your mind. We're not going to, we're not going to deprecate cookies anymore. And it's like, look at all just the tracking component of affiliate marketing. It's already a sub industry within a very big industry. Yeah. So, we haven't really talked about AI yet. And that kind of usually comes up over. So the first kind of question I want to ask about AI,\n\n[00:21:29] John Wright: and it goes back to your point about how like, when you become a bigger company, you have customization. Do you think AI is going to create more jobs or do the opposite when it comes to like, does it have the potential to eliminate jobs? Or do you think it just has the potential to make the job get done better and faster with more accuracy, where you've got people working with these AI tools, and then going deep into these custom analytics that are unique to your company situation? I think it will bring us up from some work and allow us to\n\n[00:22:06] John Wright: invest more in some other type of activities. I mean, we don't have, we don't really know how AI is going to impact us, but we can look back in the history because we have had revolutions, and we have had times where we have invented the next generation of tools like look at the\n\n[00:22:23] Cristian Ionescu: industrial revolution. I mean, 100 years ago, 200 years ago, me and you most probably would have worked in a sweatshop or doing agriculture, right? The very reason we are able to sit here and talk about data analytics and the field market in that agriculture is being taken care of as we discuss by machines, right? So this is what we'll naturally expect from AI. AI in the end is a tool, it's yet another tool that will help us do our job better and faster and be more productive.\n\n[00:22:56] John Wright: Imagine that 40, 50, 60 years ago, we had to write machine code. There are lots of stuff we no longer need to do because we have built libraries and simplifications so we can care of other aspects. So being an analyst is not going to change. You will still need the education to rely on data and ask questions about data, be curious, and train and coach people,\n\n[00:23:29] John Wright: but you're no longer going to spend maybe four days of your week building dashboards and reports. You are still going to spend more time in making sure that the data is structured correctly. That's something that AI still can't do, especially if we are talking about larger type of setups for medium sized companies, for enterprise sized companies. And you are going to spend a lot of time getting insights from that data and acting on that data. So\n\n[00:24:02] Cristian Ionescu: a short answer would be it's gonna shift the mix of activities we're doing.\n\n[00:24:09] John Wright: Right. Now, what do you think about tools? I forget the name of it. I think it's advanced data analytics on chat chat. Do you think those are those types of tools that they help you get started to go, hey, look, I don't know what I'm doing, but let me take a spreadsheet, throw it in here and then start asking chat GPT some questions where it can give you some answers and maybe you kind of discover something and go, wait, this is good. I now want to build this into the custom dashboard. Yeah, that's you have structured it correctly. The way I'm looking at it, and we're seeing lots of tools that allow you to bring AI into\n\n[00:24:47] John Wright: your sheets, allow you to converse with your data or allow you to just do very poor aspirations based on your data. Right. Most often than not, they are based on some CSD Excel files that you're providing. Right. So from the get going, you're not connecting that to all your underlying infrastructure within the company. You can't do that yet. So these tools are\n\n[00:25:14] John Wright: best suited, I think for small and startup companies, and they are best suited for exploratory analysis. When you want to very quick and dirty look for something, see if you discovered\n\n[00:25:31] Cristian Ionescu: what you were looking for, but then you will need to standardize that, automate that and turn that into a data asset that you can share within the company. Because the way I like to look at it, imagine you can't just like build lots and lots and lots of quick and dirty analysis and then expect to have a very robust usage of all those analysis within the company. You will need to carefully look at what everybody needs and then make that available to them as data products. We start\n\n[00:26:05] Cristian Ionescu: seeing this notion of data product and the data product in the end is a standardized way of looking at the data. Let's come back to the example of the customers. You need the unified standardized way of grouping your customers. Right. And then you need to make that asset available to everybody in the company that needs it. You need to make it available to your marketing team, to your sales team, to your accounting team, to your operations team and so on. Right. Because you need to have the confidence that everybody is looking at the same version of that data. So they can be coherent\n\n[00:26:44] Cristian Ionescu: and look at the same set of numbers. Right. And you can't achieve this type of robust data management using the types of on the fly spreadsheet like tool, even if they have or don't have AI. Yeah. It's interesting because when you say that I realized how lucky I was in doing my data this project. So I took a course by Kevin Hartman. It was a data visualization and I didn't know what I was doing. I didn't even know Tableau at the time. I didn't know it really well. So I took one affiliate account that I had out of like 2000. I just took one, went two years back of\n\n[00:27:21] Cristian Ionescu: the data, threw it into Tableau and I said, I don't know what I'm doing, but I'm going to just keep iterating database. And I lucked out because most of the database came out to be good, but I think it was only good as my lucky situation, which was I picked an account that actually had so much variety of data and variance that probably the most profound report I got was a plot chart of revenue by clicks plotted by campaign. And here's what was very crazy. And it really, it made me get, get this aha moment of like, wow, there's, there's infinite possibilities in affiliate marketing. I had one campaign that took five times as much clicks to get the same amount\n\n[00:27:59] Cristian Ionescu: of revenue. The revenue was close to $40,000 per campaign over a couple of over two years. And when I take these landing pages and I look at them, I'm like, they're different landing pages, but they both had the same offer. And I went back to the affiliate program. I said, do you know what the conversion rates out of these pages are? They said, yes. But then they said they couldn't tell me. And then they basically admitted that they didn't even know how many people in affiliate marketing, aren't looking at all this stuff. Like there's one massive rabbit hole that I stumbled upon and I wasn't even thinking about it. I think you're right. I think chat GPT would struggle to actually tell me, Hey, I'm just going to do\n\n[00:28:38] Cristian Ionescu: this for you. It's I can ask it to do it for me, but that's me asking, Hey, can you just build this with whether I even know what I'm doing or not? Yeah, it's, it's, you're right. And we are, we are still a long way from having our own Jervis agent that knows the entire data or a fake network data or our publisher data by heart and can answer questions, right?\n\n[00:29:03] John Wright: They can so far answer questions based on a CSV or Excel file that I told you.\n\n[00:29:09] Cristian Ionescu: However, we still, we are the ones that need to put in place the reporting structure that addresses the major processes in the pain points that we know. So because imagine to be, to run a successful program or to run a successful network here, you need to take care of some very fundamental issues. And that is you need many need to make sure that your advertisers are happy. You need to make sure that your publishers are happy and that all the activity is happening in a compliant way. And everybody makes money out of it. Right. And that's simple. So then you need, so we have this\n\n[00:29:46] Cristian Ionescu: structure, we have these main objectives, and now we need to address each of them with the appropriate analysis and dashboards. Your example, for instance, with the pressing conversion rate within the two landing pages is the finding that was the aha moment you had to blow, you made the exploratory analysis and you discovered something. The next point then is to standardize that and turn it into an initiative. So guys, we have like a eight week period where we need to bring this page to the performance of this page. And now here we are talking about an\n\n[00:30:21] Cristian Ionescu: action plan and that analysis of yours would turn would no longer be an exploratory type of surprise finding, but it would turn into a standard report that will support the monitoring of that particular issue. Right. And that's when you form a task force with actions to make sure that page comes to the performance of that that other page. Right. And this is how\n\n[00:30:50] John Wright: you turn data analytics into a support for process improvement type of initiatives. Because I wanted to bring this point and build on top of your point,\n\n[00:31:01] John Wright: because I'm seeing lots of companies that want to adopt data and but don't know where to start from. And the truth is that it doesn't have to be complicated. You start with your objective with the key processes. You need to make sure you are measuring them and then dive deeper, find some opportunities that prevent you from achieving your result and work towards them\n\n[00:31:26] John Wright: and use those same monitoring tools to make sure that your actions are effective.\n\n[00:31:33] Cristian Ionescu: Yeah, that makes a lot of sense. It's like you said, like when I had my aha moment, you're like, you can turn that into like a two month project or project that has so much more profound impact that it's it's unbelievable, but you got to start somewhere. And I think that's actually a good point. I think a lot of people that don't know where to start, they're scared to start. And I'm going to ask a weird question towards you, which is, I noticed this in the SEO space that people sometimes struggle to sell SEO like you work for a company and you're trying to get your boss to hire a company. But it's like, how do I know they're good and they don't know what kind of results they're going to get? Would you say that this is where we are in the state of analytics\n\n[00:32:12] Cristian Ionescu: today? We could be, we could be. There is a distinction though in very, very great. It depends on the area. What I mean by this is we do lots of data analytics projects. We've done them for affiliate marketing. We've also done them for supply chain companies. And there's a very important distinction that I noticed. For instance, we have done paid media type of reporting where a customer needed to be able to monitor their advertising costs across all their channels\n\n[00:32:50] John Wright: and then get better at it and optimize it and route the budget towards the channels that are making the most impact. The challenge in this type of project is that you can't really go very granular with the data. There were better times maybe six or eight years ago when you could get granular, more granular data and understand how to optimize it. Now, you can no longer do that because of various privacy policies and laws. However, you can still do that in supply chain.\n\n[00:33:25] John Wright: You can have a look at the data at item level, vendor level. There's no type of privacy policy that you need to work with to get your data at the lowest level of granularity. So what I mean by that is in some areas, it's more of a science rather than a spraying and praying type of project. And sometimes SEO can be just that because imagine that Google keeps their secret sauce and the inner workings of their algorithm quite secret. I mean, they do give us hints every now and then.\n\n[00:34:01] John Wright: However, there are times where they do improvements and updating their algorithms and you have no idea what happened over there and why your site is no longer trending well or it's trending better. And you can't expect predictable results when you can't do the same thing twice and get that same result. So there are industries and areas where you can do that. Yeah, that makes sense. So I got a question, which is, are you able to share without giving confidential information away,\n\n[00:34:39] John Wright: like an aha moment? And I'm guessing with the work you do, you probably encounter these all the time. Like you're like, wow, this was so powerful of an insight that this is going to help this company make more money. Or you've just discovered like one of these rabbit holes where if someone takes this idea and runs with it, like there's a project or an actual business.\n\n[00:35:00] Cristian Ionescu: There are a few examples here. Now it's no longer surprising, but it has been the very first time\n\n[00:35:09] Cristian Ionescu: segmentation analysis can be very powerful. Let's just take an example of an affiliate marketing network. They are working with lots of advertisers, they are working with lots of publishers. And we as individuals, we are very different from each other. So we like to focus on different areas and different aspects. One of a moment is that when you do a segmentation analysis of your publishers, for instance, let's have a look at the last conversion, how long did it be? See, they generated the last conversion, how many offers they are running, and what is the gross profile they are generating, right? You can use these three dimensions to\n\n[00:35:47] Cristian Ionescu: perform an RFM segmentation analysis and segment them into different segments.\n\n[00:35:54] John Wright: The aha moment is when you realize that firstly, they belong to different segments.\n\n[00:36:00] John Wright: And when you realize that you need to meet them where they are, in terms of meeting them with what their needs are, right? Some will benefit from a retraining or a reminder of my compliance rules. Some others will benefit from more incentives and better commissions or access to more exclusive campaigns and type of offers. And it goes on and on and on. But the point is that the moment you realize you have different segments, that's when you also realize that you\n\n[00:36:39] John Wright: need to have an action plan for each individual segment. And there's no segment more important than the other. It's just that you need different treatments and offerings to all those segments.\n\n[00:36:54] Cristian Ionescu: And I guess you could say a segment can be like a cohort analysis as well.\n\n[00:36:59] John Wright: Absolutely. It can also be a cohort analysis. I think with what you just said is actually crazy because think about one affiliate program or one affiliate network. What do they have? They have a database of let's say 100 or 1000 affiliates. And those 1000 affiliates are setting like tens of thousands of customers, whether it's a product or service. I mean, you just basically said something that's profound. It's like who today is doing this segmentation analysis both on either level, going up to the affiliates and analyzing how do I work with my affiliates, compliance, offer analysis, and then taking a step down and going now that we have the traffic coming in, which is\n\n[00:37:35] John Wright: where the sales are happening. I just don't believe that most companies in field marketing are doing any of this stuff and it's not even on their radar.\n\n[00:37:44] Cristian Ionescu: Well, yes, indeed. And I realized I've had the opportunity to work with some very visionary people in the industry and what they did and something that I think it's badly needed in the industry is the networks themselves can step up. So imagine the networks have been providing services. The reason they exist, right? They do provide access to their publishers to some exclusive offers or better negotiated commissions and stuff like that, right? They do offer the\n\n[00:38:19] Cristian Ionescu: convenience of having to work and only send out one invoice rather than working with tens of brands. Right? On the other hand, from the brand's perspective, they do offer the advantage of\n\n[00:38:33] John Wright: having someone that ensures compliance, having someone that can connect them to multiple publishers that are best suited for their type of offerings and products and services and so on and so forth. So my point is that they do offer, they fill in this void, but what they can do if they can encourage data sharing across the network so everybody can learn from it. And what I mean by every publisher has their secret sauce, right? Nobody wants to give out their secrets. However, they can still benefit from economies of scale effects when they pull in\n\n[00:39:12] John Wright: all of their data to collectively learn from it. That's one point. And the other one is, no matter how much we like to talk about data analytics being democratized, the truth is that it is still quite expensive. So they can also benefit from sharing costs and then to build an infrastructure that allows them to extract the necessary insights that allows them to optimize their campaigns by pulling right, by sharing this investment effort. Okay. Now, taking what you just\n\n[00:39:50] John Wright: said, it made me think about this concept that let's look at an affiliate side as a generic example. So they're typically a product in the sense they're more content, but there's other ways they can productize what they do. Let's say it's user generated reviews. So we know that personalization could be a powerful way to increase conversions, but it could also be a means of kind of learning from your users. And like when you actually pretend to go through a funnel of buying something or navigating an affiliate site, I get the feeling that most users aren't being tracked in a way that would give you analysis. Like for example, when's the last\n\n[00:40:28] John Wright: time you've been prompted for a survey just to be like, Hey, if we don't survey you, we don't know anything. And I think there might be a weird push towards first party data to say, well, wait a minute, if I can capture you in a newsletter, then I have a chance to bring you back so you don't forget about us. But since I've done the effort to capture your email, what else can I capture and what else could I learn about you? Do you think this is another major opportunity that sites should be finding ways to say, we need, we need to find this a way to make it happen? Yes, yes. And I think it also ties back to this collaboration aspect because\n\n[00:41:04] John Wright: think of it, we have a customer will always have interaction through lots of brands and lots of publishers and lots of places and their digital footprint is huge. The better we can put it together, the better we can actually understand what that person needs and the better we can target them with relevant offers because there's no point and nobody gains. The customer does not gain, the publisher does not gain and definitely the brand is not gaining when an individual is bombarded with irrelevant offers. Which is, it just sounds like you just talked about the affiliate\n\n[00:41:42] John Wright: marketing industry for the last 25 years. There are examples and examples. Yeah. So I want to pivot a bit and talk about different data vids and different data tools. So I know there's tons on the market. Every time I look, there's just new ones. So companies that I'm excited about just like following are like rose.com, polymer search, hex.tech, and adn. I want to ask, what tools are you working with or which ones do you think are worth paying attention to?\n\n[00:42:14] Cristian Ionescu: So the tools that you mentioned are great examples of tools to get started with. They usually help\n\n[00:42:24] John Wright: startups and small companies analyze their data. But as I told you, there comes a time in the maturity of a company where they will need more robust tools. So to answer your question, we are mostly using Power BI, Tableau, and Domo. And we are mostly using components, especially cloud components from the very established players. That is cloud from GCP, from Azure, and from AWS, depending on what the customer is already using. The reason we're doing that is,\n\n[00:43:00] Cristian Ionescu: personally, you need to have very robust and stable solutions. When you make data analytics your priority and becomes a central pillar within your organization, you don't want it to fail.\n\n[00:43:15] John Wright: So they need to be robust. You need to have access to a huge community of people that are contributing to it. You need to have forums where people are discussing and where you can find solutions to questions you might have. You need great support. And this is what we are usually getting from these very mature players. Yeah, that's pretty cool. Yeah, I haven't used Domo, but I've been hearing a lot about it. And I've more experienced in Tableau, and we've got different team members that are more into Looker Studio. And every time I just look at these new\n\n[00:43:53] John Wright: tools like N8N, I'm like, wow, this is just never ending. It's like Zapier, but with like Python, if you want Python or JavaScript inside it, same thing with hex.tech. These tools just to build unique dashboards and either automate them or find their ways of how they integrate AI into them. I just think it's never ending. And then of course, AI is being integrated into Tableau and Power BI and Looker Studio. Yeah, they're amazing, too. They are amazing. And they're amazing exactly for that type of quick and dirty exploratory analysis to get you started with.\n\n[00:44:28] Cristian Ionescu: But however, I mean, you still need to be very cautious about data management because\n\n[00:44:36] John Wright: you can end up with lots of... You need lots of assets that people can use and reuse.\n\n[00:44:44] John Wright: You need them to be able to search them and discover them and understand what they are, get access to them. And you're still need like very clear versioning. So people have the confidence that they are looking at the same set of data. And without these, you can no longer have a conversation. And last question to finish everything off is, what do you see of the future of affiliate marketing as it intersects with business intelligence? When I think business intelligence, on one hand, and automation, they should definitely be supporting tools to the\n\n[00:45:24] John Wright: industry. And I don't think they're leveraged enough right now. For the future of the industry, as I also said, it will benefit a lot from sharing and pulling in resources and efforts, integrate, build APIs and build data standards and interfaces so they can exchange data fast in a very productive and secure way. But overall, I'm very optimistic about the future of the industry.\n\n[00:46:02] John Wright: Yeah, I agree. I'm hearing some of these things in the background where people are talking about sharing big data and going, well, we don't want to share our data because it's very valuable. But if we can find a way to anonymize it and pull it together, we can get some feedback. And I think you're also correct in stating that there's just a lot of standards that aren't being adopted. How do we have more collaboration? We actually are trying to make more of this,\n\n[00:46:27] John Wright: make it super easy. So if you do want to connect our app with Tableau, it's like these things should happen. And I think we're seeing this now across so many companies. The keyword integration is we're seeing these on more databases and SaaS apps, which is really cool because it's like, hey, you can now connect program A to program B and do what you want and find clever ways of\n\n[00:46:49] Cristian Ionescu: making your own product by stacking products. Yeah, that will help a lot. And imagine there's nothing new and unusual about what is currently happening to the industry. Imagine all the other industries have gone and are going through the same challenges. And I also have, I told you, some manufacturing background and I've had, for instance, conversations with manufacturing equipment suppliers. And we were having the same conversation. We need a structure. We need standard interfaces so we can connect to your machines and fetch data in a unique way so we\n\n[00:47:26] Cristian Ionescu: can analyze it and get better at our manufacturing processes. It's the same telecom they have gone. And the truth is, for instance, people can learn a lot from telecom because they started this type of integration initiatives back in the 1990s. They have been way faster than everybody else. And there are lots of to be learned. But the point is that there's nothing unusual or bad about the challenges that we are seeing. It's just you need to go through them. Awesome. Christian,\n\n[00:48:01] Cristian Ionescu: thank you so much for doing this. I got four pages of notes in front of me. And there's so many amazing ideas that I just want to talk to people on affiliate marketing for. And that's what I knew or what I was hoping to get out of this conversation. So I just want to pass it back to you to share how people can get a hold of you. Well, they can visit our website with analytical.com.\n\n[00:48:26] John Wright: I strongly encourage them to go through our case studies and have a look over there because we have some very interesting applications of data analytics and machine learning, especially in the affiliate marketing industry. And then if they need support, they can just reach out to us, to me on LinkedIn or using the contact page on our website. Will do. I was definitely going to recommend the case studies because I mean, once you sent me the first case study, I went through all of them. And every time you publish one, it's kind of like, you know, it's like Christmas.\n\n[00:48:58] Cristian Ionescu: I'm glad to hear that. I will keep you posted. Awesome. Thanks so much for doing this.\n\n[00:49:04] John Wright: Thank you as well. Thank you for having me.\n",
+  "turns": [
+    {
+      "t": "00:00:00",
+      "speaker": "John Wright",
+      "text": "When I think business intelligence, on one hand, and automation, they should definitely be supporting tools to the industry. And I don't think they're leveraged enough right now. For the future of the industry, as I also said, it will benefit a lot from"
+    },
+    {
+      "t": "00:00:21",
+      "speaker": "Cristian Ionescu",
+      "text": "sharing and pulling in resources and efforts, integrate, build APIs and build data standards and interfaces so they can exchange data fast in a very productive and secure way."
+    },
+    {
+      "t": "00:00:41",
+      "speaker": "John Wright",
+      "text": "But overall, I'm very optimistic about the future of the industry."
+    },
+    {
+      "t": "00:00:58",
+      "speaker": "Cristian Ionescu",
+      "text": "Welcome to the affiliate BI podcast. Today, we're chatting with Christian Ionescu, who is the co-founder of Wita Analytica, which does tailored analytics solutions in industries like manufacturing, transportation, retail, and of course, affiliate marketing. Christian, welcome to the show. Thank you very much, John. And thank you for having me. I very much enjoyed when I found your podcast and what you're doing for the affiliate marketing industry. So I'm glad to be here. Yeah. And it's pretty cool because when sometimes people ask me, like, what is the reason why you have the podcast? And it's literally for these opportunities."
+    },
+    {
+      "t": "00:01:38",
+      "speaker": "Cristian Ionescu",
+      "text": "So sometimes we have really interesting conversations about business intelligence, analytics, and data behind the scenes at conferences. And I felt these weren't being recorded or written down as an article. So I wanted to do more of these. So I either wanted to"
+    },
+    {
+      "t": "00:01:53",
+      "speaker": "Cristian Ionescu",
+      "text": "invite those people on or eventually get to meet them by creating this audience. And I'm glad it's worked because when you reached out to me on LinkedIn, you showed me some of your reports. And I said, these are the people I definitely want to talk to. I got excited with the reports you showed me because I built a report two years ago and I said, wow, this is never ending work of analysis that you can do. Yeah, it is. It is. And the opportunity is out there. And I think that for the moment, there are lots of cool stuff being worked on in the industry. However,"
+    },
+    {
+      "t": "00:02:29",
+      "speaker": "John Wright",
+      "text": "it's not that visible yet at conferences and events and it's not being presented in case studies and articles yet. So I think we should do a collective better job in presenting these findings and these opportunities and what's possible. I have more questions on that, but let's go right to the beginning. So tell us about the name of the company. What is Witte Analytica and tell us about the work you do. So with Analytica, it's coming from a combination"
+    },
+    {
+      "t": "00:03:03",
+      "speaker": "John Wright",
+      "text": "of Witte and analytics that comes from data analytics. And my purpose when I founded the company was to gather the smartest people I could find and helping companies adopt data analytics in a very effective and efficient manner because there's lots of resources and time and money out there being wasted. And there are lots of, I think we may all know about failed"
+    },
+    {
+      "t": "00:03:36",
+      "speaker": "John Wright",
+      "text": "digital transformation initiatives and projects. And I think there should be a simple and effective way to adopt data analytics. I agree. So I got maybe like a question or comment. So I'm going to struggle to word it properly. So I was listening to a podcast days ago. It's the Revenue Vitals podcast by Chris Walker. And on that episode, he was talking about how there's a lot of people in marketing and in sales that they don't really have a good understanding of the finance part of the business. Like what are the business objectives? And as he was explaining this, it kind of made sense"
+    },
+    {
+      "t": "00:04:13",
+      "speaker": "John Wright",
+      "text": "in the parallels of what I see in affiliate marketing. Because we have a lot of these people that they have an opportunity to transform the business. But when we look at it, I don't see these people having a background in finance. Like I don't have a background in finance. I do have a background in data. And it's kind of like, well, how do we expect these people to move forward? So maybe do you think this is part of the reason why we're not seeing these companies like ours being super prominent at affiliate marketing conferences? Like it's the most interesting part of the business of increasing revenue. But it's almost like we're still behind the scene."
+    },
+    {
+      "t": "00:04:48",
+      "speaker": "Cristian Ionescu",
+      "text": "Yes, we are. And now that you mentioned it, we are just in the middle of a type of a paradigm shift. I mean, there's less breaking down here because there are a couple of different aspects here. Firstly, companies have been and still are quite silos. And there are companies split into different departments with different roles and responsibilities. And it's only natural that everybody is looking at the process and that the business from their own lens and with their own expertise. And that's natural. We have had for a very long time, IT, it has been seemed like a"
+    },
+    {
+      "t": "00:05:27",
+      "speaker": "Cristian Ionescu",
+      "text": "support type of function where it provides and makes sure that the email addresses of the companies work and that nobody has issues with the internet connection. However, now we're seeing a paradigm shift, especially with data analytics that is part of IT, where IT should provide the supporting pillars and the backbone to very key processes. Where coming up, you can no longer run efficiently run important processes. And I'm referring here maybe to some other industries as well. But let's look at supply chain. You can no longer run an efficient and effective supply chain without data"
+    },
+    {
+      "t": "00:06:04",
+      "speaker": "Cristian Ionescu",
+      "text": "and analytics. We cannot just talk about lowering the working capital of a company and making sure we're not freezing up to essential money in inventory without having very robust systems that"
+    },
+    {
+      "t": "00:06:20",
+      "speaker": "John Wright",
+      "text": "monitor and alert us every time something goes wrong. So we're seeing this shift where IT should no longer be a support, but should provide the very necessary technology that will allow people to make decisions faster and act faster and understand what's happening in the company and have them measure the key processes and the key issues. So this shift is happening and should be happening in any company. That's point number two. And the third one is we still need to"
+    },
+    {
+      "t": "00:06:58",
+      "speaker": "John Wright",
+      "text": "learn collectively how to communicate. And what I mean by this is we need lots of flexibility within the companies for people to talk about their work and understand what the other departments are doing and kind of become aware of the way they are impacting the processes and the work and the well-functioning of the company. Because when we do this, it's when we discover these automation opportunities, where we discover all these inefficiencies. And this is how we also ensure"
+    },
+    {
+      "t": "00:07:34",
+      "speaker": "John Wright",
+      "text": "that whenever we're investing in a project or an automation or a dashboard or a report or a database or whatever it is, we are confident that we are working on the right initiatives and that we are attacking the biggest problem that will generate the most visible impact."
+    },
+    {
+      "t": "00:07:55",
+      "speaker": "Cristian Ionescu",
+      "text": "Right. Now, would you say, like, I think you've got a master's in economics and, you know, I don't want to go back to school to get one of these degrees, but it seems like there's a lot of universities and colleges and even companies that they offer courses. Do you think this is at least a good start to say, hey, you don't need to go for four years for a degree in either finance or analytics, but there's plenty of these courses that are low hanging fruit that can get you started where maybe in six months from now you can be proficient?"
+    },
+    {
+      "t": "00:08:27",
+      "speaker": "John Wright",
+      "text": "I don't think you definitely don't need a master's degree in economics. You will still, at a certain point in time, need a better understanding of, for instance, database structures or at least how to structure or data so that data works with you not against you. Right. And these are kind of best practices that you need to be aware of. However, what I found most important is that you need exposure to processes. You need exposures and having had the experience of being in cross-function"
+    },
+    {
+      "t": "00:09:02",
+      "speaker": "John Wright",
+      "text": "meetings. Here, everybody's perspective, maybe job shadow and observe processes as they happen because that's where you start to understand and make connections about the way business run and what each party and department is interested in, what they're looking for, and how collectively as a company it is looking, looking at these types of initiatives. That makes sense and, a lot. So I guess maybe another way to look at this whole paradigm shift is that like if you're a successful company"
+    },
+    {
+      "t": "00:09:37",
+      "speaker": "John Wright",
+      "text": "that has growing revenue year after year, it's almost like you have a board or maybe like founders or CEO that cares about these important metrics. And it seems like not all companies have these things. Like they don't have a seriousness about it. And I'm just kind of wondering if you think that this is the difference between surviving and thriving. I think it's somewhere in the middle. We're not talking about surviving, no longer surviving without data analytics. But"
+    },
+    {
+      "t": "00:10:12",
+      "speaker": "John Wright",
+      "text": "when I'm looking at data analytics, there are some perspectives, especially of data analytics professionals, that the company can no longer do without them. And the truth of the matter is that that company has been functioning and has been generating revenue for a very long time, even before they were on board. And that's true. However, the way I like to look at data analytics"
+    },
+    {
+      "t": "00:10:38",
+      "speaker": "Cristian Ionescu",
+      "text": "right now is let's compare a normal car to a Formula F1 race car. So as long as you have four wheels and the wheel, you're getting somewhere. But to have a Formula 1 car, you need top-notch performance. And this is what data analytics brings you. It helps you"
+    },
+    {
+      "t": "00:11:04",
+      "speaker": "John Wright",
+      "text": "without identifying those inefficiencies. So that means, for instance, if you're operating in a"
+    },
+    {
+      "t": "00:11:11",
+      "speaker": "Cristian Ionescu",
+      "text": "not that very competitive industry, you can still survive. However, as competition increases and you need to find more and more creative ways, either of increasing your revenue or in the cost,"
+    },
+    {
+      "t": "00:11:25",
+      "speaker": "John Wright",
+      "text": "you will not be able to survive without data analytics."
+    },
+    {
+      "t": "00:11:30",
+      "speaker": "Cristian Ionescu",
+      "text": "Right. So here's what I've observed. And I kind of want to ask you, because I think you have a lot more experience in different industries. Like I'm more siloed to the SEO space and affiliate marketing. So there's obviously the BI space, which are your tools, like the Domo, Tableau, Power BI, Looker Studio. So we got the collection of BI tools over here. I believe that the SEO industry has been advanced from the early days, like Google Analytics, Search Console, Ahrefs, SEMrush, and Screaming Frog, super really deep tools. What other spaces do you think are"
+    },
+    {
+      "t": "00:12:06",
+      "speaker": "Cristian Ionescu",
+      "text": "maybe the opposite, where they are weak, that when you look at them, you're like, wow, not only do these industries need these tools, but there's so much opportunity that's there."
+    },
+    {
+      "t": "00:12:17",
+      "speaker": "John Wright",
+      "text": "Ah, just to name a few, we could talk a lot about logistics, transportation, and manufacturing."
+    },
+    {
+      "t": "00:12:29",
+      "speaker": "Cristian Ionescu",
+      "text": "These industries have traditionally worked and got their software from huge companies, that you would partner with, for instance, you would need an ERP system, right? And you would partner with a very large name in the industry to have your ERP implementing them. That would be like a very large effort. They would come in, send hundreds of consultants, and help you set up that system, and then train you on how to use it. However, what they have not been providing for a"
+    },
+    {
+      "t": "00:13:03",
+      "speaker": "Cristian Ionescu",
+      "text": "very long time is customization and access to that data. Because think of it, the way I'm looking at it, we all operate with lots of platforms, be it like Google Analytics, or an SEO tool, or Hrefs, or an ERP, or a planning type of software. Most often than not, they do offer the type of report and access to the data that we are interested in. However, there are times where you need your own customization. Let's just look at Google Analytics. You can do your own type of tagging, and then you're going to need your own way of untaxing the data and looking at it to support"
+    },
+    {
+      "t": "00:13:42",
+      "speaker": "Cristian Ionescu",
+      "text": "whatever it is that you want to do there, your project and your initiative, right? And this industry that I started with, and the partners that supported them have not traditionally been very open with their customers' data, right? They would not provide like open API interfaces that the developers could use to keep on building stuff and features and integrations on top of what the software was already offering. That makes sense. I mean, that's common in affiliate marketing. I mean, not all affiliate programs have APIs, and there's some that they build their"
+    },
+    {
+      "t": "00:14:19",
+      "speaker": "Cristian Ionescu",
+      "text": "entire platform. The affiliate program, it's all built, it looks amazing, great passports, zero API."
+    },
+    {
+      "t": "00:14:25",
+      "speaker": "Cristian Ionescu",
+      "text": "Yes, you're on a 24. We really don't have APIs."
+    },
+    {
+      "t": "00:14:29",
+      "speaker": "John Wright",
+      "text": "Yes, you touched on a very important point right there. And I think there needs to be a more open change in collaboration in terms of integrations and data between the players in the industry, between advertisers, affiliates, and the affiliate marketing networks. And I think we can make like a different step of the topic out of that. Yeah, I mean, we could probably spend all day talking about it because I mean, on your side, you do a lot of the BI dashboards and analytics. And on our side, we do a lot of the integrations. Like we're literally an hour ago, we had a call with"
+    },
+    {
+      "t": "00:15:06",
+      "speaker": "Cristian Ionescu",
+      "text": "a few people on our team, and we're just talking about going, we need to take our API that comes in our app, and have it so it can easily export into Looker Studio, Power BI, Tableau, N8N,"
+    },
+    {
+      "t": "00:15:19",
+      "speaker": "Cristian Ionescu",
+      "text": "whatever you want. We're actually doing that work to make their life easier because people, what we discover is that they want these things, but then they have to start from scratch. Like, oh, there's no integration ready to go for our app with Tableau. So we have to build that integration. And sometimes even working with software like N8N, you're basically building that integration into N8N so you can integrate with that next platform. Yes, yes. And that's something that's, these customers are keen for integrations and customization is something to be continuously"
+    },
+    {
+      "t": "00:15:57",
+      "speaker": "Cristian Ionescu",
+      "text": "expected. I've had the surprise of working with massive platforms that did not offer an API. And"
+    },
+    {
+      "t": "00:16:03",
+      "speaker": "Cristian Ionescu",
+      "text": "from my point of view nowadays, 2024, you cannot, you can't do that."
+    },
+    {
+      "t": "00:16:10",
+      "speaker": "John Wright",
+      "text": "So I want to take a step back because you talked about how you believe that a lot of industries or even customers, like they almost kind of at some point need their own customization or dashboard. It's, yes, it's nice to have the one size fits all, but in my experience, it's very difficult to put all of our affiliate customers into a single silo and say, this is all the databases you need. So when would you say, let's say, let's use affiliate marketing as an example. At what size of an affiliate would they want to come to you to say, hey, this could actually make a big difference in our company. Like I think if you make 5,000 per month, that's not easy to justify."
+    },
+    {
+      "t": "00:16:49",
+      "speaker": "John Wright",
+      "text": "Hey, we're going to build a custom dashboard. It's like wait until you get to 50K per month or something. There are different stages in the very beginning, no matter how small the affiliate is or the network is. It is at least worth having a conversation because it can help you correctly design the data structure and the systems that you will need to use two years down the line. So I've seen this too many times. What they do is they start with data collection, any type of data collection, be it right or wrong. And then they discover three or three years down the line that the way they collect the data, the granularity or the"
+    },
+    {
+      "t": "00:17:28",
+      "speaker": "John Wright",
+      "text": "frequency will not support doing machine learning over that data. And most often than not, one hour to a couple of hours conversation with the consultant can at least guide them on the correct structuring of the way data should be collected and what we expect in the future."
+    },
+    {
+      "t": "00:17:47",
+      "speaker": "Cristian Ionescu",
+      "text": "As the affiliate matures, when I have a very simple definition, let's just keep it simple, when you can no longer cope with Google Sheets. So when you have your entire company run by Google Sheet referencing other Google Sheets from other departments and when some departments and teams start to have their own version of the data, that's a very clear indicator that you need to,"
+    },
+    {
+      "t": "00:18:19",
+      "speaker": "John Wright",
+      "text": "you start feeling the need for a central depository. And what I mean by that, imagine that your account managers may have an own version and categorization of the customers,"
+    },
+    {
+      "t": "00:18:29",
+      "speaker": "John Wright",
+      "text": "while the operations department will have some other dictionary and version and the accounting team will have some other version and grouping. And then you start seeing that the reports no longer match because of all these mismatched versions. That's when you need to know, you need to stop and start laying the foundation of a central depository."
+    },
+    {
+      "t": "00:18:53",
+      "speaker": "Cristian Ionescu",
+      "text": "Okay. And another question I have has to do with the total valuation today of affiliate marketing. And I've read a lot of reports, I think it was Statistica. I think they said in maybe 2023 that the industry is worth around 20 to 22 billion or somewhere around there. And they predict that by 2030, it should get to like 36.9 billion as an industry. And what I like asking these types of questions to you and other people that work in analytics is what is your opinion of how much this could be amplified? Because I'm not personally convinced that a lot of these projections have business intelligence and analytics factored into this."
+    },
+    {
+      "t": "00:19:34",
+      "speaker": "John Wright",
+      "text": "Could very well be, but let's look, we need to firstly look at the button to taba top to button. There's like a direction the economy is heading to. And it is something we can very difficultly influence, right? So we can only hope that we are still going to see lots of collaboration in the economy doing well. So because that's way also the industry will be able to grow. However, what is clear to me is that the industry can do a better job in terms of becoming a very attractive way of doing advertising. And what I mean by this, I've seen that the industry is very"
+    },
+    {
+      "t": "00:20:13",
+      "speaker": "Cristian Ionescu",
+      "text": "reliant on personal relationships, which is great. It's amazing. You cannot do business without personal relationships, but we need more automation and integrations and data exchanges. So the relationship can still be there, but the exchange of creatives, of standards, of integrations, of running and setting up a campaign can be way more automated. And I like to look, for instance, at ad networks, you know, the type of networks where they do automated building. I think that is the way, that is the direction the industry should go to."
+    },
+    {
+      "t": "00:20:51",
+      "speaker": "John Wright",
+      "text": "I agree. We're trying to work on a couple of those things, but I mean, we definitely can't do everything. And I think we have collectively as an industry in affiliate marketing, a big pain point of kind of going, well, who's going to be the first one to standardize things? And I mean, it was only like what, a month or two ago that Google said, oh, we're going to change your mind. We're not going to, we're not going to deprecate cookies anymore. And it's like, look at all just the tracking component of affiliate marketing. It's already a sub industry within a very big industry. Yeah. So, we haven't really talked about AI yet. And that kind of usually comes up over. So the first kind of question I want to ask about AI,"
+    },
+    {
+      "t": "00:21:29",
+      "speaker": "John Wright",
+      "text": "and it goes back to your point about how like, when you become a bigger company, you have customization. Do you think AI is going to create more jobs or do the opposite when it comes to like, does it have the potential to eliminate jobs? Or do you think it just has the potential to make the job get done better and faster with more accuracy, where you've got people working with these AI tools, and then going deep into these custom analytics that are unique to your company situation? I think it will bring us up from some work and allow us to"
+    },
+    {
+      "t": "00:22:06",
+      "speaker": "John Wright",
+      "text": "invest more in some other type of activities. I mean, we don't have, we don't really know how AI is going to impact us, but we can look back in the history because we have had revolutions, and we have had times where we have invented the next generation of tools like look at the"
+    },
+    {
+      "t": "00:22:23",
+      "speaker": "Cristian Ionescu",
+      "text": "industrial revolution. I mean, 100 years ago, 200 years ago, me and you most probably would have worked in a sweatshop or doing agriculture, right? The very reason we are able to sit here and talk about data analytics and the field market in that agriculture is being taken care of as we discuss by machines, right? So this is what we'll naturally expect from AI. AI in the end is a tool, it's yet another tool that will help us do our job better and faster and be more productive."
+    },
+    {
+      "t": "00:22:56",
+      "speaker": "John Wright",
+      "text": "Imagine that 40, 50, 60 years ago, we had to write machine code. There are lots of stuff we no longer need to do because we have built libraries and simplifications so we can care of other aspects. So being an analyst is not going to change. You will still need the education to rely on data and ask questions about data, be curious, and train and coach people,"
+    },
+    {
+      "t": "00:23:29",
+      "speaker": "John Wright",
+      "text": "but you're no longer going to spend maybe four days of your week building dashboards and reports. You are still going to spend more time in making sure that the data is structured correctly. That's something that AI still can't do, especially if we are talking about larger type of setups for medium sized companies, for enterprise sized companies. And you are going to spend a lot of time getting insights from that data and acting on that data. So"
+    },
+    {
+      "t": "00:24:02",
+      "speaker": "Cristian Ionescu",
+      "text": "a short answer would be it's gonna shift the mix of activities we're doing."
+    },
+    {
+      "t": "00:24:09",
+      "speaker": "John Wright",
+      "text": "Right. Now, what do you think about tools? I forget the name of it. I think it's advanced data analytics on chat chat. Do you think those are those types of tools that they help you get started to go, hey, look, I don't know what I'm doing, but let me take a spreadsheet, throw it in here and then start asking chat GPT some questions where it can give you some answers and maybe you kind of discover something and go, wait, this is good. I now want to build this into the custom dashboard. Yeah, that's you have structured it correctly. The way I'm looking at it, and we're seeing lots of tools that allow you to bring AI into"
+    },
+    {
+      "t": "00:24:47",
+      "speaker": "John Wright",
+      "text": "your sheets, allow you to converse with your data or allow you to just do very poor aspirations based on your data. Right. Most often than not, they are based on some CSD Excel files that you're providing. Right. So from the get going, you're not connecting that to all your underlying infrastructure within the company. You can't do that yet. So these tools are"
+    },
+    {
+      "t": "00:25:14",
+      "speaker": "John Wright",
+      "text": "best suited, I think for small and startup companies, and they are best suited for exploratory analysis. When you want to very quick and dirty look for something, see if you discovered"
+    },
+    {
+      "t": "00:25:31",
+      "speaker": "Cristian Ionescu",
+      "text": "what you were looking for, but then you will need to standardize that, automate that and turn that into a data asset that you can share within the company. Because the way I like to look at it, imagine you can't just like build lots and lots and lots of quick and dirty analysis and then expect to have a very robust usage of all those analysis within the company. You will need to carefully look at what everybody needs and then make that available to them as data products. We start"
+    },
+    {
+      "t": "00:26:05",
+      "speaker": "Cristian Ionescu",
+      "text": "seeing this notion of data product and the data product in the end is a standardized way of looking at the data. Let's come back to the example of the customers. You need the unified standardized way of grouping your customers. Right. And then you need to make that asset available to everybody in the company that needs it. You need to make it available to your marketing team, to your sales team, to your accounting team, to your operations team and so on. Right. Because you need to have the confidence that everybody is looking at the same version of that data. So they can be coherent"
+    },
+    {
+      "t": "00:26:44",
+      "speaker": "Cristian Ionescu",
+      "text": "and look at the same set of numbers. Right. And you can't achieve this type of robust data management using the types of on the fly spreadsheet like tool, even if they have or don't have AI. Yeah. It's interesting because when you say that I realized how lucky I was in doing my data this project. So I took a course by Kevin Hartman. It was a data visualization and I didn't know what I was doing. I didn't even know Tableau at the time. I didn't know it really well. So I took one affiliate account that I had out of like 2000. I just took one, went two years back of"
+    },
+    {
+      "t": "00:27:21",
+      "speaker": "Cristian Ionescu",
+      "text": "the data, threw it into Tableau and I said, I don't know what I'm doing, but I'm going to just keep iterating database. And I lucked out because most of the database came out to be good, but I think it was only good as my lucky situation, which was I picked an account that actually had so much variety of data and variance that probably the most profound report I got was a plot chart of revenue by clicks plotted by campaign. And here's what was very crazy. And it really, it made me get, get this aha moment of like, wow, there's, there's infinite possibilities in affiliate marketing. I had one campaign that took five times as much clicks to get the same amount"
+    },
+    {
+      "t": "00:27:59",
+      "speaker": "Cristian Ionescu",
+      "text": "of revenue. The revenue was close to $40,000 per campaign over a couple of over two years. And when I take these landing pages and I look at them, I'm like, they're different landing pages, but they both had the same offer. And I went back to the affiliate program. I said, do you know what the conversion rates out of these pages are? They said, yes. But then they said they couldn't tell me. And then they basically admitted that they didn't even know how many people in affiliate marketing, aren't looking at all this stuff. Like there's one massive rabbit hole that I stumbled upon and I wasn't even thinking about it. I think you're right. I think chat GPT would struggle to actually tell me, Hey, I'm just going to do"
+    },
+    {
+      "t": "00:28:38",
+      "speaker": "Cristian Ionescu",
+      "text": "this for you. It's I can ask it to do it for me, but that's me asking, Hey, can you just build this with whether I even know what I'm doing or not? Yeah, it's, it's, you're right. And we are, we are still a long way from having our own Jervis agent that knows the entire data or a fake network data or our publisher data by heart and can answer questions, right?"
+    },
+    {
+      "t": "00:29:03",
+      "speaker": "John Wright",
+      "text": "They can so far answer questions based on a CSV or Excel file that I told you."
+    },
+    {
+      "t": "00:29:09",
+      "speaker": "Cristian Ionescu",
+      "text": "However, we still, we are the ones that need to put in place the reporting structure that addresses the major processes in the pain points that we know. So because imagine to be, to run a successful program or to run a successful network here, you need to take care of some very fundamental issues. And that is you need many need to make sure that your advertisers are happy. You need to make sure that your publishers are happy and that all the activity is happening in a compliant way. And everybody makes money out of it. Right. And that's simple. So then you need, so we have this"
+    },
+    {
+      "t": "00:29:46",
+      "speaker": "Cristian Ionescu",
+      "text": "structure, we have these main objectives, and now we need to address each of them with the appropriate analysis and dashboards. Your example, for instance, with the pressing conversion rate within the two landing pages is the finding that was the aha moment you had to blow, you made the exploratory analysis and you discovered something. The next point then is to standardize that and turn it into an initiative. So guys, we have like a eight week period where we need to bring this page to the performance of this page. And now here we are talking about an"
+    },
+    {
+      "t": "00:30:21",
+      "speaker": "Cristian Ionescu",
+      "text": "action plan and that analysis of yours would turn would no longer be an exploratory type of surprise finding, but it would turn into a standard report that will support the monitoring of that particular issue. Right. And that's when you form a task force with actions to make sure that page comes to the performance of that that other page. Right. And this is how"
+    },
+    {
+      "t": "00:30:50",
+      "speaker": "John Wright",
+      "text": "you turn data analytics into a support for process improvement type of initiatives. Because I wanted to bring this point and build on top of your point,"
+    },
+    {
+      "t": "00:31:01",
+      "speaker": "John Wright",
+      "text": "because I'm seeing lots of companies that want to adopt data and but don't know where to start from. And the truth is that it doesn't have to be complicated. You start with your objective with the key processes. You need to make sure you are measuring them and then dive deeper, find some opportunities that prevent you from achieving your result and work towards them"
+    },
+    {
+      "t": "00:31:26",
+      "speaker": "John Wright",
+      "text": "and use those same monitoring tools to make sure that your actions are effective."
+    },
+    {
+      "t": "00:31:33",
+      "speaker": "Cristian Ionescu",
+      "text": "Yeah, that makes a lot of sense. It's like you said, like when I had my aha moment, you're like, you can turn that into like a two month project or project that has so much more profound impact that it's it's unbelievable, but you got to start somewhere. And I think that's actually a good point. I think a lot of people that don't know where to start, they're scared to start. And I'm going to ask a weird question towards you, which is, I noticed this in the SEO space that people sometimes struggle to sell SEO like you work for a company and you're trying to get your boss to hire a company. But it's like, how do I know they're good and they don't know what kind of results they're going to get? Would you say that this is where we are in the state of analytics"
+    },
+    {
+      "t": "00:32:12",
+      "speaker": "Cristian Ionescu",
+      "text": "today? We could be, we could be. There is a distinction though in very, very great. It depends on the area. What I mean by this is we do lots of data analytics projects. We've done them for affiliate marketing. We've also done them for supply chain companies. And there's a very important distinction that I noticed. For instance, we have done paid media type of reporting where a customer needed to be able to monitor their advertising costs across all their channels"
+    },
+    {
+      "t": "00:32:50",
+      "speaker": "John Wright",
+      "text": "and then get better at it and optimize it and route the budget towards the channels that are making the most impact. The challenge in this type of project is that you can't really go very granular with the data. There were better times maybe six or eight years ago when you could get granular, more granular data and understand how to optimize it. Now, you can no longer do that because of various privacy policies and laws. However, you can still do that in supply chain."
+    },
+    {
+      "t": "00:33:25",
+      "speaker": "John Wright",
+      "text": "You can have a look at the data at item level, vendor level. There's no type of privacy policy that you need to work with to get your data at the lowest level of granularity. So what I mean by that is in some areas, it's more of a science rather than a spraying and praying type of project. And sometimes SEO can be just that because imagine that Google keeps their secret sauce and the inner workings of their algorithm quite secret. I mean, they do give us hints every now and then."
+    },
+    {
+      "t": "00:34:01",
+      "speaker": "John Wright",
+      "text": "However, there are times where they do improvements and updating their algorithms and you have no idea what happened over there and why your site is no longer trending well or it's trending better. And you can't expect predictable results when you can't do the same thing twice and get that same result. So there are industries and areas where you can do that. Yeah, that makes sense. So I got a question, which is, are you able to share without giving confidential information away,"
+    },
+    {
+      "t": "00:34:39",
+      "speaker": "John Wright",
+      "text": "like an aha moment? And I'm guessing with the work you do, you probably encounter these all the time. Like you're like, wow, this was so powerful of an insight that this is going to help this company make more money. Or you've just discovered like one of these rabbit holes where if someone takes this idea and runs with it, like there's a project or an actual business."
+    },
+    {
+      "t": "00:35:00",
+      "speaker": "Cristian Ionescu",
+      "text": "There are a few examples here. Now it's no longer surprising, but it has been the very first time"
+    },
+    {
+      "t": "00:35:09",
+      "speaker": "Cristian Ionescu",
+      "text": "segmentation analysis can be very powerful. Let's just take an example of an affiliate marketing network. They are working with lots of advertisers, they are working with lots of publishers. And we as individuals, we are very different from each other. So we like to focus on different areas and different aspects. One of a moment is that when you do a segmentation analysis of your publishers, for instance, let's have a look at the last conversion, how long did it be? See, they generated the last conversion, how many offers they are running, and what is the gross profile they are generating, right? You can use these three dimensions to"
+    },
+    {
+      "t": "00:35:47",
+      "speaker": "Cristian Ionescu",
+      "text": "perform an RFM segmentation analysis and segment them into different segments."
+    },
+    {
+      "t": "00:35:54",
+      "speaker": "John Wright",
+      "text": "The aha moment is when you realize that firstly, they belong to different segments."
+    },
+    {
+      "t": "00:36:00",
+      "speaker": "John Wright",
+      "text": "And when you realize that you need to meet them where they are, in terms of meeting them with what their needs are, right? Some will benefit from a retraining or a reminder of my compliance rules. Some others will benefit from more incentives and better commissions or access to more exclusive campaigns and type of offers. And it goes on and on and on. But the point is that the moment you realize you have different segments, that's when you also realize that you"
+    },
+    {
+      "t": "00:36:39",
+      "speaker": "John Wright",
+      "text": "need to have an action plan for each individual segment. And there's no segment more important than the other. It's just that you need different treatments and offerings to all those segments."
+    },
+    {
+      "t": "00:36:54",
+      "speaker": "Cristian Ionescu",
+      "text": "And I guess you could say a segment can be like a cohort analysis as well."
+    },
+    {
+      "t": "00:36:59",
+      "speaker": "John Wright",
+      "text": "Absolutely. It can also be a cohort analysis. I think with what you just said is actually crazy because think about one affiliate program or one affiliate network. What do they have? They have a database of let's say 100 or 1000 affiliates. And those 1000 affiliates are setting like tens of thousands of customers, whether it's a product or service. I mean, you just basically said something that's profound. It's like who today is doing this segmentation analysis both on either level, going up to the affiliates and analyzing how do I work with my affiliates, compliance, offer analysis, and then taking a step down and going now that we have the traffic coming in, which is"
+    },
+    {
+      "t": "00:37:35",
+      "speaker": "John Wright",
+      "text": "where the sales are happening. I just don't believe that most companies in field marketing are doing any of this stuff and it's not even on their radar."
+    },
+    {
+      "t": "00:37:44",
+      "speaker": "Cristian Ionescu",
+      "text": "Well, yes, indeed. And I realized I've had the opportunity to work with some very visionary people in the industry and what they did and something that I think it's badly needed in the industry is the networks themselves can step up. So imagine the networks have been providing services. The reason they exist, right? They do provide access to their publishers to some exclusive offers or better negotiated commissions and stuff like that, right? They do offer the"
+    },
+    {
+      "t": "00:38:19",
+      "speaker": "Cristian Ionescu",
+      "text": "convenience of having to work and only send out one invoice rather than working with tens of brands. Right? On the other hand, from the brand's perspective, they do offer the advantage of"
+    },
+    {
+      "t": "00:38:33",
+      "speaker": "John Wright",
+      "text": "having someone that ensures compliance, having someone that can connect them to multiple publishers that are best suited for their type of offerings and products and services and so on and so forth. So my point is that they do offer, they fill in this void, but what they can do if they can encourage data sharing across the network so everybody can learn from it. And what I mean by every publisher has their secret sauce, right? Nobody wants to give out their secrets. However, they can still benefit from economies of scale effects when they pull in"
+    },
+    {
+      "t": "00:39:12",
+      "speaker": "John Wright",
+      "text": "all of their data to collectively learn from it. That's one point. And the other one is, no matter how much we like to talk about data analytics being democratized, the truth is that it is still quite expensive. So they can also benefit from sharing costs and then to build an infrastructure that allows them to extract the necessary insights that allows them to optimize their campaigns by pulling right, by sharing this investment effort. Okay. Now, taking what you just"
+    },
+    {
+      "t": "00:39:50",
+      "speaker": "John Wright",
+      "text": "said, it made me think about this concept that let's look at an affiliate side as a generic example. So they're typically a product in the sense they're more content, but there's other ways they can productize what they do. Let's say it's user generated reviews. So we know that personalization could be a powerful way to increase conversions, but it could also be a means of kind of learning from your users. And like when you actually pretend to go through a funnel of buying something or navigating an affiliate site, I get the feeling that most users aren't being tracked in a way that would give you analysis. Like for example, when's the last"
+    },
+    {
+      "t": "00:40:28",
+      "speaker": "John Wright",
+      "text": "time you've been prompted for a survey just to be like, Hey, if we don't survey you, we don't know anything. And I think there might be a weird push towards first party data to say, well, wait a minute, if I can capture you in a newsletter, then I have a chance to bring you back so you don't forget about us. But since I've done the effort to capture your email, what else can I capture and what else could I learn about you? Do you think this is another major opportunity that sites should be finding ways to say, we need, we need to find this a way to make it happen? Yes, yes. And I think it also ties back to this collaboration aspect because"
+    },
+    {
+      "t": "00:41:04",
+      "speaker": "John Wright",
+      "text": "think of it, we have a customer will always have interaction through lots of brands and lots of publishers and lots of places and their digital footprint is huge. The better we can put it together, the better we can actually understand what that person needs and the better we can target them with relevant offers because there's no point and nobody gains. The customer does not gain, the publisher does not gain and definitely the brand is not gaining when an individual is bombarded with irrelevant offers. Which is, it just sounds like you just talked about the affiliate"
+    },
+    {
+      "t": "00:41:42",
+      "speaker": "John Wright",
+      "text": "marketing industry for the last 25 years. There are examples and examples. Yeah. So I want to pivot a bit and talk about different data vids and different data tools. So I know there's tons on the market. Every time I look, there's just new ones. So companies that I'm excited about just like following are like rose.com, polymer search, hex.tech, and adn. I want to ask, what tools are you working with or which ones do you think are worth paying attention to?"
+    },
+    {
+      "t": "00:42:14",
+      "speaker": "Cristian Ionescu",
+      "text": "So the tools that you mentioned are great examples of tools to get started with. They usually help"
+    },
+    {
+      "t": "00:42:24",
+      "speaker": "John Wright",
+      "text": "startups and small companies analyze their data. But as I told you, there comes a time in the maturity of a company where they will need more robust tools. So to answer your question, we are mostly using Power BI, Tableau, and Domo. And we are mostly using components, especially cloud components from the very established players. That is cloud from GCP, from Azure, and from AWS, depending on what the customer is already using. The reason we're doing that is,"
+    },
+    {
+      "t": "00:43:00",
+      "speaker": "Cristian Ionescu",
+      "text": "personally, you need to have very robust and stable solutions. When you make data analytics your priority and becomes a central pillar within your organization, you don't want it to fail."
+    },
+    {
+      "t": "00:43:15",
+      "speaker": "John Wright",
+      "text": "So they need to be robust. You need to have access to a huge community of people that are contributing to it. You need to have forums where people are discussing and where you can find solutions to questions you might have. You need great support. And this is what we are usually getting from these very mature players. Yeah, that's pretty cool. Yeah, I haven't used Domo, but I've been hearing a lot about it. And I've more experienced in Tableau, and we've got different team members that are more into Looker Studio. And every time I just look at these new"
+    },
+    {
+      "t": "00:43:53",
+      "speaker": "John Wright",
+      "text": "tools like N8N, I'm like, wow, this is just never ending. It's like Zapier, but with like Python, if you want Python or JavaScript inside it, same thing with hex.tech. These tools just to build unique dashboards and either automate them or find their ways of how they integrate AI into them. I just think it's never ending. And then of course, AI is being integrated into Tableau and Power BI and Looker Studio. Yeah, they're amazing, too. They are amazing. And they're amazing exactly for that type of quick and dirty exploratory analysis to get you started with."
+    },
+    {
+      "t": "00:44:28",
+      "speaker": "Cristian Ionescu",
+      "text": "But however, I mean, you still need to be very cautious about data management because"
+    },
+    {
+      "t": "00:44:36",
+      "speaker": "John Wright",
+      "text": "you can end up with lots of... You need lots of assets that people can use and reuse."
+    },
+    {
+      "t": "00:44:44",
+      "speaker": "John Wright",
+      "text": "You need them to be able to search them and discover them and understand what they are, get access to them. And you're still need like very clear versioning. So people have the confidence that they are looking at the same set of data. And without these, you can no longer have a conversation. And last question to finish everything off is, what do you see of the future of affiliate marketing as it intersects with business intelligence? When I think business intelligence, on one hand, and automation, they should definitely be supporting tools to the"
+    },
+    {
+      "t": "00:45:24",
+      "speaker": "John Wright",
+      "text": "industry. And I don't think they're leveraged enough right now. For the future of the industry, as I also said, it will benefit a lot from sharing and pulling in resources and efforts, integrate, build APIs and build data standards and interfaces so they can exchange data fast in a very productive and secure way. But overall, I'm very optimistic about the future of the industry."
+    },
+    {
+      "t": "00:46:02",
+      "speaker": "John Wright",
+      "text": "Yeah, I agree. I'm hearing some of these things in the background where people are talking about sharing big data and going, well, we don't want to share our data because it's very valuable. But if we can find a way to anonymize it and pull it together, we can get some feedback. And I think you're also correct in stating that there's just a lot of standards that aren't being adopted. How do we have more collaboration? We actually are trying to make more of this,"
+    },
+    {
+      "t": "00:46:27",
+      "speaker": "John Wright",
+      "text": "make it super easy. So if you do want to connect our app with Tableau, it's like these things should happen. And I think we're seeing this now across so many companies. The keyword integration is we're seeing these on more databases and SaaS apps, which is really cool because it's like, hey, you can now connect program A to program B and do what you want and find clever ways of"
+    },
+    {
+      "t": "00:46:49",
+      "speaker": "Cristian Ionescu",
+      "text": "making your own product by stacking products. Yeah, that will help a lot. And imagine there's nothing new and unusual about what is currently happening to the industry. Imagine all the other industries have gone and are going through the same challenges. And I also have, I told you, some manufacturing background and I've had, for instance, conversations with manufacturing equipment suppliers. And we were having the same conversation. We need a structure. We need standard interfaces so we can connect to your machines and fetch data in a unique way so we"
+    },
+    {
+      "t": "00:47:26",
+      "speaker": "Cristian Ionescu",
+      "text": "can analyze it and get better at our manufacturing processes. It's the same telecom they have gone. And the truth is, for instance, people can learn a lot from telecom because they started this type of integration initiatives back in the 1990s. They have been way faster than everybody else. And there are lots of to be learned. But the point is that there's nothing unusual or bad about the challenges that we are seeing. It's just you need to go through them. Awesome. Christian,"
+    },
+    {
+      "t": "00:48:01",
+      "speaker": "Cristian Ionescu",
+      "text": "thank you so much for doing this. I got four pages of notes in front of me. And there's so many amazing ideas that I just want to talk to people on affiliate marketing for. And that's what I knew or what I was hoping to get out of this conversation. So I just want to pass it back to you to share how people can get a hold of you. Well, they can visit our website with analytical.com."
+    },
+    {
+      "t": "00:48:26",
+      "speaker": "John Wright",
+      "text": "I strongly encourage them to go through our case studies and have a look over there because we have some very interesting applications of data analytics and machine learning, especially in the affiliate marketing industry. And then if they need support, they can just reach out to us, to me on LinkedIn or using the contact page on our website. Will do. I was definitely going to recommend the case studies because I mean, once you sent me the first case study, I went through all of them. And every time you publish one, it's kind of like, you know, it's like Christmas."
+    },
+    {
+      "t": "00:48:58",
+      "speaker": "Cristian Ionescu",
+      "text": "I'm glad to hear that. I will keep you posted. Awesome. Thanks so much for doing this."
+    },
+    {
+      "t": "00:49:04",
+      "speaker": "John Wright",
+      "text": "Thank you as well. Thank you for having me."
+    }
+  ],
+  "turn_count": 110
+}

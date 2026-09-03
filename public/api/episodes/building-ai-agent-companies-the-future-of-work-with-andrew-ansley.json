@@ -1,0 +1,677 @@
+{
+  "id": "building-ai-agent-companies-the-future-of-work-with-andrew-ansley",
+  "slug": "building-ai-agent-companies-the-future-of-work-with-andrew-ansley",
+  "show": "Revenue Optimization with StatsDrone",
+  "host": "John Wright",
+  "title": "Building AI Agent Companies: The Future of Work with Andrew Ansley",
+  "guest": "Andrew Ansley",
+  "url": "https://revenueoptimization.io/ep/building-ai-agent-companies-the-future-of-work-with-andrew-ansley/",
+  "pubDate": "Tue, 17 Mar 2026 11:55:00 +0000",
+  "duration": "46:26",
+  "audio": "https://media.castplus.fm/wk47lqm8.mp3",
+  "guid": "703plxr1",
+  "description": "In this episode, John Wright speaks with Andrew Ansley, an AI consultant focused on building agentic systems and autonomous AI workflows.\n\nThe conversation explores how AI agents are changing the way companies build products, run operations, and scale teams.\n\nAndrew explains how the latest generation of AI tools allows developers and entrepreneurs to create systems that can analyze information, research problems, generate solutions, and execute tasks with minimal human oversight.\n\nRather than focusing purely on models, Andrew believes the real breakthrough is happening in agent harnesses — the systems that orchestrate AI tools, commands, and workflows.\n\nTogether they explore:\n\nThe shift from vibe coding to AI agents\n\nHow AI systems can automate complex workflows\n\nWhy smaller teams may outperform larger organizations\n\nThe growing importance of clear thinking and structured communication\n\nWhat skills will matter most in the next decade\n\nAndrew also shares practical advice for founders and operators looking to experiment with AI in their own businesses.\n\nThis episode is a deep dive into how AI agents may reshape work, startups, and software development over the next few years.\n\nGuest\n\nAndrew Ansley\nAI consultant specializing in agentic systems and AI automation.\n\nShoutout to StatsDrone and Odys iGaming as our partners.\nAlso to the affiliate software companies like iGsuite, Affilka and Intelitics where you can launch your next affiliate program or affiliate network.",
+  "has_transcript": true,
+  "socials": {},
+  "transcript_url": "https://revenueoptimization.io/api/episodes/building-ai-agent-companies-the-future-of-work-with-andrew-ansley.json",
+  "transcript_md_url": "https://revenueoptimization.io/ep/building-ai-agent-companies-the-future-of-work-with-andrew-ansley/transcript.md",
+  "transcript_markdown": "# Transcript\n\n**Show:** Revenue Optimization with StatsDrone\n**Episode:** Building AI Agent Companies: The Future of Work with Andrew Ansley\n**Host:** John Wright\n**Guest:** Andrew Ansley\n**Published:** Tue, 17 Mar 2026 11:55:00 +0000\n**Duration:** 46:26\n\nSpeaker labels are a two-speaker split from pauses (host vs guest). Timestamps are `[HH:MM:SS]` from the episode audio. Light ASR; names and brands may need a pass.\n\n---\n\n[00:00:00] John Wright: If technology doesn't evolve at all from where we are now, we're already so far along that about 40% of jobs, all jobs that involve a computer are gone.\n\n[00:00:12] Andrew Ansley: It's just a matter of time. Maybe more.\n\n[00:00:16] John Wright: Most jobs, man, I do think we're already there. We've already crossed the threshold. Yeah. We're so close to the tipping point where the pain will really be filled. You're listening to revenue optimization with StatStro.\n\n[00:00:37] Andrew Ansley: This episode is supported by a few companies pushing the industry forward.\n\n[00:00:43] John Wright: Want your iGaming brand to stand out in a crowded market?\n\n[00:00:47] John Wright: Odys iGaming are the experts in SEO, digital strategy, and brand protection.\n\n[00:00:53] John Wright: They help operators and affiliates rank higher, attract the right traffic, and turn visibility into real growth.\n\n[00:01:02] John Wright: Visit otis.global.com slash iGaming and own your market today. That's o-d-y-s dot global slash iGaming.\n\n[00:01:13] Andrew Ansley: And if you're serious about revenue optimization, you need the right data. StatStro helps affiliates track performance, spot revenue leaks, and make smarter decisions all in one place. Turn your data into growth at statstro.com.\n\n[00:01:39] John Wright: Now I've got to decide what is going to be the first question.\n\n[00:01:44] John Wright: Red or blue?\n\n[00:01:46] John Wright: Red or blue? Um, that's a good question. What's your take on what's going to happen in the next year for everything from white collar jobs to corporations to SaaS to affiliate marketing to SEO? What is your personal prediction? Cause everything I read on X is it's, it's everything, right?\n\n[00:02:05] John Wright: Yeah.\n\n[00:02:06] John Wright: I'd say that, uh, there's two ways to approach that question. Cause there's the tech adoption and like the proliferation of the technology. Cause the technology could exist now, but whether or not, you know, people actually are applying it at scale and it's having an impact. That's another story.\n\n[00:02:23] John Wright: If technology doesn't evolve at all from where we are now, we're already so far along that about 40% of jobs, all jobs, um, that involve a computer are gone.\n\n[00:02:36] Andrew Ansley: It's just a matter of time, uh, maybe more.\n\n[00:02:39] John Wright: And, uh, once the thing that's going to take the longest is something that involves human oversight, you know, where like your money, your life type stuff, even then the only thing I think technology could still do it.\n\n[00:02:54] John Wright: I think that's going to be the longest holdout you're looking at 20 years or something still, I think where the humans aren't required. Um, even if the technology could do it, but most jobs, man, I do think we're already there, we've already crossed the threshold. I think Opus 4.6 really 4.5 already did it for me. 4.6 started doing things where it's like, I had entire methodologies, like prompt sequences that were 20 prompts long. I have spent just on prompting and practicing prompting. I've spent about 2000 hours on that. Uh, not even the development aspect of, of stuff.\n\n[00:03:31] John Wright: Cause I did that in 2022, November 30th, 2022, uh, up until about November. Uh, 2023 that's all I was doing.\n\n[00:03:41] Andrew Ansley: Uh, now it's so much simpler. And there's, uh, I have a buddy who's in advanced mathematics and he gets hired by some, by the government and like all sorts of companies and, um, he's the one writing these PhD papers and AI was not able to even approach what even given the papers, it wasn't able to do and execute recreate. Uh, it took so long. It was so long and it was still broken with 4.6. It's not, it's not. It's it's rather quick. It took 30 minutes. Uh, and it was working autonomously the whole time and then created the thing.\n\n[00:04:20] Andrew Ansley: So like you could feed a patent paper for anyone patent. I know it's illegal to like commercialize it and whatever, but the fact of the matter is I still like to try just to see that's my barometer. My personal barometer is if you're able to just reconstruct from a patent doc, the entire thing that's huge and 4.6 can do it. So I, I don't know what that means for the timeline.\n\n[00:04:42] John Wright: All right, let's jump into the fun stuff. I mean, the hottest topic right now is open claw. It's agents. If 2025 was vibe coding, I think 2026 is definitely agents. So what I'm just getting started with agents and here's my understanding of it. Like we've got agents to do lots of fun stuff, automations and all that, but where I'm seeing some weirdness happen is I've got a friend, I won't mention his name, but he basically said, I'm quitting my affiliate marketing business. I'm leaving as one of the founding members. I'm a one-man show and all I'm doing right now is I'm creating an AI company, an AI company that's literally going to be making me money. I have a whole team of agents and they all have different jobs. They communicate with each other.\n\n[00:05:21] John Wright: I mean, I think the keywords he was telling me were, um, like, you know, just starting to use deer flow. So I think deer flow is like one of many kind of platforms you can use. Uh, when I started going deeper, I think there's other ones, like you mentioned before, like the PI framework, which is open claws built on it. Uh, tell us, well, what do you think?\n\n[00:05:41] Andrew Ansley: Yeah. So like, is this the year of agents? Yep. Um, it's interesting.\n\n[00:05:47] Andrew Ansley: I'd say I've messed with a lot of different stuff. I do think agents for sure. You have the, I'd say this is the year of the agentic harness really. Cause Claude code is a year old now. And that is an agentic harness. Then you have PI, which is an agentic harness. And then you have tools built on top of it, like, um, like open claw. So open call is built on PI. And that's open source if anyone wants to mess with it. So what that means then is the harness itself is kind of the key and agents are just one aspect of it really. And what's interesting is the creator Mario of, uh, of PI, he\n\n[00:06:26] Andrew Ansley: doesn't even use sub agents. He, he made the damn thing and he doesn't use them. Um, he thinks his personal philosophy is I just want to have like a terminal and like, it can be autonomous. He wants it autonomous, but it's a single terminal. I don't need to do agents and stuff like that.\n\n[00:06:43] Andrew Ansley: Uh, doing sub agents brings complexity. There's a lot going on there. Uh, Claude has a different whole methodology and mindset because look at one of its most recent, I think like three change logs ago or something. It created the, uh, the pre-made multi-agent team orchestration to just like deploy 20, 30, 40, whatever you want, uh, agents. So I think there's some different philosophies going around. I personally like having agents, but it gets into like a, uh, another topic where we can go into like what each kind of component is like seven components of the harness that are really important.\n\n[00:07:23] Andrew Ansley: They each bring different things. And, um, I do think people are going to start integrating their computer more and more or paying for a server more and more, it's going to be very normal to pay for some cloud hosting. Whether it's through perplexity or Manus or Claude, or you just want to do open claw and you have your box, your Apple Mac mini or whatever.\n\n[00:07:46] John Wright: Which is ironic because I think Mac minis are just exploding with sales. And there's a lot of people that are saying you don't really need a Mac mini to do this. And I've, I've launched a server, but the server is not cheap. I think I'm paying $24 a month. But I mean, I know you can run these things on like, you know, the actual pie machines, like the mini computers. And I'm thinking about doing a bunch of mini computers just for testing, but I think there's a possibility, you know, with the project I showed you just before recording, I might take a step back from agents, let other people do it and go, can I just build my own tool or toy, which is if agents can connect to this and do some really cool things. And I'm happy, you know, I'm here to learn at what agents can do.\n\n[00:08:25] John Wright: And especially when it comes to like orchestration of all these things.\n\n[00:08:29] John Wright: Yeah. The, uh, they can do just about anything. I think the, uh, the people that are going to excel are, and if you want to, if you want to excel, don't worry about the agents, just focus on commands.\n\n[00:08:44] Andrew Ansley: That's the biggest thing. It's a single terminal and then empower your commands with tools. So the ability to access the web to scrape stuff, to take, generate an image, just, uh, to download things. There's all sorts of stuff, but the more tools you give it, the more you can then orchestrate anything you could possibly need.\n\n[00:09:06] John Wright: Okay. Then let me start asking different questions because I've got more ideas. So we're, we're a SAS company. We're 12 people full time right now. Um, there's a lot of things that we're not doing because we actually don't have a full time salesperson. We don't have a full time marketer. But when I start looking at pieces of what agents can do and talking about this orchestration, I feel like if we actually had potentially an AI engineer on our team, that would be one of the projects to do, which all right, you're going to take one thing and you're going to solve it. And then we're going to start basically turning this into machine where you kind of want the whole system connected. So I mean, on the engineering side, we have QA people, we have things\n\n[00:09:45] John Wright: that we do repetitively, which is like in a lot of scraping work for affiliate programs. So I think you can always put every job into a box and go, how are we going to attack it? And if you had to be given that as a project, how long do you think would take you to get something like this off the ground? Are we talking months or possibly even weeks? Is the question how long to like, identify everything, basically? Yeah, stuff like that. And like, what would you do if you had that, you know, responsibility on my team? Yeah, I do this. This is one of my core things I make money on is I step into teams like this.\n\n[00:10:23] John Wright: So what we typically do is they have developers. So I would step in, you have developers. We need to immediately get the existing staff up to speed on how to, instead of shipping updates in a month, start shipping updates per week.\n\n[00:10:39] John Wright: Once they become super users, you might be able to do multiple updates in a single week. But depending on your scale too, things drastically change based on the size.\n\n[00:10:51] John Wright: So that's one. So that takes about a month to train the team. Then it's all about basically hands on, let's work on stuff, find a problem, solve the problem, and you're just finding it, solving it over and over again.\n\n[00:11:04] Andrew Ansley: So typically if you have a code base, just feed and give me the code base. I have agents that go and digest, understand and deconstruct everything. Then I'm able to kind of figure out, all right, we need to start here.\n\n[00:11:19] John Wright: But that's where I'd start. And then it's all going to come down to what makes a good agentic system, which is you need something to analyze. So you need an intelligence layer. You need a synthesized layer. You need a research layer, a writer editor sort of layer. And then you need a loop mechanism to just make sure that things will loop.\n\n[00:11:44] Andrew Ansley: But that's kind of all you're doing. You have some custom scripting to ensure that things stay within guardrails that are safe. So whenever an agent tries to run a command that's deemed dangerous, it prevents that agent from doing so. And physically there is no such thing as prompt injecting to get them to break that. The code prevents that. So that's one thing too. Once you're making things more autonomous, absolutely. That's one of the number one investments is hooks essentially is what Claude calls them. When you've done this work for other companies, have you ever run into\n\n[00:12:19] Andrew Ansley: situations where the tech team is kind of like pushing back and going, we don't need you. We're okay with this. And they say they use AI, but they're basically using it in small, many snippet ways, but they're like, no, it's not safe to use Claude or Claude's not good. It can't be better than people. Yeah, I have run into that. I'd say it's, that is not something I'm running into nearly as much anymore.\n\n[00:12:43] John Wright: Uh, the way that I've dealt with it is I just tell them I'm, I want humans to have a purpose still, I'm not trying to, whether or not the person who hired me to try and get rid of you, I'm trying to make sure you have value in this company. So I can tell you right now that I already know you're wrong.\n\n[00:13:04] John Wright: Yeah. Like the, I know it exists and all you have to do is hang out in certain circles and you'll see, or you mess with it yourself. You'll see, look at the frequency and the teams, look at the team size of Claude just alone, and then look at how many enterprise level production grade features are shipping every single week. And then compare that to chat GPT.\n\n[00:13:28] Andrew Ansley: Uh, we can see what happens when a company is a Gentacarnas first code first.\n\n[00:13:36] John Wright: And we could see what happens when you're not. So, uh, not nothing to say about their models being bad. It's just look at, look at what's happened. Claude has like a two year headstart on, on that. So that's, that's kind of what I've told these people is just, Hey, you're, you're going to go the way of the dodo, man. You gotta, you gotta work on this.\n\n[00:13:55] John Wright: It's ridiculous. It'd be like, uh, I don't know, like those people who didn't adopt the fax machine when it came out or like, uh, didn't have pagers or it's even worse than that, but it's like, you gotta have these things you gotta be tech adapt and tech adept. Yeah.\n\n[00:14:11] John Wright: Even it's like, you know, having a computer or having the internet. It's kind of like, I think it's actually becoming more extreme than like not even having a computer. It's like back then you could be like, yeah, I don't have a computer and I still got a job. I'm important. I do sales. I do think the people part of it's going to stick around, but I think for a lot of tasks, like I'm now looking at them going, I've heard other companies, it's like you said, the network effect. When you hear other people do do it and make it successful, or you hear big companies go look, look investments flowing to like different things, it's not flowing to the old school SAS model anymore. It's actually flowing to like, you know, all these VCs are like, I just\n\n[00:14:50] John Wright: want to invest in a single person. They come to me with like this whole, like, you know, agentic, uh, you know, AI company, just give me that. And here's 250,000, you know, it's a, I think the whole investment space is going to flip on its head. And I think there's still a lot of people that they're, I think they're even stuck because they're not even sure what's possible with the guy. Like the things that I'm building right now, I'm showing people and they're kind of like, I think they actually don't even think it's real. I think they're like, Oh, that's just the design. I'm like, no, this is actually working. And I.\n\n[00:15:21] Andrew Ansley: Yeah, I'd say there is, I think most people, especially in the investment space would probably at least know it's possible. They just wouldn't know how to do it. Or what it looks like, really. Yeah. We're as a community, we're all trying to figure that out right now.\n\n[00:15:39] John Wright: I think, uh, what's becoming clearer is that if you give AI enough freedom, it's basically able to solve the problems without tons of over-engineering. It's really just the looping mechanism that's required a kind of like, there's a, there's a couple of approaches. I think there's like 20 that have documented, but, uh, top three approach is the react method and that's, uh, basically just an agentic method to just kind of like take in information, reflect act, that kind of thing. So it's a bunch of that kind of thing.\n\n[00:16:17] John Wright: And as long as you have something that continues to spin it up, go in cycles, looping, looping, looping, you can basically solve anything. So we're still trying to figure out the most optimal way to do that.\n\n[00:16:29] Andrew Ansley: I've messed with it a lot myself and I've built insane systems that I over-engineered.\n\n[00:16:34] Andrew Ansley: Um, I don't know what I'll do with those, but they're, they're going to collect dust. I've seen them, you know, some of the stuff you built on Facebook. I'm like, I don't know what it's going to be used for, but this is intense research. It was, I think you're lucky to actually have that skill in your back pocket for what you're doing now and what you can do in the next.\n\n[00:16:52] John Wright: And my personal opinion is I think we've got one or two years in front of us to make a really great living. But I'm kind of concerned about what, what it looks like after. Cause I think AI is going to get to a level where we eventually become on the same playing field. Like if we're doing really hardcore stuff right now, I actually think it's going to get to a point where it's like, yeah, I just want this. No, don't do it like that. Do it like this. You know, I think we're going to, I think that's coming in maybe a year from now.\n\n[00:17:18] John Wright: I think so too. I think we're, we're close to a year or two is a good, a good estimation.\n\n[00:17:24] Andrew Ansley: Yeah. So with that said, I mean, you must get people coming to you all the time going, Hey, I want to get started. I don't know where to start. I'm not even sure if I know where to help people to get started. I just know that in my kind of sweet spot of being in affiliate marketing, a little bit of SEO and some data analytics, like, um, I've got some ideas and usually like to help people start small, like take a CSV file and put it into Claude or put into lovable visualize it and learn the basics of like how you can ask Claude to kind of like put Python on just a spreadsheet and go all the things that you want it to do. But you're like, Oh, I'm not going to do this because I can't figure out these damn Excel commands.\n\n[00:18:03] Andrew Ansley: You're basically typing and you get your results. Where would you get people started? Cause I think there's so much demand for people that just want to, they want to get going. They're like, I'm frozen. I think everyone's deer in headlights. I know I, uh, I have a free school group and not, I don't even have like a monetization pathway. It's just, I made it because so many people ask and it's like a two hour thing, but there's like a seven day challenge or whatever, but it's basically just, you can watch those videos and keep Claude open the whole time. Start with Claude. The video is largely, it's just to get you to where you can install Claude\n\n[00:18:40] Andrew Ansley: and get a terminal open because most people are scared by that. And once you get it open, as you now experienced, and once you kind of just tip your toes in the water of GitHub, uh, that is kind of it. But, uh, I would say once you get the terminal and Claude installed, then\n\n[00:19:00] Andrew Ansley: I have a couple of exercises. What I typically start people off with is a scraper, some sort of a thing like that. Just create a scraper and create a simple, uh, command that does a couple of different things where like, imagine your workflow, uh, for something that you want to do and then just. Explain it. I'd say that's something to, that's the number one thing is build a little tool practiced by maybe a, even copy an existing GitHub into your own computer. Just get in the habit of doing that. What I like to do is I'll have like a code folder. That's just where all my code lives.\n\n[00:19:39] Andrew Ansley: And then I'll copy some get hubs in and then I'll just reference them and say, what can we learn about coding or whatever, by just looking at this GitHub?\n\n[00:19:49] Andrew Ansley: Get used to that. Like you just need a good, uh, good comfortability inside of the terminal and then treat it like Claude, like you would on any other chat bot. And then you'll, you'll be good.\n\n[00:20:01] Andrew Ansley: I think it's a good idea. I did something like that where I said, okay, some of the most popular frameworks, like even with like open cloud, I said, there's some amazing projects here and I know they're structured really well. I said, what can I learn from those structures when I want to build up my platform and I said, where do, where, where can we learn from it and use similar frameworks and where does it not make sense? And it gave pretty good explanations. It's like, look, here's the similarities, but there's actually a lot more difference. And the big difference was, I think, you know, the whole framework of open cloud, not just being on PI, but being a complex tool that has weird self-learning and that weird loop is built in.\n\n[00:20:39] Andrew Ansley: I'm like, you kind of don't need that loop, but you can eventually build it later. And, you know,\n\n[00:20:44] Andrew Ansley: yeah, I would avoid.\n\n[00:20:47] Andrew Ansley: People are going to want to hop into open claw. You can.\n\n[00:20:51] John Wright: I would, that's so advanced. It's advanced for me. Like there's the guy I spend a lot of time. He's basically using every single thing, almost, almost every component of what an agentic harness is, is being used. And it's going to overwhelm you until you first just understand the basics of skill, what, what's a skill, what's a hook, what's a command, what's an agent for things and just understand those. And even just building the skills. I mean, that's another thing. And just even with open cloud, like I set up a server and I kept running into so many errors, I'm like, what's going on? Is this me or what is it? And then sure enough, it's like, I'm asking these questions back into\n\n[00:21:30] John Wright: both chat, should be T and clog and say, I need you to help. And it's like, well, just don't use the UI, just use this T UI, which I think is a terminal interface. And I'm just like, all right. I I've been working with this terminal for so long. It's kind of become comfortable, but I could just imagine me trying to teach other people how to like use open clog, like I'm frozen. It's like, I need to put them back on the Mac mini just to be like, all right, we're going to start from here. It's at the basic level. And then I have to kind of use my own insight to say, here's, I'm doing the guardrails for you. We're not putting your email and your telegram into it. We're basically creating an email and it's going to be your, your\n\n[00:22:08] John Wright: personal agent that you can kind of ask questions and start giving a small task and then stack it.\n\n[00:22:15] Andrew Ansley: Yes.\n\n[00:22:16] John Wright: That's definitely, uh, I, I agree with that one. And I think most people know this, they're watching this. They, they probably know just now.\n\n[00:22:26] Andrew Ansley: All of these things are literally just human.\n\n[00:22:29] John Wright: It's just, uh, you, it's no different than you writing on a dock. Like on, on Google, if it helps literally start by writing it in a Google doc and then just copy that and put it into a fold, uh, into your terminal and just say, convert this to markdown. That's all it is. This isn't like crazy advanced. All the hard stuff is already done for you in the harness. So don't get, if you've, if people own a company, you've built SOPs. It's no different. They're just SOPs. That's all we're talking about. With the exception of how many people even build an SOP and just because they build it doesn't mean all those things are followed.\n\n[00:23:08] John Wright: And what I believe to be true is I think as more people start kind of taking, taking away some of these jobs or tasks, it's like, wait a minute. It's not making mistakes. It's doing it on time. Uh, people get happy, which becomes like now a new expectation level. And I think that just puts a lot of pressure and stress to pick. Okay. That's now the new barrier or the low level. It's kind of like, that's the new, that's your framework. You know, that's where things start from.\n\n[00:23:34] Andrew Ansley: And then I think like all the people that did any of those jobs, I'm like, I just can't imagine they're going to be around. So that pivots to my next question is, you know, I've been in Philly marketing for a long time. So I'm about to start building agents that can do things automatically for affiliates. And that whole system is cloneable with the affiliate programs and affiliate networks. So do you think this is another job that could be kind of cut up really quickly, like automated where instead of having a team of 10 affiliate managers, this might go down to one or two or something different. Yeah. I think, uh, you essentially are looking at a, whatever you have currently,\n\n[00:24:13] Andrew Ansley: we're moving to a spot of imagine it being cut in half or in thirds.\n\n[00:24:21] John Wright: Which is crazy. I mean, I think that's where it starts, but then it's like, well, how much more can you take it like to another level? Where is like, are we, are we doing the 10 X here?\n\n[00:24:31] Andrew Ansley: I, I think there's going to have to be a phase where we, um, this is where I think people are doing it wrong right now is there's all these companies that are firing 5,000, 10,000 people already, and they're, they're cutting 20% of staff, I think that's short sighted. I, I don't think we're at that point yet. Uh, there it's looking, like I said, it's short sighted. This is the time to put your feet on the gas. What this should be, what you should be doing is trying to transition your team to like, basically be an army of like, let's push this AI as far as possible.\n\n[00:25:06] John Wright: Uh, and whoever doesn't adapt, that's who you're firing. Yeah. It's who has that skill, which is the free thinking skill, the ability. Uh, I have a thing like this is, this is what's required. Let me just read it. Take 30 seconds to read. This is who you keep in this. Uh, if someone can't do this, you fire them.\n\n[00:25:23] John Wright: Uh, we're moving into a spec era. So basically, let's see what was the, uh, for most of the human history, the person who specified the work and the person who executed it were the same surgeon didn't write instructions for another surgeon to follow a designer didn't hand off a detailed spec to someone else to build the ambiguity lives in your head. So you thought about what you wanted. You made judgment calls as you went and the work got done, but that's ending. When execution gets delegated to another person, to a team or to an AI system, every ambiguity becomes a defect. So the judgment calls that used to happen just implicitly inside your head,\n\n[00:26:02] John Wright: uh, during execution, it now needs to happen explicitly upfront before execution. And that requires a skill that most education hasn't even explicitly taught. And here's the, how I'll end it. The ability to externalize your intent precisely enough that an independent agent can execute it without you being present.\n\n[00:26:22] John Wright: That's the skill. So it's a, it's metacognition. It's, it's, uh, it's liberal arts. It's a law degrees, philosophy degrees. These are the kinds of things, the humanities, um, basically everything that the machine of public school doesn't really teach well, but that's kind of the, where the core value is. So your ability to think of every possible scenario and then really like, how do you create rules and guidelines?\n\n[00:26:55] Andrew Ansley: Uh, you'll, as you've seen, John, like, uh, it took, it took you six months\n\n[00:27:00] Andrew Ansley: to, to get pretty adept at this. And I think most people six, six months to 12 months is all it's going to take to get where you need to go, uh, to learn enough, but as long as that skill set, that's going to be the number one thing to bet you that you'll need. Yeah. I do think that's important. Um, so I'm going to pivot to what I think is definitely going to change. So we just talked about like, you know, the, the whole world of investing probably going to be turned on its head. M and a must be in the same position, kind of like the things that you\n\n[00:27:51] John Wright: go on, you listen to other podcasts and companies like, uh, what's, what are a couple of examples, like, um, Monday.com, like, you know, the Monday.com, uh, founder, uh, was on the 20 VC podcast and he's kind of like, look, what we got to do is we're here and we made a lot of money just being here, but now we have to take it to another level. We have to assume that what we built is now the table stakes, like this amazing do it yourself, super flexible CRM now has to have amazing features on the top, and I feel like I've got that same pressure on my company where it's like, all right, we need to do. If we can 10 X to work, we need to 10 X the value and it can't be 10 X the price\n\n[00:28:29] John Wright: either, you know, it's like the price almost has to stay the same. Like this is a whole other discussion. Um, but it's like, I think people are going to be like, yeah, we just, we need more, like, what are you giving me?\n\n[00:28:40] Andrew Ansley: Yeah. I kind of feel the same way, man.\n\n[00:28:43] John Wright: It's hard. Yeah. So quick question on M and a, it's like, do you think that there's going to be more of a demand for buying, not just AI companies, but the people behind it that have like, let's pretend you were in a company and you're part of the AI department. It's like, Oh, I really want you on my team. It's like, how do I get it's like by the company, um, offer a lot of money. I mean, we've seen some of these AI people like turn in a billionaire. It's just for like as employees. Yeah.\n\n[00:29:10] John Wright: I, it depends. I mean, we see that with Alexander Wang or Yang or whatever, uh, with meta at like 19 or something young.\n\n[00:29:20] Andrew Ansley: Uh, I think he's like 28 now though, but actually no, maybe it was 28 then. He, uh, he got billions of dollars, uh, 14 billion for scale AI. And really scale has some value. Um, I don't need to get into the, what it's doing. It's labeling data, but, um, what he proved and what, uh, was it Pete from open claw approved is they have the ability to, they understand the market. They understand how to, how to move in this market and they have the skills where they're adept at AI doesn't mean they're the best AI engineers, but it\n\n[00:29:58] Andrew Ansley: does mean that they have the thing that acts as the bridge to the future. I think that's what basically it's the vibe coder, man, like a really good vibe coder who becomes a vibe engineer who actually understands enough about different ecosystems, enough about code where they're not just like vibing without any knowledge of the, of the vocab. They understand what a race condition is. They understand what SSEs are and web sockets. And, um, I don't have to know how to code. I need to know the entire vocabulary so that I know how to dictate exactly what is required. And, uh, those people are getting hired like crazy.\n\n[00:30:34] Andrew Ansley: And then you end up hiring them because the IP, you got to acquire the IP. They built something that with their brain and they might not be able to bring it in your company without hiring them. So yeah, I see that as like a huge, huge thing. There's like a whole bidding war too on these people that is crazy, man. I've never seen anything. My dad's been sharing entrepreneur stuff with me since I was eight maybe. And I've never heard of anything like this happening to this level is insane. Yeah. I think you're right about the skills. Like I feel extremely lucky that I've been for a long time, 20 years. It's like, did a bit of this.\n\n[00:31:09] Andrew Ansley: It did a bit of that, like some website design, some SEO link building, conversion rate optimization, uh, built my websites, built some plugins, uh, bit of this, bit of that, and for a while it was kind of like, I think I made a big mistake by not being a specialist where specialists made a lot of money, but now I'm feeling like, Oh my God, with all of this, uh, AI stuff in my, those little bits of experiences of not being the best or enough for me to be, I think I can see patterns in a different way and I've got all those skills to bring to the table. So it's not just building a website. It's having ideas that I can put to another level going, I know exactly what I'd want it to be like, and then I can ask the right questions about going.\n\n[00:31:47] Andrew Ansley: What a security, what is a, what about speed and of course the SEO components. Like, I just feel like this is a unfair advantage by being a generalist.\n\n[00:31:57] Andrew Ansley: I agree. I think that's why I like the medic, the metacognition skill, the ability to think and like, um, just take apart complexity and present things, communicate well, it's going to be so important. I think what's exposed to the things that people don't even realize when they talk to me is about like AI. I know how good you are at English and whether you're an avid reader by the kinds of complaints you have about AI.\n\n[00:32:27] John Wright: It's, it becomes abundantly clear to me because, uh, the more you read and the more, just the more well read you are, the better communicator you are, man, you're going to thrive. And then it's all just about having enough experience generally and a bunch of different areas. And if you're a curious person, great. You got plenty of experience in a lot of areas. You've learned tons of little things, gone down some rabbit holes. Uh, entrepreneurs, this is the age of the entrepreneur for sure. This is like, uh, we're already transferring into a world where like of the gig economy and stuff, this is AI is kind of going to force that. I think there's going to be a ton of people laid off than a ton of people\n\n[00:33:06] John Wright: who end up starting their own freelance thing or business.\n\n[00:33:09] John Wright: And, uh, eventually those get wiped out too. But once the machine gets big enough and swallows it all, but for now we'll have a golden age. Yeah. Well, you said something that kind of makes me be like, Oh, damn, that's one skill I'm not very good at that. I am actively working on, which is communication. And I think people that are good communicators, I think you plug that into AI and it's like, you've got a super power. Do whatever you want with it. Um, that has always been an unfair advantage and I think it's amplified. So I've watched people raise money. I'm like, okay, I don't think the project's that special, but it doesn't matter. They've got everything they need, like raising money, big exits. Um, so it's, it's a skill that I value, but, uh, I find it takes\n\n[00:33:49] John Wright: that more work for me, but it is what it is.\n\n[00:33:52] John Wright: And we've all got room to grow. Okay. Oh, I don't stop. Yeah. I never stopped for real. It's funny. Like, have you ever, maybe this is just me. I, and I have, I've had like attention deficit sort of issues because my dad already has it chemically. And then, uh, apparently if you watch lots of TV growing up, it exacerbates the thing, but, uh, as I'll know some crazy, like seven syllable random words and like, I'll read patents for fun. And then I forget what the word toaster is. And I'm like, forget frequently, man.\n\n[00:34:26] John Wright: Like that thing, my desk, it's like, I'm losing certain vocabulary and it feels like I'm my communication in certain realms can, can struggle, but, uh,\n\n[00:34:38] John Wright: I don't know, man, it's a, there's just so much information going to my head with this AI stuff. It feels like, uh, I guess it's almost like a mental exhaustion that then makes the form of poor communication.\n\n[00:34:52] John Wright: That might be true. I mean, I'm sure we're going to have another six months of people analyzing this. I mean, I know for myself personally, it's, uh, I'm becoming more focused and I'm grinding out serious hours to the point where it's like, I usually don't go to sleep past 11 and this weekend it's like, I went to sleep at one and it's like, what was I doing? I was on cloud all day long. I was like, it's my video games, unfortunately. So it's video games plus thinking plus productivity, you know? And it's fun. It's a, for me, I'm like, I'm lucky I've got this.\n\n[00:35:25] Andrew Ansley: All right. So I've got one more thing I want to run by you. Um, I kind of wonder if you see what I see. So, you know, we, we always use sass tools all the time and there's big companies you work with. Like, we all know about the sales forces and the tableaus and all that. And it's almost like you can kind of see who's doing anything with it. And who isn't. And I start by the surface level. I start with their website and this site has not been redone in four years. And I'm like, this should be like one of the basic things you do. And it's almost like you can start calibrating companies and organizations based on what they do or don't do. And then you go inside and see like apps. And I'm kind of looking here.\n\n[00:36:04] Andrew Ansley: I'm like, I have no idea if they actually are working on this and in two weeks, they're going to relaunch something new, or they don't even have that in the pipeline because they're like, no one's in charge of it. Do you think like, do you see the same thing? And do you think like there's just like holes everywhere? Like everywhere you go, there's like this industry. I'm sure if we even look at top breaking websites, you're going to see like very few of them might even be powered by AI in any capacity. I think we're going to see more changes, but I just see huge opportunities.\n\n[00:36:33] Andrew Ansley: I agree.\n\n[00:36:35] John Wright: Yeah. I was talking to someone who works, she's worked in like as a, one of the leaders in Microsoft and in Salesforce. And I was doing this job interview to be like one of the, like a consultant for overflow-ish things for them. And I haven't had the experience she's had. So I'm just sharing because I think her experience is most relevant.\n\n[00:36:56] Andrew Ansley: The biggest companies I've worked with are like a hundred million. I've worked inside of a billion dollar company once, but typically, you know, we're looking at 10 million to a hundred million is where I operate. The largest ones there. I already had this vibe from just pure zoom meetings and like, oh, talking to people. But the biggest ones are the hardest ones to adopt this technology. They're slowest man. It's the iceberg sort of like Titanic thing.\n\n[00:37:26] Andrew Ansley: They absolutely suck the most. You'd think that they wouldn't be, but I think this is what we're seeing is exactly like, uh, what is it like a Netflix red box blockbuster, like those ecosystems look at what happened when a technology like streaming came in, um, basically people got wiped out, new giants came in. The fact that Netflix was even in the community was going to buy Warner brothers, that's insane. I cannot believe a new company did that. Anyway, that's just an aside. The, the point is these people are kind of stuck.\n\n[00:38:04] Andrew Ansley: It is so hard to adopt. Uh, but when you see things like cursor, uh, and these tech native companies or AI native companies, uh, the AI native companies, the actual stats are showing that they have six with SAS six X more efficiency per human head. So, um, how do you compete? How do you compete with that? And, uh, the big companies are like, let's fire them all on a big wave. That's not, that's not going to help either. Cause then all of a sudden you have PR to worry about. You have like all these legacy systems. You just fired people that like they own, they're the only ones that knew.\n\n[00:38:41] Andrew Ansley: So that's why like, I think we have opportunities, the smaller companies have opportunities here. So rather than be the smaller company selling to the big company, you should basically be, okay, we need to reverse venture capital this. So we're quite acquiring the big companies and all the inefficiencies, the slowness you're there to just rip it apart and say, look, um, we know what, well then that kind of defeats the purpose of staying small. It's a, but maybe that is opportunities. I think, I think the opportunities for optimizing things, like it's everything. It's the website, it's your customer service, it's your tech. It's the people it's kind of like, you know, six X is a measurable. Differentiator.\n\n[00:39:20] Andrew Ansley: I mean, that's night and day. That's like, yeah. Like even X is night and day dude, to, to get two X the money per head. That's insane.\n\n[00:39:30] John Wright: I, uh, I think like, honestly, if my, here's my mindset.\n\n[00:39:34] John Wright: Yeah. If I just build the layers that I know the companies, the big companies, if they want to survive, they're going to need, then just prepare yourself for a buyout, uh, so you want to create a ClickUp, uh, type thing, create the system. That is what ClickUp wishes they had or like that Monday wishes they had. Whatever that ecosystem is that exists that doesn't have the AI agent, uh, system created, and you already have many people who anyone who wants to stay alive is going to have to buy, buy you or invest in it themselves. And a lot of them adapt too early or too late. So they are forced to then buy something in order to catch up.\n\n[00:40:13] John Wright: So I think that's, that's a safe bet. Just build to get purchased. Okay.\n\n[00:40:19] Andrew Ansley: Then I'm going to circle back to kind of where we started, which is like, you know, how people get skills.\n\n[00:40:24] Andrew Ansley: Sure. Because like I said, it's, I worry that I want to help friends kind of like, get comfortable with what we're doing, which is like, you know, getting used to terminal, get hub cloud flare, building actual custom sites. And not just starting with like your replates and your loveables, but going, we're going to take it to the next level. Do you think people can still learn those skills, even if they're not really tech friendly and they're like, look, I've never was good at computers. I don't want to touch programming. Um, but they, they, they do want to build stuff at least. Um, would you say like, just start small with your loveables and replates or, or cursors, or, um, do you think it's still worth that, uh, pain of going, all right. I don't want to learn GitHub, but maybe if you had like a mentor, like let's pretend\n\n[00:41:04] Andrew Ansley: we actually have you right beside me all day long, it's, I'm sure you'd at least accelerate, you know, what I could do if I was actually having to start all over.\n\n[00:41:13] John Wright: If you're a business owner, just you either need to hire someone like a, like an AI engineer, like immediately. And if you want to learn it yourself, what I'm finding is that the more successful you are, it's really hard to take the time and it might not be worth your time, maybe you're 50 years old and you already are making, you know, you're personally bringing home a million or something and your company has 10, 20, 30, whatever. Um, okay. It, unless you're passionate about this, then probably no, I would say that you might not even want to get into replit.\n\n[00:41:51] John Wright: I think everyone should get into cloud code just a little bit. And what that's enabling you to do is at least be able to like at scale, kind of organize your life, uh, make sense of what your developers are doing. Um, it's like a little bit there, but learning the whole vibe coding thing, unless you're passionate about it, I don't see a reason. Uh, now if you're not super successful. Yeah. Uh, this is the time where like you should be doing, you should be learning these skills, I think. Uh, I wasn't super technical to begin with. I was a salesperson.\n\n[00:42:24] John Wright: I was not, uh, until I was 20, I want to say 26, I didn't read a book that was less than like a hundred years old. Like, uh, I was in into antiquities and like, uh, ancient history and I loved all that stuff. So I have adapted and changed and, uh, I, I look like I'm a techy now. I guess I am, but you can change. You just got to exist in that world, live and breathe it, follow people, hire a consultant here and there. Try to teach others what you're learning. Yeah. I think that might actually be the biggest opportunity. So we mentioned before recording, I was like, I was thinking about doing\n\n[00:43:03] John Wright: like a group and maybe even a paid group, just because the people I see and both I gaming and affiliate marketing, I'm like, I'm seeing a lot of people going, the demand and the desires there, but they don't know where to start and I feel like I can at least give them frameworks to big. If you want to advance, here's advanced. And here's what it looks like, even if you want to go down this rabbit wall and if you don't put it into a box. And then if you want to go to the smaller boxes, it's basically like, okay, here's some basic things that, you know, if you wanted to, you didn't know you could, well, here's a video. If you want it, you watch it. If you don't want it, then you pick and choose what you want. So actually I do believe that, you know, with what you're doing as a consultant is a massive opportunity.\n\n[00:43:42] John Wright: And I think the next best opportunity would be something like that, you know, create a paid group. And I just think the demand for people that want to actually gain these skills is through the roof. And I think there's a lot of fear and people going, you know, it's, they're scared, but I think because every day goes by, they're like, Oh, I didn't start. And they're just hoping that things stay like this, but we know they're not. They're not, they're not. Yeah. We're so close to the tipping point where the pain will really be filled.\n\n[00:44:10] Andrew Ansley: Who knows how long it's going to take though.\n\n[00:44:13] John Wright: Awesome. I'm going to try to publish this ASAP because I think with what we're doing, it's, it's got maybe a lifespan of a year before maybe it gets a little expired. I don't know.\n\n[00:44:24] Andrew Ansley: No idea, but I definitely want to share with some friends and share with my network. And one, I just really appreciate what you've done.\n\n[00:44:31] Andrew Ansley: If inspired me to get my ass in here to get really into this. I'm in heaven with this. Love your work. Just want to pass it back to you. How can people get ahold of you and just tell us what you're working on?\n\n[00:44:43] Andrew Ansley: Yeah. So I'm working on two different tools. One's called and both of them are agentic in nature. One of them's like an SEO tool that kind of identifies the whole process. Uh, does like everything kind of transitions from just showing you data that's executing on it and then Strata is a new thing I'm doing as well. And that's going to be kind of making open claw hosted for you. And you can get ahold of me, uh, and runs your agency and stuff, but, uh, uh, you can get ahold of me on Facebook, Andrew Sterling Ansley. If you Google me or like AI me or something links will pop up. Uh, Facebook's the best to get ahold of me.\n\n[00:45:21] Andrew Ansley: I don't like LinkedIn now cause it's just filled with just spam dude. It's awful now.\n\n[00:45:27] Andrew Ansley: So that's the spot to find me. Awesome. I'll put that in the show notes. Uh, Andrew, thank you so much for doing this. Yeah, of course.\n\n[00:45:45] John Wright: Let's give a shout out to a few affiliate program platforms that are supporting this podcast. That includes IG suite, Affilka and Intel edX. Thanks for the support. And if you're looking to launch your affiliate program or affiliate network, check out these software and learn more at revenue optimization.io.\n\n[00:46:07] Andrew Ansley: This is revenue optimization with stats drone, where better data leads to better decisions. If you're not measuring it, you're guessing. See you next time.\n",
+  "turns": [
+    {
+      "t": "00:00:00",
+      "speaker": "John Wright",
+      "text": "If technology doesn't evolve at all from where we are now, we're already so far along that about 40% of jobs, all jobs that involve a computer are gone."
+    },
+    {
+      "t": "00:00:12",
+      "speaker": "Andrew Ansley",
+      "text": "It's just a matter of time. Maybe more."
+    },
+    {
+      "t": "00:00:16",
+      "speaker": "John Wright",
+      "text": "Most jobs, man, I do think we're already there. We've already crossed the threshold. Yeah. We're so close to the tipping point where the pain will really be filled. You're listening to revenue optimization with StatStro."
+    },
+    {
+      "t": "00:00:37",
+      "speaker": "Andrew Ansley",
+      "text": "This episode is supported by a few companies pushing the industry forward."
+    },
+    {
+      "t": "00:00:43",
+      "speaker": "John Wright",
+      "text": "Want your iGaming brand to stand out in a crowded market?"
+    },
+    {
+      "t": "00:00:47",
+      "speaker": "John Wright",
+      "text": "Odys iGaming are the experts in SEO, digital strategy, and brand protection."
+    },
+    {
+      "t": "00:00:53",
+      "speaker": "John Wright",
+      "text": "They help operators and affiliates rank higher, attract the right traffic, and turn visibility into real growth."
+    },
+    {
+      "t": "00:01:02",
+      "speaker": "John Wright",
+      "text": "Visit otis.global.com slash iGaming and own your market today. That's o-d-y-s dot global slash iGaming."
+    },
+    {
+      "t": "00:01:13",
+      "speaker": "Andrew Ansley",
+      "text": "And if you're serious about revenue optimization, you need the right data. StatStro helps affiliates track performance, spot revenue leaks, and make smarter decisions all in one place. Turn your data into growth at statstro.com."
+    },
+    {
+      "t": "00:01:39",
+      "speaker": "John Wright",
+      "text": "Now I've got to decide what is going to be the first question."
+    },
+    {
+      "t": "00:01:44",
+      "speaker": "John Wright",
+      "text": "Red or blue?"
+    },
+    {
+      "t": "00:01:46",
+      "speaker": "John Wright",
+      "text": "Red or blue? Um, that's a good question. What's your take on what's going to happen in the next year for everything from white collar jobs to corporations to SaaS to affiliate marketing to SEO? What is your personal prediction? Cause everything I read on X is it's, it's everything, right?"
+    },
+    {
+      "t": "00:02:05",
+      "speaker": "John Wright",
+      "text": "Yeah."
+    },
+    {
+      "t": "00:02:06",
+      "speaker": "John Wright",
+      "text": "I'd say that, uh, there's two ways to approach that question. Cause there's the tech adoption and like the proliferation of the technology. Cause the technology could exist now, but whether or not, you know, people actually are applying it at scale and it's having an impact. That's another story."
+    },
+    {
+      "t": "00:02:23",
+      "speaker": "John Wright",
+      "text": "If technology doesn't evolve at all from where we are now, we're already so far along that about 40% of jobs, all jobs, um, that involve a computer are gone."
+    },
+    {
+      "t": "00:02:36",
+      "speaker": "Andrew Ansley",
+      "text": "It's just a matter of time, uh, maybe more."
+    },
+    {
+      "t": "00:02:39",
+      "speaker": "John Wright",
+      "text": "And, uh, once the thing that's going to take the longest is something that involves human oversight, you know, where like your money, your life type stuff, even then the only thing I think technology could still do it."
+    },
+    {
+      "t": "00:02:54",
+      "speaker": "John Wright",
+      "text": "I think that's going to be the longest holdout you're looking at 20 years or something still, I think where the humans aren't required. Um, even if the technology could do it, but most jobs, man, I do think we're already there, we've already crossed the threshold. I think Opus 4.6 really 4.5 already did it for me. 4.6 started doing things where it's like, I had entire methodologies, like prompt sequences that were 20 prompts long. I have spent just on prompting and practicing prompting. I've spent about 2000 hours on that. Uh, not even the development aspect of, of stuff."
+    },
+    {
+      "t": "00:03:31",
+      "speaker": "John Wright",
+      "text": "Cause I did that in 2022, November 30th, 2022, uh, up until about November. Uh, 2023 that's all I was doing."
+    },
+    {
+      "t": "00:03:41",
+      "speaker": "Andrew Ansley",
+      "text": "Uh, now it's so much simpler. And there's, uh, I have a buddy who's in advanced mathematics and he gets hired by some, by the government and like all sorts of companies and, um, he's the one writing these PhD papers and AI was not able to even approach what even given the papers, it wasn't able to do and execute recreate. Uh, it took so long. It was so long and it was still broken with 4.6. It's not, it's not. It's it's rather quick. It took 30 minutes. Uh, and it was working autonomously the whole time and then created the thing."
+    },
+    {
+      "t": "00:04:20",
+      "speaker": "Andrew Ansley",
+      "text": "So like you could feed a patent paper for anyone patent. I know it's illegal to like commercialize it and whatever, but the fact of the matter is I still like to try just to see that's my barometer. My personal barometer is if you're able to just reconstruct from a patent doc, the entire thing that's huge and 4.6 can do it. So I, I don't know what that means for the timeline."
+    },
+    {
+      "t": "00:04:42",
+      "speaker": "John Wright",
+      "text": "All right, let's jump into the fun stuff. I mean, the hottest topic right now is open claw. It's agents. If 2025 was vibe coding, I think 2026 is definitely agents. So what I'm just getting started with agents and here's my understanding of it. Like we've got agents to do lots of fun stuff, automations and all that, but where I'm seeing some weirdness happen is I've got a friend, I won't mention his name, but he basically said, I'm quitting my affiliate marketing business. I'm leaving as one of the founding members. I'm a one-man show and all I'm doing right now is I'm creating an AI company, an AI company that's literally going to be making me money. I have a whole team of agents and they all have different jobs. They communicate with each other."
+    },
+    {
+      "t": "00:05:21",
+      "speaker": "John Wright",
+      "text": "I mean, I think the keywords he was telling me were, um, like, you know, just starting to use deer flow. So I think deer flow is like one of many kind of platforms you can use. Uh, when I started going deeper, I think there's other ones, like you mentioned before, like the PI framework, which is open claws built on it. Uh, tell us, well, what do you think?"
+    },
+    {
+      "t": "00:05:41",
+      "speaker": "Andrew Ansley",
+      "text": "Yeah. So like, is this the year of agents? Yep. Um, it's interesting."
+    },
+    {
+      "t": "00:05:47",
+      "speaker": "Andrew Ansley",
+      "text": "I'd say I've messed with a lot of different stuff. I do think agents for sure. You have the, I'd say this is the year of the agentic harness really. Cause Claude code is a year old now. And that is an agentic harness. Then you have PI, which is an agentic harness. And then you have tools built on top of it, like, um, like open claw. So open call is built on PI. And that's open source if anyone wants to mess with it. So what that means then is the harness itself is kind of the key and agents are just one aspect of it really. And what's interesting is the creator Mario of, uh, of PI, he"
+    },
+    {
+      "t": "00:06:26",
+      "speaker": "Andrew Ansley",
+      "text": "doesn't even use sub agents. He, he made the damn thing and he doesn't use them. Um, he thinks his personal philosophy is I just want to have like a terminal and like, it can be autonomous. He wants it autonomous, but it's a single terminal. I don't need to do agents and stuff like that."
+    },
+    {
+      "t": "00:06:43",
+      "speaker": "Andrew Ansley",
+      "text": "Uh, doing sub agents brings complexity. There's a lot going on there. Uh, Claude has a different whole methodology and mindset because look at one of its most recent, I think like three change logs ago or something. It created the, uh, the pre-made multi-agent team orchestration to just like deploy 20, 30, 40, whatever you want, uh, agents. So I think there's some different philosophies going around. I personally like having agents, but it gets into like a, uh, another topic where we can go into like what each kind of component is like seven components of the harness that are really important."
+    },
+    {
+      "t": "00:07:23",
+      "speaker": "Andrew Ansley",
+      "text": "They each bring different things. And, um, I do think people are going to start integrating their computer more and more or paying for a server more and more, it's going to be very normal to pay for some cloud hosting. Whether it's through perplexity or Manus or Claude, or you just want to do open claw and you have your box, your Apple Mac mini or whatever."
+    },
+    {
+      "t": "00:07:46",
+      "speaker": "John Wright",
+      "text": "Which is ironic because I think Mac minis are just exploding with sales. And there's a lot of people that are saying you don't really need a Mac mini to do this. And I've, I've launched a server, but the server is not cheap. I think I'm paying $24 a month. But I mean, I know you can run these things on like, you know, the actual pie machines, like the mini computers. And I'm thinking about doing a bunch of mini computers just for testing, but I think there's a possibility, you know, with the project I showed you just before recording, I might take a step back from agents, let other people do it and go, can I just build my own tool or toy, which is if agents can connect to this and do some really cool things. And I'm happy, you know, I'm here to learn at what agents can do."
+    },
+    {
+      "t": "00:08:25",
+      "speaker": "John Wright",
+      "text": "And especially when it comes to like orchestration of all these things."
+    },
+    {
+      "t": "00:08:29",
+      "speaker": "John Wright",
+      "text": "Yeah. The, uh, they can do just about anything. I think the, uh, the people that are going to excel are, and if you want to, if you want to excel, don't worry about the agents, just focus on commands."
+    },
+    {
+      "t": "00:08:44",
+      "speaker": "Andrew Ansley",
+      "text": "That's the biggest thing. It's a single terminal and then empower your commands with tools. So the ability to access the web to scrape stuff, to take, generate an image, just, uh, to download things. There's all sorts of stuff, but the more tools you give it, the more you can then orchestrate anything you could possibly need."
+    },
+    {
+      "t": "00:09:06",
+      "speaker": "John Wright",
+      "text": "Okay. Then let me start asking different questions because I've got more ideas. So we're, we're a SAS company. We're 12 people full time right now. Um, there's a lot of things that we're not doing because we actually don't have a full time salesperson. We don't have a full time marketer. But when I start looking at pieces of what agents can do and talking about this orchestration, I feel like if we actually had potentially an AI engineer on our team, that would be one of the projects to do, which all right, you're going to take one thing and you're going to solve it. And then we're going to start basically turning this into machine where you kind of want the whole system connected. So I mean, on the engineering side, we have QA people, we have things"
+    },
+    {
+      "t": "00:09:45",
+      "speaker": "John Wright",
+      "text": "that we do repetitively, which is like in a lot of scraping work for affiliate programs. So I think you can always put every job into a box and go, how are we going to attack it? And if you had to be given that as a project, how long do you think would take you to get something like this off the ground? Are we talking months or possibly even weeks? Is the question how long to like, identify everything, basically? Yeah, stuff like that. And like, what would you do if you had that, you know, responsibility on my team? Yeah, I do this. This is one of my core things I make money on is I step into teams like this."
+    },
+    {
+      "t": "00:10:23",
+      "speaker": "John Wright",
+      "text": "So what we typically do is they have developers. So I would step in, you have developers. We need to immediately get the existing staff up to speed on how to, instead of shipping updates in a month, start shipping updates per week."
+    },
+    {
+      "t": "00:10:39",
+      "speaker": "John Wright",
+      "text": "Once they become super users, you might be able to do multiple updates in a single week. But depending on your scale too, things drastically change based on the size."
+    },
+    {
+      "t": "00:10:51",
+      "speaker": "John Wright",
+      "text": "So that's one. So that takes about a month to train the team. Then it's all about basically hands on, let's work on stuff, find a problem, solve the problem, and you're just finding it, solving it over and over again."
+    },
+    {
+      "t": "00:11:04",
+      "speaker": "Andrew Ansley",
+      "text": "So typically if you have a code base, just feed and give me the code base. I have agents that go and digest, understand and deconstruct everything. Then I'm able to kind of figure out, all right, we need to start here."
+    },
+    {
+      "t": "00:11:19",
+      "speaker": "John Wright",
+      "text": "But that's where I'd start. And then it's all going to come down to what makes a good agentic system, which is you need something to analyze. So you need an intelligence layer. You need a synthesized layer. You need a research layer, a writer editor sort of layer. And then you need a loop mechanism to just make sure that things will loop."
+    },
+    {
+      "t": "00:11:44",
+      "speaker": "Andrew Ansley",
+      "text": "But that's kind of all you're doing. You have some custom scripting to ensure that things stay within guardrails that are safe. So whenever an agent tries to run a command that's deemed dangerous, it prevents that agent from doing so. And physically there is no such thing as prompt injecting to get them to break that. The code prevents that. So that's one thing too. Once you're making things more autonomous, absolutely. That's one of the number one investments is hooks essentially is what Claude calls them. When you've done this work for other companies, have you ever run into"
+    },
+    {
+      "t": "00:12:19",
+      "speaker": "Andrew Ansley",
+      "text": "situations where the tech team is kind of like pushing back and going, we don't need you. We're okay with this. And they say they use AI, but they're basically using it in small, many snippet ways, but they're like, no, it's not safe to use Claude or Claude's not good. It can't be better than people. Yeah, I have run into that. I'd say it's, that is not something I'm running into nearly as much anymore."
+    },
+    {
+      "t": "00:12:43",
+      "speaker": "John Wright",
+      "text": "Uh, the way that I've dealt with it is I just tell them I'm, I want humans to have a purpose still, I'm not trying to, whether or not the person who hired me to try and get rid of you, I'm trying to make sure you have value in this company. So I can tell you right now that I already know you're wrong."
+    },
+    {
+      "t": "00:13:04",
+      "speaker": "John Wright",
+      "text": "Yeah. Like the, I know it exists and all you have to do is hang out in certain circles and you'll see, or you mess with it yourself. You'll see, look at the frequency and the teams, look at the team size of Claude just alone, and then look at how many enterprise level production grade features are shipping every single week. And then compare that to chat GPT."
+    },
+    {
+      "t": "00:13:28",
+      "speaker": "Andrew Ansley",
+      "text": "Uh, we can see what happens when a company is a Gentacarnas first code first."
+    },
+    {
+      "t": "00:13:36",
+      "speaker": "John Wright",
+      "text": "And we could see what happens when you're not. So, uh, not nothing to say about their models being bad. It's just look at, look at what's happened. Claude has like a two year headstart on, on that. So that's, that's kind of what I've told these people is just, Hey, you're, you're going to go the way of the dodo, man. You gotta, you gotta work on this."
+    },
+    {
+      "t": "00:13:55",
+      "speaker": "John Wright",
+      "text": "It's ridiculous. It'd be like, uh, I don't know, like those people who didn't adopt the fax machine when it came out or like, uh, didn't have pagers or it's even worse than that, but it's like, you gotta have these things you gotta be tech adapt and tech adept. Yeah."
+    },
+    {
+      "t": "00:14:11",
+      "speaker": "John Wright",
+      "text": "Even it's like, you know, having a computer or having the internet. It's kind of like, I think it's actually becoming more extreme than like not even having a computer. It's like back then you could be like, yeah, I don't have a computer and I still got a job. I'm important. I do sales. I do think the people part of it's going to stick around, but I think for a lot of tasks, like I'm now looking at them going, I've heard other companies, it's like you said, the network effect. When you hear other people do do it and make it successful, or you hear big companies go look, look investments flowing to like different things, it's not flowing to the old school SAS model anymore. It's actually flowing to like, you know, all these VCs are like, I just"
+    },
+    {
+      "t": "00:14:50",
+      "speaker": "John Wright",
+      "text": "want to invest in a single person. They come to me with like this whole, like, you know, agentic, uh, you know, AI company, just give me that. And here's 250,000, you know, it's a, I think the whole investment space is going to flip on its head. And I think there's still a lot of people that they're, I think they're even stuck because they're not even sure what's possible with the guy. Like the things that I'm building right now, I'm showing people and they're kind of like, I think they actually don't even think it's real. I think they're like, Oh, that's just the design. I'm like, no, this is actually working. And I."
+    },
+    {
+      "t": "00:15:21",
+      "speaker": "Andrew Ansley",
+      "text": "Yeah, I'd say there is, I think most people, especially in the investment space would probably at least know it's possible. They just wouldn't know how to do it. Or what it looks like, really. Yeah. We're as a community, we're all trying to figure that out right now."
+    },
+    {
+      "t": "00:15:39",
+      "speaker": "John Wright",
+      "text": "I think, uh, what's becoming clearer is that if you give AI enough freedom, it's basically able to solve the problems without tons of over-engineering. It's really just the looping mechanism that's required a kind of like, there's a, there's a couple of approaches. I think there's like 20 that have documented, but, uh, top three approach is the react method and that's, uh, basically just an agentic method to just kind of like take in information, reflect act, that kind of thing. So it's a bunch of that kind of thing."
+    },
+    {
+      "t": "00:16:17",
+      "speaker": "John Wright",
+      "text": "And as long as you have something that continues to spin it up, go in cycles, looping, looping, looping, you can basically solve anything. So we're still trying to figure out the most optimal way to do that."
+    },
+    {
+      "t": "00:16:29",
+      "speaker": "Andrew Ansley",
+      "text": "I've messed with it a lot myself and I've built insane systems that I over-engineered."
+    },
+    {
+      "t": "00:16:34",
+      "speaker": "Andrew Ansley",
+      "text": "Um, I don't know what I'll do with those, but they're, they're going to collect dust. I've seen them, you know, some of the stuff you built on Facebook. I'm like, I don't know what it's going to be used for, but this is intense research. It was, I think you're lucky to actually have that skill in your back pocket for what you're doing now and what you can do in the next."
+    },
+    {
+      "t": "00:16:52",
+      "speaker": "John Wright",
+      "text": "And my personal opinion is I think we've got one or two years in front of us to make a really great living. But I'm kind of concerned about what, what it looks like after. Cause I think AI is going to get to a level where we eventually become on the same playing field. Like if we're doing really hardcore stuff right now, I actually think it's going to get to a point where it's like, yeah, I just want this. No, don't do it like that. Do it like this. You know, I think we're going to, I think that's coming in maybe a year from now."
+    },
+    {
+      "t": "00:17:18",
+      "speaker": "John Wright",
+      "text": "I think so too. I think we're, we're close to a year or two is a good, a good estimation."
+    },
+    {
+      "t": "00:17:24",
+      "speaker": "Andrew Ansley",
+      "text": "Yeah. So with that said, I mean, you must get people coming to you all the time going, Hey, I want to get started. I don't know where to start. I'm not even sure if I know where to help people to get started. I just know that in my kind of sweet spot of being in affiliate marketing, a little bit of SEO and some data analytics, like, um, I've got some ideas and usually like to help people start small, like take a CSV file and put it into Claude or put into lovable visualize it and learn the basics of like how you can ask Claude to kind of like put Python on just a spreadsheet and go all the things that you want it to do. But you're like, Oh, I'm not going to do this because I can't figure out these damn Excel commands."
+    },
+    {
+      "t": "00:18:03",
+      "speaker": "Andrew Ansley",
+      "text": "You're basically typing and you get your results. Where would you get people started? Cause I think there's so much demand for people that just want to, they want to get going. They're like, I'm frozen. I think everyone's deer in headlights. I know I, uh, I have a free school group and not, I don't even have like a monetization pathway. It's just, I made it because so many people ask and it's like a two hour thing, but there's like a seven day challenge or whatever, but it's basically just, you can watch those videos and keep Claude open the whole time. Start with Claude. The video is largely, it's just to get you to where you can install Claude"
+    },
+    {
+      "t": "00:18:40",
+      "speaker": "Andrew Ansley",
+      "text": "and get a terminal open because most people are scared by that. And once you get it open, as you now experienced, and once you kind of just tip your toes in the water of GitHub, uh, that is kind of it. But, uh, I would say once you get the terminal and Claude installed, then"
+    },
+    {
+      "t": "00:19:00",
+      "speaker": "Andrew Ansley",
+      "text": "I have a couple of exercises. What I typically start people off with is a scraper, some sort of a thing like that. Just create a scraper and create a simple, uh, command that does a couple of different things where like, imagine your workflow, uh, for something that you want to do and then just. Explain it. I'd say that's something to, that's the number one thing is build a little tool practiced by maybe a, even copy an existing GitHub into your own computer. Just get in the habit of doing that. What I like to do is I'll have like a code folder. That's just where all my code lives."
+    },
+    {
+      "t": "00:19:39",
+      "speaker": "Andrew Ansley",
+      "text": "And then I'll copy some get hubs in and then I'll just reference them and say, what can we learn about coding or whatever, by just looking at this GitHub?"
+    },
+    {
+      "t": "00:19:49",
+      "speaker": "Andrew Ansley",
+      "text": "Get used to that. Like you just need a good, uh, good comfortability inside of the terminal and then treat it like Claude, like you would on any other chat bot. And then you'll, you'll be good."
+    },
+    {
+      "t": "00:20:01",
+      "speaker": "Andrew Ansley",
+      "text": "I think it's a good idea. I did something like that where I said, okay, some of the most popular frameworks, like even with like open cloud, I said, there's some amazing projects here and I know they're structured really well. I said, what can I learn from those structures when I want to build up my platform and I said, where do, where, where can we learn from it and use similar frameworks and where does it not make sense? And it gave pretty good explanations. It's like, look, here's the similarities, but there's actually a lot more difference. And the big difference was, I think, you know, the whole framework of open cloud, not just being on PI, but being a complex tool that has weird self-learning and that weird loop is built in."
+    },
+    {
+      "t": "00:20:39",
+      "speaker": "Andrew Ansley",
+      "text": "I'm like, you kind of don't need that loop, but you can eventually build it later. And, you know,"
+    },
+    {
+      "t": "00:20:44",
+      "speaker": "Andrew Ansley",
+      "text": "yeah, I would avoid."
+    },
+    {
+      "t": "00:20:47",
+      "speaker": "Andrew Ansley",
+      "text": "People are going to want to hop into open claw. You can."
+    },
+    {
+      "t": "00:20:51",
+      "speaker": "John Wright",
+      "text": "I would, that's so advanced. It's advanced for me. Like there's the guy I spend a lot of time. He's basically using every single thing, almost, almost every component of what an agentic harness is, is being used. And it's going to overwhelm you until you first just understand the basics of skill, what, what's a skill, what's a hook, what's a command, what's an agent for things and just understand those. And even just building the skills. I mean, that's another thing. And just even with open cloud, like I set up a server and I kept running into so many errors, I'm like, what's going on? Is this me or what is it? And then sure enough, it's like, I'm asking these questions back into"
+    },
+    {
+      "t": "00:21:30",
+      "speaker": "John Wright",
+      "text": "both chat, should be T and clog and say, I need you to help. And it's like, well, just don't use the UI, just use this T UI, which I think is a terminal interface. And I'm just like, all right. I I've been working with this terminal for so long. It's kind of become comfortable, but I could just imagine me trying to teach other people how to like use open clog, like I'm frozen. It's like, I need to put them back on the Mac mini just to be like, all right, we're going to start from here. It's at the basic level. And then I have to kind of use my own insight to say, here's, I'm doing the guardrails for you. We're not putting your email and your telegram into it. We're basically creating an email and it's going to be your, your"
+    },
+    {
+      "t": "00:22:08",
+      "speaker": "John Wright",
+      "text": "personal agent that you can kind of ask questions and start giving a small task and then stack it."
+    },
+    {
+      "t": "00:22:15",
+      "speaker": "Andrew Ansley",
+      "text": "Yes."
+    },
+    {
+      "t": "00:22:16",
+      "speaker": "John Wright",
+      "text": "That's definitely, uh, I, I agree with that one. And I think most people know this, they're watching this. They, they probably know just now."
+    },
+    {
+      "t": "00:22:26",
+      "speaker": "Andrew Ansley",
+      "text": "All of these things are literally just human."
+    },
+    {
+      "t": "00:22:29",
+      "speaker": "John Wright",
+      "text": "It's just, uh, you, it's no different than you writing on a dock. Like on, on Google, if it helps literally start by writing it in a Google doc and then just copy that and put it into a fold, uh, into your terminal and just say, convert this to markdown. That's all it is. This isn't like crazy advanced. All the hard stuff is already done for you in the harness. So don't get, if you've, if people own a company, you've built SOPs. It's no different. They're just SOPs. That's all we're talking about. With the exception of how many people even build an SOP and just because they build it doesn't mean all those things are followed."
+    },
+    {
+      "t": "00:23:08",
+      "speaker": "John Wright",
+      "text": "And what I believe to be true is I think as more people start kind of taking, taking away some of these jobs or tasks, it's like, wait a minute. It's not making mistakes. It's doing it on time. Uh, people get happy, which becomes like now a new expectation level. And I think that just puts a lot of pressure and stress to pick. Okay. That's now the new barrier or the low level. It's kind of like, that's the new, that's your framework. You know, that's where things start from."
+    },
+    {
+      "t": "00:23:34",
+      "speaker": "Andrew Ansley",
+      "text": "And then I think like all the people that did any of those jobs, I'm like, I just can't imagine they're going to be around. So that pivots to my next question is, you know, I've been in Philly marketing for a long time. So I'm about to start building agents that can do things automatically for affiliates. And that whole system is cloneable with the affiliate programs and affiliate networks. So do you think this is another job that could be kind of cut up really quickly, like automated where instead of having a team of 10 affiliate managers, this might go down to one or two or something different. Yeah. I think, uh, you essentially are looking at a, whatever you have currently,"
+    },
+    {
+      "t": "00:24:13",
+      "speaker": "Andrew Ansley",
+      "text": "we're moving to a spot of imagine it being cut in half or in thirds."
+    },
+    {
+      "t": "00:24:21",
+      "speaker": "John Wright",
+      "text": "Which is crazy. I mean, I think that's where it starts, but then it's like, well, how much more can you take it like to another level? Where is like, are we, are we doing the 10 X here?"
+    },
+    {
+      "t": "00:24:31",
+      "speaker": "Andrew Ansley",
+      "text": "I, I think there's going to have to be a phase where we, um, this is where I think people are doing it wrong right now is there's all these companies that are firing 5,000, 10,000 people already, and they're, they're cutting 20% of staff, I think that's short sighted. I, I don't think we're at that point yet. Uh, there it's looking, like I said, it's short sighted. This is the time to put your feet on the gas. What this should be, what you should be doing is trying to transition your team to like, basically be an army of like, let's push this AI as far as possible."
+    },
+    {
+      "t": "00:25:06",
+      "speaker": "John Wright",
+      "text": "Uh, and whoever doesn't adapt, that's who you're firing. Yeah. It's who has that skill, which is the free thinking skill, the ability. Uh, I have a thing like this is, this is what's required. Let me just read it. Take 30 seconds to read. This is who you keep in this. Uh, if someone can't do this, you fire them."
+    },
+    {
+      "t": "00:25:23",
+      "speaker": "John Wright",
+      "text": "Uh, we're moving into a spec era. So basically, let's see what was the, uh, for most of the human history, the person who specified the work and the person who executed it were the same surgeon didn't write instructions for another surgeon to follow a designer didn't hand off a detailed spec to someone else to build the ambiguity lives in your head. So you thought about what you wanted. You made judgment calls as you went and the work got done, but that's ending. When execution gets delegated to another person, to a team or to an AI system, every ambiguity becomes a defect. So the judgment calls that used to happen just implicitly inside your head,"
+    },
+    {
+      "t": "00:26:02",
+      "speaker": "John Wright",
+      "text": "uh, during execution, it now needs to happen explicitly upfront before execution. And that requires a skill that most education hasn't even explicitly taught. And here's the, how I'll end it. The ability to externalize your intent precisely enough that an independent agent can execute it without you being present."
+    },
+    {
+      "t": "00:26:22",
+      "speaker": "John Wright",
+      "text": "That's the skill. So it's a, it's metacognition. It's, it's, uh, it's liberal arts. It's a law degrees, philosophy degrees. These are the kinds of things, the humanities, um, basically everything that the machine of public school doesn't really teach well, but that's kind of the, where the core value is. So your ability to think of every possible scenario and then really like, how do you create rules and guidelines?"
+    },
+    {
+      "t": "00:26:55",
+      "speaker": "Andrew Ansley",
+      "text": "Uh, you'll, as you've seen, John, like, uh, it took, it took you six months"
+    },
+    {
+      "t": "00:27:00",
+      "speaker": "Andrew Ansley",
+      "text": "to, to get pretty adept at this. And I think most people six, six months to 12 months is all it's going to take to get where you need to go, uh, to learn enough, but as long as that skill set, that's going to be the number one thing to bet you that you'll need. Yeah. I do think that's important. Um, so I'm going to pivot to what I think is definitely going to change. So we just talked about like, you know, the, the whole world of investing probably going to be turned on its head. M and a must be in the same position, kind of like the things that you"
+    },
+    {
+      "t": "00:27:51",
+      "speaker": "John Wright",
+      "text": "go on, you listen to other podcasts and companies like, uh, what's, what are a couple of examples, like, um, Monday.com, like, you know, the Monday.com, uh, founder, uh, was on the 20 VC podcast and he's kind of like, look, what we got to do is we're here and we made a lot of money just being here, but now we have to take it to another level. We have to assume that what we built is now the table stakes, like this amazing do it yourself, super flexible CRM now has to have amazing features on the top, and I feel like I've got that same pressure on my company where it's like, all right, we need to do. If we can 10 X to work, we need to 10 X the value and it can't be 10 X the price"
+    },
+    {
+      "t": "00:28:29",
+      "speaker": "John Wright",
+      "text": "either, you know, it's like the price almost has to stay the same. Like this is a whole other discussion. Um, but it's like, I think people are going to be like, yeah, we just, we need more, like, what are you giving me?"
+    },
+    {
+      "t": "00:28:40",
+      "speaker": "Andrew Ansley",
+      "text": "Yeah. I kind of feel the same way, man."
+    },
+    {
+      "t": "00:28:43",
+      "speaker": "John Wright",
+      "text": "It's hard. Yeah. So quick question on M and a, it's like, do you think that there's going to be more of a demand for buying, not just AI companies, but the people behind it that have like, let's pretend you were in a company and you're part of the AI department. It's like, Oh, I really want you on my team. It's like, how do I get it's like by the company, um, offer a lot of money. I mean, we've seen some of these AI people like turn in a billionaire. It's just for like as employees. Yeah."
+    },
+    {
+      "t": "00:29:10",
+      "speaker": "John Wright",
+      "text": "I, it depends. I mean, we see that with Alexander Wang or Yang or whatever, uh, with meta at like 19 or something young."
+    },
+    {
+      "t": "00:29:20",
+      "speaker": "Andrew Ansley",
+      "text": "Uh, I think he's like 28 now though, but actually no, maybe it was 28 then. He, uh, he got billions of dollars, uh, 14 billion for scale AI. And really scale has some value. Um, I don't need to get into the, what it's doing. It's labeling data, but, um, what he proved and what, uh, was it Pete from open claw approved is they have the ability to, they understand the market. They understand how to, how to move in this market and they have the skills where they're adept at AI doesn't mean they're the best AI engineers, but it"
+    },
+    {
+      "t": "00:29:58",
+      "speaker": "Andrew Ansley",
+      "text": "does mean that they have the thing that acts as the bridge to the future. I think that's what basically it's the vibe coder, man, like a really good vibe coder who becomes a vibe engineer who actually understands enough about different ecosystems, enough about code where they're not just like vibing without any knowledge of the, of the vocab. They understand what a race condition is. They understand what SSEs are and web sockets. And, um, I don't have to know how to code. I need to know the entire vocabulary so that I know how to dictate exactly what is required. And, uh, those people are getting hired like crazy."
+    },
+    {
+      "t": "00:30:34",
+      "speaker": "Andrew Ansley",
+      "text": "And then you end up hiring them because the IP, you got to acquire the IP. They built something that with their brain and they might not be able to bring it in your company without hiring them. So yeah, I see that as like a huge, huge thing. There's like a whole bidding war too on these people that is crazy, man. I've never seen anything. My dad's been sharing entrepreneur stuff with me since I was eight maybe. And I've never heard of anything like this happening to this level is insane. Yeah. I think you're right about the skills. Like I feel extremely lucky that I've been for a long time, 20 years. It's like, did a bit of this."
+    },
+    {
+      "t": "00:31:09",
+      "speaker": "Andrew Ansley",
+      "text": "It did a bit of that, like some website design, some SEO link building, conversion rate optimization, uh, built my websites, built some plugins, uh, bit of this, bit of that, and for a while it was kind of like, I think I made a big mistake by not being a specialist where specialists made a lot of money, but now I'm feeling like, Oh my God, with all of this, uh, AI stuff in my, those little bits of experiences of not being the best or enough for me to be, I think I can see patterns in a different way and I've got all those skills to bring to the table. So it's not just building a website. It's having ideas that I can put to another level going, I know exactly what I'd want it to be like, and then I can ask the right questions about going."
+    },
+    {
+      "t": "00:31:47",
+      "speaker": "Andrew Ansley",
+      "text": "What a security, what is a, what about speed and of course the SEO components. Like, I just feel like this is a unfair advantage by being a generalist."
+    },
+    {
+      "t": "00:31:57",
+      "speaker": "Andrew Ansley",
+      "text": "I agree. I think that's why I like the medic, the metacognition skill, the ability to think and like, um, just take apart complexity and present things, communicate well, it's going to be so important. I think what's exposed to the things that people don't even realize when they talk to me is about like AI. I know how good you are at English and whether you're an avid reader by the kinds of complaints you have about AI."
+    },
+    {
+      "t": "00:32:27",
+      "speaker": "John Wright",
+      "text": "It's, it becomes abundantly clear to me because, uh, the more you read and the more, just the more well read you are, the better communicator you are, man, you're going to thrive. And then it's all just about having enough experience generally and a bunch of different areas. And if you're a curious person, great. You got plenty of experience in a lot of areas. You've learned tons of little things, gone down some rabbit holes. Uh, entrepreneurs, this is the age of the entrepreneur for sure. This is like, uh, we're already transferring into a world where like of the gig economy and stuff, this is AI is kind of going to force that. I think there's going to be a ton of people laid off than a ton of people"
+    },
+    {
+      "t": "00:33:06",
+      "speaker": "John Wright",
+      "text": "who end up starting their own freelance thing or business."
+    },
+    {
+      "t": "00:33:09",
+      "speaker": "John Wright",
+      "text": "And, uh, eventually those get wiped out too. But once the machine gets big enough and swallows it all, but for now we'll have a golden age. Yeah. Well, you said something that kind of makes me be like, Oh, damn, that's one skill I'm not very good at that. I am actively working on, which is communication. And I think people that are good communicators, I think you plug that into AI and it's like, you've got a super power. Do whatever you want with it. Um, that has always been an unfair advantage and I think it's amplified. So I've watched people raise money. I'm like, okay, I don't think the project's that special, but it doesn't matter. They've got everything they need, like raising money, big exits. Um, so it's, it's a skill that I value, but, uh, I find it takes"
+    },
+    {
+      "t": "00:33:49",
+      "speaker": "John Wright",
+      "text": "that more work for me, but it is what it is."
+    },
+    {
+      "t": "00:33:52",
+      "speaker": "John Wright",
+      "text": "And we've all got room to grow. Okay. Oh, I don't stop. Yeah. I never stopped for real. It's funny. Like, have you ever, maybe this is just me. I, and I have, I've had like attention deficit sort of issues because my dad already has it chemically. And then, uh, apparently if you watch lots of TV growing up, it exacerbates the thing, but, uh, as I'll know some crazy, like seven syllable random words and like, I'll read patents for fun. And then I forget what the word toaster is. And I'm like, forget frequently, man."
+    },
+    {
+      "t": "00:34:26",
+      "speaker": "John Wright",
+      "text": "Like that thing, my desk, it's like, I'm losing certain vocabulary and it feels like I'm my communication in certain realms can, can struggle, but, uh,"
+    },
+    {
+      "t": "00:34:38",
+      "speaker": "John Wright",
+      "text": "I don't know, man, it's a, there's just so much information going to my head with this AI stuff. It feels like, uh, I guess it's almost like a mental exhaustion that then makes the form of poor communication."
+    },
+    {
+      "t": "00:34:52",
+      "speaker": "John Wright",
+      "text": "That might be true. I mean, I'm sure we're going to have another six months of people analyzing this. I mean, I know for myself personally, it's, uh, I'm becoming more focused and I'm grinding out serious hours to the point where it's like, I usually don't go to sleep past 11 and this weekend it's like, I went to sleep at one and it's like, what was I doing? I was on cloud all day long. I was like, it's my video games, unfortunately. So it's video games plus thinking plus productivity, you know? And it's fun. It's a, for me, I'm like, I'm lucky I've got this."
+    },
+    {
+      "t": "00:35:25",
+      "speaker": "Andrew Ansley",
+      "text": "All right. So I've got one more thing I want to run by you. Um, I kind of wonder if you see what I see. So, you know, we, we always use sass tools all the time and there's big companies you work with. Like, we all know about the sales forces and the tableaus and all that. And it's almost like you can kind of see who's doing anything with it. And who isn't. And I start by the surface level. I start with their website and this site has not been redone in four years. And I'm like, this should be like one of the basic things you do. And it's almost like you can start calibrating companies and organizations based on what they do or don't do. And then you go inside and see like apps. And I'm kind of looking here."
+    },
+    {
+      "t": "00:36:04",
+      "speaker": "Andrew Ansley",
+      "text": "I'm like, I have no idea if they actually are working on this and in two weeks, they're going to relaunch something new, or they don't even have that in the pipeline because they're like, no one's in charge of it. Do you think like, do you see the same thing? And do you think like there's just like holes everywhere? Like everywhere you go, there's like this industry. I'm sure if we even look at top breaking websites, you're going to see like very few of them might even be powered by AI in any capacity. I think we're going to see more changes, but I just see huge opportunities."
+    },
+    {
+      "t": "00:36:33",
+      "speaker": "Andrew Ansley",
+      "text": "I agree."
+    },
+    {
+      "t": "00:36:35",
+      "speaker": "John Wright",
+      "text": "Yeah. I was talking to someone who works, she's worked in like as a, one of the leaders in Microsoft and in Salesforce. And I was doing this job interview to be like one of the, like a consultant for overflow-ish things for them. And I haven't had the experience she's had. So I'm just sharing because I think her experience is most relevant."
+    },
+    {
+      "t": "00:36:56",
+      "speaker": "Andrew Ansley",
+      "text": "The biggest companies I've worked with are like a hundred million. I've worked inside of a billion dollar company once, but typically, you know, we're looking at 10 million to a hundred million is where I operate. The largest ones there. I already had this vibe from just pure zoom meetings and like, oh, talking to people. But the biggest ones are the hardest ones to adopt this technology. They're slowest man. It's the iceberg sort of like Titanic thing."
+    },
+    {
+      "t": "00:37:26",
+      "speaker": "Andrew Ansley",
+      "text": "They absolutely suck the most. You'd think that they wouldn't be, but I think this is what we're seeing is exactly like, uh, what is it like a Netflix red box blockbuster, like those ecosystems look at what happened when a technology like streaming came in, um, basically people got wiped out, new giants came in. The fact that Netflix was even in the community was going to buy Warner brothers, that's insane. I cannot believe a new company did that. Anyway, that's just an aside. The, the point is these people are kind of stuck."
+    },
+    {
+      "t": "00:38:04",
+      "speaker": "Andrew Ansley",
+      "text": "It is so hard to adopt. Uh, but when you see things like cursor, uh, and these tech native companies or AI native companies, uh, the AI native companies, the actual stats are showing that they have six with SAS six X more efficiency per human head. So, um, how do you compete? How do you compete with that? And, uh, the big companies are like, let's fire them all on a big wave. That's not, that's not going to help either. Cause then all of a sudden you have PR to worry about. You have like all these legacy systems. You just fired people that like they own, they're the only ones that knew."
+    },
+    {
+      "t": "00:38:41",
+      "speaker": "Andrew Ansley",
+      "text": "So that's why like, I think we have opportunities, the smaller companies have opportunities here. So rather than be the smaller company selling to the big company, you should basically be, okay, we need to reverse venture capital this. So we're quite acquiring the big companies and all the inefficiencies, the slowness you're there to just rip it apart and say, look, um, we know what, well then that kind of defeats the purpose of staying small. It's a, but maybe that is opportunities. I think, I think the opportunities for optimizing things, like it's everything. It's the website, it's your customer service, it's your tech. It's the people it's kind of like, you know, six X is a measurable. Differentiator."
+    },
+    {
+      "t": "00:39:20",
+      "speaker": "Andrew Ansley",
+      "text": "I mean, that's night and day. That's like, yeah. Like even X is night and day dude, to, to get two X the money per head. That's insane."
+    },
+    {
+      "t": "00:39:30",
+      "speaker": "John Wright",
+      "text": "I, uh, I think like, honestly, if my, here's my mindset."
+    },
+    {
+      "t": "00:39:34",
+      "speaker": "John Wright",
+      "text": "Yeah. If I just build the layers that I know the companies, the big companies, if they want to survive, they're going to need, then just prepare yourself for a buyout, uh, so you want to create a ClickUp, uh, type thing, create the system. That is what ClickUp wishes they had or like that Monday wishes they had. Whatever that ecosystem is that exists that doesn't have the AI agent, uh, system created, and you already have many people who anyone who wants to stay alive is going to have to buy, buy you or invest in it themselves. And a lot of them adapt too early or too late. So they are forced to then buy something in order to catch up."
+    },
+    {
+      "t": "00:40:13",
+      "speaker": "John Wright",
+      "text": "So I think that's, that's a safe bet. Just build to get purchased. Okay."
+    },
+    {
+      "t": "00:40:19",
+      "speaker": "Andrew Ansley",
+      "text": "Then I'm going to circle back to kind of where we started, which is like, you know, how people get skills."
+    },
+    {
+      "t": "00:40:24",
+      "speaker": "Andrew Ansley",
+      "text": "Sure. Because like I said, it's, I worry that I want to help friends kind of like, get comfortable with what we're doing, which is like, you know, getting used to terminal, get hub cloud flare, building actual custom sites. And not just starting with like your replates and your loveables, but going, we're going to take it to the next level. Do you think people can still learn those skills, even if they're not really tech friendly and they're like, look, I've never was good at computers. I don't want to touch programming. Um, but they, they, they do want to build stuff at least. Um, would you say like, just start small with your loveables and replates or, or cursors, or, um, do you think it's still worth that, uh, pain of going, all right. I don't want to learn GitHub, but maybe if you had like a mentor, like let's pretend"
+    },
+    {
+      "t": "00:41:04",
+      "speaker": "Andrew Ansley",
+      "text": "we actually have you right beside me all day long, it's, I'm sure you'd at least accelerate, you know, what I could do if I was actually having to start all over."
+    },
+    {
+      "t": "00:41:13",
+      "speaker": "John Wright",
+      "text": "If you're a business owner, just you either need to hire someone like a, like an AI engineer, like immediately. And if you want to learn it yourself, what I'm finding is that the more successful you are, it's really hard to take the time and it might not be worth your time, maybe you're 50 years old and you already are making, you know, you're personally bringing home a million or something and your company has 10, 20, 30, whatever. Um, okay. It, unless you're passionate about this, then probably no, I would say that you might not even want to get into replit."
+    },
+    {
+      "t": "00:41:51",
+      "speaker": "John Wright",
+      "text": "I think everyone should get into cloud code just a little bit. And what that's enabling you to do is at least be able to like at scale, kind of organize your life, uh, make sense of what your developers are doing. Um, it's like a little bit there, but learning the whole vibe coding thing, unless you're passionate about it, I don't see a reason. Uh, now if you're not super successful. Yeah. Uh, this is the time where like you should be doing, you should be learning these skills, I think. Uh, I wasn't super technical to begin with. I was a salesperson."
+    },
+    {
+      "t": "00:42:24",
+      "speaker": "John Wright",
+      "text": "I was not, uh, until I was 20, I want to say 26, I didn't read a book that was less than like a hundred years old. Like, uh, I was in into antiquities and like, uh, ancient history and I loved all that stuff. So I have adapted and changed and, uh, I, I look like I'm a techy now. I guess I am, but you can change. You just got to exist in that world, live and breathe it, follow people, hire a consultant here and there. Try to teach others what you're learning. Yeah. I think that might actually be the biggest opportunity. So we mentioned before recording, I was like, I was thinking about doing"
+    },
+    {
+      "t": "00:43:03",
+      "speaker": "John Wright",
+      "text": "like a group and maybe even a paid group, just because the people I see and both I gaming and affiliate marketing, I'm like, I'm seeing a lot of people going, the demand and the desires there, but they don't know where to start and I feel like I can at least give them frameworks to big. If you want to advance, here's advanced. And here's what it looks like, even if you want to go down this rabbit wall and if you don't put it into a box. And then if you want to go to the smaller boxes, it's basically like, okay, here's some basic things that, you know, if you wanted to, you didn't know you could, well, here's a video. If you want it, you watch it. If you don't want it, then you pick and choose what you want. So actually I do believe that, you know, with what you're doing as a consultant is a massive opportunity."
+    },
+    {
+      "t": "00:43:42",
+      "speaker": "John Wright",
+      "text": "And I think the next best opportunity would be something like that, you know, create a paid group. And I just think the demand for people that want to actually gain these skills is through the roof. And I think there's a lot of fear and people going, you know, it's, they're scared, but I think because every day goes by, they're like, Oh, I didn't start. And they're just hoping that things stay like this, but we know they're not. They're not, they're not. Yeah. We're so close to the tipping point where the pain will really be filled."
+    },
+    {
+      "t": "00:44:10",
+      "speaker": "Andrew Ansley",
+      "text": "Who knows how long it's going to take though."
+    },
+    {
+      "t": "00:44:13",
+      "speaker": "John Wright",
+      "text": "Awesome. I'm going to try to publish this ASAP because I think with what we're doing, it's, it's got maybe a lifespan of a year before maybe it gets a little expired. I don't know."
+    },
+    {
+      "t": "00:44:24",
+      "speaker": "Andrew Ansley",
+      "text": "No idea, but I definitely want to share with some friends and share with my network. And one, I just really appreciate what you've done."
+    },
+    {
+      "t": "00:44:31",
+      "speaker": "Andrew Ansley",
+      "text": "If inspired me to get my ass in here to get really into this. I'm in heaven with this. Love your work. Just want to pass it back to you. How can people get ahold of you and just tell us what you're working on?"
+    },
+    {
+      "t": "00:44:43",
+      "speaker": "Andrew Ansley",
+      "text": "Yeah. So I'm working on two different tools. One's called and both of them are agentic in nature. One of them's like an SEO tool that kind of identifies the whole process. Uh, does like everything kind of transitions from just showing you data that's executing on it and then Strata is a new thing I'm doing as well. And that's going to be kind of making open claw hosted for you. And you can get ahold of me, uh, and runs your agency and stuff, but, uh, uh, you can get ahold of me on Facebook, Andrew Sterling Ansley. If you Google me or like AI me or something links will pop up. Uh, Facebook's the best to get ahold of me."
+    },
+    {
+      "t": "00:45:21",
+      "speaker": "Andrew Ansley",
+      "text": "I don't like LinkedIn now cause it's just filled with just spam dude. It's awful now."
+    },
+    {
+      "t": "00:45:27",
+      "speaker": "Andrew Ansley",
+      "text": "So that's the spot to find me. Awesome. I'll put that in the show notes. Uh, Andrew, thank you so much for doing this. Yeah, of course."
+    },
+    {
+      "t": "00:45:45",
+      "speaker": "John Wright",
+      "text": "Let's give a shout out to a few affiliate program platforms that are supporting this podcast. That includes IG suite, Affilka and Intel edX. Thanks for the support. And if you're looking to launch your affiliate program or affiliate network, check out these software and learn more at revenue optimization.io."
+    },
+    {
+      "t": "00:46:07",
+      "speaker": "Andrew Ansley",
+      "text": "This is revenue optimization with stats drone, where better data leads to better decisions. If you're not measuring it, you're guessing. See you next time."
+    }
+  ],
+  "turn_count": 131
+}
