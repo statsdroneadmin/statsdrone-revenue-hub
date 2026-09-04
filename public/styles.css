@@ -902,8 +902,17 @@ img.top10-logo {
 }
 
 .transcript-content {
-  color: var(--muted);
-  line-height: 1.8;
+  color: #f4f4f5;
+  line-height: 1.85;
+  font-size: 1.0625rem;
+}
+.transcript-content p {
+  color: #f4f4f5;
+}
+.transcript-content strong,
+.transcript-content .transcript-speaker {
+  color: #ffffff;
+  font-weight: 600;
 }
 
 .transcript-content h2 {

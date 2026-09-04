@@ -54,8 +54,10 @@ function markdownToHtml(markdown) {
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     // Convert markdown links [text](url) to anchor tags (before timestamp regex)
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-    // Convert timestamps [00:00:00] to spans
-    .replace(/\[(\d{2}:\d{2}:\d{2})\]/g, '<span class="timestamp">[$1]</span>')
+    // Convert timestamps [00:00:00] Speaker: to spans (placeholder so we do not double-wrap)
+    .replace(/\[(\d{2}:\d{2}:\d{2})\]\s+([^:\n]{1,80}):\s+/g, '%%TS%%$1%%/TS%% <strong class="transcript-speaker">$2</strong>: ')
+    .replace(/\[(\d{2}:\d{2}:\d{2})\]/g, '%%TS%%$1%%/TS%%')
+    .replace(/%%TS%%(\d{2}:\d{2}:\d{2})%%\/TS%%/g, '<span class="timestamp">[$1]</span>')
     // Convert paragraphs (double newlines)
     .split(/\n\n+/)
     .map(p => p.trim())
