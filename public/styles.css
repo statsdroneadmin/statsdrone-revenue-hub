@@ -476,6 +476,21 @@ a {
   padding: 5rem 0;
 }
 
+.sponsors-presented {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  max-width: 720px;
+  margin: 0 auto;
+}
+@media (max-width: 576px) {
+  .sponsors-presented {
+    grid-template-columns: 1fr;
+    max-width: 240px;
+  }
+}
+
+
 .sponsor-label {
   font-size: 0.875rem;
   font-weight: 600;
@@ -561,6 +576,7 @@ a {
   border-radius: 1rem;
   overflow: hidden;
   border: 1px solid var(--border);
+  background: #fff;
   transition: all 0.3s ease;
 }
 
@@ -573,7 +589,9 @@ a {
 .sponsor-card-logo {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  padding: 0.85rem;
+  background: #fff;
   display: block;
 }
 
