@@ -716,6 +716,23 @@ function generateSitemap(episodes) {
   const baseUrl = SITE_BASE_URL;
   const today = new Date().toISOString().split('T')[0];
   
+
+  // Individual guest pages (kept when regenerating so they are not wiped)
+  let guestPagesFromData = [];
+  try {
+    const guestsPath = path.join(OUTPUT_ROOT, 'data', 'guests.json');
+    if (fs.existsSync(guestsPath)) {
+      const guestsData = JSON.parse(fs.readFileSync(guestsPath, 'utf8'));
+      const list = Array.isArray(guestsData) ? guestsData : (guestsData.guests || []);
+      guestPagesFromData = list
+        .map(g => (typeof g === 'string' ? g : g.slug))
+        .filter(Boolean)
+        .map(slug => ({ loc: `/guests/${slug}/`, changefreq: 'monthly', priority: '0.7' }));
+    }
+  } catch (e) {
+    console.warn('Could not load guests.json for sitemap:', e.message);
+  }
+
   // Static pages
   const staticPages = [
     { loc: '/', changefreq: 'weekly', priority: '1.0' },
@@ -744,6 +761,14 @@ ${staticPages.map(page => `  <url>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>
   </url>`).join('\n')}
+  <!-- Guest Pages -->
+${guestPagesFromData.map(page => `  <url>
+    <loc>${baseUrl}${page.loc}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>${page.changefreq}</changefreq>
+    <priority>${page.priority}</priority>
+  </url>`).join('\n')}
+  <!-- /Guest Pages -->
   <!-- Episode Pages (${episodes.length} episodes auto-generated from RSS feed) -->
 ${episodes.map(ep => {
   const slug = generateSlug(ep.title);
