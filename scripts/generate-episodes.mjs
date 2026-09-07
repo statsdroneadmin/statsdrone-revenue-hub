@@ -742,6 +742,7 @@ function generateSitemap(episodes) {
     { loc: '/affiliate-tools', changefreq: 'monthly', priority: '0.7' },
     { loc: '/made-with-lovable', changefreq: 'monthly', priority: '0.6' },
     { loc: '/blog/', changefreq: 'weekly', priority: '0.8' },
+    { loc: '/blog/best-ai-tips-for-affiliates-from-revenue-optimization/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/blog/best-seo-tips-for-affiliates-from-revenue-optimization/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/blog/how-i-built-my-podcast-website-in-lovable/', changefreq: 'monthly', priority: '0.7' },
     { loc: '/affiliate-programs/', changefreq: 'monthly', priority: '0.8' },
