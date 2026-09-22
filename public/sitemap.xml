@@ -37,7 +37,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+    <url>
+    <loc>https://revenueoptimization.io/blog/trevor-lasn-0xinsider-prediction-markets/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+<url>
     <loc>https://revenueoptimization.io/blog/igsuite-underrated-igaming-affiliate-platform/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
